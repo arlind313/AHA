@@ -1,20 +1,19 @@
-Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (Starting Again, Marbella, Spain, 2023-2024).
+Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (The Remap, Leeds & Ireland, c. 2020-2021).
 
-STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded Conor comic character sheet: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
+STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
 
-LAYOUT: portrait 2:3 page (1024x1536). Four equal panels in a 2x2 grid, read left-to-right then top-to-bottom. Keep each panel's key action inside a central vertical 9:16 safe area. Thin black panel borders, slim white gutters, white page margin.
+LAYOUT: landscape 3:2 page (1536x1024). Three equal tall vertical panels side by side, read left to right, each framed as a 9:16 vertical film shot. Thin black panel borders, slim white gutters, white page margin.
 
-COLOUR GRADE: Hot Andalusian light: saturated blue sky, white walls, terracotta, high contrast and hard shadows.
+COLOUR GRADE: Neutral classroom daylight in Leeds; workshop teal-and-amber with laptop glow back home.
 
-IDENTITY: the uploaded comic character sheet is the ONLY face reference for Conor. Do not redesign him.
+REFERENCE IMAGES ATTACHED: references/conor-character-sheet.png. These comic sheets are the ONLY identity references. Do not redesign anyone.
 
 CHARACTERS ON THIS PAGE (keep identical in every panel):
-- ADULT CONOR (2023-2026): exactly the tattooed man on the uploaded character sheet - same face, fade haircut, full short beard, neck tattoos, full tattoo sleeves on both arms, muscular build, dark wristwatch on the left wrist. Default outfit: fitted plain black t-shirt or black hoodie; sunglasses only where stated.
-- BACKGROUND EXTRAS: ordinary unnamed people, realistic varied ages, simple clothing, never more detailed than the main characters, faces never close to camera.
+- CONOR (2019-2023, early twenties): the same face as the uploaded adult Conor sheet, a few years younger - short beard starting to fill in, same fade haircut, athletic but not yet heavily muscular. Tattoo timeline is UNCONFIRMED: keep both arms, backs of the hands and neck covered (long sleeves, hoodie or high crew neck) so the image neither shows nor denies tattoos. Default outfit: plain black long-sleeve top or black hoodie, dark work trousers, black boots.
+- BACKGROUND EXTRAS: ordinary anonymous people (customers, coworkers, team members, crowds), realistic varied ages, simple clothing, never more detailed than the main characters, faces never close to camera, never named.
 
-PANEL 1 (TOP-LEFT): Wide shot: adult Conor (now tattooed) stepping out of an airport-style arrivals door into blinding Spanish sun with a suitcase, mountains and palms beyond. Action frozen at its key moment: He shields his eyes from the sun and looks around. Setting: Malaga/Marbella, 2023.
-PANEL 2 (TOP-RIGHT): Medium shot: Conor in a small, mostly empty rented unit with white walls, one folding table, a laptop, boxes not yet unpacked. Action frozen at its key moment: He sets the laptop down on the folding table and looks around the bare room. Setting: Rented unit, Marbella, 2023.
-PANEL 3 (BOTTOM-LEFT): Medium close-up: Conor on a phone call on a sunny balcony, frustration on his face, other hand pressed to his forehead. Action frozen at its key moment: He ends the call and drops the phone on the table. Setting: Apartment balcony, Marbella, 2023.
-PANEL 4 (BOTTOM-RIGHT): Medium-wide: Conor in a black t-shirt on a sunny Marbella street tucking flyers (blank, no text) under the windscreen wipers of parked cars, white buildings and bougainvillea behind. Action frozen at its key moment: He tucks a flyer under a wiper and moves to the next car. Setting: Marbella street, midday, 2023.
+PANEL 1 (LEFT): Close-medium: Conor alone in the training room after hours, writing two figures on a notepad (drawn as abstract marks), staring at them. Key moment: He underlines one figure twice. Setting: EK Remaps training room, evening.
+PANEL 2 (CENTRE): Single continuous illustration (not a split screen): on the left, Conor in a dealership uniform lit cold blue under a wall clock; on the right, the same Conor at a laptop on a car lit warm amber. Key moment: He looks from the cold side toward the warm side. Setting: Conceptual.
+PANEL 3 (RIGHT): Medium shot: Conor handing a folded uniform across a desk to an anonymous manager in a dealership office, then shaking hands. Key moment: He hands it over and shakes the manager's hand. Setting: Dealership office.
 
-STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effect lettering, no panel numbers, no logos, no brand badges, no legible number plates or signs, no watermarks, no signature. Faces must stay identical across every panel. Correct hands with five fingers, natural anatomy. Period-correct vehicles and technology for the year stated. No palm trees or sunshine in Irish or English scenes. Do not add any person who is not listed.
+STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effect lettering, no panel numbers, no logos, no brand badges, no legible number plates or signs, no watermarks, no signature. Faces must stay identical across every panel and match the uploaded reference sheets. Correct hands with five fingers, natural anatomy. Period-correct vehicles and technology for the year stated. No palm trees or sunshine in Irish or English scenes. Do not add any named person who is not listed; extras stay anonymous background figures.

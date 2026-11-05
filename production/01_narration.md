@@ -1,160 +1,188 @@
-# THE IRISH GRAFT - PART 1
+# THE IRISH GRAFT - PART 1  (v0.2)
 ## 01 - Full Narration (Conor, first person)
 
-Read at a natural documentary pace (~150 words per minute). Shot IDs are shown in brackets so the VO can be
-recorded line by line and dropped onto the timeline. Lines marked * contain details to CONFIRM (see README).
+Natural documentary pace (~150 words per minute). Shot IDs in brackets let the VO be recorded line by line
+and dropped onto the timeline. Lines marked * touch a detail still to CONFIRM (see README).
 
 ### CH00 - Cold Open  (Marbella, 2026)
-_Runtime 0:23 - 40 words_
+_Runtime 0:21 - 42 words_
 
-[S001] People see the cars, the villas, the events in Marbella.  
-[S002] What they don't see is the tyre shop in Ireland, the cold mornings, and every mistake I made getting here.  
-[S003] My name is Conor Callaghan. This is how it started.  
+[S001] People see the cars, the events, the villas in Marbella.  
+[S002] What they don't see is a tyre shop in Ireland, a ferry to Holyhead, and a lot of very expensive mistakes.  
+[S003] My name is Conor Callaghan. And this is how it started.  
 
-### CH01 - Where It All Began  (Ireland, 2017)
-_Runtime 1:32 - 172 words_
+### CH01 - Global Tyres  (Ireland, 2017)
+_Runtime 1:34 - 170 words_
 
-[S004] 2017. I was sixteen, still in school, and working weekends at Global Tyres. *  
-[S005] Before it was even light, my father would drive me in. Radio low, heater roaring, not a lot said. *  
-[S006] He wasn't a man for speeches. Getting up and showing up - that was the lesson.  
-[S007] Inside, it was tyres, cold hands and the smell of rubber. I loved every bit of it.  
-[S008] I'd be in school on Monday, thinking about wheel nuts instead of the lesson. *  
-[S009] Every cent I earned was going one place - a car of my own.  
-[S010] And then I got her. A Honda Civic. 1.4 petrol. Nothing fancy - but she was mine.  
-[S011] _(no narration - music / sound only)_  
-[S012] Of course, the first thing I wanted to do was make her look better. LED headlights. How hard could it be?  
-[S013] Very hard, it turns out. The bulbs didn't fit, the covers wouldn't close, and I had half the front of the car in bits. *  
-[S014] That was my first lesson: nobody teaches you this stuff. You learn it by getting it wrong.  
+[S004] 2017. I got a job at Global Tyres, and I loved it. Cars, tools, getting my hands dirty - I couldn't get enough.  
+[S005] School? Not so much. I loved the work so much that my attendance fell apart.  
+[S006] Eventually, the school made the decision for me. I got kicked out.  
+[S007] I was too young to drive, so my father drove me to work. Six days a week.  
+[S008] _(no narration - picture, music and sound)_  
+[S009] Inside, it was tyres, cold hands and the smell of rubber. I was in my element.  
+[S010] Every euro I earned, I saved. I had one goal - a car of my own.  
+[S011] And then I got her. A Honda Civic. 1.4 petrol. She was mine.  
+[S012] _(no narration - picture, music and sound)_  
+[S013] First modification? LED headlight bulbs. Ordered online, delivered to the door. How hard could it be?  
+[S014] I fitted them, flicked on the lights... nothing.  
+[S015] I checked the fuses. I checked the wiring. I checked the bulbs again. Forty-five minutes, I spent on that.  
+[S016] The bulb was in backwards.  
+[S017] Lesson number one: before you blame the car, check yourself.  
 
-### CH02 - The England Trip  (England & Irish Sea, 2018)
-_Runtime 1:08 - 131 words_
+### CH02 - The England Gamble  (Ireland, Irish Sea & Holyhead, 2018)
+_Runtime 1:26 - 164 words_
 
-[S015] In 2018, I thought my big break had come. A job in England. I packed a bag and got on the ferry. *  
-[S016] I was young, full of plans, watching Ireland get smaller behind me.  
-[S017] When I got there, the job wasn't what was promised. Then it wasn't there at all. *  
-[S018] I remember sitting in a cheap room, counting what I had left, feeling like a complete eejit. *  
-[S019] The ferry home was the longest trip of my life.  
-[S020] My mother was waiting. No lecture. She just put the kettle on and told me this wasn't the end of anything. *  
-[S021] She believed in me at a time I didn't believe in myself. I've never forgotten that.  
-[S022] That failure stung. But it sent me home - and home is where it all really started.  
+[S018] By 2018, I knew what I wanted. I wanted to work in car styling - properly.  
+[S019] I contacted companies in England, including Illest Works, looking for any opportunity going.  
+[S020] A job in London looked like it was on. So I packed a bag and got on the ferry with about two hundred and twenty euro in my pocket. *  
+[S021] And on that ferry... there were slot machines.  
+[S022] By the time we docked at Holyhead, I had about a hundred euro left.  
+[S023] Then the job in London fell through. *  
+[S024] No job. Hardly any money. A long way from home. I felt stranded - and completely defeated.  
+[S025] My mother sorted it out. She arranged my journey home. *  
+[S026] _(no narration - picture, music and sound)_  
+[S027] When I walked in the door, there was food on the table and my mother waiting.  
+[S028] She just looked after me. At a time when I felt like a failure, that meant everything.  
+[S029] England didn't work out. But it sent me home - and home is where it really started.  
 
-### CH03 - Early CC Styling  (Ireland, 2018-2019)
-_Runtime 1:30 - 171 words_
+### CH03 - CC Decals  (Clontibret & the family home, Co. Monaghan, c. 2018-2019)
+_Runtime 0:42 - 89 words_
 
-[S023] It started with stickers. I got a small vinyl cutter and started making decals in my bedroom. *  
-[S024] CC Decals. Conor Callaghan. That was the whole brand strategy.  
-[S025] I'd sell them to lads at car meets, straight out of the boot of the Civic. *  
-[S026] Then came the Donegal Rally. I brought a load of stock - and I sold the lot. *  
-[S027] Best weekend of my life. Pockets full of cash for the first time.  
-[S028] And by Monday, most of it was gone - spent in the pub, celebrating. Business lesson number two. *  
-[S029] So I went back to work. Gel plates were next - raised 3D number plates, made one at a time.  
-[S030] Then caliper painting. Wheels off, brakes masked up, a lot of patience - and a lot of paint on my hands.  
-[S031] Then bodykits. Splitters, side skirts, spoilers - fitted on driveways and in borrowed sheds. *  
-[S032] Every job paid for the next tool. Every mistake taught me something I couldn't learn from a video.  
-[S033] And that's how CC Styling was born. *  
+[S030] Back home, I got a job at Castleshane Motors in Clontibret. *  
+[S031] While I was there, I got completely hooked on the idea of a sticker-cutting machine. *  
+[S032] I started designing and fitting custom stickers for people's cars. That became CC Decals.  
+[S033] Twenty-five, thirty euro a job. Before long, I was doing five to eight a week - an extra hundred and fifty, two hundred euro.  
+[S034] Customers came to my father's house to get them fitted.  
+[S035] And somehow, they always parked right up against my father's hedge. His pride and joy.  
 
-### CH04 - Day Job, Night Shift  (Ireland, 2019-2020)
-_Runtime 1:08 - 127 words_
+### CH04 - The Donegal Rally  (Donegal & Brian Shevlin's pub, c. 2018-2019)
+_Runtime 0:40 - 73 words_
 
-[S034] Then I got a job at Mercedes. Proper workshop, proper standards - a world away from the tyre shop. *  
-[S035] By day, I was learning from real technicians. Diagnostics, procedures - doing it right.  
-[S036] By night, I was building CC Styling. Clocking off in the evening, and clocking straight back on for myself.  
-[S037] That's where I discovered coding - unlocking features hidden in a car's software with a laptop and a cable.  
-[S038] I loved it. And I made mistakes. Warning lights I couldn't clear, nights I didn't sleep. *  
-[S039] Those nights taught me more than any manual. I stopped being afraid of mistakes - I learned to fix them.  
-[S040] _(no narration - music / sound only)_  
-[S041] I was burning the candle at both ends. But for the first time, I could see where this was going.  
+[S036] Then came the Donegal Rally. *  
+[S037] Sixty, seventy orders. Over two thousand euro. *  
+[S038] More money than I'd ever made in my life.  
+[S039] So naturally, I went to Brian Shevlin's pub to celebrate. *  
+[S040] I bought a drink for me. Then for my friends. Then for just about everyone else.  
+[S041] By the end of it, every cent was gone.  
+[S042] Two grand. One night. Lesson number two: making money and keeping money are not the same thing.  
 
-### CH05 - Lockdown Online  (Ireland, 2020)
-_Runtime 1:05 - 105 words_
+### CH05 - Learning Everything  (Ireland, c. 2019-2020)
+_Runtime 1:12 - 152 words_
 
-[S042] Then 2020 came, and the whole world stopped. Workshops closed. Roads went quiet.  
-[S043] Everyone was at home, scrolling on their phones. And I thought - that's where my customers are now.  
-[S044] That's when I started working with Arlind from DigitGrow. Together, we built my first e-commerce website. *  
-[S045] Product photos on the kitchen table. Descriptions written at two in the morning. *  
-[S046] And then the first online order came through. I must have read that notification ten times.  
-[S047] Then another. And another. Packing orders in the hallway - the post office knew me by name.  
-[S048] While everything else shut down, CC Styling grew. That website changed everything.  
-[S049] _(no narration - music / sound only)_  
+[S043] After that, I went back to work - and I wanted to learn everything.  
+[S044] Gel number plates came next. I was selling ten to fifteen sets, making about twenty-five euro profit on each. *  
+[S045] Then caliper painting. Then bodykits.  
+[S046] And nobody was teaching me. YouTube was my college. Two, three hours every evening - watching, pausing, rewinding.  
+[S047] By day, I was working at Mercedes Gilmore. Everything else happened after hours. *  
+[S048] A lot of installs were done outside, racing the sunset to finish before the light went.  
+[S049] Then I discovered coding. VCDS. Folding mirrors, lighting features - things the car could always do, but nobody had switched on.  
+[S050] It didn't always go to plan.  
+[S051] Sometimes, halfway through coding, the battery would die.  
+[S052] So there I'd be, mid-job, hunting for another car to jump-start the customer's car I was supposed to be improving.  
+[S053] Awkward? Very. But every mistake taught me something no tutorial ever could.  
 
-### CH06 - The Remap  (Leeds & Ireland, 2020-2021)
-_Runtime 1:06 - 110 words_
+### CH06 - COVID & the First Website  (Ireland, 2020)
+_Runtime 0:33 - 59 words_
 
-[S050] The next step was remapping - tuning a car's engine software. I wanted to learn it properly, so I went to Leeds for a training course. *  
-[S051] Back to England - but this time, I came with a plan. *  
-[S052] Maps, fuel tables, boost, timing. It was like learning a new language.  
-[S053] I came home and practised on everything I could get my hands on - carefully. *  
-[S054] Customers started asking for me by name. The phone didn't stop.  
-[S055] Then came the hardest decision. Leaving a steady job to work for myself. No safety net.  
-[S056] My parents were nervous. So was I. But I knew if I didn't go now, I never would. *  
-[S057] _(no narration - music / sound only)_  
+[S054] Then COVID hit. The whole world shut down.  
+[S055] But people were at home, on their phones, shopping online. So I moved CC Styling online with them.  
+[S056] Arlind from DigitGrow worked with me on the first CC Styling e-commerce website, built on WooCommerce. *  
+[S057] Product photos, listings, a lot of back and forth.  
+[S058] And then the orders started coming in. Online.  
+[S059] _(no narration - picture, music and sound)_  
 
-### CH07 - The First Garage  (Family land, Ireland, 2021)
-_Runtime 1:05 - 118 words_
+### CH07 - The Remap  (Leeds & Ireland, c. 2020-2021)
+_Runtime 1:03 - 133 words_
 
-[S058] In 2021, I opened my first garage - on my family's land. Nothing glamorous, but it was ours. *  
-[S059] My father helped me get it ready. Concrete, cables, and a roller door that never closed right. *  
-[S060] The hours were mad. First in, last out, seven days a week.  
-[S061] And people came from every corner of Ireland, driving for hours just to get their cars done.  
-[S062] I filmed everything. Every car, every result. Social media became my shop window.  
-[S063] But behind the scenes, the money was tight. Equipment, software, bills - every month was a fight. *  
-[S064] There were nights I sat in that garage wondering if I'd made a massive mistake.  
-[S065] Then the next morning, the phone would ring again.  
+[S060] Next came remapping. I paid about four thousand eight hundred pounds for a course with EK Remaps in Leeds. *  
+[S061] That was serious money for me. But I knew it was the next step.  
+[S062] Five days. Reading ECUs, writing them, the fundamentals of tuning.  
+[S063] And somewhere in those five days, I did the maths.  
+[S064] At my job, I was on about eleven pounds fifty an hour. A remap could bring in around a hundred and sixty euro for an hour's work. *  
+[S065] Eventually, I left my job to go full-time with CC Styling. *  
+[S066] It wasn't overnight. Four, five remaps a week. Seven, eight hundred euro profit.  
+[S067] And I filmed everything. Several videos a day, every single day.  
+[S068] Most of what I know about marketing, I learned by getting it wrong first. Slowly, people started following.  
 
-### CH08 - Carrickmacross  (Carrickmacross, Co. Monaghan, 2022)
-_Runtime 0:36 - 63 words_
+### CH08 - The First Garage  (Family land, November 2021)
+_Runtime 1:08 - 129 words_
 
-[S066] By 2022, we'd outgrown the garage. We opened a proper shop in Carrickmacross. *  
-[S067] A shopfront, a team, a waiting area. Customers walking in off the street. *  
-[S068] My father came down on the opening day. He didn't say much. He didn't need to.  
-[S069] CC Styling wasn't a bedroom business any more. It was a real company. But I've never been good at standing still.  
+[S069] In November 2021, my father let me build a garage on the land beside our house.  
+[S070] The same patch of ground where I'd played as a kid.  
+[S071] Building it was a serious investment, and every bit of it was a risk. *  
+[S072] But for the first time, I could work indoors. No more racing the sunset.  
+[S073] Customers came from all over - Cork, Derry, Galway, Mayo.  
+[S074] Some drove up to ten hours there and back, just for a remap.  
+[S075] And yes - they still parked by the hedge.  
+[S076] The hours were brutal. Early mornings, late nights, sometimes seven days a week.  
+[S077] I poured money into social media ads. Some months, that put real pressure on me.  
+[S078] Not every customer was easy. Not every day went right. And I was exhausted.  
+[S079] _(no narration - picture, music and sound)_  
 
-### CH09 - Starting Again  (Marbella, Spain, 2023-2024)
-_Runtime 1:07 - 108 words_
+### CH09 - Carrickmacross  (Carrickmacross, Co. Monaghan, 2022)
+_Runtime 0:36 - 68 words_
 
-[S070] Marbella. A new country, a new language - and nobody knew who I was. *  
-[S071] In Ireland, I had a name. In Spain, I was starting again from zero.  
-[S072] There were setbacks. Things that worked at home didn't work here. Deals fell through. Money went out faster than it came in. *  
-[S073] So I did what I did at the very start. I went out and handed out flyers - door to door, car to car.  
-[S074] Under the Spanish sun, sweating in a black t-shirt, getting told no in two languages.  
-[S075] One customer became two. Two became ten. *  
-[S076] Slowly, the Spanish business started to stand on its own two feet.  
-[S077] _(no narration - music / sound only)_  
+[S080] By 2022, I wanted a proper shop.  
+[S081] I went to landlord after landlord. Most of them took one look at how young I was and said no.  
+[S082] Again. And again.  
+[S083] Then, finally, someone said yes. A premises in Carrickmacross. *  
+[S084] I renovated the place and got it ready.  
+[S085] Walk-in customers. Parts on the shelves. Online orders. Bookings.  
+[S086] After years of driveways, sheds and sunsets - this one felt earned.  
 
-### CH10 - Level Up With CC  (Marbella, 2024-2026)
-_Runtime 0:35 - 67 words_
+### CH10 - Marbella  (Marbella, Spain, c. 2024)
+_Runtime 0:40 - 80 words_
 
-[S078] Along the way, people kept asking me how I did it. So I started teaching. *  
-[S079] Level Up With CC - training courses for people who want to learn the trade the right way.  
-[S080] Then came the motivational events. Standing on stage, telling a full room about my LED bulb disaster.  
-[S081] If a kid who couldn't fit a headlight bulb can build all of this, so can they.  
+[S087] Around 2024, I went after something new. Marbella. *  
+[S088] In Ireland, people knew me. In Spain, I was starting again from zero. *  
+[S089] There were sleepless nights. Weeks where I honestly didn't know if it would work.  
+[S090] So I went back to basics. Flyers. On parked cars, one windscreen at a time.  
+[S091] Years after CC Decals, I was right back to sticking things on cars.  
+[S092] More than once, I thought about giving up.  
+[S093] But slowly, the Spanish styling business started to grow.  
 
-### CH11 - 22 May 2026  (Marbella mansion, 22 May 2026)
-_Runtime 0:55 - 83 words_
+### CH11 - Level Up With CC  (Training room; Dublin (15 Nov 2025); Cavan (27 Feb 2026))
+_Runtime 0:44 - 88 words_
 
-[S082] On the 22nd of May, 2026, we held an event at a mansion in Marbella. *  
-[S083] Our team came in from all over the world - people I'd only ever spoken to on calls.  
-[S084] And for the first time, I met Arlind in person.  
-[S085] Nine years of working together. Websites, late-night messages, endless calls. And we'd never once shaken hands. *  
-[S086] _(no narration - music / sound only)_  
-[S087] Standing on that terrace, I thought about the tyre shop, the ferry, and the bulbs that didn't fit.  
-[S088] Every bit of it led here.  
+[S094] People kept asking me how I did it. So I built Level Up With CC. *  
+[S095] Practical training in ECU work and remapping, plus the business side - with guidance from my team.  
+[S096] The motivational events were something different. Not technical courses - just my story, mistakes and all.  
+[S097] Dublin, the fifteenth of November, 2025.  
+[S098] Cavan, the twenty-seventh of February, 2026.  
+[S099] Standing up there, telling a full room about the bulb I fitted backwards. *  
+[S100] If my story pushed even one person to go for it, it was worth telling.  
 
-### CH12 - CC Marbella Rentals  (Marbella, 2026)
-_Runtime 0:35 - 46 words_
+### CH12 - The Marbella Mansion  (Marbella, 22 May 2026; Puerto Banus, 19 September 2026)
+_Runtime 1:00 - 104 words_
 
-[S089] And the cars? From one 1.4 Civic on a driveway in Ireland...  
-[S090] ...to CC Marbella Rentals - a fleet of luxury cars on the Costa del Sol. *  
-[S091] Every key I hand over, I still remember that first one.  
-[S092] Same work ethic. Same lad. Just better weather.  
+[S101] Then came the twenty-second of May, 2026. Marbella.  
+[S102] A mansion they said was worth two hundred million euro.  
+[S103] But that's not what I remember most.  
+[S104] For the first time, the CC Styling team from around the world was together, in one place.  
+[S105] And Arlind was there.  
+[S106] Nine years working together. And this was the first time we'd ever met face to face. *  
+[S107] _(no narration - picture, music and sound)_  
+[S108] Standing there, I thought about the tyre shop, the ferry, the hedge... the bulb in backwards.  
+[S109] Every bit of it led here.  
+[S110] And on the nineteenth of September, we took it out onto the water - a yacht event in Puerto Banus. *  
 
-### CH13 - Dubai  (Dubai, 2026)
-_Runtime 0:31 - 33 words_
+### CH13 - CC Marbella Rentals  (Marbella, 2026 (with a 2017 memory))
+_Runtime 0:38 - 76 words_
 
-[S093] Like I said, I've never been good at standing still. The next chapter was already waiting. *  
-[S094] Dubai.  
-[S095] New city. New rules. And a whole new set of lessons to learn the hard way.  
-[S096] _(no narration - music / sound only)_  
+[S111] And the cars? It all started with one 1.4 Civic.  
+[S112] Now there's CC Marbella Rentals.  
+[S113] The fleet has included a BMW X5 M Competition with eight hundred and fifty brake horsepower, a McLaren GT, a Porsche Panamera GTS...  
+[S114] ...a BMW M2, a Golf R.  
+[S115] Every time I hand over a key, I think about that first one. The one I bought with my tyre-shop wages.  
+[S116] Because the cars were never really the point. The graft was.  
+
+### CH14 - Dubai - Part 2 Teaser  (Dubai, 2026)
+_Runtime 0:20 - 19 words_
+
+[S117] Ireland was where it started. Marbella was where it grew.  
+[S118] But I've never been good at standing still.  
+[S119] Dubai.  
+[S120] _(no narration - picture, music and sound)_  
 
 ---
-**Total narration:** 1374 words (~9:10 spoken) inside a picture runtime of **13:16**.
+**Total narration:** 1446 words, ~9:38 spoken, inside a picture runtime of **12:36** (77% narration density).

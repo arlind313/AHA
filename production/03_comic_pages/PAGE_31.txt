@@ -1,0 +1,20 @@
+Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (The Marbella Mansion, Marbella, 22 May 2026; Puerto Banus, 19 September 2026).
+
+STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
+
+LAYOUT: landscape 3:2 page (1536x1024). Three equal tall vertical panels side by side, read left to right, each framed as a 9:16 vertical film shot. Thin black panel borders, slim white gutters, white page margin.
+
+COLOUR GRADE: Dusk to night: lilac sky, warm festoon lights, pool reflections; Puerto Banus coda in bright Mediterranean day.
+
+REFERENCE IMAGES ATTACHED: references/conor-character-sheet.png, references/arlind-character-sheet.png. These comic sheets are the ONLY identity references. Do not redesign anyone.
+
+CHARACTERS ON THIS PAGE (keep identical in every panel):
+- ADULT CONOR (Marbella and Dubai, 2024-2026): exactly the man on the uploaded Conor character sheet - same face, fade haircut, full short beard, neck tattoos, tattoo sleeves on both arms, muscular build, dark wristwatch on the left wrist. Default outfit: fitted plain black t-shirt or black hoodie; sunglasses only where stated.
+- ARLIND (DigitGrow): use the uploaded Arlind comic reference sheet EXACTLY - same face, hair, build and styling. Show him clearly, face visible, never blurred or from behind.
+- BACKGROUND EXTRAS: ordinary anonymous people (customers, coworkers, team members, crowds), realistic varied ages, simple clothing, never more detailed than the main characters, faces never close to camera, never named.
+
+PANEL 1 (LEFT): Medium shot: Conor turning as Arlind steps out of the crowd toward him, Arlind's face clear and lit by festoon lights, exactly matching his reference sheet. Key moment: Both stop, recognise each other, and grin. Setting: Mansion terrace, night, 22 May 2026.
+PANEL 2 (CENTRE): Close-up: Conor's tattooed hand and Arlind's hand meeting in a firm handshake, both faces visible above, festoon bokeh. Key moment: The handshake grips and holds. Setting: Mansion terrace, night.
+PANEL 3 (RIGHT): Medium two-shot: the handshake turns into a back-slapping hug; team members around them cheering. Key moment: They hug and laugh; others cheer. Setting: Mansion terrace, night.
+
+STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effect lettering, no panel numbers, no logos, no brand badges, no legible number plates or signs, no watermarks, no signature. Faces must stay identical across every panel and match the uploaded reference sheets. Correct hands with five fingers, natural anatomy. Period-correct vehicles and technology for the year stated. No palm trees or sunshine in Irish or English scenes. Do not add any named person who is not listed; extras stay anonymous background figures.

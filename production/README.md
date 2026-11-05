@@ -1,7 +1,7 @@
-# THE IRISH GRAFT - PART 1 - Production Blueprint (DRAFT v0.1, awaiting approval)
+# THE IRISH GRAFT - PART 1 - Production Blueprint (v0.2, awaiting approval)
 
-9:16 vertical animated graphic-novel documentary - **96 shots, 14 chapters, 25 comic pages, runtime 13:16**.
-Narration: 1374 words (~9:10 spoken at 150 wpm); the rest is deliberate music/sound beats.
+9:16 vertical animated graphic-novel documentary - **120 shots, 15 chapters, 35 comic pages, runtime 12:36**.
+Narration: 1446 words, ~9:38 spoken at 150 wpm (77% density). The rest is breaths, comic timing and deliberate emotional holds.
 
 ## Files
 
@@ -9,67 +9,78 @@ Narration: 1374 words (~9:10 spoken at 150 wpm); the rest is deliberate music/so
 |---|---|---|
 | `01_narration.md` | 1 | Full first-person VO script in Conor's voice, by chapter |
 | `02_master_storyboard.md` | 2 | Every shot: chapter, duration, timecode, VO, characters, composition, location, action, animation, camera, SFX, music |
-| `03_comic_pages.md` + `03_comic_pages/PAGE_XX.txt` | 3 | One complete ChatGPT image prompt per comic page (3-4 panels each) + approval table |
+| `03_comic_pages.md` + `03_comic_pages/PAGE_XX.txt` | 3 | One complete ChatGPT prompt per page (3-5 panels), required uploads, approval table |
 | `04_animation_prep.md` | 4 | Per-shot 9:16 key-frame list and motion brief - use only after page approval |
 | `storyboard_data.py` / `build.py` | - | Single source of truth; edit data, run `python3 production/build.py` to regenerate everything |
 
+## Reference files
+
+- **CONOR** - `references/conor-character-sheet.png`
+- **MOTHER** - `references/mother-character-sheet.png`
+- **ARLIND** - `references/arlind-character-sheet.png`
+- **FLEET** - `references/fleet/ (approved CC Marbella Rentals vehicle images)`
+
 ## Character designs
 
-- **YC** - YOUNG CONOR (2017-2018, age 16-18): clearly the same person as the tattooed man on the uploaded sheet, de-aged. Same strong straight brows, deep-set eyes, straight nose, defined jaw and chin, slightly prominent ears; softer fuller cheeks, smooth teenage skin, at most faint fuzz on the upper lip - NO beard. Short dark-brown hair, short faded sides, textured top pushed up and forward (same silhouette as the sheet, less groomed). Lean wiry teenage build. NO TATTOOS anywhere, no watch, no jewellery. Default outfit: faded navy work trousers, plain dark-grey long-sleeve work top with sleeves pushed up, scuffed black safety boots.
-- **C2** - CONOR (2019-2022, early twenties): the same face as the uploaded sheet, a few years younger than it - short trimmed beard starting to fill in, same fade haircut, athletic but not yet heavily muscular. Tattoos: NONE yet (see production note). Default outfit: plain black t-shirt or black hoodie, dark work trousers, black boots.
-- **AC** - ADULT CONOR (2023-2026): exactly the tattooed man on the uploaded character sheet - same face, fade haircut, full short beard, neck tattoos, full tattoo sleeves on both arms, muscular build, dark wristwatch on the left wrist. Default outfit: fitted plain black t-shirt or black hoodie; sunglasses only where stated.
-- **FA** - CONOR'S FATHER (fictional, consistent design): early fifties, stocky, weathered ruddy face, short grey-flecked dark hair receding at the temples, grey stubble, kind but serious eyes, deep crow's-feet. Always wears a navy quilted gilet over a faded blue-grey check shirt, work jeans, brown work boots.
-- **MO** - CONOR'S MOTHER (fictional, consistent design): late forties, warm open face, shoulder-length chestnut-brown hair loosely tied back, light freckles, kind tired eyes. Wears a soft oatmeal knit cardigan over a plain top.
-- **AR** - ARLIND (DigitGrow web partner): REFERENCE SHEET NOT YET SUPPLIED - until it is, show him only from behind, in soft focus, or as a small video-call tile where the face is not detailed. Neutral smart-casual clothing.
-- **EX** - BACKGROUND EXTRAS: ordinary unnamed people, realistic varied ages, simple clothing, never more detailed than the main characters, faces never close to camera.
+- **YC** - YOUNG CONOR (2017-2019, late teens): derived from the uploaded adult Conor sheet and clearly the same person, de-aged. Same strong straight brows, deep-set eyes, straight nose, defined jaw and chin, slightly prominent ears; softer fuller cheeks, smooth young skin, at most faint fuzz on the upper lip - NO beard. Short dark-brown hair, short faded sides, textured top pushed up and forward (same silhouette as the sheet, less groomed). Lean wiry build. No extensive modern tattoos: Tattoo timeline is UNCONFIRMED: keep both arms, backs of the hands and neck covered (long sleeves, hoodie or high crew neck) so the image neither shows nor denies tattoos. Default outfit: faded navy work trousers, plain dark-grey long-sleeve work top, scuffed black safety boots.
+- **C2** - CONOR (2019-2023, early twenties): the same face as the uploaded adult Conor sheet, a few years younger - short beard starting to fill in, same fade haircut, athletic but not yet heavily muscular. Tattoo timeline is UNCONFIRMED: keep both arms, backs of the hands and neck covered (long sleeves, hoodie or high crew neck) so the image neither shows nor denies tattoos. Default outfit: plain black long-sleeve top or black hoodie, dark work trousers, black boots.
+- **AC** - ADULT CONOR (Marbella and Dubai, 2024-2026): exactly the man on the uploaded Conor character sheet - same face, fade haircut, full short beard, neck tattoos, tattoo sleeves on both arms, muscular build, dark wristwatch on the left wrist. Default outfit: fitted plain black t-shirt or black hoodie; sunglasses only where stated.
+- **FA** - CONOR'S FATHER (fictional, consistent design - no reference exists): early fifties, stocky, weathered ruddy face, short grey-flecked dark hair receding at the temples, grey stubble, kind but serious eyes, deep crow's-feet. Always wears a navy quilted gilet over a faded blue-grey check shirt, work jeans, brown work boots.
+- **MO** - CONOR'S MOTHER: use the uploaded mother comic reference sheet EXACTLY - same face, hair, build and styling. Do not invent or alter her appearance.
+- **AR** - ARLIND (DigitGrow): use the uploaded Arlind comic reference sheet EXACTLY - same face, hair, build and styling. Show him clearly, face visible, never blurred or from behind.
+- **EX** - BACKGROUND EXTRAS: ordinary anonymous people (customers, coworkers, team members, crowds), realistic varied ages, simple clothing, never more detailed than the main characters, faces never close to camera, never named.
 
-## Open questions (please answer before page generation)
+## Unresolved - required confirmation items
 
-1. The full written story was not attached - this draft is built only from the chapter outline. Please send it so every CONFIRM flag can be resolved.
-2. Arlind: a comic reference sheet is needed before shots S044, S084, S085 and S086 can be generated. Until then he is shown softly or from behind.
-3. Nine years: the 22 May 2026 meeting implies working together since 2017, but the website is dated to COVID (2020). When did Conor and Arlind first work together?
-4. Tattoo timeline: the design shows no tattoos through 2022 and the full sleeves from Marbella (2023). When did they actually appear?
-5. Car code: the European 7th-gen Civic 1.4 petrol is normally the EP1 (EP2 = 1.6, EP3 = Type R). Visuals are identical; confirm what is said in narration (narration currently just says '1.4 petrol').
-6. Donegal Rally money and the pub: confirm the sequence and that Conor was 18+ at the time.
-7. Mother and father: fictional designs are used. Confirm you're happy for the mother to appear (only the father was mentioned in the brief).
-8. Narration voice: confirm whether Conor will record the VO himself or whether a voice actor / AI voice is used.
+1. Exact year Conor and Arlind first began collaborating (the story states nine years by May 2026; the website is a separate COVID-era milestone).
+2. Exact timeline of Conor's tattoos. Until confirmed, pre-Marbella scenes keep arms and neck covered; Marbella onward uses the present-day sheet.
+3. Currency of the first garage build cost (12,000-14,000). The figure stays out of the narration until confirmed.
+4. Narrator: Conor's own voice or an AI voice.
+5. Reference files to supply before page generation: mother sheet, Arlind sheet, approved fleet vehicle images (paths in README).
 
-## Shots flagged CONFIRM
+## Unresolved - detail-level CONFIRM flags (by shot)
 
-- **S004** - CONFIRM: age (16 or 17), and whether he worked weekends, after school, or full-time at Global Tyres. Business name will be heard in narration only; no signage drawn.
-- **S005** - CONFIRM: father's car (design uses a generic dark-green estate).
-- **S008** - CONFIRM: school uniform colour.
-- **S013** - CONFIRM what actually went wrong with the LED bulbs.
-- **S015** - CONFIRM: type of job, city in England, and ferry route (e.g. Dublin-Holyhead).
-- **S017** - CONFIRM how the job fell through.
-- **S018** - CONFIRM: where he stayed.
-- **S020** - CONFIRM: mother's reaction and words (paraphrased, no direct quote).
-- **S023** - CONFIRM: vinyl cutter and bedroom workspace.
-- **S025** - CONFIRM: sold at car meets.
-- **S026** - CONFIRM: year of the Donegal Rally and how he sold (stall, walking the crowd).
-- **S028** - CONFIRM: that the rally money was spent in the pub, and that Conor was of legal drinking age (18) at the time.
-- **S031** - CONFIRM: types of bodykit work, and whether 'borrowed sheds' is accurate.
-- **S033** - CONFIRM: year CC Decals became CC Styling.
-- **S034** - CONFIRM: dealership location, start date, and his role there. No star badges drawn.
-- **S038** - CONFIRM: real example of a coding mistake (keep generic otherwise).
-- **S044** - CONFIRM: when Conor and Arlind first started working together (the 2026 scene says nine years, i.e. 2017; the website is 2020). Arlind reference sheet needed.
-- **S045** - CONFIRM: what products launched on the website first.
-- **S050** - CONFIRM: date of the Leeds course, and that he went after (not during) lockdown. No legible station signage.
-- **S051** - CONFIRM: travelled by ferry (callback works only if true; otherwise use a plane window).
-- **S053** - CONFIRM: whether he still owned the Civic at this time.
-- **S056** - CONFIRM: parents' reaction.
-- **S058** - CONFIRM: building type (new build, converted shed or barn).
-- **S059** - CONFIRM: father helped build/fit out the garage.
-- **S063** - CONFIRM: nature of the financial pressure.
-- **S066** - CONFIRM: shop opening date; shop sign added in edit if wanted.
-- **S067** - CONFIRM: team size in 2022. Staff remain unnamed extras.
-- **S070** - CONFIRM: year he moved to Marbella, and when his tattoos appeared (design switches to the full-sleeve adult look here).
-- **S072** - CONFIRM: specific setbacks in Marbella.
-- **S075** - CONFIRM: what the Spanish business offered first (remapping, styling, detailing).
-- **S078** - CONFIRM: start date and location of Level Up With CC.
-- **S082** - CONFIRM: event name/purpose.
-- **S085** - CONFIRM: 'nine years' and the exact start of the partnership.
-- **S090** - CONFIRM: fleet makes/models (kept generic and unbadged unless you specify).
-- **S093** - CONFIRM: timing of the move/expansion to Dubai.
+- **S020** (CH02) - CONFIRM: departure port (a Holyhead arrival suggests Dublin).
+- **S023** (CH02) - CONFIRM: where Conor was when the London job fell through (Holyhead assumed for the visual).
+- **S025** (CH02) - CONFIRM: how the journey home was made (ferry, flight, bus).
+- **S030** (CH03) - CONFIRM: start date at Castleshane Motors. No signage drawn.
+- **S031** (CH03) - CONFIRM: whose cutter it was and where it was used.
+- **S036** (CH04) - CONFIRM: year of the Donegal Rally breakthrough.
+- **S037** (CH04) - CONFIRM: how the orders were taken (stall, walking the crowd, online).
+- **S039** (CH04) - CONFIRM: Conor's age at the time (depiction assumes 18+). Pub name in VO only; no signage.
+- **S044** (CH05) - CONFIRM: the period for the 10-15 sets (per week / per month).
+- **S047** (CH05) - CONFIRM: Mercedes Gilmore dates and location. No star badges drawn.
+- **S056** (CH06) - CONFIRM: year Conor and Arlind first began collaborating (the website is a separate milestone). CONFIRM: worked remotely by video call.
+- **S060** (CH07) - CONFIRM: date of the Leeds course. Company named in VO only.
+- **S064** (CH07) - CONFIRM: currency/location of the GBP 11.50/hour job.
+- **S065** (CH07) - CONFIRM: which employer he left (Mercedes Gilmore by story order).
+- **S071** (CH08) - CONFIRM: currency of the 12,000-14,000 build cost before adding the figure to narration.
+- **S083** (CH09) - CONFIRM: month the Carrickmacross premises was secured/opened.
+- **S087** (CH10) - CONFIRM: tattoos are shown from Marbella onward because the reference sheet is present-day; confirm this is acceptable for c. 2024.
+- **S088** (CH10) - CONFIRM: first Marbella premises (rented unit assumed for the visual).
+- **S094** (CH11) - CONFIRM: launch date and location of Level Up With CC courses. Name in VO only.
+- **S099** (CH11) - Callback to S015. CONFIRM: that the LED story is part of the event talk.
+- **S106** (CH12) - CONFIRM: exact year the collaboration began (nine years is stated by the story).
+- **S110** (CH12) - Placed after 22 May to keep the events in chronological order. CONFIRM: event format.
+
+## Resolved by the verified story material (v0.1 -> v0.2 audit)
+
+- Global Tyres year, school and father's driving: 2017, attendance suffered and he was kicked out, father drove him six days a week.
+- LED bulb disaster: ordered online, ~45 minutes, bulb installed backwards.
+- England trip: contacted companies incl. Illest Works; ferry with ~EUR 220; slot machines; ~EUR 100 at Holyhead; London job fell through; mother arranged the journey home; food and comfort on return. Invented dialogue and the rented room were removed.
+- CC Decals: started while at Castleshane Motors, Clontibret; EUR 25-30 per job; 5-8 jobs/week; EUR 150-200 extra; customers at the father's home; hedge gag.
+- Donegal Rally: 60-70 orders, over EUR 2,000, all spent buying drinks at Brian Shevlin's pub.
+- Learning everything: gel plates (10-15 sets, ~EUR 25 profit each), calipers, bodykits, YouTube 2-3 hours each evening, Mercedes Gilmore day job, outdoor jobs racing sunset, VCDS coding, dead batteries and jump-starts.
+- COVID: WooCommerce e-commerce website built with Arlind from DigitGrow (kept separate from the start of the collaboration).
+- Remapping: EK Remaps, Leeds, ~GBP 4,800, five days; GBP 11.50/hour vs ~EUR 160/hour; left employment; 4-5 remaps/week, EUR 700-800 weekly profit; several videos a day. The invented ferry trip to Leeds was removed.
+- First garage: November 2021, father's land beside the home where Conor played as a child; customers from Cork, Derry, Galway, Mayo; up to ~10 hours return; long hours; ad spend pressure; customer-service challenges. The invented father-built roller-door gag was removed.
+- Carrickmacross 2022: repeated landlord rejections partly due to age; premises secured, renovated; walk-ins, parts, online orders, bookings. The invented opening-day father scene was removed.
+- Marbella c. 2024: starting again, sleepless nights, flyers on parked cars, considering giving up, styling business develops.
+- Level Up With CC: training (ECU/remapping + business, team guidance) kept separate from motivational events; Dublin 15 Nov 2025, Cavan 27 Feb 2026, Marbella 22 May 2026, Puerto Banus yacht event 19 Sep 2026 in order.
+- Mansion 22 May 2026: described as worth EUR 200 million; worldwide team together in person for the first time; Arlind shown clearly; first face-to-face meeting after nine years; no verbatim dialogue.
+- CC Marbella Rentals: fleet models as supplied (X5 M Competition 850 BHP, McLaren GT, Panamera GTS, M2, Golf R), drawn only from approved assets.
+- Dubai: vision and teaser only, no claimed achievements; ends on the 'Part 2: Dubai' card.
+- Mother now uses her existing comic reference sheet; Arlind uses his sheet; father remains fictional; Tomas does not appear; no invented tattoo timeline (arms covered pre-Marbella).
+- Civic chassis code dropped from narration and visuals - the story says 'Honda Civic 1.4 petrol'.
 
 Status: nothing has been generated or animated. Waiting for approval of narration, storyboard and page prompts.

@@ -1,20 +1,19 @@
-Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (Lockdown Online, Ireland, 2020).
+Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (Learning Everything, Ireland, c. 2019-2020).
 
-STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded Conor comic character sheet: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
+STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
 
 LAYOUT: portrait 2:3 page (1024x1536). Four equal panels in a 2x2 grid, read left-to-right then top-to-bottom. Keep each panel's key action inside a central vertical 9:16 safe area. Thin black panel borders, slim white gutters, white page margin.
 
-COLOUR GRADE: Empty muted streets, then warm lamp-lit kitchen with cool screen glow on faces.
+COLOUR GRADE: Cool white dealership light by day; orange-to-blue sunset gradients for outdoor jobs; laptop and dashboard glow at night.
 
-IDENTITY: the uploaded comic character sheet is the ONLY face reference for Conor. Do not redesign him.
+REFERENCE IMAGES ATTACHED: references/conor-character-sheet.png. These comic sheets are the ONLY identity references. Do not redesign anyone.
 
 CHARACTERS ON THIS PAGE (keep identical in every panel):
-- CONOR (2019-2022, early twenties): the same face as the uploaded sheet, a few years younger than it - short trimmed beard starting to fill in, same fade haircut, athletic but not yet heavily muscular. Tattoos: NONE yet (see production note). Default outfit: plain black t-shirt or black hoodie, dark work trousers, black boots.
-- BACKGROUND EXTRAS: ordinary unnamed people, realistic varied ages, simple clothing, never more detailed than the main characters, faces never close to camera.
+- CONOR (2019-2023, early twenties): the same face as the uploaded adult Conor sheet, a few years younger - short beard starting to fill in, same fade haircut, athletic but not yet heavily muscular. Tattoo timeline is UNCONFIRMED: keep both arms, backs of the hands and neck covered (long sleeves, hoodie or high crew neck) so the image neither shows nor denies tattoos. Default outfit: plain black long-sleeve top or black hoodie, dark work trousers, black boots.
 
-PANEL 1 (TOP-LEFT): Close-up: Conor's face lit by a phone screen, jaw dropping into a huge grin; the phone notification is a glowing shape with no legible text. Action frozen at its key moment: He jumps up from the chair. Setting: Kitchen, night, 2020.
-PANEL 2 (TOP-RIGHT): Medium-wide: the family hallway packed with parcels; Conor taping a box, a growing stack of addressed parcels (no legible labels) beside the front door. Action frozen at its key moment: He tapes, stacks, grabs another box. Setting: Family hallway, 2020.
-PANEL 3 (BOTTOM-LEFT): Medium shot: Conor loading a full car boot with parcels outside the house; the boot sits low under the weight. Action frozen at its key moment: He shoves in the last box and slams the boot. Setting: Family driveway, day, 2020.
-PANEL 4 (BOTTOM-RIGHT): Wide shot: Conor alone in the hallway at night, sitting on the stairs looking at a wall of packed parcels; quiet pride. Action frozen at its key moment: He leans his elbows on his knees and smiles to himself. Setting: Family hallway, night, 2020.
+PANEL 1 (TOP-LEFT): Medium shot: Conor at a cluttered workbench under a lamp, tools laid out, pulling a fresh project toward him. Key moment: He pulls the project toward him and picks up a tool. Setting: Home workshop, Ireland, c. 2019.
+PANEL 2 (TOP-RIGHT): Close-medium: Conor pressing domed gel characters onto blank white number plates at the workbench; finished plates stacked, characters not legible. Key moment: He presses a character and checks alignment. Setting: Home workshop, c. 2019.
+PANEL 3 (BOTTOM-LEFT): Medium shot: an ordinary hatchback on axle stands outdoors, wheel off, Conor brushing bright red paint onto a masked brake caliper; a bodykit splitter waiting on the ground. Key moment: He looks at his paint-covered fingers and keeps going. Setting: Outdoors, Ireland, c. 2019.
+PANEL 4 (BOTTOM-RIGHT): Medium shot: Conor in bed at night with a laptop on his knees, a tutorial video playing (no UI text), notebook full of sketches beside him. Key moment: He pauses the video, sketches something, presses play again. Setting: Conor's bedroom, night, c. 2019.
 
-STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effect lettering, no panel numbers, no logos, no brand badges, no legible number plates or signs, no watermarks, no signature. Faces must stay identical across every panel. Correct hands with five fingers, natural anatomy. Period-correct vehicles and technology for the year stated. No palm trees or sunshine in Irish or English scenes. Do not add any person who is not listed.
+STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effect lettering, no panel numbers, no logos, no brand badges, no legible number plates or signs, no watermarks, no signature. Faces must stay identical across every panel and match the uploaded reference sheets. Correct hands with five fingers, natural anatomy. Period-correct vehicles and technology for the year stated. No palm trees or sunshine in Irish or English scenes. Do not add any named person who is not listed; extras stay anonymous background figures.

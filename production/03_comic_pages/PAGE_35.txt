@@ -1,0 +1,19 @@
+Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (Dubai - Part 2 Teaser, Dubai, 2026).
+
+STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
+
+LAYOUT: portrait 2:3 page (1024x1536). Four equal panels in a 2x2 grid, read left-to-right then top-to-bottom. Keep each panel's key action inside a central vertical 9:16 safe area. Thin black panel borders, slim white gutters, white page margin.
+
+COLOUR GRADE: Purple-orange desert dusk, skyline lights, haze; ends in silhouette.
+
+REFERENCE IMAGES ATTACHED: references/conor-character-sheet.png. These comic sheets are the ONLY identity references. Do not redesign anyone.
+
+CHARACTERS ON THIS PAGE (keep identical in every panel):
+- ADULT CONOR (Marbella and Dubai, 2024-2026): exactly the man on the uploaded Conor character sheet - same face, fade haircut, full short beard, neck tattoos, tattoo sleeves on both arms, muscular build, dark wristwatch on the left wrist. Default outfit: fitted plain black t-shirt or black hoodie; sunglasses only where stated.
+
+PANEL 1 (TOP-LEFT): Medium shot: Conor in a plane window seat looking out at a vast desert at dusk, the window glow on his face. Key moment: He leans toward the window. Setting: Flight over the Gulf, 2026.
+PANEL 2 (TOP-RIGHT): Close-up: Conor's eyes reflected in the plane window with the desert below. Key moment: He blinks slowly, decided. Setting: Flight, dusk.
+PANEL 3 (BOTTOM-LEFT): Wide shot from behind: Conor in a black hoodie looking out over a waterfront at the Dubai skyline at dusk, the tallest tower glowing (matches the character-sheet panel). Key moment: He stands still, taking it in. Setting: Dubai waterfront, dusk, 2026.
+PANEL 4 (BOTTOM-RIGHT): Close-up: Conor turns his head slightly toward camera with a half smile, skyline bokeh behind; hard cut to black. Key moment: He turns and half-smiles. Setting: Dubai, night, 2026.
+
+STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effect lettering, no panel numbers, no logos, no brand badges, no legible number plates or signs, no watermarks, no signature. Faces must stay identical across every panel and match the uploaded reference sheets. Correct hands with five fingers, natural anatomy. Period-correct vehicles and technology for the year stated. No palm trees or sunshine in Irish or English scenes. Do not add any named person who is not listed; extras stay anonymous background figures.

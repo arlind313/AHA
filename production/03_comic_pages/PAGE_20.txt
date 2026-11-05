@@ -1,20 +1,18 @@
-Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (Starting Again, Marbella, Spain, 2023-2024).
+Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (The Remap, Leeds & Ireland, c. 2020-2021).
 
-STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded Conor comic character sheet: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
+STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
 
-LAYOUT: portrait 2:3 page (1024x1536). Four equal panels in a 2x2 grid, read left-to-right then top-to-bottom. Keep each panel's key action inside a central vertical 9:16 safe area. Thin black panel borders, slim white gutters, white page margin.
+LAYOUT: landscape 3:2 page (1536x1024). Three equal tall vertical panels side by side, read left to right, each framed as a 9:16 vertical film shot. Thin black panel borders, slim white gutters, white page margin.
 
-COLOUR GRADE: Hot Andalusian light: saturated blue sky, white walls, terracotta, high contrast and hard shadows.
+COLOUR GRADE: Neutral classroom daylight in Leeds; workshop teal-and-amber with laptop glow back home.
 
-IDENTITY: the uploaded comic character sheet is the ONLY face reference for Conor. Do not redesign him.
+REFERENCE IMAGES ATTACHED: references/conor-character-sheet.png. These comic sheets are the ONLY identity references. Do not redesign anyone.
 
 CHARACTERS ON THIS PAGE (keep identical in every panel):
-- ADULT CONOR (2023-2026): exactly the tattooed man on the uploaded character sheet - same face, fade haircut, full short beard, neck tattoos, full tattoo sleeves on both arms, muscular build, dark wristwatch on the left wrist. Default outfit: fitted plain black t-shirt or black hoodie; sunglasses only where stated.
-- BACKGROUND EXTRAS: ordinary unnamed people, realistic varied ages, simple clothing, never more detailed than the main characters, faces never close to camera.
+- CONOR (2019-2023, early twenties): the same face as the uploaded adult Conor sheet, a few years younger - short beard starting to fill in, same fade haircut, athletic but not yet heavily muscular. Tattoo timeline is UNCONFIRMED: keep both arms, backs of the hands and neck covered (long sleeves, hoodie or high crew neck) so the image neither shows nor denies tattoos. Default outfit: plain black long-sleeve top or black hoodie, dark work trousers, black boots.
 
-PANEL 1 (TOP-LEFT): Medium shot: Conor offering a flyer to a shop owner in a doorway who waves him off politely; Conor smiling, sweat on his brow. Action frozen at its key moment: Shop owner shakes head; Conor gives a cheerful thumbs-up and moves on. Setting: Marbella shop doorway, afternoon, 2023.
-PANEL 2 (TOP-RIGHT): Medium-wide: Conor at a small Marbella workshop bay with customers' cars lined up outside in the sun, shaking hands with a customer. Action frozen at its key moment: Handshake; next car rolls up. Setting: Marbella workshop, 2024.
-PANEL 3 (BOTTOM-LEFT): Medium shot: Conor standing in the now-busier Marbella unit, arms crossed (signature pose), a car on a lift behind him and staff working. Action frozen at its key moment: He surveys the space with a satisfied nod. Setting: Marbella workshop, 2024.
-PANEL 4 (BOTTOM-RIGHT): Wide sunset shot: Conor sitting alone on a marina wall, looking out at the sea, tired but smiling; boats bobbing. Action frozen at its key moment: He leans back on his hands and breathes. Setting: Marbella marina, sunset, 2024.
+PANEL 1 (LEFT): Medium shot: Conor plugged into a customer's car in a small shed at night, laptop open, a modest stack of job sheets beside him. Key moment: He clicks to write the file and holds his breath. Setting: Home workshop, night.
+PANEL 2 (CENTRE): Medium shot: Conor holding his phone up filming a freshly tuned car's exhaust, then turning the camera to himself. Key moment: He films, then flips the camera to selfie mode and talks. Setting: Home workshop yard.
+PANEL 3 (RIGHT): Close-up: Conor at night refreshing his phone; a follower counter shape ticks up (no legible numbers); a small smile. Key moment: He refreshes again and grins. Setting: Conor's bedroom, night.
 
-STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effect lettering, no panel numbers, no logos, no brand badges, no legible number plates or signs, no watermarks, no signature. Faces must stay identical across every panel. Correct hands with five fingers, natural anatomy. Period-correct vehicles and technology for the year stated. No palm trees or sunshine in Irish or English scenes. Do not add any person who is not listed.
+STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effect lettering, no panel numbers, no logos, no brand badges, no legible number plates or signs, no watermarks, no signature. Faces must stay identical across every panel and match the uploaded reference sheets. Correct hands with five fingers, natural anatomy. Period-correct vehicles and technology for the year stated. No palm trees or sunshine in Irish or English scenes. Do not add any named person who is not listed; extras stay anonymous background figures.

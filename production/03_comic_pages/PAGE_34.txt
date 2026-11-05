@@ -1,0 +1,20 @@
+Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (CC Marbella Rentals, Marbella, 2026 (with a 2017 memory)).
+
+STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
+
+LAYOUT: landscape 3:2 page (1536x1024). Three equal tall vertical panels side by side, read left to right, each framed as a 9:16 vertical film shot. Thin black panel borders, slim white gutters, white page margin.
+
+COLOUR GRADE: Polished golden hour with glossy reflections; the Civic memory in the CH01 grey grade.
+
+REFERENCE IMAGES ATTACHED: references/conor-character-sheet.png, references/fleet/ (approved CC Marbella Rentals vehicle images). These comic sheets are the ONLY identity references. Do not redesign anyone.
+
+CHARACTERS ON THIS PAGE (keep identical in every panel):
+- ADULT CONOR (Marbella and Dubai, 2024-2026): exactly the man on the uploaded Conor character sheet - same face, fade haircut, full short beard, neck tattoos, tattoo sleeves on both arms, muscular build, dark wristwatch on the left wrist. Default outfit: fitted plain black t-shirt or black hoodie; sunglasses only where stated.
+- BACKGROUND EXTRAS: ordinary anonymous people (customers, coworkers, team members, crowds), realistic varied ages, simple clothing, never more detailed than the main characters, faces never close to camera, never named.
+- CC MARBELLA RENTALS FLEET: draw each vehicle ONLY from the uploaded approved fleet images (BMW X5 M Competition, McLaren GT, Porsche Panamera GTS, BMW M2, Volkswagen Golf R). Keep their real body shapes and colours as in the images; no visible badges or plates; do not invent other models.
+
+PANEL 1 (LEFT): Medium shot: the BMW M2 and Golf R from the approved fleet images, Conor tossing a key in his hand between them. Key moment: He tosses and catches the key. Setting: Marbella, 2026.
+PANEL 2 (CENTRE): Close-up: Conor's tattooed hand placing a modern key fob into a customer's palm - framed to echo S003. Key moment: The key drops into the customer's hand. Setting: Rental forecourt, 2026.
+PANEL 3 (RIGHT): Medium shot: Conor in sunglasses leaning on a fleet car, arms crossed, looking at camera - the confident pose from the character sheet. Key moment: He lowers his sunglasses slightly and half-smiles. Setting: Marbella, 2026.
+
+STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effect lettering, no panel numbers, no logos, no brand badges, no legible number plates or signs, no watermarks, no signature. Faces must stay identical across every panel and match the uploaded reference sheets. Correct hands with five fingers, natural anatomy. Period-correct vehicles and technology for the year stated. No palm trees or sunshine in Irish or English scenes. Do not add any named person who is not listed; extras stay anonymous background figures.
