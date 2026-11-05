@@ -38,6 +38,7 @@ REFERENCES = {
     "MOTHER": "references/mother-character-sheet.png",
     "ARLIND": "references/arlind-character-sheet.png",
     "FLEET": "references/fleet/ (approved CC Marbella Rentals vehicle images)",
+    "STYLE": "references/style/page-01-approved.png",
 }
 
 TATTOO_RULE = (
@@ -52,7 +53,7 @@ CHARACTERS = {
         "softer fuller cheeks, smooth young skin, at most faint fuzz on the upper lip - NO beard. Short dark-brown hair, "
         "short faded sides, textured top pushed up and forward (same silhouette as the sheet, less groomed). Lean wiry "
         "build. No extensive modern tattoos: " + TATTOO_RULE + " Default outfit: faded navy work trousers, plain "
-        "dark-grey long-sleeve work top, scuffed black safety boots."
+        "charcoal-black long-sleeve work top with ribbed cuffs (as on approved Page 01), scuffed black safety boots."
     ),
     "C2": (
         "CONOR (2019-2023, early twenties): the same face as the uploaded adult Conor sheet, a few years younger - short "
@@ -204,13 +205,15 @@ S("CH01", "2017. I got a job at Global Tyres, and I loved it. Cars, tools, getti
   "Conor strides across the wet yard toward the open shutter, eager.",
   "Conor walks into frame; drizzle falls; puddle ripples; breath vapour; fluorescent light flickers on inside.",
   "Slow lateral track left-to-right.", "Drizzle, distant traffic, a radio inside the workshop.",
-  note="Business name heard in narration only; no signage drawn."),
+  note="Business name heard in narration only; no signage drawn.",
+  frame="9:16 vertical, 24mm, eye level. Flat grey sky in the top quarter; the plain workshop unit across the middle third with its open roller shutter glowing warm in the centre; young Conor small in the lower-middle third, mid-stride across the wet yard toward the shutter, seen three-quarter from behind; a puddle in the bottom foreground reflecting the shutter light. Stacked used tyres to the left of the door."),
 S("CH01", "School? Not so much. I loved the work so much that my attendance fell apart.",
   ["EX"], "Medium shot: a classroom with one conspicuously empty desk by the window - the empty chair is the joke.",
   "Irish secondary-school classroom, 2017",
   "Classmates sit working; the empty desk sits in a shaft of grey light.",
   "Classmates' pens move; a page turns; rain trickles down the window behind the empty desk.",
   "Slow push toward the empty desk.", "Pencil scratches, rain on glass, muffled teacher murmur (unintelligible).",
+  frame="9:16 vertical, 35mm, slightly high angle from the back corner of the room. The single empty desk and chair sit dead centre in a shaft of grey window light; the rain-streaked window fills the right edge top to bottom; anonymous classmates seen from behind or in profile at the left edge and bottom corners, soft and unidentifiable. Muted greys and navy jumpers.",
   mus="Light pizzicato."),
 S("CH01", "Eventually, the school made the decision for me. I got kicked out.",
   ["YC"], "Medium-wide: young Conor walking out through the school gates with his bag over one shoulder, half sheepish, half relieved.",
@@ -218,13 +221,15 @@ S("CH01", "Eventually, the school made the decision for me. I got kicked out.",
   "He glances back once at the building, shrugs, and walks on.",
   "Walk cycle; glance back; shrug; leaves blow across the path.",
   "Static wide, slight follow pan.", "Gate clang, wind, a school bell in the distance.",
+  frame="9:16 vertical, 35mm, camera on the footpath outside the open school gates. Young Conor centre frame from the knees up, walking toward camera, school bag over one shoulder, glancing back over the other shoulder with a half-sheepish half-relieved expression; black iron gate bars frame both edges; the plain school building soft and grey in the top third; a few leaves blowing across the path.",
   note="School not named; no signage.", hold=0.5),
 S("CH01", "I was too young to drive, so my father drove me to work. Six days a week.",
   ["YC", "FA"], "Medium two-shot through the windscreen of the father's car: father driving, young Conor in the passenger seat in his work top, wipers mid-sweep, dark blue pre-dawn outside.",
   "Irish country road, pre-dawn, 2017",
   "Father drives with both hands on the wheel; Conor yawns, hands tucked into his sleeves.",
   "Wipers sweep; passing streetlight glows slide across faces; Conor's yawn; dashboard glow.",
-  "Static bonnet-mount view, gentle road vibration.", "Engine drone, wipers, low radio, heater fan."),
+  "Static bonnet-mount view, gentle road vibration.", "Engine drone, wipers, low radio, heater fan.",
+  frame="9:16 vertical, 35mm, looking in through the windscreen from just above the bonnet. Irish right-hand-drive car: the father in the RIGHT-hand seat, which appears on the LEFT of the frame from this view - his face in the upper-left third, both hands on the wheel. Young Conor in the passenger seat on the right of frame, slightly lower and deeper, mid-yawn, hands in his sleeves. A wiper blade cuts diagonally across the lower third; dark blue pre-dawn outside, dashboard glow lighting both faces from below."),
 S("CH01", "",
   ["YC", "FA"], "Wide shot: the father's car stopped outside the tyre workshop at dawn, headlights on; young Conor climbing out with his lunch bag, father visible through the windscreen.",
   "Outside Global Tyres, dawn, 2017",

@@ -1,16 +1,16 @@
 # THE IRISH GRAFT - PART 1  (v0.4)
-## PAGE 01 - Visual Quality Test
+## PAGE 01 - Generation Package
 
-Status: **ready to generate - awaiting approval of the result before Page 02 is prepared.**
+Status: **APPROVED** - official visual style reference for the whole documentary (`references/style/page-01-approved.png`).
 
-Chapter: Cold Open - shots S001-S003 - 3 panels - 0:21 of screen time.
+Chapter: Cold Open - shots S001-S003 - 3 panels (landscape 3:2, three tall panels) - 0:21 of screen time.
 
 ### 1. Required references (upload in this order, in one message with the prompt)
 
-1. `references/conor-character-sheet.png`
-2. `references/fleet/ (approved CC Marbella Rentals vehicle images)`
+1. `references/conor-character-sheet.png` - Conor comic character sheet
+2. `references/fleet/ (approved CC Marbella Rentals vehicle images)` - approved CC Marbella Rentals fleet vehicle images (if attached)
 
-If the fleet images are not ready yet, generate without them: the prompt tells the model to keep the cars as soft, unbadged background shapes. Regenerate panel 1 later with the approved fleet images.
+If the fleet images are not ready, generate without them: the prompt keeps the cars as soft, unbadged background shapes. Regenerate those frames later with the approved fleet images.
 
 ### 2. Shot descriptions
 
@@ -67,7 +67,7 @@ REFERENCE IMAGES ATTACHED (in upload order): Image 1 - Conor comic character she
 
 CHARACTERS ON THIS PAGE (keep identical in every panel):
 - ADULT CONOR (Marbella and Dubai, 2024-2026): exactly the man on the uploaded Conor character sheet - same face, fade haircut, full short beard, neck tattoos, tattoo sleeves on both arms, muscular build, dark wristwatch on the left wrist. Default outfit: fitted plain black t-shirt or black hoodie; sunglasses only where stated.
-- YOUNG CONOR (2017-2019, late teens): derived from the uploaded adult Conor sheet and clearly the same person, de-aged. Same strong straight brows, deep-set eyes, straight nose, defined jaw and chin, slightly prominent ears; softer fuller cheeks, smooth young skin, at most faint fuzz on the upper lip - NO beard. Short dark-brown hair, short faded sides, textured top pushed up and forward (same silhouette as the sheet, less groomed). Lean wiry build. No extensive modern tattoos: Tattoo timeline is UNCONFIRMED: keep both arms, backs of the hands and neck covered (long sleeves, hoodie or high crew neck) so the image neither shows nor denies tattoos. Default outfit: faded navy work trousers, plain dark-grey long-sleeve work top, scuffed black safety boots.
+- YOUNG CONOR (2017-2019, late teens): derived from the uploaded adult Conor sheet and clearly the same person, de-aged. Same strong straight brows, deep-set eyes, straight nose, defined jaw and chin, slightly prominent ears; softer fuller cheeks, smooth young skin, at most faint fuzz on the upper lip - NO beard. Short dark-brown hair, short faded sides, textured top pushed up and forward (same silhouette as the sheet, less groomed). Lean wiry build. No extensive modern tattoos: Tattoo timeline is UNCONFIRMED: keep both arms, backs of the hands and neck covered (long sleeves, hoodie or high crew neck) so the image neither shows nor denies tattoos. Default outfit: faded navy work trousers, plain charcoal-black long-sleeve work top with ribbed cuffs (as on approved Page 01), scuffed black safety boots.
 - CC MARBELLA RENTALS FLEET: draw each vehicle ONLY from the uploaded approved fleet images (BMW X5 M Competition, McLaren GT, Porsche Panamera GTS, BMW M2, Volkswagen Golf R). Keep their real body shapes and colours as in the images; no visible badges or plates; do not invent other models. If no fleet images are attached, draw the cars only as soft-focus, unbadged, generic modern performance-car shapes in the background.
 
 PANEL 1 (LEFT): Medium-wide, low angle: adult Conor walks toward camera along a row of gleaming rental cars, white villa and sea behind. Key moment: Conor walks with calm confidence, key fob in his left hand (watch wrist), sunglasses pushed up on his head. Setting: Marbella seafront, golden hour, 2026. COMPOSITION: 9:16 vertical, 28mm lens, camera at hip height looking slightly up. Conor full-figure in the centre column, head in the upper third, feet near the bottom edge; the row of cars recedes diagonally from lower-left to mid-right; white villa and a thin band of sea across the top quarter; low sun behind him camera-right giving a warm rim light on his shoulders and hair. Cars kept slightly soft so his face stays the focal point.
@@ -79,36 +79,31 @@ STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effe
 
 ### 4. Keeping the characters consistent
 
-- Start a **fresh ChatGPT conversation** for the test page so no earlier images influence it.
-- Upload the reference files first, then paste the prompt in the same message.
-- Judge the face first. If Conor drifts, do not re-roll from scratch; reply: *"Keep the layout, lighting and colours exactly the same. Correct only Conor's face to match the uploaded character sheet: brows, deep-set eyes, nose, jaw, ears, beard line and fade haircut."*
-- Fix one problem per follow-up message (face, then hands, then any stray text). Several fixes at once usually makes the whole page drift.
-- Young Conor's hand (panel 3) must show no tattoos and a covered wrist; adult Conor's hand (panel 2) must show his sleeve tattoos and the watch.
-- Once approved, this page becomes the **style anchor**: upload it alongside the character sheet for every later page, so line weight, colour and shading stay identical.
+- Start a **fresh ChatGPT conversation** for each page; upload the references first, then paste the prompt in the same message.
+- This page defines the style for the whole film.
+- Judge faces first. If one drifts, keep everything else: *"Keep the layout, lighting and colours exactly the same. Correct only <character>'s face to match the uploaded reference."*
+- Fix one problem per follow-up message (face, then hands, then stray text). Several fixes at once usually makes the page drift.
 
-### 5. Separating the panels into animation-ready frames
+### 5. Page-specific notes
 
-The page is a planning asset. Each panel is regenerated as its own full-resolution frame, using the approved page as the layout and style reference; panels are never cropped from the page (too low resolution, and the borders and gutters would show).
+Approved as generated. Refinements for the 9:16 frame stage only (no page regeneration needed):
+- Match cut: in the approved page the old key sits higher and further right than the fob. When generating the S003 frame, place the key at the fob's position/angle from the S002 frame, using the same hand (left) and grip.
+- S001: cars are generic placeholders (fleet images were not attached). Regenerate the S001 frame with the approved fleet images.
+- S001: keep only the watch on the left wrist, as on the character sheet; drop the extra band on the right wrist.
+- S002: the fob's button icons are acceptable pictograms; keep them free of any lettering or logo.
 
-**Frame size.** ChatGPT's tallest output is usually 2:3 (1024x1536), not 9:16. Generate each frame at 1024x1536 with the action kept inside the centre 864x1536 strip, crop to that strip (exactly 9:16), then upscale x1.25 to 1080x1920 (or x2.5 to 2160x3840 for a 4K master). If your tool offers native 9:16, use it and skip the crop.
+### 6. Separating the panels into animation-ready frames
 
-**Frame prompt per panel:** `Using the attached approved Page 01 as the style and layout reference, create a single full-bleed vertical frame of PANEL <n> only - no borders, no other panels. <panel text from section 3>`
+Each panel is regenerated as its own full-resolution frame, using the approved page as the layout and style reference; panels are never cropped from the page.
 
-| Panel | Shot | Key frames to generate | Layers | Motion (character/environment) | Camera | Match/continuity |
+**Frame size:** generate at 1024x1536 (ChatGPT's tallest size) with the action inside the centre 864x1536 strip, crop to that strip (exactly 9:16), then upscale to 1080x1920 (or 2160x3840 for a 4K master). Use native 9:16 if your tool offers it.
+
+**Frame prompt per panel:** `Using the attached approved Page 01 as the style and layout reference, create a single full-bleed vertical frame of PANEL <n> only - no borders, no other panels. <panel text from section 3>` (upload the same character references as for the page).
+
+| Panel | Shot | Key frames | Layers | Motion (character/environment) | Camera | Continuity |
 |---|---|---|---|---|---|---|
-| 1 | S001 | 2: START (mid-stride, left foot forward, 3 m away) and END (closer, right foot forward, a step nearer camera) | BG plate (villa, sea, sky, cars) + Conor cut-out | Walk cycle, fob swing, glints sliding across car paint, palm fronds, heat shimmer | Backward dolly matched to his walk; parallax between car row and villa from the layer split | Fob carried in the left (watch) hand to set up panel 2 |
-| 2 | S002 | 1 (hand mid-turn) + optional END (fob rotated ~30 degrees) | Single frame; bokeh can be a separate soft layer | Fingers rotate the fob; tendons move; bokeh drifts | Locked off with a tiny handheld float | Defines the match-cut anchor: record the fob's exact X/Y position and angle |
-| 3 | S003 | 2: START (hand open, key resting on palm) and END (hand closed around key) | Single frame + separate rain-on-glass overlay | Fingers close; rain runs down glass; breath fog blooms | Locked off | Key centred at the same X/Y and angle as panel 2's fob, so the cut lands on the same spot; title card added in edit |
+| 1 | S001 | 2: START (mid-stride, left foot forward) and END (a step nearer camera, right foot forward) | BG plate (villa, sea, sky, cars) + Conor cut-out | Walk cycle, fob swing, glints sliding across car paint, palm fronds, heat shimmer | Backward dolly matched to his walk; parallax from the layer split | Fob carried in the left (watch) hand to set up panel 2 |
+| 2 | S002 | 1 (hand mid-turn) + optional END (fob rotated ~30 degrees) | Single frame; bokeh as a separate soft layer | Fingers rotate the fob; tendons move; bokeh drifts | Locked off with a tiny handheld float | Defines the match-cut anchor: record the fob's exact X/Y position and angle |
+| 3 | S003 | 2: START (hand open, key on palm) and END (hand closed around key) | Single frame + rain-on-glass overlay | Fingers close; rain runs down the glass; breath fog blooms | Locked off | Key at the same X/Y and angle as the fob in panel 2; title card added in edit |
 
-Movement is animated from these key frames with image-to-video (start/end frames), so motion comes from the subject and environment, not from zooming into a still.
-
-### 6. Approval checklist for Page 01
-
-- [ ] Reads as a premium hand-inked graphic novel (line variation, spot blacks, hatching), not glossy AI art
-- [ ] Adult Conor matches the sheet: face, beard, haircut, tattoos, watch
-- [ ] Panel 3 hand reads as younger, untattooed, wrist covered
-- [ ] Key in panel 3 sits where the fob sits in panel 2 (match cut works)
-- [ ] Each panel holds up as a 9:16 shot on its own
-- [ ] Warm Marbella grade (panels 1-2) vs cold Irish grade (panel 3) clearly contrasted
-- [ ] No text, logos, badges, plates or watermarks
-- [ ] Hands anatomically correct (five fingers, natural grip)
+Movement is animated from these key frames with image-to-video (start/end frames): motion comes from the subject and environment, not from zooming into a still.

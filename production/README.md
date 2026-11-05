@@ -11,7 +11,7 @@ Narration: 1707 words, ~11:23 spoken at 150 wpm (77% density). The rest is breat
 | `02_master_storyboard.md` | 2 | Every shot: chapter, duration, timecode, VO, characters, composition, location, action, animation, camera, SFX, music |
 | `03_comic_pages.md` + `03_comic_pages/PAGE_XX.txt` | 3 | One complete ChatGPT prompt per page (3-5 panels), required uploads, approval table |
 | `04_animation_prep.md` | 4 | Per-shot 9:16 key-frame list and motion brief - use only after page approval |
-| `05_page_tests/PAGE_01_PACKAGE.md` | 3 | Page 01 visual quality test: shots, prompt, references, 9:16 framing, consistency and frame-separation plan |
+| `05_page_tests/PAGE_XX_PACKAGE.md` | 3 | Released pages only (Page 01 approved, Page 02 ready): shots, prompt, references, 9:16 framing, consistency and frame-separation plan |
 | `storyboard_data.py` / `build.py` | - | Single source of truth; edit data, run `python3 production/build.py` to regenerate everything |
 
 ## Reference files
@@ -20,10 +20,11 @@ Narration: 1707 words, ~11:23 spoken at 150 wpm (77% density). The rest is breat
 - **MOTHER** - `references/mother-character-sheet.png`
 - **ARLIND** - `references/arlind-character-sheet.png`
 - **FLEET** - `references/fleet/ (approved CC Marbella Rentals vehicle images)`
+- **STYLE** - `references/style/page-01-approved.png`
 
 ## Character designs
 
-- **YC** - YOUNG CONOR (2017-2019, late teens): derived from the uploaded adult Conor sheet and clearly the same person, de-aged. Same strong straight brows, deep-set eyes, straight nose, defined jaw and chin, slightly prominent ears; softer fuller cheeks, smooth young skin, at most faint fuzz on the upper lip - NO beard. Short dark-brown hair, short faded sides, textured top pushed up and forward (same silhouette as the sheet, less groomed). Lean wiry build. No extensive modern tattoos: Tattoo timeline is UNCONFIRMED: keep both arms, backs of the hands and neck covered (long sleeves, hoodie or high crew neck) so the image neither shows nor denies tattoos. Default outfit: faded navy work trousers, plain dark-grey long-sleeve work top, scuffed black safety boots.
+- **YC** - YOUNG CONOR (2017-2019, late teens): derived from the uploaded adult Conor sheet and clearly the same person, de-aged. Same strong straight brows, deep-set eyes, straight nose, defined jaw and chin, slightly prominent ears; softer fuller cheeks, smooth young skin, at most faint fuzz on the upper lip - NO beard. Short dark-brown hair, short faded sides, textured top pushed up and forward (same silhouette as the sheet, less groomed). Lean wiry build. No extensive modern tattoos: Tattoo timeline is UNCONFIRMED: keep both arms, backs of the hands and neck covered (long sleeves, hoodie or high crew neck) so the image neither shows nor denies tattoos. Default outfit: faded navy work trousers, plain charcoal-black long-sleeve work top with ribbed cuffs (as on approved Page 01), scuffed black safety boots.
 - **C2** - CONOR (2019-2023, early twenties): the same face as the uploaded adult Conor sheet, a few years younger - short beard starting to fill in, same fade haircut, athletic but not yet heavily muscular. Tattoo timeline is UNCONFIRMED: keep both arms, backs of the hands and neck covered (long sleeves, hoodie or high crew neck) so the image neither shows nor denies tattoos. Default outfit: plain black long-sleeve top or black hoodie, dark work trousers, black boots.
 - **AC** - ADULT CONOR (Marbella and Dubai, 2024-2026): exactly the man on the uploaded Conor character sheet - same face, fade haircut, full short beard, neck tattoos, tattoo sleeves on both arms, muscular build, dark wristwatch on the left wrist. Default outfit: fitted plain black t-shirt or black hoodie; sunglasses only where stated.
 - **KC** - CHILD CONOR (flashback only, around 8-10 years old): derived from the uploaded Conor sheet - same brows, deep-set eyes, ears and hair colour in a child's soft rounded face; messy short dark-brown hair; plain t-shirt, shorts, scuffed runners. No tattoos.

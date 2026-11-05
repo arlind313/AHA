@@ -149,13 +149,17 @@ for f in os.listdir(os.path.join(HERE, "03_comic_pages")):
 REF_LABEL = {D.REFERENCES["CONOR"]: "Conor comic character sheet",
              D.REFERENCES["MOTHER"]: "Conor's mother comic character sheet",
              D.REFERENCES["ARLIND"]: "Arlind comic character sheet",
-             D.REFERENCES["FLEET"]: "approved CC Marbella Rentals fleet vehicle images (if attached)"}
+             D.REFERENCES["FLEET"]: "approved CC Marbella Rentals fleet vehicle images (if attached)",
+             D.REFERENCES["STYLE"]: "APPROVED PAGE 01 - official style reference"}
+APPROVED_PAGES = [1]
 
 
 def refs_for(codes, shots):
     r = []
     if {"KC", "YC", "C2", "AC"} & set(codes):
         r.append(D.REFERENCES["CONOR"])
+    if shots[0]["page"] != 1:
+        r.append(D.REFERENCES["STYLE"])
     if "MO" in codes:
         r.append(D.REFERENCES["MOTHER"])
     if "AR" in codes:
@@ -172,7 +176,7 @@ index = [f"# THE IRISH GRAFT - PART 1  ({VERSION})", "## 03 - Comic Storyboard P
          "3. If a face drifts, reply: \"Keep everything the same but match the faces exactly to the uploaded sheets\" rather than regenerating from scratch.",
          "4. Save as `PAGE_XX.png` and tick it off in the approval table at the end.", "",
          "Pages are planning assets, not final frames. Final 9:16 frames are prepared in 04_animation_prep.md after approval.", "",
-         "**Generation order:** only Page 01 is cleared for generation (see `05_page_tests/PAGE_01_PACKAGE.md`). Each later page is released one at a time after the previous page is approved.", ""]
+         "**Generation order:** Page 01 is APPROVED (official style reference); Page 02 is released (see `05_page_tests/`). Each later page is released one at a time after the previous page is approved.", ""]
 for n, shots in enumerate(PAGES, 1):
     chs = list(dict.fromkeys(s["ch"] for s in shots))
     codes = list(dict.fromkeys(c for s in shots for c in s["chars"]))
@@ -184,7 +188,10 @@ for n, shots in enumerate(PAGES, 1):
          "", "STYLE: " + D.STYLE, "", layout + BORDER, "",
          "COLOUR GRADE: " + " ".join(CH[c]["grade"] for c in chs), "",
          "REFERENCE IMAGES ATTACHED (in upload order): " + ("; ".join(f"Image {i} - {REF_LABEL[r]}" for i, r in enumerate(refs, 1)) if refs else "none needed for this page") +
-         ". The comic character sheets are the ONLY identity references. Do not redesign anyone.", "",
+         ". The comic character sheets are the ONLY identity references. Do not redesign anyone." +
+         (" STYLE ANCHOR: match the approved Page 01 exactly - same ink line weight, hatching, spot blacks, cel shading, "
+          "colour handling, paper texture and level of finish. Use it for style only; do not copy its content."
+          if D.REFERENCES["STYLE"] in refs else ""), "",
          "CHARACTERS ON THIS PAGE (keep identical in every panel):"]
     p += ["- " + D.CHARACTERS[c] for c in codes]
     if "Civic" in text:
@@ -291,7 +298,7 @@ rd = [f"# THE IRISH GRAFT - PART 1 - Production Blueprint ({VERSION}, awaiting a
       "| `02_master_storyboard.md` | 2 | Every shot: chapter, duration, timecode, VO, characters, composition, location, action, animation, camera, SFX, music |",
       "| `03_comic_pages.md` + `03_comic_pages/PAGE_XX.txt` | 3 | One complete ChatGPT prompt per page (3-5 panels), required uploads, approval table |",
       "| `04_animation_prep.md` | 4 | Per-shot 9:16 key-frame list and motion brief - use only after page approval |",
-      "| `05_page_tests/PAGE_01_PACKAGE.md` | 3 | Page 01 visual quality test: shots, prompt, references, 9:16 framing, consistency and frame-separation plan |",
+      "| `05_page_tests/PAGE_XX_PACKAGE.md` | 3 | Released pages only (Page 01 approved, Page 02 ready): shots, prompt, references, 9:16 framing, consistency and frame-separation plan |",
       "| `storyboard_data.py` / `build.py` | - | Single source of truth; edit data, run `python3 production/build.py` to regenerate everything |", "",
       "## Reference files", ""]
 rd += [f"- **{k}** - `{v}`" for k, v in D.REFERENCES.items()]
@@ -311,90 +318,109 @@ print(f"OK {VERSION}: {len(CH)} chapters, {len(D.SHOTS)} shots, {len(PAGES)} pag
       f"(sizes {[len(p) for p in PAGES]}), runtime {mmss(TOTAL)}, narration {TW} words (~{mmss(SPOKEN)}, "
       f"{SPOKEN / TOTAL:.0%}), {KF_TOTAL} key frames, {N_CONFIRM} shot-level CONFIRM flags")
 
-# --------------------------------------------------------------------------- page quality-test packages
-TEST_PAGES = [1]  # pages cleared for generation; add the next page only after approval
+
+# --------------------------------------------------------------------------- page packages (released one at a time)
+RELEASED_PAGES = [1, 2]  # 1 = approved; add the next page only after the previous one is approved
+PAGE_EXTRA = {
+    1: dict(
+        status="**APPROVED** - official visual style reference for the whole documentary (`references/style/page-01-approved.png`).",
+        plans={0: ("2: START (mid-stride, left foot forward) and END (a step nearer camera, right foot forward)",
+                   "BG plate (villa, sea, sky, cars) + Conor cut-out",
+                   "Walk cycle, fob swing, glints sliding across car paint, palm fronds, heat shimmer",
+                   "Backward dolly matched to his walk; parallax from the layer split",
+                   "Fob carried in the left (watch) hand to set up panel 2"),
+               1: ("1 (hand mid-turn) + optional END (fob rotated ~30 degrees)", "Single frame; bokeh as a separate soft layer",
+                   "Fingers rotate the fob; tendons move; bokeh drifts", "Locked off with a tiny handheld float",
+                   "Defines the match-cut anchor: record the fob's exact X/Y position and angle"),
+               2: ("2: START (hand open, key on palm) and END (hand closed around key)", "Single frame + rain-on-glass overlay",
+                   "Fingers close; rain runs down the glass; breath fog blooms", "Locked off",
+                   "Key at the same X/Y and angle as the fob in panel 2; title card added in edit")},
+        notes=["Approved as generated. Refinements for the 9:16 frame stage only (no page regeneration needed):",
+               "- Match cut: in the approved page the old key sits higher and further right than the fob. When generating the S003 frame, place the key at the fob's position/angle from the S002 frame, using the same hand (left) and grip.",
+               "- S001: cars are generic placeholders (fleet images were not attached). Regenerate the S001 frame with the approved fleet images.",
+               "- S001: keep only the watch on the left wrist, as on the character sheet; drop the extra band on the right wrist.",
+               "- S002: the fob's button icons are acceptable pictograms; keep them free of any lettering or logo."],
+        checklist=[]),
+    2: dict(
+        status="**Ready to generate** - awaiting approval before Page 03 is prepared.",
+        plans={0: ("2: START (Conor entering frame) and END (Conor near the shutter)", "BG plate (unit, sky, yard) + Conor cut-out + rain overlay",
+                   "Walk cycle, drizzle, puddle ripples, breath vapour, shutter light flickering on", "Slow lateral track using the layer parallax", ""),
+               1: ("1", "Single frame + rain-on-glass overlay", "Classmates' pens and page turns, rain trickling behind the empty desk",
+                   "Slow push toward the empty desk (motivated, with real motion in the room)", "No identifiable classmate faces"),
+               2: ("2: START (glancing back) and END (facing forward, mid-shrug)", "BG (gate, school) + Conor cut-out",
+                   "Walk, glance back, shrug, leaves blowing", "Static, slight follow pan", ""),
+               3: ("1 + optional END (Conor mid-yawn)", "Car interior frame + separate windscreen/wiper and rain overlay",
+                   "Wiper sweeps, streetlight glows sliding across faces, Conor's yawn, dashboard glow", "Static with gentle road vibration",
+                   "Establishes the father's design and car for every later appearance")},
+        notes=["First appearance of the FATHER and his car. Once this page is approved, upload it as the father's reference for every later page he appears on (he has no character sheet).",
+               "Ireland is right-hand drive: the father must sit in the right-hand seat (left of frame when seen through the windscreen)."],
+        checklist=["Young Conor is clearly the same person as the adult sheet, de-aged, no beard, no visible tattoos, charcoal-black long-sleeve top",
+                   "Father matches his written design (stocky, early fifties, grey-flecked receding hair, navy gilet, check shirt) and reads as a real person, not a stock face",
+                   "Father drives from the right-hand seat; the car is a plain dark-green early-2000s estate with no badges",
+                   "Cold, desaturated Irish 2017 grade throughout; no sunshine, no palm trees",
+                   "School and workshop have no signage, logos or legible text",
+                   "Classroom extras stay anonymous (backs/profiles, soft focus)"]),
+}
+COMMON_CHECKS = ["Style matches the approved Page 01: hand-inked line variation, spot blacks, hatching, cel shading, paper texture",
+                 "Each panel holds up as a 9:16 shot on its own", "No text, logos, badges, plates or watermarks",
+                 "Hands anatomically correct (five fingers, natural grip)"]
 os.makedirs(os.path.join(HERE, "05_page_tests"), exist_ok=True)
-for n in TEST_PAGES:
+for n in RELEASED_PAGES:
     shots = PAGES[n - 1]
+    ex = PAGE_EXTRA.get(n, {})
     codes = list(dict.fromkeys(c for s in shots for c in s["chars"]))
     refs = refs_for(codes, shots)
     prompt = open(os.path.join(HERE, "03_comic_pages", f"PAGE_{n:02d}.txt")).read().strip()
-    layout_n = len(shots)
-    o = [f"# THE IRISH GRAFT - PART 1  ({VERSION})", f"## PAGE {n:02d} - Visual Quality Test",
-         "", "Status: **ready to generate - awaiting approval of the result before Page "
-         f"{n + 1:02d} is prepared.**", "",
+    o = [f"# THE IRISH GRAFT - PART 1  ({VERSION})", f"## PAGE {n:02d} - Generation Package", "",
+         "Status: " + ex.get("status", "Ready to generate."), "",
          f"Chapter: {', '.join(dict.fromkeys(CH[s['ch']]['title'] for s in shots))} - shots {shots[0]['id']}-{shots[-1]['id']} "
-         f"- {layout_n} panels - {mmss(sum(s['dur'] for s in shots))} of screen time.", "",
+         f"- {len(shots)} panels ({'landscape 3:2, three tall panels' if len(shots) == 3 else 'portrait 2:3, 2x2 grid' if len(shots) == 4 else 'portrait 2:3, 2+3 panels'}) "
+         f"- {mmss(sum(s['dur'] for s in shots))} of screen time.", "",
          "### 1. Required references (upload in this order, in one message with the prompt)", ""]
     for i, r in enumerate(refs, 1):
-        o.append(f"{i}. `{r}`")
-    o += ["", "If the fleet images are not ready yet, generate without them: the prompt tells the model to keep the cars "
-          "as soft, unbadged background shapes. Regenerate panel 1 later with the approved fleet images.", "",
-          "### 2. Shot descriptions", ""]
+        o.append(f"{i}. `{r}` - {REF_LABEL[r]}")
+    if not refs:
+        o.append("None.")
+    if D.REFERENCES["FLEET"] in refs:
+        o += ["", "If the fleet images are not ready, generate without them: the prompt keeps the cars as soft, unbadged "
+              "background shapes. Regenerate those frames later with the approved fleet images."]
+    o += ["", "### 2. Shot descriptions", ""]
     for k, s in enumerate(shots, 1):
         vo = f'"{s["vo"]}"' if s["vo"] else "(none)"
         o += [f"**Panel {k} - {s['id']}** ({fmt_dur(s['dur'])}, TC {mmss(s['start'])}-{mmss(s['start'] + s['dur'])})", "",
-              f"- Voice-over: {vo}",
-              f"- Characters: {', '.join(NAMES[c] for c in s['chars'])}",
-              f"- Composition: {s['comp']}",
-              f"- Intended 9:16 composition: {s['frame'] or 'see composition'}",
-              f"- Action: {s['act']}",
-              f"- Location / period: {s['loc']}",
-              f"- Camera: {s['cam']}",
-              f"- Sound: {s['sfx']}",
-              f"- Music: {s['mus'] or CH[s['ch']]['music']}"]
+              f"- Voice-over: {vo}", f"- Characters: {', '.join(NAMES[c] for c in s['chars'])}",
+              f"- Composition: {s['comp']}", f"- Intended 9:16 composition: {s['frame'] or 'see composition'}",
+              f"- Action: {s['act']}", f"- Location / period: {s['loc']}", f"- Camera: {s['cam']}",
+              f"- Sound: {s['sfx']}", f"- Music: {s['mus'] or CH[s['ch']]['music']}"]
         if s["note"]:
             o.append(f"- Note: {s['note']}")
         o.append("")
     o += ["### 3. The prompt (paste exactly)", "", "```", prompt, "```", "",
           "### 4. Keeping the characters consistent", "",
-          "- Start a **fresh ChatGPT conversation** for the test page so no earlier images influence it.",
-          "- Upload the reference files first, then paste the prompt in the same message.",
-          "- Judge the face first. If Conor drifts, do not re-roll from scratch; reply: *\"Keep the layout, lighting and "
-          "colours exactly the same. Correct only Conor's face to match the uploaded character sheet: brows, deep-set "
-          "eyes, nose, jaw, ears, beard line and fade haircut.\"*",
-          "- Fix one problem per follow-up message (face, then hands, then any stray text). Several fixes at once "
-          "usually makes the whole page drift.",
-          "- Young Conor's hand (panel 3) must show no tattoos and a covered wrist; adult Conor's hand (panel 2) must "
-          "show his sleeve tattoos and the watch.",
-          "- Once approved, this page becomes the **style anchor**: upload it alongside the character sheet for every "
-          "later page, so line weight, colour and shading stay identical.", "",
-          "### 5. Separating the panels into animation-ready frames", "",
-          "The page is a planning asset. Each panel is regenerated as its own full-resolution frame, using the approved "
-          "page as the layout and style reference; panels are never cropped from the page (too low resolution, and the "
-          "borders and gutters would show).", "",
-          "**Frame size.** ChatGPT's tallest output is usually 2:3 (1024x1536), not 9:16. Generate each frame at "
-          "1024x1536 with the action kept inside the centre 864x1536 strip, crop to that strip (exactly 9:16), then "
-          "upscale x1.25 to 1080x1920 (or x2.5 to 2160x3840 for a 4K master). If your tool offers native 9:16, use it "
-          "and skip the crop.", "",
-          "**Frame prompt per panel:** `Using the attached approved Page 01 as the style and layout reference, create a "
-          "single full-bleed vertical frame of PANEL <n> only - no borders, no other panels. <panel text from section 3>`", "",
-          "| Panel | Shot | Key frames to generate | Layers | Motion (character/environment) | Camera | Match/continuity |",
-          "|---|---|---|---|---|---|---|"]
-    plans = {
-        0: ("2: START (mid-stride, left foot forward, 3 m away) and END (closer, right foot forward, a step nearer camera)",
-            "BG plate (villa, sea, sky, cars) + Conor cut-out", "Walk cycle, fob swing, glints sliding across car paint, palm fronds, heat shimmer",
-            "Backward dolly matched to his walk; parallax between car row and villa from the layer split", "Fob carried in the left (watch) hand to set up panel 2"),
-        1: ("1 (hand mid-turn) + optional END (fob rotated ~30 degrees)", "Single frame; bokeh can be a separate soft layer",
-            "Fingers rotate the fob; tendons move; bokeh drifts", "Locked off with a tiny handheld float",
-            "Defines the match-cut anchor: record the fob's exact X/Y position and angle"),
-        2: ("2: START (hand open, key resting on palm) and END (hand closed around key)", "Single frame + separate rain-on-glass overlay",
-            "Fingers close; rain runs down glass; breath fog blooms", "Locked off",
-            "Key centred at the same X/Y and angle as panel 2's fob, so the cut lands on the same spot; title card added in edit"),
-    }
+          "- Start a **fresh ChatGPT conversation** for each page; upload the references first, then paste the prompt in the same message.",
+          "- The approved Page 01 is uploaded for STYLE only - its content must not be copied into this page." if n != 1 else
+          "- This page defines the style for the whole film.",
+          "- Judge faces first. If one drifts, keep everything else: *\"Keep the layout, lighting and colours exactly the same. "
+          "Correct only <character>'s face to match the uploaded reference.\"*",
+          "- Fix one problem per follow-up message (face, then hands, then stray text). Several fixes at once usually makes the page drift.", ""]
+    if ex.get("notes"):
+        o += ["### 5. Page-specific notes", ""] + ex["notes"] + [""]
+    o += ["### 6. Separating the panels into animation-ready frames", "",
+          "Each panel is regenerated as its own full-resolution frame, using the approved page as the layout and style "
+          "reference; panels are never cropped from the page.", "",
+          "**Frame size:** generate at 1024x1536 (ChatGPT's tallest size) with the action inside the centre 864x1536 strip, "
+          "crop to that strip (exactly 9:16), then upscale to 1080x1920 (or 2160x3840 for a 4K master). Use native 9:16 if your tool offers it.", "",
+          f"**Frame prompt per panel:** `Using the attached approved Page {n:02d} as the style and layout reference, create a single "
+          "full-bleed vertical frame of PANEL <n> only - no borders, no other panels. <panel text from section 3>` "
+          "(upload the same character references as for the page).", "",
+          "| Panel | Shot | Key frames | Layers | Motion (character/environment) | Camera | Continuity |", "|---|---|---|---|---|---|---|"]
     for k, s in enumerate(shots):
-        kf, layers, motion, cam, match = plans.get(k, ("1", "single", s["anim"], s["cam"], ""))
-        o.append(f"| {k + 1} | {s['id']} | {kf} | {layers} | {motion} | {cam} | {match} |")
-    o += ["", "Movement is animated from these key frames with image-to-video (start/end frames), so motion comes from the "
-          "subject and environment, not from zooming into a still.", "",
-          "### 6. Approval checklist for Page 01", "",
-          "- [ ] Reads as a premium hand-inked graphic novel (line variation, spot blacks, hatching), not glossy AI art",
-          "- [ ] Adult Conor matches the sheet: face, beard, haircut, tattoos, watch",
-          "- [ ] Panel 3 hand reads as younger, untattooed, wrist covered",
-          "- [ ] Key in panel 3 sits where the fob sits in panel 2 (match cut works)",
-          "- [ ] Each panel holds up as a 9:16 shot on its own",
-          "- [ ] Warm Marbella grade (panels 1-2) vs cold Irish grade (panel 3) clearly contrasted",
-          "- [ ] No text, logos, badges, plates or watermarks",
-          "- [ ] Hands anatomically correct (five fingers, natural grip)", ""]
+        default = (f"{keyframes(s)}", "single", s["anim"], s["cam"], "")
+        kf, layers, motion, cam, cont = ex.get("plans", {}).get(k, default)
+        o.append(f"| {k + 1} | {s['id']} | {kf} | {layers} | {motion} | {cam} | {cont} |")
+    o += ["", "Movement is animated from these key frames with image-to-video (start/end frames): motion comes from the "
+          "subject and environment, not from zooming into a still.", ""]
+    if n not in APPROVED_PAGES:
+        o += [f"### 7. Approval checklist for Page {n:02d}", ""] + [f"- [ ] {c}" for c in ex.get("checklist", []) + COMMON_CHECKS] + [""]
     open(os.path.join(HERE, "05_page_tests", f"PAGE_{n:02d}_PACKAGE.md"), "w").write("\n".join(o))
-print(f"Page test packages written: {TEST_PAGES}")
+print(f"Page packages written: {RELEASED_PAGES} (approved: {APPROVED_PAGES})")
