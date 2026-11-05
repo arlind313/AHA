@@ -1,0 +1,6 @@
+out/picture.mp4
+out/temp_sound.wav
+out/_*.png
+inbox/**/*.mp4
+inbox/**/*.wav
+inbox/**/*.mp3
