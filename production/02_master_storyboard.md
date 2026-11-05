@@ -1,7 +1,7 @@
-# THE IRISH GRAFT - PART 1  (v0.2)
+# THE IRISH GRAFT - PART 1  (v0.3)
 ## 02 - Master Storyboard
 
-120 shots - 15 chapters - total runtime **12:36**.
+133 shots - 15 chapters - total runtime **14:46**.
 
 Durations are calculated from the narration (150 wpm) plus a 0.8s breath; emotional and comic beats carry a
 deliberate extra hold, listed per shot.
@@ -9,20 +9,20 @@ deliberate extra hold, listed per shot.
 | Chapter | Title | Period | Shots | Runtime |
 |---|---|---|---|---|
 | CH00 | Cold Open | Marbella, 2026 | S001-S003 (3) | 0:21 |
-| CH01 | Global Tyres | Ireland, 2017 | S004-S017 (14) | 1:34 |
-| CH02 | The England Gamble | Ireland, Irish Sea & Holyhead, 2018 | S018-S029 (12) | 1:26 |
-| CH03 | CC Decals | Clontibret & the family home, Co. Monaghan, c. 2018-2019 | S030-S035 (6) | 0:42 |
-| CH04 | The Donegal Rally | Donegal & Brian Shevlin's pub, c. 2018-2019 | S036-S042 (7) | 0:40 |
-| CH05 | Learning Everything | Ireland, c. 2019-2020 | S043-S053 (11) | 1:12 |
-| CH06 | COVID & the First Website | Ireland, 2020 | S054-S059 (6) | 0:33 |
-| CH07 | The Remap | Leeds & Ireland, c. 2020-2021 | S060-S068 (9) | 1:03 |
-| CH08 | The First Garage | Family land, November 2021 | S069-S079 (11) | 1:08 |
-| CH09 | Carrickmacross | Carrickmacross, Co. Monaghan, 2022 | S080-S086 (7) | 0:36 |
-| CH10 | Marbella | Marbella, Spain, c. 2024 | S087-S093 (7) | 0:40 |
-| CH11 | Level Up With CC | Training room; Dublin (15 Nov 2025); Cavan (27 Feb 2026) | S094-S100 (7) | 0:44 |
-| CH12 | The Marbella Mansion | Marbella, 22 May 2026; Puerto Banus, 19 September 2026 | S101-S110 (10) | 1:00 |
-| CH13 | CC Marbella Rentals | Marbella, 2026 (with a 2017 memory) | S111-S116 (6) | 0:38 |
-| CH14 | Dubai - Part 2 Teaser | Dubai, 2026 | S117-S120 (4) | 0:20 |
+| CH01 | Global Tyres | Ireland, 2017 | S004-S017 (14) | 1:33 |
+| CH02 | The England Gamble | Ireland, Irish Sea & Holyhead, 2018 | S018-S030 (13) | 1:32 |
+| CH03 | CC Decals | Clontibret & the family home, Co. Monaghan, c. 2018-2019 | S031-S036 (6) | 0:42 |
+| CH04 | The Donegal Rally | Donegal & Brian Shevlin's pub, c. 2018-2019 | S037-S043 (7) | 0:40 |
+| CH05 | Learning Everything | Ireland, c. 2019-2020 | S044-S054 (11) | 1:12 |
+| CH06 | COVID & the First Website | Ireland, 2020 | S055-S065 (11) | 1:21 |
+| CH07 | The Remap | Leeds & Ireland, c. 2020-2021 | S066-S074 (9) | 1:03 |
+| CH08 | The First Garage | Family land, November 2021 | S075-S087 (13) | 1:23 |
+| CH09 | Carrickmacross | Carrickmacross, Co. Monaghan, 2022 | S088-S094 (7) | 0:36 |
+| CH10 | Marbella | Marbella, Spain, c. 2024 | S095-S104 (10) | 1:12 |
+| CH11 | Level Up With CC | Training room; Dublin (15 Nov 2025); Cavan (27 Feb 2026) | S105-S111 (7) | 0:45 |
+| CH12 | The Marbella Mansion | Marbella, 22 May 2026; Puerto Banus, 19 September 2026 | S112-S123 (12) | 1:26 |
+| CH13 | CC Marbella Rentals | Marbella, 2026 (with a 2017 memory) | S124-S129 (6) | 0:38 |
+| CH14 | Dubai - Part 2 Teaser | Dubai, 2026 | S130-S133 (4) | 0:20 |
 
 ---
 ## CH00 - Cold Open
@@ -140,8 +140,8 @@ deliberate extra hold, listed per shot.
 - **Music:** Chapter cue continues.
 - **Note:** Matches the Preview 01 prompt in previews/.
 
-### S010 - CH01 - 7.5s  (TC 1:05-1:12, page 03)
-- **Voice-over:** "Every euro I earned, I saved. I had one goal - a car of my own."
+### S010 - CH01 - 7s  (TC 1:05-1:12, page 03)
+- **Voice-over:** "Whatever I could put away went towards one thing - a car of my own."
 - **Characters:** Young Conor
 - **Composition:** Close-medium: young Conor sitting on his bed counting a stack of euro notes from an old biscuit tin; a car poster (no text) on the wall.
 - **Location & period:** Conor's bedroom, night, 2017
@@ -151,7 +151,7 @@ deliberate extra hold, listed per shot.
 - **Sound effects:** Coins clink, lid closes.
 - **Music:** Chapter cue continues.
 
-### S011 - CH01 - 6.5s, incl. 0.5s hold  (TC 1:12-1:19, page 03)
+### S011 - CH01 - 6.5s, incl. 0.5s hold  (TC 1:12-1:18, page 03)
 - **Voice-over:** "And then I got her. A Honda Civic. 1.4 petrol. She was mine."
 - **Characters:** Young Conor
 - **Composition:** Cinematic medium-wide, slight low angle: the whole silver Civic parked three-quarter-front on a modest Irish driveway, young Conor beside the front wing, one hand on the roof, key in the other, huge proud grin.
@@ -163,7 +163,7 @@ deliberate extra hold, listed per shot.
 - **Music:** Chapter cue continues.
 - **Note:** Matches the Preview 02 prompt in previews/.
 
-### S012 - CH01 - 5s  (TC 1:19-1:24, page 04)
+### S012 - CH01 - 5s  (TC 1:18-1:24, page 04)
 - **Voice-over:** (none)
 - **Characters:** Young Conor, Father
 - **Composition:** Medium shot from the passenger side: young Conor in the Civic driver's seat, both hands on the wheel, grinning; through the windscreen the father stands on the driveway, arms folded, a small proud smile.
@@ -174,7 +174,7 @@ deliberate extra hold, listed per shot.
 - **Sound effects:** Starter motor, 1.4 engine catching and idling.
 - **Music:** Theme swells briefly on the engine start.
 
-### S013 - CH01 - 7.5s  (TC 1:24-1:32, page 04)
+### S013 - CH01 - 7.5s  (TC 1:24-1:31, page 04)
 - **Voice-over:** "First modification? LED headlight bulbs. Ordered online, delivered to the door. How hard could it be?"
 - **Characters:** Young Conor
 - **Composition:** Medium shot: young Conor on the driveway tearing open a small parcel, holding up an LED headlight bulb with a finned heatsink next to the Civic's headlight, eyebrows raised confidently; cheap toolbox at his feet.
@@ -185,7 +185,7 @@ deliberate extra hold, listed per shot.
 - **Sound effects:** Cardboard tearing, plastic rattle.
 - **Music:** Pizzicato comedy motif.
 
-### S014 - CH01 - 5s, incl. 1s hold  (TC 1:32-1:36, page 04)
+### S014 - CH01 - 5s, incl. 1s hold  (TC 1:31-1:36, page 04)
 - **Voice-over:** "I fitted them, flicked on the lights... nothing."
 - **Characters:** Young Conor
 - **Composition:** Medium shot from the front of the Civic: bonnet open, young Conor in the driver's seat seen through the windscreen flicking the light stalk; one headlight completely dark.
@@ -196,7 +196,7 @@ deliberate extra hold, listed per shot.
 - **Sound effects:** Stalk clicks, silence.
 - **Music:** Chapter cue continues.
 
-### S015 - CH01 - 8.5s  (TC 1:36-1:45, page 05)
+### S015 - CH01 - 8.5s  (TC 1:36-1:44, page 05)
 - **Voice-over:** "I checked the fuses. I checked the wiring. I checked the bulbs again. Forty-five minutes, I spent on that."
 - **Characters:** Young Conor
 - **Composition:** Medium shot: young Conor leaning deep into the open bonnet with a phone torch, fuse box lid off, the LED bulb in his hand, increasingly baffled.
@@ -208,7 +208,7 @@ deliberate extra hold, listed per shot.
 - **Music:** Chapter cue continues.
 - **Note:** Matches the Preview 03 prompt in previews/ (bulb in hand at the headlight).
 
-### S016 - CH01 - 4.5s, incl. 1.5s hold  (TC 1:45-1:50, page 05)
+### S016 - CH01 - 4.5s, incl. 1.5s hold  (TC 1:44-1:49, page 05)
 - **Voice-over:** "The bulb was in backwards."
 - **Characters:** Young Conor
 - **Composition:** Close-up: young Conor's face lit by the phone torch, staring at the bulb in his fingers as the realisation lands - deadpan.
@@ -219,7 +219,7 @@ deliberate extra hold, listed per shot.
 - **Sound effects:** A single comic pluck.
 - **Music:** Chapter cue continues.
 
-### S017 - CH01 - 5s  (TC 1:50-1:54, page 05)
+### S017 - CH01 - 5s  (TC 1:49-1:54, page 05)
 - **Voice-over:** "Lesson number one: before you blame the car, check yourself."
 - **Characters:** Young Conor
 - **Composition:** Wide night shot: both Civic headlights now blazing bright white; young Conor standing in the beams, hands on head, laughing at himself.
@@ -271,7 +271,7 @@ deliberate extra hold, listed per shot.
 - **Music:** Chapter cue continues.
 - **Note:** CONFIRM: departure port (a Holyhead arrival suggests Dublin).
 
-### S021 - CH02 - 5s, incl. 1s hold  (TC 2:20-2:26, page 06)
+### S021 - CH02 - 5s, incl. 1s hold  (TC 2:20-2:25, page 06)
 - **Voice-over:** "And on that ferry... there were slot machines."
 - **Characters:** Young Conor
 - **Composition:** Medium shot: young Conor in the ferry's onboard arcade, lit by the flashing coloured lights of a slot machine, a coin at the slot, a guilty grin.
@@ -282,7 +282,7 @@ deliberate extra hold, listed per shot.
 - **Sound effects:** Slot-machine jingles and reel spins.
 - **Music:** Diegetic arcade jingle replaces score.
 
-### S022 - CH02 - 6.5s  (TC 2:26-2:32, page 07)
+### S022 - CH02 - 6.5s  (TC 2:25-2:32, page 07)
 - **Voice-over:** "By the time we docked at Holyhead, I had about a hundred euro left."
 - **Characters:** Young Conor, Extras
 - **Composition:** Medium-wide: young Conor walking down the ferry foot-passenger ramp at Holyhead in grey drizzle, peering into his nearly empty wallet.
@@ -293,7 +293,7 @@ deliberate extra hold, listed per shot.
 - **Sound effects:** Ramp clanks, gulls, rain.
 - **Music:** Chapter cue continues.
 
-### S023 - CH02 - 5.5s, incl. 1.5s hold  (TC 2:32-2:38, page 07)
+### S023 - CH02 - 5.5s, incl. 1.5s hold  (TC 2:32-2:37, page 07)
 - **Voice-over:** "Then the job in London fell through."
 - **Characters:** Young Conor
 - **Composition:** Close-up: young Conor reading a message on his phone, his face falling, rain beading on the screen (message text not legible).
@@ -305,7 +305,7 @@ deliberate extra hold, listed per shot.
 - **Music:** Lonely cello enters.
 - **Note:** CONFIRM: where Conor was when the London job fell through (Holyhead assumed for the visual).
 
-### S024 - CH02 - 8s  (TC 2:38-2:46, page 07)
+### S024 - CH02 - 8s  (TC 2:37-2:45, page 07)
 - **Voice-over:** "No job. Hardly any money. A long way from home. I felt stranded - and completely defeated."
 - **Characters:** Young Conor
 - **Composition:** Wide shot: young Conor sitting alone on a bench under a shelter at the port at dusk, bag at his feet, head in his hands, sodium lights reflecting on the wet ground.
@@ -316,61 +316,74 @@ deliberate extra hold, listed per shot.
 - **Sound effects:** Rain, distant ferry horn.
 - **Music:** Chapter cue continues.
 
-### S025 - CH02 - 5s  (TC 2:46-2:50, page 07)
-- **Voice-over:** "My mother sorted it out. She arranged my journey home."
-- **Characters:** Mother
-- **Composition:** Medium shot: Conor's mother at home in the warm family kitchen, phone to her ear, focused and calm, already organising.
-- **Location & period:** Family kitchen, Ireland, evening, 2018
-- **Character action:** She nods while listening and reaches for her keys and purse.
-- **Animation:** Nod; hand reaches; kettle steam behind; warm light.
-- **Camera:** Locked off.
-- **Sound effects:** Kitchen ambience, muffled phone voice.
-- **Music:** Warm piano theme returns.
-- **Note:** CONFIRM: how the journey home was made (ferry, flight, bus).
-
-### S026 - CH02 - 5s  (TC 2:50-2:56, page 08)
-- **Voice-over:** (none)
+### S025 - CH02 - 5s  (TC 2:45-2:50, page 08)
+- **Voice-over:** "My mother sorted it out. She arranged my way home."
 - **Characters:** Young Conor
-- **Composition:** Medium close-up: young Conor's tired face against a rain-streaked window at night as lights stream past outside, travelling home.
-- **Location & period:** Journey home, night, 2018
-- **Character action:** He rests his head against the glass, eyes half closed.
-- **Animation:** Lights streak past; rain rivulets; slow blink.
+- **Composition:** Medium close-up: young Conor still on the port bench, phone pressed to his ear, eyes closed with relief, sodium light on his wet face.
+- **Location & period:** Holyhead port, night, 2018
+- **Character action:** He listens, nods slowly, and lets out a long breath.
+- **Animation:** Slow nod; long exhale; rain eases behind him.
 - **Camera:** Locked off.
-- **Sound effects:** Engine drone, rain on glass.
+- **Sound effects:** Rain softening, muffled phone voice (unintelligible).
+- **Music:** Warm piano theme returns.
+- **Note:** Mother is heard, not seen, in this shot - no conversation is scripted.
+
+### S026 - CH02 - 5s  (TC 2:50-2:55, page 08)
+- **Voice-over:** (none)
+- **Characters:** Young Conor, Extras
+- **Composition:** Wide night shot: the ferry crossing a dark Irish Sea back toward Ireland; young Conor alone at the rail under the deck lights, hood up, looking ahead.
+- **Location & period:** Irish Sea, night, 2018
+- **Character action:** He stands still, hands in pockets, watching the lights of the Irish coast appear.
+- **Animation:** Waves heave; deck lights sway; distant coast lights twinkle into view.
+- **Camera:** Very slow push toward the figure.
+- **Sound effects:** Deep engine throb, waves, wind.
 - **Music:** Chapter cue continues.
 
-### S027 - CH02 - 7.5s  (TC 2:56-3:03, page 08)
-- **Voice-over:** "When I walked in the door, there was food on the table and my mother waiting."
+### S027 - CH02 - 7s, incl. 1s hold  (TC 2:55-3:02, page 08)
+- **Voice-over:** "When I walked off at Dublin Port, she was there, waiting for me."
 - **Characters:** Young Conor, Mother
-- **Composition:** Medium two-shot in the warm family kitchen: the mother turning from the cooker as young Conor comes through the back door with his bag; a hot plate of dinner waiting on the table.
-- **Location & period:** Family kitchen, night, 2018
-- **Character action:** She sets down a spoon and opens her arms; he drops his bag.
-- **Animation:** Bag drops; steam rises from the plate; she steps forward; door swings shut.
-- **Camera:** Locked off, slight slow push.
-- **Sound effects:** Door closing, cooker sizzle, soft exhale.
+- **Composition:** Wide shot: the foot-passenger arrivals area at Dublin Port at night; young Conor coming through with his sports bag; his mother standing alone near the exit holding a plastic shopping bag.
+- **Location & period:** Dublin Port, night, 2018
+- **Character action:** He sees her and stops; she lifts a hand.
+- **Animation:** Passengers stream past; he stops mid-step; her small wave; fluorescent light hum.
+- **Camera:** Locked off, then slight push toward the mother.
+- **Sound effects:** Terminal announcements (unintelligible), footsteps.
 - **Music:** Chapter cue continues.
 
-### S028 - CH02 - 9s, incl. 1s hold  (TC 3:03-3:12, page 08)
-- **Voice-over:** "She just looked after me. At a time when I felt like a failure, that meant everything."
+### S028 - CH02 - 5s, incl. 1s hold  (TC 3:02-3:07, page 09)
+- **Voice-over:** "With a bag of food. Crisps, chocolate, rolls."
 - **Characters:** Young Conor, Mother
-- **Composition:** Close-up: young Conor at the kitchen table eating, his mother's hand resting on his shoulder; his eyes wet but steady.
-- **Location & period:** Family kitchen, night, 2018
-- **Character action:** She squeezes his shoulder; he nods without looking up.
-- **Animation:** Steam curls; her thumb moves on his shoulder; his slow nod.
-- **Camera:** Slow rack focus from her hand to his face.
-- **Sound effects:** Clock ticking, cutlery, rain softening.
+- **Composition:** Medium two-shot: the mother handing young Conor the shopping bag; inside, a packet of crisps, chocolate bars and wrapped bread rolls are visible (no brand text).
+- **Location & period:** Dublin Port, night, 2018
+- **Character action:** He takes the bag and looks inside; a tired half smile breaks through.
+- **Animation:** Bag passes; rustle; he looks in; half smile.
+- **Camera:** Locked off.
+- **Sound effects:** Plastic bag rustle.
 - **Music:** Chapter cue continues.
 
-### S029 - CH02 - 8s  (TC 3:12-3:20, page 08)
+### S029 - CH02 - 11.5s, incl. 1.5s hold  (TC 3:07-3:18, page 09)
+- **Voice-over:** "I'd gone over with big plans, and come back with next to nothing. She didn't need to say anything. She was just there."
+- **Characters:** Young Conor, Mother
+- **Composition:** Close-up: the mother's hand resting on young Conor's arm as they walk out of the terminal side by side, his face in soft focus, eyes wet but steady.
+- **Location & period:** Dublin Port, night, 2018
+- **Character action:** She squeezes his arm; he nods without looking at her.
+- **Animation:** They walk; her hand squeezes; his slow nod; terminal doors slide open.
+- **Camera:** Slow tracking alongside them.
+- **Sound effects:** Doors sliding, night wind, quiet.
+- **Music:** Chapter cue continues.
+- **Note:** No dialogue scripted, by design.
+
+### S030 - CH02 - 8s  (TC 3:18-3:26, page 09)
 - **Voice-over:** "England didn't work out. But it sent me home - and home is where it really started."
 - **Characters:** Young Conor
-- **Composition:** Medium shot from behind: young Conor at a rain-speckled window looking down at the silver Civic on the driveway; reflection of his determined face in the glass.
-- **Location & period:** Family home, night, 2018
-- **Character action:** He wipes condensation off the glass with his sleeve.
-- **Animation:** Sleeve wipes the glass; reflection sharpens; rain streaks; streetlight on the Civic.
-- **Camera:** Slow push over his shoulder to the car.
-- **Sound effects:** Rain, one deep breath.
+- **Composition:** Medium close-up through a car passenger window at night: young Conor eating a roll, looking out at Dublin Port lights sliding past, the bag of food on his lap.
+- **Location & period:** Leaving Dublin Port, night, 2018
+- **Character action:** He takes a bite, then rests his head back and looks ahead.
+- **Animation:** Port lights slide past; reflection on glass; slow chew; head rests back.
+- **Camera:** Locked off, gentle road vibration.
+- **Sound effects:** Car engine, indicator ticking, rain on glass.
 - **Music:** Chapter cue continues.
+- **Note:** Car and driver not shown in detail (vehicle not confirmed).
 
 ---
 ## CH03 - CC Decals
@@ -378,7 +391,7 @@ deliberate extra hold, listed per shot.
 **Colour grade:** Irish grey daylight; warm workshop and bedroom lamp light; the hedge always a rich, slightly over-saturated green.  
 **Music direction:** Upbeat indie groove with hand-claps and bass; a dry comic 'hedge' sting (single muted trombone or plucked double-bass).
 
-### S030 - CH03 - 5.5s  (TC 3:20-3:26, page 09)
+### S031 - CH03 - 5.5s  (TC 3:26-3:32, page 10)
 - **Voice-over:** "Back home, I got a job at Castleshane Motors in Clontibret."
 - **Characters:** Young Conor, Extras
 - **Composition:** Wide shot: a rural Irish garage forecourt and workshop on a grey day; young Conor in work clothes crossing the yard with a toolbox.
@@ -390,7 +403,7 @@ deliberate extra hold, listed per shot.
 - **Music:** Chapter cue continues.
 - **Note:** CONFIRM: start date at Castleshane Motors. No signage drawn.
 
-### S031 - CH03 - 7s  (TC 3:26-3:32, page 09)
+### S032 - CH03 - 7s  (TC 3:32-3:39, page 10)
 - **Voice-over:** "While I was there, I got completely hooked on the idea of a sticker-cutting machine."
 - **Characters:** Young Conor
 - **Composition:** Close-medium: young Conor watching a vinyl sticker-cutting machine slice a design, his face lit with fascination.
@@ -402,7 +415,7 @@ deliberate extra hold, listed per shot.
 - **Music:** Chapter cue continues.
 - **Note:** CONFIRM: whose cutter it was and where it was used.
 
-### S032 - CH03 - 6.5s  (TC 3:32-3:39, page 09)
+### S033 - CH03 - 6.5s  (TC 3:39-3:46, page 10)
 - **Voice-over:** "I started designing and fitting custom stickers for people's cars. That became CC Decals."
 - **Characters:** Young Conor
 - **Composition:** Medium shot: young Conor applying a custom vinyl decal to the side of a customer's hatchback with a squeegee; the design is an abstract stripe, no lettering.
@@ -414,7 +427,7 @@ deliberate extra hold, listed per shot.
 - **Music:** Chapter cue continues.
 - **Note:** Real CC Decals logo can be composited in edit; never drawn by the image model.
 
-### S033 - CH03 - 10.5s  (TC 3:39-3:50, page 10)
+### S034 - CH03 - 10.5s  (TC 3:46-3:56, page 11)
 - **Voice-over:** "Twenty-five, thirty euro a job. Before long, I was doing five to eight a week - an extra hundred and fifty, two hundred euro."
 - **Characters:** Young Conor, Extras
 - **Composition:** Medium shot: a customer handing young Conor a few euro notes beside a freshly decaled car; Conor pocketing them with a satisfied nod.
@@ -425,7 +438,7 @@ deliberate extra hold, listed per shot.
 - **Sound effects:** Chatter, car door.
 - **Music:** Chapter cue continues.
 
-### S034 - CH03 - 5s  (TC 3:50-3:54, page 10)
+### S035 - CH03 - 5s  (TC 3:56-4:01, page 11)
 - **Voice-over:** "Customers came to my father's house to get them fitted."
 - **Characters:** Young Conor, Extras
 - **Composition:** Wide shot: the front of the family home with the father's immaculate hedge; two customer cars parked outside; Conor working on one.
@@ -436,7 +449,7 @@ deliberate extra hold, listed per shot.
 - **Sound effects:** Tyres on gravel, birdsong.
 - **Music:** Chapter cue continues.
 
-### S035 - CH03 - 8s, incl. 1s hold  (TC 3:54-4:02, page 10)
+### S036 - CH03 - 8s, incl. 1s hold  (TC 4:01-4:09, page 11)
 - **Voice-over:** "And somehow, they always parked right up against my father's hedge. His pride and joy."
 - **Characters:** Father, Extras
 - **Composition:** Medium shot: the father standing with garden shears, staring in silent horror at a customer's bumper parked inches from his perfectly clipped hedge.
@@ -453,7 +466,7 @@ deliberate extra hold, listed per shot.
 **Colour grade:** Brighter rally daylight with mud browns and crowd colour; warm amber pub interior.  
 **Music direction:** Driving drums for the rally; full celebratory pub-rock energy; music stops dead for the 'every cent was gone' line.
 
-### S036 - CH04 - 4s, incl. 1s hold  (TC 4:02-4:06, page 11)
+### S037 - CH04 - 4s, incl. 1s hold  (TC 4:09-4:13, page 12)
 - **Voice-over:** "Then came the Donegal Rally."
 - **Characters:** Extras
 - **Composition:** Wide shot: a rally car sliding through a corner on a Donegal country stage, mud and gravel spraying, spectators on the bank behind the tape.
@@ -465,7 +478,7 @@ deliberate extra hold, listed per shot.
 - **Music:** Driving drums.
 - **Note:** CONFIRM: year of the Donegal Rally breakthrough.
 
-### S037 - CH04 - 4.5s, incl. 0.5s hold  (TC 4:06-4:11, page 11)
+### S038 - CH04 - 4.5s, incl. 0.5s hold  (TC 4:13-4:18, page 12)
 - **Voice-over:** "Sixty, seventy orders. Over two thousand euro."
 - **Characters:** Young Conor, Extras
 - **Composition:** Medium shot: young Conor among rally fans taking orders as fast as he can, a thick wad of notes in his hand.
@@ -477,7 +490,7 @@ deliberate extra hold, listed per shot.
 - **Music:** Chapter cue continues.
 - **Note:** CONFIRM: how the orders were taken (stall, walking the crowd, online).
 
-### S038 - CH04 - 4.5s  (TC 4:11-4:16, page 11)
+### S039 - CH04 - 4.5s  (TC 4:18-4:22, page 12)
 - **Voice-over:** "More money than I'd ever made in my life."
 - **Characters:** Young Conor
 - **Composition:** Medium close-up at sunset: young Conor leaning on the Civic, fanning out the wad of euro notes, beaming in disbelief, Donegal hills behind.
@@ -488,7 +501,7 @@ deliberate extra hold, listed per shot.
 - **Sound effects:** Wind, his laugh.
 - **Music:** Chapter cue continues.
 
-### S039 - CH04 - 5s  (TC 4:16-4:20, page 11)
+### S040 - CH04 - 5s  (TC 4:22-4:27, page 12)
 - **Voice-over:** "So naturally, I went to Brian Shevlin's pub to celebrate."
 - **Characters:** Young Conor, Extras
 - **Composition:** Wide shot: a cosy, busy Irish country pub interior, warm amber light; young Conor coming through the door with a big grin.
@@ -500,7 +513,7 @@ deliberate extra hold, listed per shot.
 - **Music:** Chapter cue continues.
 - **Note:** CONFIRM: Conor's age at the time (depiction assumes 18+). Pub name in VO only; no signage.
 
-### S040 - CH04 - 7.5s  (TC 4:20-4:28, page 12)
+### S041 - CH04 - 7.5s  (TC 4:27-4:34, page 13)
 - **Voice-over:** "I bought a drink for me. Then for my friends. Then for just about everyone else."
 - **Characters:** Young Conor, Extras
 - **Composition:** Medium shot: young Conor at the bar slapping down notes while the barman lines up drink after drink; a crowd of happy faces raising glasses around him.
@@ -511,7 +524,7 @@ deliberate extra hold, listed per shot.
 - **Sound effects:** Glasses clinking, cheers, laughter.
 - **Music:** Celebratory pub-rock energy.
 
-### S041 - CH04 - 6s, incl. 1.5s hold  (TC 4:28-4:34, page 12)
+### S042 - CH04 - 6s, incl. 1.5s hold  (TC 4:34-4:40, page 13)
 - **Voice-over:** "By the end of it, every cent was gone."
 - **Characters:** Young Conor
 - **Composition:** Medium close-up, next morning: young Conor in the Civic, bleary-eyed, opening a completely empty wallet; grey daylight.
@@ -522,7 +535,7 @@ deliberate extra hold, listed per shot.
 - **Sound effects:** Silence, a crow caw.
 - **Music:** Music stops dead.
 
-### S042 - CH04 - 8s  (TC 4:34-4:42, page 12)
+### S043 - CH04 - 8s  (TC 4:40-4:48, page 13)
 - **Voice-over:** "Two grand. One night. Lesson number two: making money and keeping money are not the same thing."
 - **Characters:** Young Conor
 - **Composition:** Medium shot: young Conor resting his forehead on the Civic's steering wheel, then lifting his head with a rueful laugh.
@@ -539,7 +552,7 @@ deliberate extra hold, listed per shot.
 **Colour grade:** Cool white dealership light by day; orange-to-blue sunset gradients for outdoor jobs; laptop and dashboard glow at night.  
 **Music direction:** Steady ticking rhythm (clock motif) under minimal synth; comic stop-start for the dead battery; resolves to piano.
 
-### S043 - CH05 - 6.5s  (TC 4:42-4:48, page 13)
+### S044 - CH05 - 6.5s  (TC 4:48-4:55, page 14)
 - **Voice-over:** "After that, I went back to work - and I wanted to learn everything."
 - **Characters:** Conor (early 20s)
 - **Composition:** Medium shot: Conor at a cluttered workbench under a lamp, tools laid out, pulling a fresh project toward him.
@@ -550,7 +563,7 @@ deliberate extra hold, listed per shot.
 - **Sound effects:** Tool clinks.
 - **Music:** Chapter cue continues.
 
-### S044 - CH05 - 8.5s  (TC 4:48-4:57, page 13)
+### S045 - CH05 - 8.5s  (TC 4:55-5:04, page 14)
 - **Voice-over:** "Gel number plates came next. I was selling ten to fifteen sets, making about twenty-five euro profit on each."
 - **Characters:** Conor (early 20s)
 - **Composition:** Close-medium: Conor pressing domed gel characters onto blank white number plates at the workbench; finished plates stacked, characters not legible.
@@ -562,7 +575,7 @@ deliberate extra hold, listed per shot.
 - **Music:** Chapter cue continues.
 - **Note:** CONFIRM: the period for the 10-15 sets (per week / per month).
 
-### S045 - CH05 - 3s  (TC 4:57-5:00, page 13)
+### S046 - CH05 - 3s  (TC 5:04-5:06, page 14)
 - **Voice-over:** "Then caliper painting. Then bodykits."
 - **Characters:** Conor (early 20s)
 - **Composition:** Medium shot: an ordinary hatchback on axle stands outdoors, wheel off, Conor brushing bright red paint onto a masked brake caliper; a bodykit splitter waiting on the ground.
@@ -573,7 +586,7 @@ deliberate extra hold, listed per shot.
 - **Sound effects:** Brush strokes, tape tearing.
 - **Music:** Chapter cue continues.
 
-### S046 - CH05 - 8s  (TC 5:00-5:08, page 13)
+### S047 - CH05 - 8s  (TC 5:06-5:14, page 14)
 - **Voice-over:** "And nobody was teaching me. YouTube was my college. Two, three hours every evening - watching, pausing, rewinding."
 - **Characters:** Conor (early 20s)
 - **Composition:** Medium shot: Conor in bed at night with a laptop on his knees, a tutorial video playing (no UI text), notebook full of sketches beside him.
@@ -584,7 +597,7 @@ deliberate extra hold, listed per shot.
 - **Sound effects:** Muffled tutorial audio, pen scratch.
 - **Music:** Chapter cue continues.
 
-### S047 - CH05 - 6s  (TC 5:08-5:14, page 14)
+### S048 - CH05 - 6s  (TC 5:14-5:20, page 15)
 - **Voice-over:** "By day, I was working at Mercedes Gilmore. Everything else happened after hours."
 - **Characters:** Conor (early 20s), Extras
 - **Composition:** Wide shot: a bright, spotless modern dealership workshop; Conor in a dark technician uniform (no logos) working on a modern saloon on a lift.
@@ -596,7 +609,7 @@ deliberate extra hold, listed per shot.
 - **Music:** Chapter cue continues.
 - **Note:** CONFIRM: Mercedes Gilmore dates and location. No star badges drawn.
 
-### S048 - CH05 - 7.5s  (TC 5:14-5:22, page 14)
+### S049 - CH05 - 7.5s  (TC 5:20-5:28, page 15)
 - **Voice-over:** "A lot of installs were done outside, racing the sunset to finish before the light went."
 - **Characters:** Conor (early 20s), Extras
 - **Composition:** Wide shot: Conor working on a customer's car outdoors against a blazing orange sunset sky, a work lamp ready on the ground, the customer waiting nearby.
@@ -607,7 +620,7 @@ deliberate extra hold, listed per shot.
 - **Sound effects:** Ratchet clicks, birds roosting.
 - **Music:** Chapter cue continues.
 
-### S049 - CH05 - 9.5s  (TC 5:22-5:31, page 14)
+### S050 - CH05 - 9.5s  (TC 5:28-5:38, page 15)
 - **Voice-over:** "Then I discovered coding. VCDS. Folding mirrors, lighting features - things the car could always do, but nobody had switched on."
 - **Characters:** Conor (early 20s)
 - **Composition:** Close-medium inside a car: Conor in the driver's seat with a laptop on his knees, cable to the OBD port; outside, the wing mirror folds in by itself.
@@ -618,7 +631,7 @@ deliberate extra hold, listed per shot.
 - **Sound effects:** Keyboard clicks, mirror motor whirr.
 - **Music:** Chapter cue continues.
 
-### S050 - CH05 - 3.5s  (TC 5:31-5:34, page 14)
+### S051 - CH05 - 3.5s  (TC 5:38-5:41, page 15)
 - **Voice-over:** "It didn't always go to plan."
 - **Characters:** Conor (early 20s)
 - **Composition:** Close-up: the car's dashboard mid-coding, lights flickering; Conor's face lit by the laptop, sensing trouble.
@@ -629,7 +642,7 @@ deliberate extra hold, listed per shot.
 - **Sound effects:** Electrical tick, held breath.
 - **Music:** Ticking motif stops.
 
-### S051 - CH05 - 5s, incl. 1s hold  (TC 5:34-5:40, page 15)
+### S052 - CH05 - 5s, incl. 1s hold  (TC 5:41-5:46, page 16)
 - **Voice-over:** "Sometimes, halfway through coding, the battery would die."
 - **Characters:** Conor (early 20s)
 - **Composition:** Medium shot: the entire dashboard and interior lights go dark; only the laptop lights Conor's horrified face.
@@ -640,7 +653,7 @@ deliberate extra hold, listed per shot.
 - **Sound effects:** Electrical click-off, silence.
 - **Music:** Chapter cue continues.
 
-### S052 - CH05 - 9s  (TC 5:40-5:48, page 15)
+### S053 - CH05 - 9s  (TC 5:46-5:55, page 16)
 - **Voice-over:** "So there I'd be, mid-job, hunting for another car to jump-start the customer's car I was supposed to be improving."
 - **Characters:** Conor (early 20s), Extras
 - **Composition:** Wide night shot: Conor connecting jump leads between another car and the customer's dead car, bonnets up, while the customer watches from the doorway, arms folded.
@@ -651,7 +664,7 @@ deliberate extra hold, listed per shot.
 - **Sound effects:** Clamp clicks, engine cranking, a cough of a start.
 - **Music:** Comic stop-start rhythm.
 
-### S053 - CH05 - 6s  (TC 5:48-5:54, page 15)
+### S054 - CH05 - 6s  (TC 5:55-6:01, page 16)
 - **Voice-over:** "Awkward? Very. But every mistake taught me something no tutorial ever could."
 - **Characters:** Conor (early 20s)
 - **Composition:** Medium shot: the customer's car started and lit up; Conor packing his laptop away, exhaling with relief, a small determined smile.
@@ -668,7 +681,7 @@ deliberate extra hold, listed per shot.
 **Colour grade:** Empty muted streets, then warm lamp-lit kitchen with cool screen glow on faces.  
 **Music direction:** Quiet ambient pad, then a lo-fi beat that builds as online orders arrive.
 
-### S054 - CH06 - 4s  (TC 5:54-5:58, page 16)
+### S055 - CH06 - 4s  (TC 6:01-6:05, page 17)
 - **Voice-over:** "Then COVID hit. The whole world shut down."
 - **Characters:** Conor (early 20s)
 - **Composition:** Wide shot: an empty Irish town main street, shutters down, no cars; Conor a lone figure walking down the middle of the road.
@@ -680,10 +693,21 @@ deliberate extra hold, listed per shot.
 - **Music:** Chapter cue continues.
 - **Note:** No legible shop signs.
 
-### S055 - CH06 - 8s  (TC 5:58-6:06, page 16)
-- **Voice-over:** "But people were at home, on their phones, shopping online. So I moved CC Styling online with them."
+### S056 - CH06 - 9s  (TC 6:05-6:14, page 17)
+- **Voice-over:** "Up to then, everything I did was hands-on. Stickers, plates, calipers - fitted on driveways, one car at a time."
 - **Characters:** Conor (early 20s)
-- **Composition:** Medium shot: Conor on the sofa at home, phone in hand, sitting up straight as an idea lands.
+- **Composition:** Medium shot: Conor kneeling beside a customer's car on a driveway, fitting a decal; in the empty street behind him, a lone lockdown notice-style poster on a lamppost (no legible text).
+- **Location & period:** Driveway, Ireland, early 2020
+- **Character action:** He pauses, squeegee in hand, and looks at the empty street.
+- **Animation:** Squeegee stops; he looks around; a single car passes far away.
+- **Camera:** Locked off.
+- **Sound effects:** Near silence, distant birdsong.
+- **Music:** Chapter cue continues.
+
+### S057 - CH06 - 7.5s  (TC 6:14-6:22, page 17)
+- **Voice-over:** "But with everyone stuck at home, that way of working wasn't going to carry the business."
+- **Characters:** Conor (early 20s)
+- **Composition:** Medium shot: Conor on the sofa at home, phone in hand, scrolling past people shopping online, sitting up straight as an idea lands.
 - **Location & period:** Family living room, evening, 2020
 - **Character action:** He stops scrolling and sits up.
 - **Animation:** Thumb stops; he sits up; phone glow intensifies.
@@ -691,41 +715,76 @@ deliberate extra hold, listed per shot.
 - **Sound effects:** TV murmur, phone tap.
 - **Music:** Chapter cue continues.
 
-### S056 - CH06 - 7.5s  (TC 6:06-6:14, page 16)
-- **Voice-over:** "Arlind from DigitGrow worked with me on the first CC Styling e-commerce website, built on WooCommerce."
+### S058 - CH06 - 10s  (TC 6:22-6:32, page 17)
+- **Voice-over:** "People were on their phones, buying online. So if customers couldn't come to me, the products would have to go to them."
+- **Characters:** Conor (early 20s)
+- **Composition:** Close-medium: Conor laying out decal packs, gel plate kits and caliper paint kits on a table, seeing them as products for the first time.
+- **Location & period:** Family home, 2020
+- **Character action:** He lines the products up in a row and steps back.
+- **Animation:** Hands arrange products; he steps back; lamp light warms.
+- **Camera:** Slow lateral track along the products.
+- **Sound effects:** Packaging rustle.
+- **Music:** Chapter cue continues.
+- **Note:** CONFIRM: which products were sold online first.
+
+### S059 - CH06 - 8s  (TC 6:32-6:40, page 18)
+- **Voice-over:** "That's when Arlind from DigitGrow worked with me to build the first CC Styling e-commerce website, on WooCommerce."
 - **Characters:** Conor (early 20s), Arlind
-- **Composition:** Medium shot over Conor's shoulder at the kitchen table at night: his laptop shows a video call with Arlind, face clearly visible and matching his reference sheet, beside a website layout (no legible text).
-- **Location & period:** Family kitchen, night, 2020
+- **Composition:** Medium shot over Conor's shoulder at a table at night: his laptop shows a video call with Arlind, face clearly visible and matching his reference sheet, beside a website layout (no legible text).
+- **Location & period:** Family home, night, 2020
 - **Character action:** Conor points at the screen; on the call, Arlind nods and gestures.
 - **Animation:** Conor's hand gestures; layout blocks rearrange; Arlind nods on screen.
 - **Camera:** Locked off.
 - **Sound effects:** Call audio murmur, keyboard clicks.
-- **Music:** Chapter cue continues.
-- **Note:** CONFIRM: year Conor and Arlind first began collaborating (the website is a separate milestone). CONFIRM: worked remotely by video call.
+- **Music:** Lo-fi pulse begins.
+- **Note:** CONFIRM: year Conor and Arlind first began collaborating (the website is a separate milestone). CONFIRM: they worked remotely (video call shown).
 
-### S057 - CH06 - 4.5s  (TC 6:14-6:18, page 17)
-- **Voice-over:** "Product photos, listings, a lot of back and forth."
+### S060 - CH06 - 9s  (TC 6:40-6:48, page 18)
+- **Voice-over:** "We built it piece by piece. The pages, the product categories, how people would find things and pay for them."
+- **Characters:** Arlind
+- **Composition:** Medium shot: Arlind at his own desk, clearly visible, working on a website layout on a large monitor, wireframe blocks and product grid shapes on screen (no legible text).
+- **Location & period:** Arlind's workspace, 2020
+- **Character action:** He drags a product grid into place and leans back to check it.
+- **Animation:** Cursor drags blocks; grid snaps into place; he leans back.
+- **Camera:** Slow push over his shoulder.
+- **Sound effects:** Mouse clicks, soft keyboard.
+- **Music:** Chapter cue continues.
+- **Note:** CONFIRM: Arlind's working location for the visual (kept generic).
+
+### S061 - CH06 - 7s  (TC 6:48-6:56, page 18)
+- **Voice-over:** "Every product needed photos, a description, a price. Listing by listing, the shop took shape."
 - **Characters:** Conor (early 20s)
-- **Composition:** Medium-wide: Conor photographing decal packs and caliper paint kits on the kitchen table against a white sheet, desk lamp as light.
-- **Location & period:** Family kitchen, night, 2020
-- **Character action:** He snaps a photo, adjusts the product, snaps again.
-- **Animation:** Phone lifts and taps; lamp angle adjusted; he yawns.
+- **Composition:** Medium-wide: Conor photographing products against a white sheet with a desk lamp as light, then typing on the laptop beside them.
+- **Location & period:** Family home, night, 2020
+- **Character action:** He snaps a photo, adjusts the product, snaps again, then types.
+- **Animation:** Phone lifts and taps; lamp angle adjusted; fingers type; product grid fills on screen.
 - **Camera:** Slow lateral track.
-- **Sound effects:** Shutter clicks, clock ticking.
+- **Sound effects:** Shutter clicks, keyboard, clock ticking.
 - **Music:** Chapter cue continues.
 
-### S058 - CH06 - 4s  (TC 6:18-6:22, page 17)
-- **Voice-over:** "And then the orders started coming in. Online."
+### S062 - CH06 - 6s  (TC 6:56-7:02, page 18)
+- **Voice-over:** "Then the enquiries started. Will this fit my car? How long for delivery?"
 - **Characters:** Conor (early 20s)
-- **Composition:** Close-up: Conor's face lit by a phone notification, a huge grin spreading (notification shape has no legible text).
-- **Location & period:** Family kitchen, night, 2020
+- **Composition:** Close-medium: Conor answering message bubbles on his phone (shapes only, no legible text) with one hand while holding a product in the other.
+- **Location & period:** Family home, night, 2020
+- **Character action:** He types a reply, checks the product, types again.
+- **Animation:** Thumbs type; message shapes pop in one after another.
+- **Camera:** Locked off.
+- **Sound effects:** Message pings, typing.
+- **Music:** Chapter cue continues.
+
+### S063 - CH06 - 6.5s, incl. 0.5s hold  (TC 7:02-7:08, page 19)
+- **Voice-over:** "And then the first orders came in. Online. From people I'd never met."
+- **Characters:** Conor (early 20s)
+- **Composition:** Close-up: Conor's face lit by an order notification, a huge grin spreading (notification shape has no legible text).
+- **Location & period:** Family home, night, 2020
 - **Character action:** He jumps up from the chair.
 - **Animation:** Notification pops; eyes widen; grin; chair tips back.
 - **Camera:** Locked off; hold on reaction.
 - **Sound effects:** Notification ping, chair scrape, a whoop.
-- **Music:** Lo-fi beat drops in.
+- **Music:** Lo-fi beat drops in fully.
 
-### S059 - CH06 - 5s  (TC 6:22-6:28, page 17)
+### S064 - CH06 - 5s  (TC 7:08-7:13, page 19)
 - **Voice-over:** (none)
 - **Characters:** Conor (early 20s)
 - **Composition:** Medium-wide: the family hallway packed with parcels; Conor taping boxes, a growing stack (no legible labels) by the front door, daylight changing through the door glass.
@@ -736,13 +795,24 @@ deliberate extra hold, listed per shot.
 - **Sound effects:** Tape gun screech, cardboard thuds.
 - **Music:** Chapter cue continues.
 
+### S065 - CH06 - 9s, incl. 0.5s hold  (TC 7:13-7:22, page 19)
+- **Voice-over:** "For the first time, CC Styling wasn't limited to the cars I could get to. It could sell anywhere."
+- **Characters:** Conor (early 20s)
+- **Composition:** Wide shot: Conor loading a car boot full of parcels outside the house at dusk; the boot sits low under the weight.
+- **Location & period:** Family home, dusk, 2020
+- **Character action:** He shoves in the last parcel and closes the boot.
+- **Animation:** Last parcel pushed; suspension dips; boot closes; he dusts off his hands.
+- **Camera:** Slow arc around the car.
+- **Sound effects:** Boot thunk, evening birdsong.
+- **Music:** Soft rise to close the chapter.
+
 ---
 ## CH07 - The Remap
 **Period:** Leeds & Ireland, c. 2020-2021  
 **Colour grade:** Neutral classroom daylight in Leeds; workshop teal-and-amber with laptop glow back home.  
 **Music direction:** Purposeful modern score - pulsing synth bass + strings; a held breath on handing in notice; phone-screen pops for social media.
 
-### S060 - CH07 - 8.5s  (TC 6:28-6:36, page 18)
+### S066 - CH07 - 8.5s  (TC 7:22-7:30, page 20)
 - **Voice-over:** "Next came remapping. I paid about four thousand eight hundred pounds for a course with EK Remaps in Leeds."
 - **Characters:** Conor (early 20s)
 - **Composition:** Wide shot: Conor arriving at a modern industrial training unit in Leeds on a grey day, backpack on, looking up at the building (no signage).
@@ -754,7 +824,7 @@ deliberate extra hold, listed per shot.
 - **Music:** Chapter cue continues.
 - **Note:** CONFIRM: date of the Leeds course. Company named in VO only.
 
-### S061 - CH07 - 6.5s  (TC 6:36-6:42, page 18)
+### S067 - CH07 - 6.5s  (TC 7:30-7:37, page 20)
 - **Voice-over:** "That was serious money for me. But I knew it was the next step."
 - **Characters:** Conor (early 20s)
 - **Composition:** Close-up: Conor's thumb hovering over a payment confirmation on his phone (amount not legible), jaw set.
@@ -765,7 +835,7 @@ deliberate extra hold, listed per shot.
 - **Sound effects:** Tap, exhale.
 - **Music:** Chapter cue continues.
 
-### S062 - CH07 - 5s  (TC 6:42-6:48, page 18)
+### S068 - CH07 - 5s  (TC 7:37-7:42, page 20)
 - **Voice-over:** "Five days. Reading ECUs, writing them, the fundamentals of tuning."
 - **Characters:** Conor (early 20s), Extras
 - **Composition:** Medium shot: a training room with a car on a rolling-road dyno behind glass; Conor at a bench with a laptop showing colourful 3D map graphs (no text) and an ECU on the desk; an anonymous instructor pointing.
@@ -776,7 +846,7 @@ deliberate extra hold, listed per shot.
 - **Sound effects:** Dyno roar muffled through glass, pen scratch.
 - **Music:** Chapter cue continues.
 
-### S063 - CH07 - 5s  (TC 6:48-6:52, page 19)
+### S069 - CH07 - 5s  (TC 7:42-7:47, page 21)
 - **Voice-over:** "And somewhere in those five days, I did the maths."
 - **Characters:** Conor (early 20s)
 - **Composition:** Close-medium: Conor alone in the training room after hours, writing two figures on a notepad (drawn as abstract marks), staring at them.
@@ -787,7 +857,7 @@ deliberate extra hold, listed per shot.
 - **Sound effects:** Pen scratch, quiet.
 - **Music:** Chapter cue continues.
 
-### S064 - CH07 - 12s  (TC 6:52-7:04, page 19)
+### S070 - CH07 - 12s  (TC 7:47-7:59, page 21)
 - **Voice-over:** "At my job, I was on about eleven pounds fifty an hour. A remap could bring in around a hundred and sixty euro for an hour's work."
 - **Characters:** Conor (early 20s)
 - **Composition:** Single continuous illustration (not a split screen): on the left, Conor in a dealership uniform lit cold blue under a wall clock; on the right, the same Conor at a laptop on a car lit warm amber.
@@ -799,7 +869,7 @@ deliberate extra hold, listed per shot.
 - **Music:** Chapter cue continues.
 - **Note:** CONFIRM: currency/location of the GBP 11.50/hour job.
 
-### S065 - CH07 - 6.5s, incl. 1s hold  (TC 7:04-7:11, page 19)
+### S071 - CH07 - 6.5s, incl. 1s hold  (TC 7:59-8:06, page 21)
 - **Voice-over:** "Eventually, I left my job to go full-time with CC Styling."
 - **Characters:** Conor (early 20s), Extras
 - **Composition:** Medium shot: Conor handing a folded uniform across a desk to an anonymous manager in a dealership office, then shaking hands.
@@ -811,7 +881,7 @@ deliberate extra hold, listed per shot.
 - **Music:** A held breath - one sustained note.
 - **Note:** CONFIRM: which employer he left (Mercedes Gilmore by story order).
 
-### S066 - CH07 - 6s  (TC 7:11-7:17, page 20)
+### S072 - CH07 - 6s  (TC 8:06-8:12, page 22)
 - **Voice-over:** "It wasn't overnight. Four, five remaps a week. Seven, eight hundred euro profit."
 - **Characters:** Conor (early 20s)
 - **Composition:** Medium shot: Conor plugged into a customer's car in a small shed at night, laptop open, a modest stack of job sheets beside him.
@@ -822,7 +892,7 @@ deliberate extra hold, listed per shot.
 - **Sound effects:** Laptop fan, success beep.
 - **Music:** Chapter cue continues.
 
-### S067 - CH07 - 5.5s  (TC 7:17-7:22, page 20)
+### S073 - CH07 - 5.5s  (TC 8:12-8:17, page 22)
 - **Voice-over:** "And I filmed everything. Several videos a day, every single day."
 - **Characters:** Conor (early 20s)
 - **Composition:** Medium shot: Conor holding his phone up filming a freshly tuned car's exhaust, then turning the camera to himself.
@@ -833,7 +903,7 @@ deliberate extra hold, listed per shot.
 - **Sound effects:** Exhaust pops, phone beep.
 - **Music:** Chapter cue continues.
 
-### S068 - CH07 - 8s  (TC 7:22-7:30, page 20)
+### S074 - CH07 - 8s  (TC 8:17-8:25, page 22)
 - **Voice-over:** "Most of what I know about marketing, I learned by getting it wrong first. Slowly, people started following."
 - **Characters:** Conor (early 20s)
 - **Composition:** Close-up: Conor at night refreshing his phone; a follower counter shape ticks up (no legible numbers); a small smile.
@@ -850,7 +920,7 @@ deliberate extra hold, listed per shot.
 **Colour grade:** Overcast countryside greens and greys; harsh fluorescent tubes inside the garage; blue pre-dawn for the exhausted nights.  
 **Music direction:** Grinding work rhythm (percussive metallic textures), the hedge sting returns, then sparse piano for money worries and exhaustion.
 
-### S069 - CH08 - 7.5s  (TC 7:30-7:38, page 21)
+### S075 - CH08 - 7.5s  (TC 8:25-8:32, page 23)
 - **Voice-over:** "In November 2021, my father let me build a garage on the land beside our house."
 - **Characters:** Conor (early 20s), Father
 - **Composition:** Wide shot: father and Conor standing at the edge of a grassy plot beside the family home in grey November light, the father gesturing across the land.
@@ -861,8 +931,8 @@ deliberate extra hold, listed per shot.
 - **Sound effects:** Wind, crows.
 - **Music:** Chapter cue continues.
 
-### S070 - CH08 - 6s, incl. 0.5s hold  (TC 7:38-7:44, page 21)
-- **Voice-over:** "The same patch of ground where I'd played as a kid."
+### S076 - CH08 - 7s, incl. 1s hold  (TC 8:32-8:40, page 23)
+- **Voice-over:** "That bit of ground meant something. It's where I'd played as a kid."
 - **Characters:** Conor (early 20s)
 - **Composition:** Medium shot: Conor looking across the grass; a faint ghosted memory of a small boy kicking a ball painted translucently into the scene.
 - **Location & period:** Family land, November 2021
@@ -873,7 +943,18 @@ deliberate extra hold, listed per shot.
 - **Music:** Chapter cue continues.
 - **Note:** Ghosted child is a generic small boy, not a new character design.
 
-### S071 - CH08 - 6.5s  (TC 7:44-7:50, page 21)
+### S077 - CH08 - 6s  (TC 8:40-8:46, page 23)
+- **Voice-over:** "And now it was going to be where I built the business."
+- **Characters:** Conor (early 20s), Extras
+- **Composition:** Medium-wide match dissolve from S076: the same patch of ground, now marked out with string lines and a fresh concrete slab being poured by anonymous builders; Conor watching at the edge.
+- **Location & period:** Family land, late 2021
+- **Character action:** The concrete spreads across the spot where the ghosted child played.
+- **Animation:** Ghosted child fades as concrete flows in; builders rake; Conor's slow nod.
+- **Camera:** Locked off, framing matches S076.
+- **Sound effects:** Concrete mixer, raking, wind.
+- **Music:** Theme phrase on piano.
+
+### S078 - CH08 - 6.5s  (TC 8:46-8:52, page 23)
 - **Voice-over:** "Building it was a serious investment, and every bit of it was a risk."
 - **Characters:** Conor (early 20s), Extras
 - **Composition:** Wide shot: a steel-framed garage going up on the plot, anonymous builders on scaffolding, Conor watching in a hoodie with his hands in his pockets.
@@ -885,8 +966,8 @@ deliberate extra hold, listed per shot.
 - **Music:** Chapter cue continues.
 - **Note:** CONFIRM: currency of the 12,000-14,000 build cost before adding the figure to narration.
 
-### S072 - CH08 - 6.5s  (TC 7:50-7:57, page 21)
-- **Voice-over:** "But for the first time, I could work indoors. No more racing the sunset."
+### S079 - CH08 - 9s  (TC 8:52-9:01, page 24)
+- **Voice-over:** "For the first time, I had a proper roof over my head while I worked. No more racing the sunset."
 - **Characters:** Conor (early 20s)
 - **Composition:** Medium-wide: inside the finished garage, rain hammering outside the open roller door, Conor working dry under bright lights on a car.
 - **Location & period:** Inside the first garage, 2021
@@ -895,9 +976,21 @@ deliberate extra hold, listed per shot.
 - **Camera:** Locked off.
 - **Sound effects:** Heavy rain on steel, ratchet clicks.
 - **Music:** Chapter cue continues.
-- **Note:** Callback to S048.
+- **Note:** Callback to S049.
 
-### S073 - CH08 - 5s  (TC 7:57-8:02, page 22)
+### S080 - CH08 - 6s  (TC 9:01-9:07, page 24)
+- **Voice-over:** (none)
+- **Characters:** Father, Conor (early 20s)
+- **Composition:** Wide shot from the yard at dusk: the father standing quietly in the open garage doorway, hands in his gilet pockets, watching Conor work inside under the lights; the family house and his hedge behind him.
+- **Location & period:** Family land, dusk, 2021
+- **Character action:** The father watches for a moment, gives a small nod to himself, and walks back toward the house.
+- **Animation:** Father's small nod; he turns and walks; garage light spills across the yard.
+- **Camera:** Locked off.
+- **Sound effects:** Ratchet clicks inside, footsteps on gravel.
+- **Music:** Tender piano phrase.
+- **Note:** No dialogue, by design.
+
+### S081 - CH08 - 5s  (TC 9:07-9:12, page 24)
 - **Voice-over:** "Customers came from all over - Cork, Derry, Galway, Mayo."
 - **Characters:** Conor (early 20s), Extras
 - **Composition:** Wide shot: a muddy country lane lined with customer cars queued to the garage; Conor waving the next car in.
@@ -908,7 +1001,7 @@ deliberate extra hold, listed per shot.
 - **Sound effects:** Tyres on gravel, car doors.
 - **Music:** Chapter cue continues.
 
-### S074 - CH08 - 6s  (TC 8:02-8:08, page 22)
+### S082 - CH08 - 6s  (TC 9:12-9:18, page 25)
 - **Voice-over:** "Some drove up to ten hours there and back, just for a remap."
 - **Characters:** Conor (early 20s), Extras
 - **Composition:** Medium shot: a tired customer stretching beside his car after a long drive, shaking Conor's hand.
@@ -919,18 +1012,18 @@ deliberate extra hold, listed per shot.
 - **Sound effects:** Engine ticking, greetings.
 - **Music:** Chapter cue continues.
 
-### S075 - CH08 - 5.5s, incl. 1s hold  (TC 8:08-8:14, page 22)
+### S083 - CH08 - 5.5s, incl. 1s hold  (TC 9:18-9:24, page 25)
 - **Voice-over:** "And yes - they still parked by the hedge."
 - **Characters:** Father, Extras
-- **Composition:** Medium shot mirroring S035: the father with garden shears, staring at a row of customer cars nosed against his immaculate hedge.
+- **Composition:** Medium shot mirroring S036: the father with garden shears, staring at a row of customer cars nosed against his immaculate hedge.
 - **Location & period:** Family home, 2021-2022
 - **Character action:** He closes his eyes and exhales slowly.
 - **Animation:** Cars inch closer; a leaf falls; father's slow exhale.
-- **Camera:** Static, matches S035.
+- **Camera:** Static, matches S036.
 - **Sound effects:** Hedge sting returns.
 - **Music:** Comic hedge sting.
 
-### S076 - CH08 - 6s  (TC 8:14-8:20, page 22)
+### S084 - CH08 - 6s  (TC 9:24-9:30, page 25)
 - **Voice-over:** "The hours were brutal. Early mornings, late nights, sometimes seven days a week."
 - **Characters:** Conor (early 20s)
 - **Composition:** Medium shot: Conor under a car on a two-post lift, harsh fluorescent light, black night outside the open door.
@@ -941,7 +1034,7 @@ deliberate extra hold, listed per shot.
 - **Sound effects:** Ratchet clicks, lift hum.
 - **Music:** Chapter cue continues.
 
-### S077 - CH08 - 7s  (TC 8:20-8:26, page 23)
+### S085 - CH08 - 7s  (TC 9:30-9:36, page 26)
 - **Voice-over:** "I poured money into social media ads. Some months, that put real pressure on me."
 - **Characters:** Conor (early 20s)
 - **Composition:** Medium close-up: Conor at a cluttered desk in the garage corner, phone showing an ad dashboard shape (no text), a pile of bills, rubbing his temples.
@@ -952,7 +1045,7 @@ deliberate extra hold, listed per shot.
 - **Sound effects:** Calculator beeps, rain on the roof.
 - **Music:** Sparse piano.
 
-### S078 - CH08 - 6.5s  (TC 8:26-8:33, page 23)
+### S086 - CH08 - 6.5s  (TC 9:36-9:43, page 26)
 - **Voice-over:** "Not every customer was easy. Not every day went right. And I was exhausted."
 - **Characters:** Conor (early 20s), Extras
 - **Composition:** Medium shot: an anonymous frustrated customer gesturing at his car while Conor listens patiently, dark circles under his eyes.
@@ -963,7 +1056,7 @@ deliberate extra hold, listed per shot.
 - **Sound effects:** Raised voice (unintelligible), wind.
 - **Music:** Chapter cue continues.
 
-### S079 - CH08 - 5s  (TC 8:33-8:38, page 23)
+### S087 - CH08 - 5s  (TC 9:43-9:48, page 26)
 - **Voice-over:** (none)
 - **Characters:** Conor (early 20s)
 - **Composition:** Wide shot: Conor asleep in a camping chair in the dark garage, one work lamp on, phone buzzing on the bench beside him.
@@ -980,7 +1073,7 @@ deliberate extra hold, listed per shot.
 **Colour grade:** Rejection scenes in flat grey; the finished shop in brighter, cleaner, slightly warm light - the first 'earned' grade.  
 **Music direction:** Repeated muted door-close percussion for the landlords; full arrangement of the main theme when the shop opens.
 
-### S080 - CH09 - 4s  (TC 8:38-8:42, page 24)
+### S088 - CH09 - 4s  (TC 9:48-9:52, page 27)
 - **Voice-over:** "By 2022, I wanted a proper shop."
 - **Characters:** Conor (early 20s)
 - **Composition:** Medium shot: Conor standing on a market-town street looking at an empty commercial unit with a blank letting board, hands in his pockets.
@@ -991,7 +1084,7 @@ deliberate extra hold, listed per shot.
 - **Sound effects:** Town ambience.
 - **Music:** Chapter cue continues.
 
-### S081 - CH09 - 9s  (TC 8:42-8:51, page 24)
+### S089 - CH09 - 9s  (TC 9:52-10:01, page 27)
 - **Voice-over:** "I went to landlord after landlord. Most of them took one look at how young I was and said no."
 - **Characters:** Conor (early 20s), Extras
 - **Composition:** Medium shot: Conor in a smart black hoodie at a doorway, an anonymous older landlord looking him up and down with a sceptical frown.
@@ -1002,7 +1095,7 @@ deliberate extra hold, listed per shot.
 - **Sound effects:** Door creak, polite murmurs.
 - **Music:** Chapter cue continues.
 
-### S082 - CH09 - 3s, incl. 1s hold  (TC 8:51-8:54, page 24)
+### S090 - CH09 - 3s, incl. 1s hold  (TC 10:01-10:04, page 27)
 - **Voice-over:** "Again. And again."
 - **Characters:** Conor (early 20s), Extras
 - **Composition:** Medium shot: a different door closing in Conor's face; his reflection in the door glass, jaw tight.
@@ -1013,7 +1106,7 @@ deliberate extra hold, listed per shot.
 - **Sound effects:** Repeated muted door-close percussion.
 - **Music:** Chapter cue continues.
 
-### S083 - CH09 - 4.5s  (TC 8:54-8:58, page 24)
+### S091 - CH09 - 4.5s  (TC 10:04-10:08, page 27)
 - **Voice-over:** "Then, finally, someone said yes. A premises in Carrickmacross."
 - **Characters:** Conor (early 20s), Extras
 - **Composition:** Medium shot: an anonymous landlord handing Conor a set of keys outside an empty shopfront on a Carrickmacross street.
@@ -1025,7 +1118,7 @@ deliberate extra hold, listed per shot.
 - **Music:** Chapter cue continues.
 - **Note:** CONFIRM: month the Carrickmacross premises was secured/opened.
 
-### S084 - CH09 - 4s  (TC 8:58-9:02, page 25)
+### S092 - CH09 - 4s  (TC 10:08-10:12, page 28)
 - **Voice-over:** "I renovated the place and got it ready."
 - **Characters:** Conor (early 20s)
 - **Composition:** Medium-wide: inside the stripped-out shop, Conor painting a wall with a roller, dust sheets, ladders, new shelving waiting.
@@ -1036,7 +1129,7 @@ deliberate extra hold, listed per shot.
 - **Sound effects:** Roller squelch, radio.
 - **Music:** Chapter cue continues.
 
-### S085 - CH09 - 4.5s  (TC 9:02-9:07, page 25)
+### S093 - CH09 - 4.5s  (TC 10:12-10:17, page 28)
 - **Voice-over:** "Walk-in customers. Parts on the shelves. Online orders. Bookings."
 - **Characters:** Conor (early 20s), Extras
 - **Composition:** Medium-wide: the finished, bright shop - counter, shelves of parts, a waiting area; anonymous customers at the counter; parcels ready to post; Conor on the phone taking a booking.
@@ -1047,7 +1140,7 @@ deliberate extra hold, listed per shot.
 - **Sound effects:** Door chime, chatter, phone.
 - **Music:** Chapter cue continues.
 
-### S086 - CH09 - 7s, incl. 1s hold  (TC 9:07-9:14, page 25)
+### S094 - CH09 - 7s, incl. 1s hold  (TC 10:17-10:24, page 28)
 - **Voice-over:** "After years of driveways, sheds and sunsets - this one felt earned."
 - **Characters:** Conor (early 20s)
 - **Composition:** Medium-wide: Conor standing alone outside the lit shopfront at dusk, arms crossed in his signature pose, looking at it.
@@ -1064,7 +1157,7 @@ deliberate extra hold, listed per shot.
 **Colour grade:** Hot Andalusian light: saturated blue sky, white walls, terracotta, hard shadows; night scenes in deep blue for doubt.  
 **Music direction:** Spanish guitar texture woven into the theme; struggle section stripped back to a single guitar; slow rebuild.
 
-### S087 - CH10 - 4s  (TC 9:14-9:18, page 26)
+### S095 - CH10 - 4s  (TC 10:24-10:28, page 29)
 - **Voice-over:** "Around 2024, I went after something new. Marbella."
 - **Characters:** Adult Conor
 - **Composition:** Wide shot: adult Conor stepping out into blinding Spanish sun with a suitcase, white buildings and mountains beyond.
@@ -1076,22 +1169,45 @@ deliberate extra hold, listed per shot.
 - **Music:** Chapter cue continues.
 - **Note:** CONFIRM: tattoos are shown from Marbella onward because the reference sheet is present-day; confirm this is acceptable for c. 2024.
 
-### S088 - CH10 - 6s  (TC 9:18-9:24, page 26)
-- **Voice-over:** "In Ireland, people knew me. In Spain, I was starting again from zero."
+### S096 - CH10 - 8s  (TC 10:28-10:36, page 29)
+- **Voice-over:** "Back home, I had the shop in Carrickmacross, a phone that didn't stop, customers who knew my name."
+- **Characters:** Conor (early 20s), Extras
+- **Composition:** Memory shot in the CH09 grey grade: the busy Carrickmacross shop counter, customers waiting, Conor on the phone - framed as a fading memory at the edges.
+- **Location & period:** Memory of Carrickmacross, 2022-2023
+- **Character action:** He laughs with a customer while the phone rings.
+- **Animation:** Customers move; phone rings; frame edges dissolve into white sunlight.
+- **Camera:** Slow push-in into a light-flare transition.
+- **Sound effects:** Shop bustle fading out.
+- **Music:** Chapter cue continues.
+
+### S097 - CH10 - 8s, incl. 0.5s hold  (TC 10:36-10:44, page 29)
+- **Voice-over:** "In Marbella, nobody knew who I was. Nobody was ringing. I was starting again from zero."
 - **Characters:** Adult Conor
-- **Composition:** Medium shot: Conor in a small, bare rented unit with white walls, one folding table, a laptop, unopened boxes.
+- **Composition:** Medium shot: Conor in a small, bare rented unit with white walls, one folding table, a laptop, unopened boxes, his phone face-up and silent beside him.
 - **Location & period:** Rented unit, Marbella, c. 2024
-- **Character action:** He sets the laptop on the table and looks around the empty room.
-- **Animation:** Laptop opens; ceiling fan turns; sunlight blades through blinds.
+- **Character action:** He sets the laptop on the table, glances at the silent phone, and looks around the empty room.
+- **Animation:** Laptop opens; ceiling fan turns; sunlight blades through blinds; phone stays dark.
 - **Camera:** Slow pan across the empty room.
-- **Sound effects:** Ceiling fan, echoing footsteps.
+- **Sound effects:** Ceiling fan, echoing footsteps, silence where a ringtone should be.
 - **Music:** Chapter cue continues.
 - **Note:** CONFIRM: first Marbella premises (rented unit assumed for the visual).
 
-### S089 - CH10 - 6.5s  (TC 9:24-9:30, page 26)
-- **Voice-over:** "There were sleepless nights. Weeks where I honestly didn't know if it would work."
+### S098 - CH10 - 8s  (TC 10:44-10:52, page 29)
+- **Voice-over:** "Different country, different language, different way of doing things. Everything I knew, I had to prove again."
+- **Characters:** Adult Conor, Extras
+- **Composition:** Medium-wide: Conor on a bright Marbella street outside a café, trying to follow a fast Spanish conversation with a local mechanic, nodding a beat too late.
+- **Location & period:** Marbella street, c. 2024
+- **Character action:** He nods, then glances down at a translation app on his phone (no legible text).
+- **Animation:** Hands gesture; his delayed nod; phone check; scooters pass.
+- **Camera:** Locked off.
+- **Sound effects:** Fast Spanish chatter (unintelligible), scooters.
+- **Music:** Chapter cue continues.
+- **Note:** CONFIRM: whether the language barrier was a real difficulty (shown lightly).
+
+### S099 - CH10 - 8.5s, incl. 0.5s hold  (TC 10:52-11:00, page 30)
+- **Voice-over:** "There were nights I didn't sleep at all. Lying there doing sums, wondering if I'd made a mistake."
 - **Characters:** Adult Conor
-- **Composition:** Medium shot: Conor lying awake at night, phone light on his face, staring at the ceiling fan.
+- **Composition:** Medium shot: Conor lying awake at night, phone light on his face showing a calculator shape (no legible numbers), staring at the ceiling fan.
 - **Location & period:** Apartment, Marbella, night
 - **Character action:** He puts the phone face-down and stares upward.
 - **Animation:** Fan turns; phone dims; slow blink.
@@ -1099,8 +1215,8 @@ deliberate extra hold, listed per shot.
 - **Sound effects:** Fan, distant scooter.
 - **Music:** Stripped back to a single guitar.
 
-### S090 - CH10 - 7s  (TC 9:30-9:38, page 26)
-- **Voice-over:** "So I went back to basics. Flyers. On parked cars, one windscreen at a time."
+### S100 - CH10 - 8.5s  (TC 11:00-11:09, page 30)
+- **Voice-over:** "So I went back to what I knew. Flyers. Tucked under windscreen wipers, car after car, street after street."
 - **Characters:** Adult Conor, Extras
 - **Composition:** Medium-wide: Conor in a black t-shirt on a sunny Marbella street tucking blank flyers under the windscreen wipers of parked cars; white walls and bougainvillea behind.
 - **Location & period:** Marbella street, midday
@@ -1110,7 +1226,7 @@ deliberate extra hold, listed per shot.
 - **Sound effects:** Wiper snap, footsteps, scooters.
 - **Music:** Chapter cue continues.
 
-### S091 - CH10 - 6s  (TC 9:38-9:44, page 27)
+### S101 - CH10 - 6s  (TC 11:09-11:15, page 30)
 - **Voice-over:** "Years after CC Decals, I was right back to sticking things on cars."
 - **Characters:** Adult Conor
 - **Composition:** Close-up: Conor's tattooed hand pressing a flyer under a wiper, a wry half smile reflected in the windscreen.
@@ -1122,8 +1238,19 @@ deliberate extra hold, listed per shot.
 - **Music:** Chapter cue continues.
 - **Note:** Callback line is Conor's reflection, not a factual claim.
 
-### S092 - CH10 - 5.5s, incl. 1.5s hold  (TC 9:44-9:49, page 27)
-- **Voice-over:** "More than once, I thought about giving up."
+### S102 - CH10 - 7.5s  (TC 11:15-11:22, page 31)
+- **Voice-over:** "Some days, nobody rang. Some days, one person did. And that one call kept me going."
+- **Characters:** Adult Conor
+- **Composition:** Close-up: Conor's phone lighting up on the folding table in the empty unit; his hand grabbing it fast.
+- **Location & period:** Rented unit, Marbella
+- **Character action:** He snatches the phone up and answers.
+- **Animation:** Phone lights and buzzes; hand darts in; he stands up.
+- **Camera:** Locked off.
+- **Sound effects:** Ringtone breaking the silence.
+- **Music:** Chapter cue continues.
+
+### S103 - CH10 - 6s, incl. 1.5s hold  (TC 11:22-11:28, page 31)
+- **Voice-over:** "More than once, I thought about packing it in."
 - **Characters:** Adult Conor
 - **Composition:** Wide night shot: Conor sitting alone on a marina wall, flyers stacked beside him, head bowed, boats bobbing.
 - **Location & period:** Marbella marina, night
@@ -1133,8 +1260,8 @@ deliberate extra hold, listed per shot.
 - **Sound effects:** Gentle waves.
 - **Music:** Chapter cue continues.
 
-### S093 - CH10 - 4.5s  (TC 9:49-9:54, page 27)
-- **Voice-over:** "But slowly, the Spanish styling business started to grow."
+### S104 - CH10 - 8s  (TC 11:28-11:36, page 31)
+- **Voice-over:** "But one customer turned into another, and another. Slowly, the Spanish styling business started to take shape."
 - **Characters:** Adult Conor, Extras
 - **Composition:** Medium-wide: Conor at a small Marbella workshop bay with a customer car inside and two more waiting in the sun, shaking hands with a customer.
 - **Location & period:** Marbella workshop, c. 2024-2025
@@ -1150,7 +1277,7 @@ deliberate extra hold, listed per shot.
 **Colour grade:** Practical training in clean workshop light; events in warm stage spots against dark rooms with cool rim light.  
 **Music direction:** Two distinct cues: a focused technical pulse for training, a tasteful motivational build for the events.
 
-### S094 - CH11 - 7s  (TC 9:54-10:00, page 28)
+### S105 - CH11 - 7s  (TC 11:36-11:44, page 32)
 - **Voice-over:** "People kept asking me how I did it. So I built Level Up With CC."
 - **Characters:** Adult Conor, Extras
 - **Composition:** Medium shot: Conor at a workbench showing a small group of anonymous trainees how to connect a laptop to a car's OBD port.
@@ -1162,7 +1289,7 @@ deliberate extra hold, listed per shot.
 - **Music:** Chapter cue continues.
 - **Note:** CONFIRM: launch date and location of Level Up With CC courses. Name in VO only.
 
-### S095 - CH11 - 8s  (TC 10:00-10:08, page 28)
+### S106 - CH11 - 8s  (TC 11:44-11:52, page 32)
 - **Voice-over:** "Practical training in ECU work and remapping, plus the business side - with guidance from my team."
 - **Characters:** Adult Conor, Extras
 - **Composition:** Wide shot: a bright training room with trainees at laptops connected to ECUs on benches; anonymous team members helping individuals; Conor overseeing.
@@ -1173,7 +1300,7 @@ deliberate extra hold, listed per shot.
 - **Sound effects:** Room tone, clicks.
 - **Music:** Chapter cue continues.
 
-### S096 - CH11 - 7.5s  (TC 10:08-10:16, page 28)
+### S107 - CH11 - 7.5s  (TC 11:52-11:59, page 32)
 - **Voice-over:** "The motivational events were something different. Not technical courses - just my story, mistakes and all."
 - **Characters:** Adult Conor, Extras
 - **Composition:** Medium-wide from the side of a stage: Conor walking out under a warm spotlight toward a seated audience, just him and a microphone.
@@ -1184,7 +1311,7 @@ deliberate extra hold, listed per shot.
 - **Sound effects:** Audience murmur dies down.
 - **Music:** Chapter cue continues.
 
-### S097 - CH11 - 4s, incl. 0.5s hold  (TC 10:16-10:20, page 28)
+### S108 - CH11 - 4s, incl. 0.5s hold  (TC 11:59-12:03, page 32)
 - **Voice-over:** "Dublin, the fifteenth of November, 2025."
 - **Characters:** Adult Conor, Extras
 - **Composition:** Wide shot from the back of a Dublin event room: Conor on stage, audience in silhouette, warm stage light.
@@ -1196,7 +1323,7 @@ deliberate extra hold, listed per shot.
 - **Music:** Chapter cue continues.
 - **Note:** Date given in VO; no on-screen text in the illustration (date super can be added in edit).
 
-### S098 - CH11 - 4s, incl. 0.5s hold  (TC 10:20-10:24, page 29)
+### S109 - CH11 - 4s, incl. 0.5s hold  (TC 12:03-12:07, page 33)
 - **Voice-over:** "Cavan, the twenty-seventh of February, 2026."
 - **Characters:** Adult Conor, Extras
 - **Composition:** Medium-wide low angle: Conor on a different stage in Cavan, a larger audience, cool rim light.
@@ -1207,7 +1334,7 @@ deliberate extra hold, listed per shot.
 - **Sound effects:** Crowd laughter, applause.
 - **Music:** Chapter cue continues.
 
-### S099 - CH11 - 6s  (TC 10:24-10:30, page 29)
+### S110 - CH11 - 6s  (TC 12:07-12:13, page 33)
 - **Voice-over:** "Standing up there, telling a full room about the bulb I fitted backwards."
 - **Characters:** Adult Conor, Extras
 - **Composition:** Medium shot: Conor on stage holding up a small headlight bulb backwards, deadpan; the audience laughing.
@@ -1219,8 +1346,8 @@ deliberate extra hold, listed per shot.
 - **Music:** Chapter cue continues.
 - **Note:** Callback to S015. CONFIRM: that the LED story is part of the event talk.
 
-### S100 - CH11 - 7s  (TC 10:30-10:37, page 29)
-- **Voice-over:** "If my story pushed even one person to go for it, it was worth telling."
+### S111 - CH11 - 8.5s  (TC 12:13-12:22, page 33)
+- **Voice-over:** "If one person walks out of that room and finally has a go at something - that'll do me."
 - **Characters:** Adult Conor, Extras
 - **Composition:** Low-angle medium shot: Conor centre stage, arms open, audience on their feet applauding in silhouette.
 - **Location & period:** Event venue
@@ -1236,8 +1363,8 @@ deliberate extra hold, listed per shot.
 **Colour grade:** Dusk to night: lilac sky, warm festoon lights, pool reflections; Puerto Banus coda in bright Mediterranean day.  
 **Music direction:** Emotional peak - main theme in full piano-and-strings version; near-silence for the first handshake.
 
-### S101 - CH12 - 4s  (TC 10:37-10:41, page 30)
-- **Voice-over:** "Then came the twenty-second of May, 2026. Marbella."
+### S112 - CH12 - 7s  (TC 12:22-12:28, page 34)
+- **Voice-over:** "On the twenty-second of May, 2026, we held an event at a mansion in Marbella."
 - **Characters:** Extras
 - **Composition:** Wide establishing shot at dusk: a vast white modern hillside mansion with an infinity pool, festoon lights, guests gathering on the terrace, sea and mountains beyond.
 - **Location & period:** Marbella mansion, dusk, 22 May 2026
@@ -1247,30 +1374,19 @@ deliberate extra hold, listed per shot.
 - **Sound effects:** Cicadas, party ambience.
 - **Music:** Chapter cue continues.
 
-### S102 - CH12 - 5s  (TC 10:41-10:46, page 30)
-- **Voice-over:** "A mansion they said was worth two hundred million euro."
+### S113 - CH12 - 8s, incl. 0.5s hold  (TC 12:28-12:36, page 34)
+- **Voice-over:** "They said it was worth two hundred million euro. Honestly? That's not the part I remember."
 - **Characters:** Adult Conor
-- **Composition:** Medium-wide: Conor walking through the mansion's huge glass doors into the marble interior, looking up at it.
+- **Composition:** Medium-wide: Conor walking through the mansion's huge glass doors into the marble interior, glancing up at it, then past it toward the terrace.
 - **Location & period:** Mansion interior, dusk
-- **Character action:** He takes it in with a low whistle.
-- **Animation:** Glass doors slide; chandelier light; his head tilts up.
+- **Character action:** He glances up, then turns toward the sound of people on the terrace.
+- **Animation:** Glass doors slide; chandelier light; head tilts up, then turns away.
 - **Camera:** Slow backward dolly.
-- **Sound effects:** Footsteps on marble, low whistle.
+- **Sound effects:** Footsteps on marble, swell of voices.
 - **Music:** Chapter cue continues.
 
-### S103 - CH12 - 4.5s, incl. 0.5s hold  (TC 10:46-10:50, page 30)
-- **Voice-over:** "But that's not what I remember most."
-- **Characters:** Adult Conor
-- **Composition:** Close-up: Conor turning away from the architecture toward the terrace, where voices are rising.
-- **Location & period:** Mansion interior
-- **Character action:** He turns his head toward the sound of people.
-- **Animation:** Head turn; warm light from the terrace on his face.
-- **Camera:** Locked off.
-- **Sound effects:** Swell of voices.
-- **Music:** Chapter cue continues.
-
-### S104 - CH12 - 8s  (TC 10:50-10:58, page 30)
-- **Voice-over:** "For the first time, the CC Styling team from around the world was together, in one place."
+### S114 - CH12 - 10s  (TC 12:36-12:46, page 34)
+- **Voice-over:** "What I remember is the people. For the first time, the CC Styling team from around the world was in one place."
 - **Characters:** Adult Conor, Extras
 - **Composition:** Wide shot: the terrace full of anonymous team members of varied nationalities hugging and laughing; Conor moving through them greeting people.
 - **Location & period:** Mansion terrace, dusk, 22 May 2026
@@ -1280,8 +1396,19 @@ deliberate extra hold, listed per shot.
 - **Sound effects:** Greetings, laughter.
 - **Music:** Chapter cue continues.
 
-### S105 - CH12 - 4s, incl. 1.5s hold  (TC 10:58-11:02, page 31)
-- **Voice-over:** "And Arlind was there."
+### S115 - CH12 - 8s  (TC 12:46-12:54, page 34)
+- **Voice-over:** "Faces I'd only ever seen on a screen - and now they were standing in front of me."
+- **Characters:** Adult Conor, Extras
+- **Composition:** Medium shot: Conor pausing mid-greeting, looking around the crowded terrace with quiet disbelief, a team member's hand still on his shoulder.
+- **Location & period:** Mansion terrace, dusk
+- **Character action:** He looks around slowly, taking it in.
+- **Animation:** His slow look around; festoon lights sway; people laugh in soft focus.
+- **Camera:** Slow arc.
+- **Sound effects:** Voices soften.
+- **Music:** Chapter cue continues.
+
+### S116 - CH12 - 4.5s, incl. 1.5s hold  (TC 12:54-12:59, page 35)
+- **Voice-over:** "And then I saw Arlind."
 - **Characters:** Adult Conor, Arlind
 - **Composition:** Medium shot: Conor turning as Arlind steps out of the crowd toward him, Arlind's face clear and lit by festoon lights, exactly matching his reference sheet.
 - **Location & period:** Mansion terrace, night, 22 May 2026
@@ -1289,21 +1416,32 @@ deliberate extra hold, listed per shot.
 - **Animation:** Crowd parts; Arlind walks in; both stop; slow grins.
 - **Camera:** Slow push-in.
 - **Sound effects:** Ambience falls away to near silence.
-- **Music:** Near-silence.
+- **Music:** Score drops out.
 
-### S106 - CH12 - 7.5s  (TC 11:02-11:10, page 31)
-- **Voice-over:** "Nine years working together. And this was the first time we'd ever met face to face."
+### S117 - CH12 - 8s  (TC 12:59-13:07, page 35)
+- **Voice-over:** "Nine years of building things together. Websites, messages, calls. And we'd never once been in the same room."
 - **Characters:** Adult Conor, Arlind
-- **Composition:** Close-up: Conor's tattooed hand and Arlind's hand meeting in a firm handshake, both faces visible above, festoon bokeh.
+- **Composition:** Medium two-shot: Conor and Arlind face to face on the terrace, a step apart, both shaking their heads with the same disbelieving grin; festoon bokeh behind.
+- **Location & period:** Mansion terrace, night
+- **Character action:** They close the last step between them.
+- **Animation:** Step forward; matching grins; lights twinkle.
+- **Camera:** Locked off.
+- **Sound effects:** Near silence, faint waves.
+- **Music:** Chapter cue continues.
+- **Note:** CONFIRM: exact year the collaboration began (nine years is stated by the story). No conversation scripted.
+
+### S118 - CH12 - 6s  (TC 13:07-13:13, page 35)
+- **Voice-over:** (none)
+- **Characters:** Adult Conor, Arlind
+- **Composition:** Close-up: Conor's tattooed hand and Arlind's hand meeting in a firm handshake, both faces visible above, festoon bokeh - THE MUSICAL PAUSE.
 - **Location & period:** Mansion terrace, night
 - **Character action:** The handshake grips and holds.
 - **Animation:** Hands meet and squeeze; bokeh twinkles.
 - **Camera:** Slow rack focus from hands to faces.
-- **Sound effects:** A single piano note.
-- **Music:** Chapter cue continues.
-- **Note:** CONFIRM: exact year the collaboration began (nine years is stated by the story).
+- **Sound effects:** Silence, then a single piano note.
+- **Music:** Musical pause: 3s of near-silence, then one piano note.
 
-### S107 - CH12 - 6s  (TC 11:10-11:16, page 31)
+### S119 - CH12 - 6s  (TC 13:13-13:19, page 35)
 - **Voice-over:** (none)
 - **Characters:** Adult Conor, Arlind, Extras
 - **Composition:** Medium two-shot: the handshake turns into a back-slapping hug; team members around them cheering.
@@ -1312,9 +1450,21 @@ deliberate extra hold, listed per shot.
 - **Animation:** Hug; back slaps; cheering arms; lights sway.
 - **Camera:** Slow arc around them.
 - **Sound effects:** Cheers, laughter.
-- **Music:** Theme swells.
+- **Music:** Theme returns and swells.
 
-### S108 - CH12 - 7.5s  (TC 11:16-11:24, page 32)
+### S120 - CH12 - 7.5s, incl. 1s hold  (TC 13:19-13:26, page 36)
+- **Voice-over:** "There's no speech for a moment like that. You just shake the man's hand."
+- **Characters:** Adult Conor, Arlind
+- **Composition:** Medium close-up: Conor and Arlind side by side at the terrace railing afterwards, both looking out at the night sea, shoulders nearly touching.
+- **Location & period:** Mansion terrace, night
+- **Character action:** They stand in comfortable silence.
+- **Animation:** Breeze moves their clothes; city lights twinkle; a slow shared smile.
+- **Camera:** Very slow push-in.
+- **Sound effects:** Waves, faint party behind.
+- **Music:** Chapter cue continues.
+- **Note:** Proposed narration pending Conor's approval.
+
+### S121 - CH12 - 7.5s  (TC 13:26-13:34, page 36)
 - **Voice-over:** "Standing there, I thought about the tyre shop, the ferry, the hedge... the bulb in backwards."
 - **Characters:** Adult Conor
 - **Composition:** Medium close-up: Conor at the terrace railing looking at the night sea; faint ghosted memories of the tyre workshop, the ferry and the hedge painted into the clouds.
@@ -1324,9 +1474,9 @@ deliberate extra hold, listed per shot.
 - **Camera:** Slow push-in.
 - **Sound effects:** Waves, faint party behind.
 - **Music:** Chapter cue continues.
-- **Note:** Ghosted memories reuse the S009 and S035 compositions.
+- **Note:** Ghosted memories reuse the S009 and S036 compositions.
 
-### S109 - CH12 - 4.5s, incl. 1s hold  (TC 11:24-11:28, page 32)
+### S122 - CH12 - 4.5s, incl. 1s hold  (TC 13:34-13:38, page 36)
 - **Voice-over:** "Every bit of it led here."
 - **Characters:** Adult Conor, Arlind, Extras
 - **Composition:** Wide shot: the whole team on the terrace raising glasses, Conor and Arlind side by side in the centre, city lights and sea behind.
@@ -1337,7 +1487,7 @@ deliberate extra hold, listed per shot.
 - **Sound effects:** Cheers, glass clink.
 - **Music:** Chapter cue continues.
 
-### S110 - CH12 - 9s  (TC 11:28-11:37, page 32)
+### S123 - CH12 - 9s  (TC 13:38-13:48, page 36)
 - **Voice-over:** "And on the nineteenth of September, we took it out onto the water - a yacht event in Puerto Banus."
 - **Characters:** Adult Conor, Extras
 - **Composition:** Wide shot: a large white yacht moored in Puerto Banus marina in bright Mediterranean daylight, guests on deck, Conor at the bow addressing them.
@@ -1355,7 +1505,7 @@ deliberate extra hold, listed per shot.
 **Colour grade:** Polished golden hour with glossy reflections; the Civic memory in the CH01 grey grade.  
 **Music direction:** Confident groove version of the theme, then the callback piano phrase from the Civic reveal.
 
-### S111 - CH13 - 5s  (TC 11:37-11:42, page 33)
+### S124 - CH13 - 5s  (TC 13:48-13:52, page 37)
 - **Voice-over:** "And the cars? It all started with one 1.4 Civic."
 - **Characters:** Young Conor
 - **Composition:** Memory shot in a soft vignette: young Conor beside the silver Civic on the grey Irish driveway, exactly as in S011.
@@ -1367,7 +1517,7 @@ deliberate extra hold, listed per shot.
 - **Music:** Chapter cue continues.
 - **Note:** Reuse the approved S011 frame.
 
-### S112 - CH13 - 3s  (TC 11:42-11:45, page 33)
+### S125 - CH13 - 3s  (TC 13:52-13:56, page 37)
 - **Voice-over:** "Now there's CC Marbella Rentals."
 - **Characters:** Adult Conor
 - **Composition:** Wide golden-hour shot: the rental fleet lined up outside a clean Marbella location (no signage), sea glinting behind; Conor walking along them.
@@ -1378,7 +1528,7 @@ deliberate extra hold, listed per shot.
 - **Sound effects:** Upbeat groove, footsteps.
 - **Music:** Chapter cue continues.
 
-### S113 - CH13 - 10s  (TC 11:45-11:55, page 33)
+### S126 - CH13 - 10s  (TC 13:56-14:06, page 37)
 - **Voice-over:** "The fleet has included a BMW X5 M Competition with eight hundred and fifty brake horsepower, a McLaren GT, a Porsche Panamera GTS..."
 - **Characters:** Adult Conor
 - **Composition:** Medium-wide: the X5 M Competition, McLaren GT and Panamera GTS from the approved fleet images, gleaming in a row; Conor leaning on the X5.
@@ -1390,7 +1540,7 @@ deliberate extra hold, listed per shot.
 - **Music:** Chapter cue continues.
 - **Note:** Vehicles drawn only from approved fleet assets; spec stated as provided.
 
-### S114 - CH13 - 3.5s  (TC 11:55-11:58, page 34)
+### S127 - CH13 - 3.5s  (TC 14:06-14:09, page 38)
 - **Voice-over:** "...a BMW M2, a Golf R."
 - **Characters:** Adult Conor
 - **Composition:** Medium shot: the BMW M2 and Golf R from the approved fleet images, Conor tossing a key in his hand between them.
@@ -1401,7 +1551,7 @@ deliberate extra hold, listed per shot.
 - **Sound effects:** Key jingle.
 - **Music:** Chapter cue continues.
 
-### S115 - CH13 - 10s, incl. 0.5s hold  (TC 11:58-12:08, page 34)
+### S128 - CH13 - 10s, incl. 0.5s hold  (TC 14:09-14:19, page 38)
 - **Voice-over:** "Every time I hand over a key, I think about that first one. The one I bought with my tyre-shop wages."
 - **Characters:** Adult Conor, Extras
 - **Composition:** Close-up: Conor's tattooed hand placing a modern key fob into a customer's palm - framed to echo S003.
@@ -1412,7 +1562,7 @@ deliberate extra hold, listed per shot.
 - **Sound effects:** Key jingle - same sound as S003.
 - **Music:** Callback piano phrase.
 
-### S116 - CH13 - 6.5s, incl. 1s hold  (TC 12:08-12:15, page 34)
+### S129 - CH13 - 6.5s, incl. 1s hold  (TC 14:19-14:26, page 38)
 - **Voice-over:** "Because the cars were never really the point. The graft was."
 - **Characters:** Adult Conor
 - **Composition:** Medium shot: Conor in sunglasses leaning on a fleet car, arms crossed, looking at camera - the confident pose from the character sheet.
@@ -1422,6 +1572,7 @@ deliberate extra hold, listed per shot.
 - **Camera:** Slow push-in.
 - **Sound effects:** Music settles.
 - **Music:** Chapter cue continues.
+- **Note:** Proposed narration pending Conor's approval.
 
 ---
 ## CH14 - Dubai - Part 2 Teaser
@@ -1429,7 +1580,7 @@ deliberate extra hold, listed per shot.
 **Colour grade:** Purple-orange desert dusk, skyline lights, haze; ends in silhouette.  
 **Music direction:** Low pulsing synth + deep percussion build, hard cut to silence and a single piano note under the Part 2 card.
 
-### S117 - CH14 - 5s  (TC 12:15-12:20, page 35)
+### S130 - CH14 - 5s  (TC 14:26-14:30, page 39)
 - **Voice-over:** "Ireland was where it started. Marbella was where it grew."
 - **Characters:** Adult Conor
 - **Composition:** Medium shot: Conor in a plane window seat looking out at a vast desert at dusk, the window glow on his face.
@@ -1441,7 +1592,7 @@ deliberate extra hold, listed per shot.
 - **Music:** Chapter cue continues.
 - **Note:** No Dubai achievements claimed in Part 1.
 
-### S118 - CH14 - 4s  (TC 12:20-12:24, page 35)
+### S131 - CH14 - 4s  (TC 14:30-14:34, page 39)
 - **Voice-over:** "But I've never been good at standing still."
 - **Characters:** Adult Conor
 - **Composition:** Close-up: Conor's eyes reflected in the plane window with the desert below.
@@ -1452,7 +1603,7 @@ deliberate extra hold, listed per shot.
 - **Sound effects:** Engine hum swells.
 - **Music:** Chapter cue continues.
 
-### S119 - CH14 - 3.5s, incl. 2s hold  (TC 12:24-12:28, page 35)
+### S132 - CH14 - 3.5s, incl. 2s hold  (TC 14:34-14:38, page 39)
 - **Voice-over:** "Dubai."
 - **Characters:** Adult Conor
 - **Composition:** Wide shot from behind: Conor in a black hoodie looking out over a waterfront at the Dubai skyline at dusk, the tallest tower glowing (matches the character-sheet panel).
@@ -1463,7 +1614,7 @@ deliberate extra hold, listed per shot.
 - **Sound effects:** City hum, warm wind.
 - **Music:** Low pulsing synth build.
 
-### S120 - CH14 - 8s  (TC 12:28-12:36, page 35)
+### S133 - CH14 - 8s  (TC 14:38-14:46, page 39)
 - **Voice-over:** (none)
 - **Characters:** Adult Conor
 - **Composition:** Close-up: Conor turns his head slightly toward camera with a half smile, skyline bokeh behind; hard cut to black.

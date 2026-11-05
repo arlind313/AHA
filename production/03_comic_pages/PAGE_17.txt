@@ -2,7 +2,7 @@ Create ONE cinematic graphic-novel storyboard page for the animated documentary 
 
 STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
 
-LAYOUT: landscape 3:2 page (1536x1024). Three equal tall vertical panels side by side, read left to right, each framed as a 9:16 vertical film shot. Thin black panel borders, slim white gutters, white page margin.
+LAYOUT: portrait 2:3 page (1024x1536). Four equal panels in a 2x2 grid, read left-to-right then top-to-bottom. Keep each panel's key action inside a central vertical 9:16 safe area. Thin black panel borders, slim white gutters, white page margin.
 
 COLOUR GRADE: Empty muted streets, then warm lamp-lit kitchen with cool screen glow on faces.
 
@@ -11,8 +11,9 @@ REFERENCE IMAGES ATTACHED: references/conor-character-sheet.png. These comic she
 CHARACTERS ON THIS PAGE (keep identical in every panel):
 - CONOR (2019-2023, early twenties): the same face as the uploaded adult Conor sheet, a few years younger - short beard starting to fill in, same fade haircut, athletic but not yet heavily muscular. Tattoo timeline is UNCONFIRMED: keep both arms, backs of the hands and neck covered (long sleeves, hoodie or high crew neck) so the image neither shows nor denies tattoos. Default outfit: plain black long-sleeve top or black hoodie, dark work trousers, black boots.
 
-PANEL 1 (LEFT): Medium-wide: Conor photographing decal packs and caliper paint kits on the kitchen table against a white sheet, desk lamp as light. Key moment: He snaps a photo, adjusts the product, snaps again. Setting: Family kitchen, night, 2020.
-PANEL 2 (CENTRE): Close-up: Conor's face lit by a phone notification, a huge grin spreading (notification shape has no legible text). Key moment: He jumps up from the chair. Setting: Family kitchen, night, 2020.
-PANEL 3 (RIGHT): Medium-wide: the family hallway packed with parcels; Conor taping boxes, a growing stack (no legible labels) by the front door, daylight changing through the door glass. Key moment: He tapes, stacks, grabs another box. Setting: Family hallway, 2020.
+PANEL 1 (TOP-LEFT): Wide shot: an empty Irish town main street, shutters down, no cars; Conor a lone figure walking down the middle of the road. Key moment: He walks slowly, looking around. Setting: Irish town main street, 2020 lockdown.
+PANEL 2 (TOP-RIGHT): Medium shot: Conor kneeling beside a customer's car on a driveway, fitting a decal; in the empty street behind him, a lone lockdown notice-style poster on a lamppost (no legible text). Key moment: He pauses, squeegee in hand, and looks at the empty street. Setting: Driveway, Ireland, early 2020.
+PANEL 3 (BOTTOM-LEFT): Medium shot: Conor on the sofa at home, phone in hand, scrolling past people shopping online, sitting up straight as an idea lands. Key moment: He stops scrolling and sits up. Setting: Family living room, evening, 2020.
+PANEL 4 (BOTTOM-RIGHT): Close-medium: Conor laying out decal packs, gel plate kits and caliper paint kits on a table, seeing them as products for the first time. Key moment: He lines the products up in a row and steps back. Setting: Family home, 2020.
 
 STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effect lettering, no panel numbers, no logos, no brand badges, no legible number plates or signs, no watermarks, no signature. Faces must stay identical across every panel and match the uploaded reference sheets. Correct hands with five fingers, natural anatomy. Period-correct vehicles and technology for the year stated. No palm trees or sunshine in Irish or English scenes. Do not add any named person who is not listed; extras stay anonymous background figures.

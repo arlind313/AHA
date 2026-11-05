@@ -1,20 +1,19 @@
-Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (Marbella, Marbella, Spain, c. 2024).
+Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (The First Garage, Family land, November 2021).
 
 STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
 
-LAYOUT: portrait 2:3 page (1024x1536). Four equal panels in a 2x2 grid, read left-to-right then top-to-bottom. Keep each panel's key action inside a central vertical 9:16 safe area. Thin black panel borders, slim white gutters, white page margin.
+LAYOUT: landscape 3:2 page (1536x1024). Three equal tall vertical panels side by side, read left to right, each framed as a 9:16 vertical film shot. Thin black panel borders, slim white gutters, white page margin.
 
-COLOUR GRADE: Hot Andalusian light: saturated blue sky, white walls, terracotta, hard shadows; night scenes in deep blue for doubt.
+COLOUR GRADE: Overcast countryside greens and greys; harsh fluorescent tubes inside the garage; blue pre-dawn for the exhausted nights.
 
 REFERENCE IMAGES ATTACHED: references/conor-character-sheet.png. These comic sheets are the ONLY identity references. Do not redesign anyone.
 
 CHARACTERS ON THIS PAGE (keep identical in every panel):
-- ADULT CONOR (Marbella and Dubai, 2024-2026): exactly the man on the uploaded Conor character sheet - same face, fade haircut, full short beard, neck tattoos, tattoo sleeves on both arms, muscular build, dark wristwatch on the left wrist. Default outfit: fitted plain black t-shirt or black hoodie; sunglasses only where stated.
+- CONOR (2019-2023, early twenties): the same face as the uploaded adult Conor sheet, a few years younger - short beard starting to fill in, same fade haircut, athletic but not yet heavily muscular. Tattoo timeline is UNCONFIRMED: keep both arms, backs of the hands and neck covered (long sleeves, hoodie or high crew neck) so the image neither shows nor denies tattoos. Default outfit: plain black long-sleeve top or black hoodie, dark work trousers, black boots.
 - BACKGROUND EXTRAS: ordinary anonymous people (customers, coworkers, team members, crowds), realistic varied ages, simple clothing, never more detailed than the main characters, faces never close to camera, never named.
 
-PANEL 1 (TOP-LEFT): Wide shot: adult Conor stepping out into blinding Spanish sun with a suitcase, white buildings and mountains beyond. Key moment: He shields his eyes and looks around. Setting: Marbella, c. 2024.
-PANEL 2 (TOP-RIGHT): Medium shot: Conor in a small, bare rented unit with white walls, one folding table, a laptop, unopened boxes. Key moment: He sets the laptop on the table and looks around the empty room. Setting: Rented unit, Marbella, c. 2024.
-PANEL 3 (BOTTOM-LEFT): Medium shot: Conor lying awake at night, phone light on his face, staring at the ceiling fan. Key moment: He puts the phone face-down and stares upward. Setting: Apartment, Marbella, night.
-PANEL 4 (BOTTOM-RIGHT): Medium-wide: Conor in a black t-shirt on a sunny Marbella street tucking blank flyers under the windscreen wipers of parked cars; white walls and bougainvillea behind. Key moment: He tucks a flyer and moves to the next car. Setting: Marbella street, midday.
+PANEL 1 (LEFT): Medium close-up: Conor at a cluttered desk in the garage corner, phone showing an ad dashboard shape (no text), a pile of bills, rubbing his temples. Key moment: He taps the phone, stares, pushes the papers away. Setting: Garage office corner, night.
+PANEL 2 (CENTRE): Medium shot: an anonymous frustrated customer gesturing at his car while Conor listens patiently, dark circles under his eyes. Key moment: Conor nods, holding up a calming hand. Setting: Garage yard, evening.
+PANEL 3 (RIGHT): Wide shot: Conor asleep in a camping chair in the dark garage, one work lamp on, phone buzzing on the bench beside him. Key moment: The phone lights up; he stirs. Setting: Inside the garage, before dawn.
 
 STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effect lettering, no panel numbers, no logos, no brand badges, no legible number plates or signs, no watermarks, no signature. Faces must stay identical across every panel and match the uploaded reference sheets. Correct hands with five fingers, natural anatomy. Period-correct vehicles and technology for the year stated. No palm trees or sunshine in Irish or English scenes. Do not add any named person who is not listed; extras stay anonymous background figures.

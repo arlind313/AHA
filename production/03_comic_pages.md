@@ -1,4 +1,4 @@
-# THE IRISH GRAFT - PART 1  (v0.2)
+# THE IRISH GRAFT - PART 1  (v0.3)
 ## 03 - Comic Storyboard Pages (ChatGPT image prompts)
 
 How to generate each page in ChatGPT:
@@ -181,8 +181,35 @@ STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effe
 ```
 
 ---
-### PAGE 07 - S022-S025 - 4 panels - The England Gamble
+### PAGE 07 - S022-S024 - 3 panels - The England Gamble
 File: `03_comic_pages/PAGE_07.txt`  
+Upload: references/conor-character-sheet.png
+
+```
+Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (The England Gamble, Ireland, Irish Sea & Holyhead, 2018).
+
+STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
+
+LAYOUT: landscape 3:2 page (1536x1024). Three equal tall vertical panels side by side, read left to right, each framed as a 9:16 vertical film shot. Thin black panel borders, slim white gutters, white page margin.
+
+COLOUR GRADE: Colder and wetter than CH01: steel blues, sodium-orange port lights, heavy grey sea; warm kitchen light on the return home.
+
+REFERENCE IMAGES ATTACHED: references/conor-character-sheet.png. These comic sheets are the ONLY identity references. Do not redesign anyone.
+
+CHARACTERS ON THIS PAGE (keep identical in every panel):
+- YOUNG CONOR (2017-2019, late teens): derived from the uploaded adult Conor sheet and clearly the same person, de-aged. Same strong straight brows, deep-set eyes, straight nose, defined jaw and chin, slightly prominent ears; softer fuller cheeks, smooth young skin, at most faint fuzz on the upper lip - NO beard. Short dark-brown hair, short faded sides, textured top pushed up and forward (same silhouette as the sheet, less groomed). Lean wiry build. No extensive modern tattoos: Tattoo timeline is UNCONFIRMED: keep both arms, backs of the hands and neck covered (long sleeves, hoodie or high crew neck) so the image neither shows nor denies tattoos. Default outfit: faded navy work trousers, plain dark-grey long-sleeve work top, scuffed black safety boots.
+- BACKGROUND EXTRAS: ordinary anonymous people (customers, coworkers, team members, crowds), realistic varied ages, simple clothing, never more detailed than the main characters, faces never close to camera, never named.
+
+PANEL 1 (LEFT): Medium-wide: young Conor walking down the ferry foot-passenger ramp at Holyhead in grey drizzle, peering into his nearly empty wallet. Key moment: He closes the wallet with a wince and pockets it. Setting: Holyhead ferry terminal, Wales, 2018.
+PANEL 2 (CENTRE): Close-up: young Conor reading a message on his phone, his face falling, rain beading on the screen (message text not legible). Key moment: His thumb stops; his face drains. Setting: Holyhead, 2018.
+PANEL 3 (RIGHT): Wide shot: young Conor sitting alone on a bench under a shelter at the port at dusk, bag at his feet, head in his hands, sodium lights reflecting on the wet ground. Key moment: He sits motionless, head down. Setting: Holyhead port, dusk, 2018.
+
+STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effect lettering, no panel numbers, no logos, no brand badges, no legible number plates or signs, no watermarks, no signature. Faces must stay identical across every panel and match the uploaded reference sheets. Correct hands with five fingers, natural anatomy. Period-correct vehicles and technology for the year stated. No palm trees or sunshine in Irish or English scenes. Do not add any named person who is not listed; extras stay anonymous background figures.
+```
+
+---
+### PAGE 08 - S025-S027 - 3 panels - The England Gamble
+File: `03_comic_pages/PAGE_08.txt`  
 Upload: references/conor-character-sheet.png, references/mother-character-sheet.png
 
 ```
@@ -190,7 +217,7 @@ Create ONE cinematic graphic-novel storyboard page for the animated documentary 
 
 STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
 
-LAYOUT: portrait 2:3 page (1024x1536). Four equal panels in a 2x2 grid, read left-to-right then top-to-bottom. Keep each panel's key action inside a central vertical 9:16 safe area. Thin black panel borders, slim white gutters, white page margin.
+LAYOUT: landscape 3:2 page (1536x1024). Three equal tall vertical panels side by side, read left to right, each framed as a 9:16 vertical film shot. Thin black panel borders, slim white gutters, white page margin.
 
 COLOUR GRADE: Colder and wetter than CH01: steel blues, sodium-orange port lights, heavy grey sea; warm kitchen light on the return home.
 
@@ -201,17 +228,16 @@ CHARACTERS ON THIS PAGE (keep identical in every panel):
 - BACKGROUND EXTRAS: ordinary anonymous people (customers, coworkers, team members, crowds), realistic varied ages, simple clothing, never more detailed than the main characters, faces never close to camera, never named.
 - CONOR'S MOTHER: use the uploaded mother comic reference sheet EXACTLY - same face, hair, build and styling. Do not invent or alter her appearance.
 
-PANEL 1 (TOP-LEFT): Medium-wide: young Conor walking down the ferry foot-passenger ramp at Holyhead in grey drizzle, peering into his nearly empty wallet. Key moment: He closes the wallet with a wince and pockets it. Setting: Holyhead ferry terminal, Wales, 2018.
-PANEL 2 (TOP-RIGHT): Close-up: young Conor reading a message on his phone, his face falling, rain beading on the screen (message text not legible). Key moment: His thumb stops; his face drains. Setting: Holyhead, 2018.
-PANEL 3 (BOTTOM-LEFT): Wide shot: young Conor sitting alone on a bench under a shelter at the port at dusk, bag at his feet, head in his hands, sodium lights reflecting on the wet ground. Key moment: He sits motionless, head down. Setting: Holyhead port, dusk, 2018.
-PANEL 4 (BOTTOM-RIGHT): Medium shot: Conor's mother at home in the warm family kitchen, phone to her ear, focused and calm, already organising. Key moment: She nods while listening and reaches for her keys and purse. Setting: Family kitchen, Ireland, evening, 2018.
+PANEL 1 (LEFT): Medium close-up: young Conor still on the port bench, phone pressed to his ear, eyes closed with relief, sodium light on his wet face. Key moment: He listens, nods slowly, and lets out a long breath. Setting: Holyhead port, night, 2018.
+PANEL 2 (CENTRE): Wide night shot: the ferry crossing a dark Irish Sea back toward Ireland; young Conor alone at the rail under the deck lights, hood up, looking ahead. Key moment: He stands still, hands in pockets, watching the lights of the Irish coast appear. Setting: Irish Sea, night, 2018.
+PANEL 3 (RIGHT): Wide shot: the foot-passenger arrivals area at Dublin Port at night; young Conor coming through with his sports bag; his mother standing alone near the exit holding a plastic shopping bag. Key moment: He sees her and stops; she lifts a hand. Setting: Dublin Port, night, 2018.
 
 STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effect lettering, no panel numbers, no logos, no brand badges, no legible number plates or signs, no watermarks, no signature. Faces must stay identical across every panel and match the uploaded reference sheets. Correct hands with five fingers, natural anatomy. Period-correct vehicles and technology for the year stated. No palm trees or sunshine in Irish or English scenes. Do not add any named person who is not listed; extras stay anonymous background figures.
 ```
 
 ---
-### PAGE 08 - S026-S029 - 4 panels - The England Gamble
-File: `03_comic_pages/PAGE_08.txt`  
+### PAGE 09 - S028-S030 - 3 panels - The England Gamble
+File: `03_comic_pages/PAGE_09.txt`  
 Upload: references/conor-character-sheet.png, references/mother-character-sheet.png
 
 ```
@@ -219,7 +245,7 @@ Create ONE cinematic graphic-novel storyboard page for the animated documentary 
 
 STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
 
-LAYOUT: portrait 2:3 page (1024x1536). Four equal panels in a 2x2 grid, read left-to-right then top-to-bottom. Keep each panel's key action inside a central vertical 9:16 safe area. Thin black panel borders, slim white gutters, white page margin.
+LAYOUT: landscape 3:2 page (1536x1024). Three equal tall vertical panels side by side, read left to right, each framed as a 9:16 vertical film shot. Thin black panel borders, slim white gutters, white page margin.
 
 COLOUR GRADE: Colder and wetter than CH01: steel blues, sodium-orange port lights, heavy grey sea; warm kitchen light on the return home.
 
@@ -228,19 +254,17 @@ REFERENCE IMAGES ATTACHED: references/conor-character-sheet.png, references/moth
 CHARACTERS ON THIS PAGE (keep identical in every panel):
 - YOUNG CONOR (2017-2019, late teens): derived from the uploaded adult Conor sheet and clearly the same person, de-aged. Same strong straight brows, deep-set eyes, straight nose, defined jaw and chin, slightly prominent ears; softer fuller cheeks, smooth young skin, at most faint fuzz on the upper lip - NO beard. Short dark-brown hair, short faded sides, textured top pushed up and forward (same silhouette as the sheet, less groomed). Lean wiry build. No extensive modern tattoos: Tattoo timeline is UNCONFIRMED: keep both arms, backs of the hands and neck covered (long sleeves, hoodie or high crew neck) so the image neither shows nor denies tattoos. Default outfit: faded navy work trousers, plain dark-grey long-sleeve work top, scuffed black safety boots.
 - CONOR'S MOTHER: use the uploaded mother comic reference sheet EXACTLY - same face, hair, build and styling. Do not invent or alter her appearance.
-- CONOR'S FIRST CAR: early-2000s Honda Civic 1.4 petrol 3-door hatchback of that generation - tall one-box bullet profile, short sloping bonnet flowing into a steeply raked windscreen, large swept-back headlights, small grille, three doors, tall rear hatch with vertical tail lights, plain bumpers, standard wheels with plain silver covers, factory ride height. Colour: satin silver (production choice). NOT a Type R, NOT a newer Civic, no body kit, no spoiler, no badges, blank plates.
 
-PANEL 1 (TOP-LEFT): Medium close-up: young Conor's tired face against a rain-streaked window at night as lights stream past outside, travelling home. Key moment: He rests his head against the glass, eyes half closed. Setting: Journey home, night, 2018.
-PANEL 2 (TOP-RIGHT): Medium two-shot in the warm family kitchen: the mother turning from the cooker as young Conor comes through the back door with his bag; a hot plate of dinner waiting on the table. Key moment: She sets down a spoon and opens her arms; he drops his bag. Setting: Family kitchen, night, 2018.
-PANEL 3 (BOTTOM-LEFT): Close-up: young Conor at the kitchen table eating, his mother's hand resting on his shoulder; his eyes wet but steady. Key moment: She squeezes his shoulder; he nods without looking up. Setting: Family kitchen, night, 2018.
-PANEL 4 (BOTTOM-RIGHT): Medium shot from behind: young Conor at a rain-speckled window looking down at the silver Civic on the driveway; reflection of his determined face in the glass. Key moment: He wipes condensation off the glass with his sleeve. Setting: Family home, night, 2018.
+PANEL 1 (LEFT): Medium two-shot: the mother handing young Conor the shopping bag; inside, a packet of crisps, chocolate bars and wrapped bread rolls are visible (no brand text). Key moment: He takes the bag and looks inside; a tired half smile breaks through. Setting: Dublin Port, night, 2018.
+PANEL 2 (CENTRE): Close-up: the mother's hand resting on young Conor's arm as they walk out of the terminal side by side, his face in soft focus, eyes wet but steady. Key moment: She squeezes his arm; he nods without looking at her. Setting: Dublin Port, night, 2018.
+PANEL 3 (RIGHT): Medium close-up through a car passenger window at night: young Conor eating a roll, looking out at Dublin Port lights sliding past, the bag of food on his lap. Key moment: He takes a bite, then rests his head back and looks ahead. Setting: Leaving Dublin Port, night, 2018.
 
 STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effect lettering, no panel numbers, no logos, no brand badges, no legible number plates or signs, no watermarks, no signature. Faces must stay identical across every panel and match the uploaded reference sheets. Correct hands with five fingers, natural anatomy. Period-correct vehicles and technology for the year stated. No palm trees or sunshine in Irish or English scenes. Do not add any named person who is not listed; extras stay anonymous background figures.
 ```
 
 ---
-### PAGE 09 - S030-S032 - 3 panels - CC Decals
-File: `03_comic_pages/PAGE_09.txt`  
+### PAGE 10 - S031-S033 - 3 panels - CC Decals
+File: `03_comic_pages/PAGE_10.txt`  
 Upload: references/conor-character-sheet.png
 
 ```
@@ -266,8 +290,8 @@ STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effe
 ```
 
 ---
-### PAGE 10 - S033-S035 - 3 panels - CC Decals
-File: `03_comic_pages/PAGE_10.txt`  
+### PAGE 11 - S034-S036 - 3 panels - CC Decals
+File: `03_comic_pages/PAGE_11.txt`  
 Upload: references/conor-character-sheet.png
 
 ```
@@ -295,8 +319,8 @@ STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effe
 ```
 
 ---
-### PAGE 11 - S036-S039 - 4 panels - The Donegal Rally
-File: `03_comic_pages/PAGE_11.txt`  
+### PAGE 12 - S037-S040 - 4 panels - The Donegal Rally
+File: `03_comic_pages/PAGE_12.txt`  
 Upload: references/conor-character-sheet.png
 
 ```
@@ -324,8 +348,8 @@ STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effe
 ```
 
 ---
-### PAGE 12 - S040-S042 - 3 panels - The Donegal Rally
-File: `03_comic_pages/PAGE_12.txt`  
+### PAGE 13 - S041-S043 - 3 panels - The Donegal Rally
+File: `03_comic_pages/PAGE_13.txt`  
 Upload: references/conor-character-sheet.png
 
 ```
@@ -352,8 +376,8 @@ STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effe
 ```
 
 ---
-### PAGE 13 - S043-S046 - 4 panels - Learning Everything
-File: `03_comic_pages/PAGE_13.txt`  
+### PAGE 14 - S044-S047 - 4 panels - Learning Everything
+File: `03_comic_pages/PAGE_14.txt`  
 Upload: references/conor-character-sheet.png
 
 ```
@@ -379,8 +403,8 @@ STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effe
 ```
 
 ---
-### PAGE 14 - S047-S050 - 4 panels - Learning Everything
-File: `03_comic_pages/PAGE_14.txt`  
+### PAGE 15 - S048-S051 - 4 panels - Learning Everything
+File: `03_comic_pages/PAGE_15.txt`  
 Upload: references/conor-character-sheet.png
 
 ```
@@ -407,8 +431,8 @@ STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effe
 ```
 
 ---
-### PAGE 15 - S051-S053 - 3 panels - Learning Everything
-File: `03_comic_pages/PAGE_15.txt`  
+### PAGE 16 - S052-S054 - 3 panels - Learning Everything
+File: `03_comic_pages/PAGE_16.txt`  
 Upload: references/conor-character-sheet.png
 
 ```
@@ -434,8 +458,35 @@ STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effe
 ```
 
 ---
-### PAGE 16 - S054-S056 - 3 panels - COVID & the First Website
-File: `03_comic_pages/PAGE_16.txt`  
+### PAGE 17 - S055-S058 - 4 panels - COVID & the First Website
+File: `03_comic_pages/PAGE_17.txt`  
+Upload: references/conor-character-sheet.png
+
+```
+Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (COVID & the First Website, Ireland, 2020).
+
+STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
+
+LAYOUT: portrait 2:3 page (1024x1536). Four equal panels in a 2x2 grid, read left-to-right then top-to-bottom. Keep each panel's key action inside a central vertical 9:16 safe area. Thin black panel borders, slim white gutters, white page margin.
+
+COLOUR GRADE: Empty muted streets, then warm lamp-lit kitchen with cool screen glow on faces.
+
+REFERENCE IMAGES ATTACHED: references/conor-character-sheet.png. These comic sheets are the ONLY identity references. Do not redesign anyone.
+
+CHARACTERS ON THIS PAGE (keep identical in every panel):
+- CONOR (2019-2023, early twenties): the same face as the uploaded adult Conor sheet, a few years younger - short beard starting to fill in, same fade haircut, athletic but not yet heavily muscular. Tattoo timeline is UNCONFIRMED: keep both arms, backs of the hands and neck covered (long sleeves, hoodie or high crew neck) so the image neither shows nor denies tattoos. Default outfit: plain black long-sleeve top or black hoodie, dark work trousers, black boots.
+
+PANEL 1 (TOP-LEFT): Wide shot: an empty Irish town main street, shutters down, no cars; Conor a lone figure walking down the middle of the road. Key moment: He walks slowly, looking around. Setting: Irish town main street, 2020 lockdown.
+PANEL 2 (TOP-RIGHT): Medium shot: Conor kneeling beside a customer's car on a driveway, fitting a decal; in the empty street behind him, a lone lockdown notice-style poster on a lamppost (no legible text). Key moment: He pauses, squeegee in hand, and looks at the empty street. Setting: Driveway, Ireland, early 2020.
+PANEL 3 (BOTTOM-LEFT): Medium shot: Conor on the sofa at home, phone in hand, scrolling past people shopping online, sitting up straight as an idea lands. Key moment: He stops scrolling and sits up. Setting: Family living room, evening, 2020.
+PANEL 4 (BOTTOM-RIGHT): Close-medium: Conor laying out decal packs, gel plate kits and caliper paint kits on a table, seeing them as products for the first time. Key moment: He lines the products up in a row and steps back. Setting: Family home, 2020.
+
+STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effect lettering, no panel numbers, no logos, no brand badges, no legible number plates or signs, no watermarks, no signature. Faces must stay identical across every panel and match the uploaded reference sheets. Correct hands with five fingers, natural anatomy. Period-correct vehicles and technology for the year stated. No palm trees or sunshine in Irish or English scenes. Do not add any named person who is not listed; extras stay anonymous background figures.
+```
+
+---
+### PAGE 18 - S059-S062 - 4 panels - COVID & the First Website
+File: `03_comic_pages/PAGE_18.txt`  
 Upload: references/conor-character-sheet.png, references/arlind-character-sheet.png
 
 ```
@@ -443,7 +494,7 @@ Create ONE cinematic graphic-novel storyboard page for the animated documentary 
 
 STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
 
-LAYOUT: landscape 3:2 page (1536x1024). Three equal tall vertical panels side by side, read left to right, each framed as a 9:16 vertical film shot. Thin black panel borders, slim white gutters, white page margin.
+LAYOUT: portrait 2:3 page (1024x1536). Four equal panels in a 2x2 grid, read left-to-right then top-to-bottom. Keep each panel's key action inside a central vertical 9:16 safe area. Thin black panel borders, slim white gutters, white page margin.
 
 COLOUR GRADE: Empty muted streets, then warm lamp-lit kitchen with cool screen glow on faces.
 
@@ -453,16 +504,17 @@ CHARACTERS ON THIS PAGE (keep identical in every panel):
 - CONOR (2019-2023, early twenties): the same face as the uploaded adult Conor sheet, a few years younger - short beard starting to fill in, same fade haircut, athletic but not yet heavily muscular. Tattoo timeline is UNCONFIRMED: keep both arms, backs of the hands and neck covered (long sleeves, hoodie or high crew neck) so the image neither shows nor denies tattoos. Default outfit: plain black long-sleeve top or black hoodie, dark work trousers, black boots.
 - ARLIND (DigitGrow): use the uploaded Arlind comic reference sheet EXACTLY - same face, hair, build and styling. Show him clearly, face visible, never blurred or from behind.
 
-PANEL 1 (LEFT): Wide shot: an empty Irish town main street, shutters down, no cars; Conor a lone figure walking down the middle of the road. Key moment: He walks slowly, looking around. Setting: Irish town main street, 2020 lockdown.
-PANEL 2 (CENTRE): Medium shot: Conor on the sofa at home, phone in hand, sitting up straight as an idea lands. Key moment: He stops scrolling and sits up. Setting: Family living room, evening, 2020.
-PANEL 3 (RIGHT): Medium shot over Conor's shoulder at the kitchen table at night: his laptop shows a video call with Arlind, face clearly visible and matching his reference sheet, beside a website layout (no legible text). Key moment: Conor points at the screen; on the call, Arlind nods and gestures. Setting: Family kitchen, night, 2020.
+PANEL 1 (TOP-LEFT): Medium shot over Conor's shoulder at a table at night: his laptop shows a video call with Arlind, face clearly visible and matching his reference sheet, beside a website layout (no legible text). Key moment: Conor points at the screen; on the call, Arlind nods and gestures. Setting: Family home, night, 2020.
+PANEL 2 (TOP-RIGHT): Medium shot: Arlind at his own desk, clearly visible, working on a website layout on a large monitor, wireframe blocks and product grid shapes on screen (no legible text). Key moment: He drags a product grid into place and leans back to check it. Setting: Arlind's workspace, 2020.
+PANEL 3 (BOTTOM-LEFT): Medium-wide: Conor photographing products against a white sheet with a desk lamp as light, then typing on the laptop beside them. Key moment: He snaps a photo, adjusts the product, snaps again, then types. Setting: Family home, night, 2020.
+PANEL 4 (BOTTOM-RIGHT): Close-medium: Conor answering message bubbles on his phone (shapes only, no legible text) with one hand while holding a product in the other. Key moment: He types a reply, checks the product, types again. Setting: Family home, night, 2020.
 
 STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effect lettering, no panel numbers, no logos, no brand badges, no legible number plates or signs, no watermarks, no signature. Faces must stay identical across every panel and match the uploaded reference sheets. Correct hands with five fingers, natural anatomy. Period-correct vehicles and technology for the year stated. No palm trees or sunshine in Irish or English scenes. Do not add any named person who is not listed; extras stay anonymous background figures.
 ```
 
 ---
-### PAGE 17 - S057-S059 - 3 panels - COVID & the First Website
-File: `03_comic_pages/PAGE_17.txt`  
+### PAGE 19 - S063-S065 - 3 panels - COVID & the First Website
+File: `03_comic_pages/PAGE_19.txt`  
 Upload: references/conor-character-sheet.png
 
 ```
@@ -479,16 +531,16 @@ REFERENCE IMAGES ATTACHED: references/conor-character-sheet.png. These comic she
 CHARACTERS ON THIS PAGE (keep identical in every panel):
 - CONOR (2019-2023, early twenties): the same face as the uploaded adult Conor sheet, a few years younger - short beard starting to fill in, same fade haircut, athletic but not yet heavily muscular. Tattoo timeline is UNCONFIRMED: keep both arms, backs of the hands and neck covered (long sleeves, hoodie or high crew neck) so the image neither shows nor denies tattoos. Default outfit: plain black long-sleeve top or black hoodie, dark work trousers, black boots.
 
-PANEL 1 (LEFT): Medium-wide: Conor photographing decal packs and caliper paint kits on the kitchen table against a white sheet, desk lamp as light. Key moment: He snaps a photo, adjusts the product, snaps again. Setting: Family kitchen, night, 2020.
-PANEL 2 (CENTRE): Close-up: Conor's face lit by a phone notification, a huge grin spreading (notification shape has no legible text). Key moment: He jumps up from the chair. Setting: Family kitchen, night, 2020.
-PANEL 3 (RIGHT): Medium-wide: the family hallway packed with parcels; Conor taping boxes, a growing stack (no legible labels) by the front door, daylight changing through the door glass. Key moment: He tapes, stacks, grabs another box. Setting: Family hallway, 2020.
+PANEL 1 (LEFT): Close-up: Conor's face lit by an order notification, a huge grin spreading (notification shape has no legible text). Key moment: He jumps up from the chair. Setting: Family home, night, 2020.
+PANEL 2 (CENTRE): Medium-wide: the family hallway packed with parcels; Conor taping boxes, a growing stack (no legible labels) by the front door, daylight changing through the door glass. Key moment: He tapes, stacks, grabs another box. Setting: Family hallway, 2020.
+PANEL 3 (RIGHT): Wide shot: Conor loading a car boot full of parcels outside the house at dusk; the boot sits low under the weight. Key moment: He shoves in the last parcel and closes the boot. Setting: Family home, dusk, 2020.
 
 STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effect lettering, no panel numbers, no logos, no brand badges, no legible number plates or signs, no watermarks, no signature. Faces must stay identical across every panel and match the uploaded reference sheets. Correct hands with five fingers, natural anatomy. Period-correct vehicles and technology for the year stated. No palm trees or sunshine in Irish or English scenes. Do not add any named person who is not listed; extras stay anonymous background figures.
 ```
 
 ---
-### PAGE 18 - S060-S062 - 3 panels - The Remap
-File: `03_comic_pages/PAGE_18.txt`  
+### PAGE 20 - S066-S068 - 3 panels - The Remap
+File: `03_comic_pages/PAGE_20.txt`  
 Upload: references/conor-character-sheet.png
 
 ```
@@ -514,8 +566,8 @@ STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effe
 ```
 
 ---
-### PAGE 19 - S063-S065 - 3 panels - The Remap
-File: `03_comic_pages/PAGE_19.txt`  
+### PAGE 21 - S069-S071 - 3 panels - The Remap
+File: `03_comic_pages/PAGE_21.txt`  
 Upload: references/conor-character-sheet.png
 
 ```
@@ -541,8 +593,8 @@ STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effe
 ```
 
 ---
-### PAGE 20 - S066-S068 - 3 panels - The Remap
-File: `03_comic_pages/PAGE_20.txt`  
+### PAGE 22 - S072-S074 - 3 panels - The Remap
+File: `03_comic_pages/PAGE_22.txt`  
 Upload: references/conor-character-sheet.png
 
 ```
@@ -567,8 +619,8 @@ STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effe
 ```
 
 ---
-### PAGE 21 - S069-S072 - 4 panels - The First Garage
-File: `03_comic_pages/PAGE_21.txt`  
+### PAGE 23 - S075-S078 - 4 panels - The First Garage
+File: `03_comic_pages/PAGE_23.txt`  
 Upload: references/conor-character-sheet.png
 
 ```
@@ -589,15 +641,15 @@ CHARACTERS ON THIS PAGE (keep identical in every panel):
 
 PANEL 1 (TOP-LEFT): Wide shot: father and Conor standing at the edge of a grassy plot beside the family home in grey November light, the father gesturing across the land. Key moment: The father sweeps his arm across the plot; Conor nods. Setting: Family land, November 2021.
 PANEL 2 (TOP-RIGHT): Medium shot: Conor looking across the grass; a faint ghosted memory of a small boy kicking a ball painted translucently into the scene. Key moment: He smiles at the memory. Setting: Family land, November 2021.
-PANEL 3 (BOTTOM-LEFT): Wide shot: a steel-framed garage going up on the plot, anonymous builders on scaffolding, Conor watching in a hoodie with his hands in his pockets. Key moment: The roof sheet swings into place. Setting: Family land, late 2021.
-PANEL 4 (BOTTOM-RIGHT): Medium-wide: inside the finished garage, rain hammering outside the open roller door, Conor working dry under bright lights on a car. Key moment: He glances at the rain outside and grins. Setting: Inside the first garage, 2021.
+PANEL 3 (BOTTOM-LEFT): Medium-wide match dissolve from S076: the same patch of ground, now marked out with string lines and a fresh concrete slab being poured by anonymous builders; Conor watching at the edge. Key moment: The concrete spreads across the spot where the ghosted child played. Setting: Family land, late 2021.
+PANEL 4 (BOTTOM-RIGHT): Wide shot: a steel-framed garage going up on the plot, anonymous builders on scaffolding, Conor watching in a hoodie with his hands in his pockets. Key moment: The roof sheet swings into place. Setting: Family land, late 2021.
 
 STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effect lettering, no panel numbers, no logos, no brand badges, no legible number plates or signs, no watermarks, no signature. Faces must stay identical across every panel and match the uploaded reference sheets. Correct hands with five fingers, natural anatomy. Period-correct vehicles and technology for the year stated. No palm trees or sunshine in Irish or English scenes. Do not add any named person who is not listed; extras stay anonymous background figures.
 ```
 
 ---
-### PAGE 22 - S073-S076 - 4 panels - The First Garage
-File: `03_comic_pages/PAGE_22.txt`  
+### PAGE 24 - S079-S081 - 3 panels - The First Garage
+File: `03_comic_pages/PAGE_24.txt`  
 Upload: references/conor-character-sheet.png
 
 ```
@@ -605,7 +657,36 @@ Create ONE cinematic graphic-novel storyboard page for the animated documentary 
 
 STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
 
-LAYOUT: portrait 2:3 page (1024x1536). Four equal panels in a 2x2 grid, read left-to-right then top-to-bottom. Keep each panel's key action inside a central vertical 9:16 safe area. Thin black panel borders, slim white gutters, white page margin.
+LAYOUT: landscape 3:2 page (1536x1024). Three equal tall vertical panels side by side, read left to right, each framed as a 9:16 vertical film shot. Thin black panel borders, slim white gutters, white page margin.
+
+COLOUR GRADE: Overcast countryside greens and greys; harsh fluorescent tubes inside the garage; blue pre-dawn for the exhausted nights.
+
+REFERENCE IMAGES ATTACHED: references/conor-character-sheet.png. These comic sheets are the ONLY identity references. Do not redesign anyone.
+
+CHARACTERS ON THIS PAGE (keep identical in every panel):
+- CONOR (2019-2023, early twenties): the same face as the uploaded adult Conor sheet, a few years younger - short beard starting to fill in, same fade haircut, athletic but not yet heavily muscular. Tattoo timeline is UNCONFIRMED: keep both arms, backs of the hands and neck covered (long sleeves, hoodie or high crew neck) so the image neither shows nor denies tattoos. Default outfit: plain black long-sleeve top or black hoodie, dark work trousers, black boots.
+- CONOR'S FATHER (fictional, consistent design - no reference exists): early fifties, stocky, weathered ruddy face, short grey-flecked dark hair receding at the temples, grey stubble, kind but serious eyes, deep crow's-feet. Always wears a navy quilted gilet over a faded blue-grey check shirt, work jeans, brown work boots.
+- BACKGROUND EXTRAS: ordinary anonymous people (customers, coworkers, team members, crowds), realistic varied ages, simple clothing, never more detailed than the main characters, faces never close to camera, never named.
+- THE FATHER'S HEDGE (recurring visual gag): a tall, immaculately clipped dense green privet hedge along the front of the family home - perfectly square edges.
+
+PANEL 1 (LEFT): Medium-wide: inside the finished garage, rain hammering outside the open roller door, Conor working dry under bright lights on a car. Key moment: He glances at the rain outside and grins. Setting: Inside the first garage, 2021.
+PANEL 2 (CENTRE): Wide shot from the yard at dusk: the father standing quietly in the open garage doorway, hands in his gilet pockets, watching Conor work inside under the lights; the family house and his hedge behind him. Key moment: The father watches for a moment, gives a small nod to himself, and walks back toward the house. Setting: Family land, dusk, 2021.
+PANEL 3 (RIGHT): Wide shot: a muddy country lane lined with customer cars queued to the garage; Conor waving the next car in. Key moment: Conor waves a car in. Setting: Lane outside the garage, morning, 2021-2022.
+
+STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effect lettering, no panel numbers, no logos, no brand badges, no legible number plates or signs, no watermarks, no signature. Faces must stay identical across every panel and match the uploaded reference sheets. Correct hands with five fingers, natural anatomy. Period-correct vehicles and technology for the year stated. No palm trees or sunshine in Irish or English scenes. Do not add any named person who is not listed; extras stay anonymous background figures.
+```
+
+---
+### PAGE 25 - S082-S084 - 3 panels - The First Garage
+File: `03_comic_pages/PAGE_25.txt`  
+Upload: references/conor-character-sheet.png
+
+```
+Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (The First Garage, Family land, November 2021).
+
+STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
+
+LAYOUT: landscape 3:2 page (1536x1024). Three equal tall vertical panels side by side, read left to right, each framed as a 9:16 vertical film shot. Thin black panel borders, slim white gutters, white page margin.
 
 COLOUR GRADE: Overcast countryside greens and greys; harsh fluorescent tubes inside the garage; blue pre-dawn for the exhausted nights.
 
@@ -617,17 +698,16 @@ CHARACTERS ON THIS PAGE (keep identical in every panel):
 - CONOR'S FATHER (fictional, consistent design - no reference exists): early fifties, stocky, weathered ruddy face, short grey-flecked dark hair receding at the temples, grey stubble, kind but serious eyes, deep crow's-feet. Always wears a navy quilted gilet over a faded blue-grey check shirt, work jeans, brown work boots.
 - THE FATHER'S HEDGE (recurring visual gag): a tall, immaculately clipped dense green privet hedge along the front of the family home - perfectly square edges.
 
-PANEL 1 (TOP-LEFT): Wide shot: a muddy country lane lined with customer cars queued to the garage; Conor waving the next car in. Key moment: Conor waves a car in. Setting: Lane outside the garage, morning, 2021-2022.
-PANEL 2 (TOP-RIGHT): Medium shot: a tired customer stretching beside his car after a long drive, shaking Conor's hand. Key moment: Customer stretches his back, then shakes hands. Setting: Garage yard, 2021-2022.
-PANEL 3 (BOTTOM-LEFT): Medium shot mirroring S035: the father with garden shears, staring at a row of customer cars nosed against his immaculate hedge. Key moment: He closes his eyes and exhales slowly. Setting: Family home, 2021-2022.
-PANEL 4 (BOTTOM-RIGHT): Medium shot: Conor under a car on a two-post lift, harsh fluorescent light, black night outside the open door. Key moment: He wipes his forehead with his sleeve and reaches for a socket. Setting: Inside the garage, night.
+PANEL 1 (LEFT): Medium shot: a tired customer stretching beside his car after a long drive, shaking Conor's hand. Key moment: Customer stretches his back, then shakes hands. Setting: Garage yard, 2021-2022.
+PANEL 2 (CENTRE): Medium shot mirroring S036: the father with garden shears, staring at a row of customer cars nosed against his immaculate hedge. Key moment: He closes his eyes and exhales slowly. Setting: Family home, 2021-2022.
+PANEL 3 (RIGHT): Medium shot: Conor under a car on a two-post lift, harsh fluorescent light, black night outside the open door. Key moment: He wipes his forehead with his sleeve and reaches for a socket. Setting: Inside the garage, night.
 
 STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effect lettering, no panel numbers, no logos, no brand badges, no legible number plates or signs, no watermarks, no signature. Faces must stay identical across every panel and match the uploaded reference sheets. Correct hands with five fingers, natural anatomy. Period-correct vehicles and technology for the year stated. No palm trees or sunshine in Irish or English scenes. Do not add any named person who is not listed; extras stay anonymous background figures.
 ```
 
 ---
-### PAGE 23 - S077-S079 - 3 panels - The First Garage
-File: `03_comic_pages/PAGE_23.txt`  
+### PAGE 26 - S085-S087 - 3 panels - The First Garage
+File: `03_comic_pages/PAGE_26.txt`  
 Upload: references/conor-character-sheet.png
 
 ```
@@ -653,8 +733,8 @@ STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effe
 ```
 
 ---
-### PAGE 24 - S080-S083 - 4 panels - Carrickmacross
-File: `03_comic_pages/PAGE_24.txt`  
+### PAGE 27 - S088-S091 - 4 panels - Carrickmacross
+File: `03_comic_pages/PAGE_27.txt`  
 Upload: references/conor-character-sheet.png
 
 ```
@@ -681,8 +761,8 @@ STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effe
 ```
 
 ---
-### PAGE 25 - S084-S086 - 3 panels - Carrickmacross
-File: `03_comic_pages/PAGE_25.txt`  
+### PAGE 28 - S092-S094 - 3 panels - Carrickmacross
+File: `03_comic_pages/PAGE_28.txt`  
 Upload: references/conor-character-sheet.png
 
 ```
@@ -708,8 +788,8 @@ STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effe
 ```
 
 ---
-### PAGE 26 - S087-S090 - 4 panels - Marbella
-File: `03_comic_pages/PAGE_26.txt`  
+### PAGE 29 - S095-S098 - 4 panels - Marbella
+File: `03_comic_pages/PAGE_29.txt`  
 Upload: references/conor-character-sheet.png
 
 ```
@@ -725,19 +805,20 @@ REFERENCE IMAGES ATTACHED: references/conor-character-sheet.png. These comic she
 
 CHARACTERS ON THIS PAGE (keep identical in every panel):
 - ADULT CONOR (Marbella and Dubai, 2024-2026): exactly the man on the uploaded Conor character sheet - same face, fade haircut, full short beard, neck tattoos, tattoo sleeves on both arms, muscular build, dark wristwatch on the left wrist. Default outfit: fitted plain black t-shirt or black hoodie; sunglasses only where stated.
+- CONOR (2019-2023, early twenties): the same face as the uploaded adult Conor sheet, a few years younger - short beard starting to fill in, same fade haircut, athletic but not yet heavily muscular. Tattoo timeline is UNCONFIRMED: keep both arms, backs of the hands and neck covered (long sleeves, hoodie or high crew neck) so the image neither shows nor denies tattoos. Default outfit: plain black long-sleeve top or black hoodie, dark work trousers, black boots.
 - BACKGROUND EXTRAS: ordinary anonymous people (customers, coworkers, team members, crowds), realistic varied ages, simple clothing, never more detailed than the main characters, faces never close to camera, never named.
 
 PANEL 1 (TOP-LEFT): Wide shot: adult Conor stepping out into blinding Spanish sun with a suitcase, white buildings and mountains beyond. Key moment: He shields his eyes and looks around. Setting: Marbella, c. 2024.
-PANEL 2 (TOP-RIGHT): Medium shot: Conor in a small, bare rented unit with white walls, one folding table, a laptop, unopened boxes. Key moment: He sets the laptop on the table and looks around the empty room. Setting: Rented unit, Marbella, c. 2024.
-PANEL 3 (BOTTOM-LEFT): Medium shot: Conor lying awake at night, phone light on his face, staring at the ceiling fan. Key moment: He puts the phone face-down and stares upward. Setting: Apartment, Marbella, night.
-PANEL 4 (BOTTOM-RIGHT): Medium-wide: Conor in a black t-shirt on a sunny Marbella street tucking blank flyers under the windscreen wipers of parked cars; white walls and bougainvillea behind. Key moment: He tucks a flyer and moves to the next car. Setting: Marbella street, midday.
+PANEL 2 (TOP-RIGHT): Memory shot in the CH09 grey grade: the busy Carrickmacross shop counter, customers waiting, Conor on the phone - framed as a fading memory at the edges. Key moment: He laughs with a customer while the phone rings. Setting: Memory of Carrickmacross, 2022-2023.
+PANEL 3 (BOTTOM-LEFT): Medium shot: Conor in a small, bare rented unit with white walls, one folding table, a laptop, unopened boxes, his phone face-up and silent beside him. Key moment: He sets the laptop on the table, glances at the silent phone, and looks around the empty room. Setting: Rented unit, Marbella, c. 2024.
+PANEL 4 (BOTTOM-RIGHT): Medium-wide: Conor on a bright Marbella street outside a café, trying to follow a fast Spanish conversation with a local mechanic, nodding a beat too late. Key moment: He nods, then glances down at a translation app on his phone (no legible text). Setting: Marbella street, c. 2024.
 
 STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effect lettering, no panel numbers, no logos, no brand badges, no legible number plates or signs, no watermarks, no signature. Faces must stay identical across every panel and match the uploaded reference sheets. Correct hands with five fingers, natural anatomy. Period-correct vehicles and technology for the year stated. No palm trees or sunshine in Irish or English scenes. Do not add any named person who is not listed; extras stay anonymous background figures.
 ```
 
 ---
-### PAGE 27 - S091-S093 - 3 panels - Marbella
-File: `03_comic_pages/PAGE_27.txt`  
+### PAGE 30 - S099-S101 - 3 panels - Marbella
+File: `03_comic_pages/PAGE_30.txt`  
 Upload: references/conor-character-sheet.png
 
 ```
@@ -755,7 +836,34 @@ CHARACTERS ON THIS PAGE (keep identical in every panel):
 - ADULT CONOR (Marbella and Dubai, 2024-2026): exactly the man on the uploaded Conor character sheet - same face, fade haircut, full short beard, neck tattoos, tattoo sleeves on both arms, muscular build, dark wristwatch on the left wrist. Default outfit: fitted plain black t-shirt or black hoodie; sunglasses only where stated.
 - BACKGROUND EXTRAS: ordinary anonymous people (customers, coworkers, team members, crowds), realistic varied ages, simple clothing, never more detailed than the main characters, faces never close to camera, never named.
 
-PANEL 1 (LEFT): Close-up: Conor's tattooed hand pressing a flyer under a wiper, a wry half smile reflected in the windscreen. Key moment: He smirks at the irony. Setting: Marbella street.
+PANEL 1 (LEFT): Medium shot: Conor lying awake at night, phone light on his face showing a calculator shape (no legible numbers), staring at the ceiling fan. Key moment: He puts the phone face-down and stares upward. Setting: Apartment, Marbella, night.
+PANEL 2 (CENTRE): Medium-wide: Conor in a black t-shirt on a sunny Marbella street tucking blank flyers under the windscreen wipers of parked cars; white walls and bougainvillea behind. Key moment: He tucks a flyer and moves to the next car. Setting: Marbella street, midday.
+PANEL 3 (RIGHT): Close-up: Conor's tattooed hand pressing a flyer under a wiper, a wry half smile reflected in the windscreen. Key moment: He smirks at the irony. Setting: Marbella street.
+
+STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effect lettering, no panel numbers, no logos, no brand badges, no legible number plates or signs, no watermarks, no signature. Faces must stay identical across every panel and match the uploaded reference sheets. Correct hands with five fingers, natural anatomy. Period-correct vehicles and technology for the year stated. No palm trees or sunshine in Irish or English scenes. Do not add any named person who is not listed; extras stay anonymous background figures.
+```
+
+---
+### PAGE 31 - S102-S104 - 3 panels - Marbella
+File: `03_comic_pages/PAGE_31.txt`  
+Upload: references/conor-character-sheet.png
+
+```
+Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (Marbella, Marbella, Spain, c. 2024).
+
+STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
+
+LAYOUT: landscape 3:2 page (1536x1024). Three equal tall vertical panels side by side, read left to right, each framed as a 9:16 vertical film shot. Thin black panel borders, slim white gutters, white page margin.
+
+COLOUR GRADE: Hot Andalusian light: saturated blue sky, white walls, terracotta, hard shadows; night scenes in deep blue for doubt.
+
+REFERENCE IMAGES ATTACHED: references/conor-character-sheet.png. These comic sheets are the ONLY identity references. Do not redesign anyone.
+
+CHARACTERS ON THIS PAGE (keep identical in every panel):
+- ADULT CONOR (Marbella and Dubai, 2024-2026): exactly the man on the uploaded Conor character sheet - same face, fade haircut, full short beard, neck tattoos, tattoo sleeves on both arms, muscular build, dark wristwatch on the left wrist. Default outfit: fitted plain black t-shirt or black hoodie; sunglasses only where stated.
+- BACKGROUND EXTRAS: ordinary anonymous people (customers, coworkers, team members, crowds), realistic varied ages, simple clothing, never more detailed than the main characters, faces never close to camera, never named.
+
+PANEL 1 (LEFT): Close-up: Conor's phone lighting up on the folding table in the empty unit; his hand grabbing it fast. Key moment: He snatches the phone up and answers. Setting: Rented unit, Marbella.
 PANEL 2 (CENTRE): Wide night shot: Conor sitting alone on a marina wall, flyers stacked beside him, head bowed, boats bobbing. Key moment: He sits still, then looks up at the sea. Setting: Marbella marina, night.
 PANEL 3 (RIGHT): Medium-wide: Conor at a small Marbella workshop bay with a customer car inside and two more waiting in the sun, shaking hands with a customer. Key moment: Handshake; next car rolls up. Setting: Marbella workshop, c. 2024-2025.
 
@@ -763,8 +871,8 @@ STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effe
 ```
 
 ---
-### PAGE 28 - S094-S097 - 4 panels - Level Up With CC
-File: `03_comic_pages/PAGE_28.txt`  
+### PAGE 32 - S105-S108 - 4 panels - Level Up With CC
+File: `03_comic_pages/PAGE_32.txt`  
 Upload: references/conor-character-sheet.png
 
 ```
@@ -791,8 +899,8 @@ STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effe
 ```
 
 ---
-### PAGE 29 - S098-S100 - 3 panels - Level Up With CC
-File: `03_comic_pages/PAGE_29.txt`  
+### PAGE 33 - S109-S111 - 3 panels - Level Up With CC
+File: `03_comic_pages/PAGE_33.txt`  
 Upload: references/conor-character-sheet.png
 
 ```
@@ -818,8 +926,8 @@ STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effe
 ```
 
 ---
-### PAGE 30 - S101-S104 - 4 panels - The Marbella Mansion
-File: `03_comic_pages/PAGE_30.txt`  
+### PAGE 34 - S112-S115 - 4 panels - The Marbella Mansion
+File: `03_comic_pages/PAGE_34.txt`  
 Upload: references/conor-character-sheet.png
 
 ```
@@ -838,16 +946,16 @@ CHARACTERS ON THIS PAGE (keep identical in every panel):
 - ADULT CONOR (Marbella and Dubai, 2024-2026): exactly the man on the uploaded Conor character sheet - same face, fade haircut, full short beard, neck tattoos, tattoo sleeves on both arms, muscular build, dark wristwatch on the left wrist. Default outfit: fitted plain black t-shirt or black hoodie; sunglasses only where stated.
 
 PANEL 1 (TOP-LEFT): Wide establishing shot at dusk: a vast white modern hillside mansion with an infinity pool, festoon lights, guests gathering on the terrace, sea and mountains beyond. Key moment: Guests arrive on the terrace. Setting: Marbella mansion, dusk, 22 May 2026.
-PANEL 2 (TOP-RIGHT): Medium-wide: Conor walking through the mansion's huge glass doors into the marble interior, looking up at it. Key moment: He takes it in with a low whistle. Setting: Mansion interior, dusk.
-PANEL 3 (BOTTOM-LEFT): Close-up: Conor turning away from the architecture toward the terrace, where voices are rising. Key moment: He turns his head toward the sound of people. Setting: Mansion interior.
-PANEL 4 (BOTTOM-RIGHT): Wide shot: the terrace full of anonymous team members of varied nationalities hugging and laughing; Conor moving through them greeting people. Key moment: Conor hugs one team member and shakes another's hand. Setting: Mansion terrace, dusk, 22 May 2026.
+PANEL 2 (TOP-RIGHT): Medium-wide: Conor walking through the mansion's huge glass doors into the marble interior, glancing up at it, then past it toward the terrace. Key moment: He glances up, then turns toward the sound of people on the terrace. Setting: Mansion interior, dusk.
+PANEL 3 (BOTTOM-LEFT): Wide shot: the terrace full of anonymous team members of varied nationalities hugging and laughing; Conor moving through them greeting people. Key moment: Conor hugs one team member and shakes another's hand. Setting: Mansion terrace, dusk, 22 May 2026.
+PANEL 4 (BOTTOM-RIGHT): Medium shot: Conor pausing mid-greeting, looking around the crowded terrace with quiet disbelief, a team member's hand still on his shoulder. Key moment: He looks around slowly, taking it in. Setting: Mansion terrace, dusk.
 
 STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effect lettering, no panel numbers, no logos, no brand badges, no legible number plates or signs, no watermarks, no signature. Faces must stay identical across every panel and match the uploaded reference sheets. Correct hands with five fingers, natural anatomy. Period-correct vehicles and technology for the year stated. No palm trees or sunshine in Irish or English scenes. Do not add any named person who is not listed; extras stay anonymous background figures.
 ```
 
 ---
-### PAGE 31 - S105-S107 - 3 panels - The Marbella Mansion
-File: `03_comic_pages/PAGE_31.txt`  
+### PAGE 35 - S116-S119 - 4 panels - The Marbella Mansion
+File: `03_comic_pages/PAGE_35.txt`  
 Upload: references/conor-character-sheet.png, references/arlind-character-sheet.png
 
 ```
@@ -855,7 +963,7 @@ Create ONE cinematic graphic-novel storyboard page for the animated documentary 
 
 STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
 
-LAYOUT: landscape 3:2 page (1536x1024). Three equal tall vertical panels side by side, read left to right, each framed as a 9:16 vertical film shot. Thin black panel borders, slim white gutters, white page margin.
+LAYOUT: portrait 2:3 page (1024x1536). Four equal panels in a 2x2 grid, read left-to-right then top-to-bottom. Keep each panel's key action inside a central vertical 9:16 safe area. Thin black panel borders, slim white gutters, white page margin.
 
 COLOUR GRADE: Dusk to night: lilac sky, warm festoon lights, pool reflections; Puerto Banus coda in bright Mediterranean day.
 
@@ -866,16 +974,17 @@ CHARACTERS ON THIS PAGE (keep identical in every panel):
 - ARLIND (DigitGrow): use the uploaded Arlind comic reference sheet EXACTLY - same face, hair, build and styling. Show him clearly, face visible, never blurred or from behind.
 - BACKGROUND EXTRAS: ordinary anonymous people (customers, coworkers, team members, crowds), realistic varied ages, simple clothing, never more detailed than the main characters, faces never close to camera, never named.
 
-PANEL 1 (LEFT): Medium shot: Conor turning as Arlind steps out of the crowd toward him, Arlind's face clear and lit by festoon lights, exactly matching his reference sheet. Key moment: Both stop, recognise each other, and grin. Setting: Mansion terrace, night, 22 May 2026.
-PANEL 2 (CENTRE): Close-up: Conor's tattooed hand and Arlind's hand meeting in a firm handshake, both faces visible above, festoon bokeh. Key moment: The handshake grips and holds. Setting: Mansion terrace, night.
-PANEL 3 (RIGHT): Medium two-shot: the handshake turns into a back-slapping hug; team members around them cheering. Key moment: They hug and laugh; others cheer. Setting: Mansion terrace, night.
+PANEL 1 (TOP-LEFT): Medium shot: Conor turning as Arlind steps out of the crowd toward him, Arlind's face clear and lit by festoon lights, exactly matching his reference sheet. Key moment: Both stop, recognise each other, and grin. Setting: Mansion terrace, night, 22 May 2026.
+PANEL 2 (TOP-RIGHT): Medium two-shot: Conor and Arlind face to face on the terrace, a step apart, both shaking their heads with the same disbelieving grin; festoon bokeh behind. Key moment: They close the last step between them. Setting: Mansion terrace, night.
+PANEL 3 (BOTTOM-LEFT): Close-up: Conor's tattooed hand and Arlind's hand meeting in a firm handshake, both faces visible above, festoon bokeh - THE MUSICAL PAUSE. Key moment: The handshake grips and holds. Setting: Mansion terrace, night.
+PANEL 4 (BOTTOM-RIGHT): Medium two-shot: the handshake turns into a back-slapping hug; team members around them cheering. Key moment: They hug and laugh; others cheer. Setting: Mansion terrace, night.
 
 STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effect lettering, no panel numbers, no logos, no brand badges, no legible number plates or signs, no watermarks, no signature. Faces must stay identical across every panel and match the uploaded reference sheets. Correct hands with five fingers, natural anatomy. Period-correct vehicles and technology for the year stated. No palm trees or sunshine in Irish or English scenes. Do not add any named person who is not listed; extras stay anonymous background figures.
 ```
 
 ---
-### PAGE 32 - S108-S110 - 3 panels - The Marbella Mansion
-File: `03_comic_pages/PAGE_32.txt`  
+### PAGE 36 - S120-S123 - 4 panels - The Marbella Mansion
+File: `03_comic_pages/PAGE_36.txt`  
 Upload: references/conor-character-sheet.png, references/arlind-character-sheet.png
 
 ```
@@ -883,7 +992,7 @@ Create ONE cinematic graphic-novel storyboard page for the animated documentary 
 
 STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
 
-LAYOUT: landscape 3:2 page (1536x1024). Three equal tall vertical panels side by side, read left to right, each framed as a 9:16 vertical film shot. Thin black panel borders, slim white gutters, white page margin.
+LAYOUT: portrait 2:3 page (1024x1536). Four equal panels in a 2x2 grid, read left-to-right then top-to-bottom. Keep each panel's key action inside a central vertical 9:16 safe area. Thin black panel borders, slim white gutters, white page margin.
 
 COLOUR GRADE: Dusk to night: lilac sky, warm festoon lights, pool reflections; Puerto Banus coda in bright Mediterranean day.
 
@@ -895,16 +1004,17 @@ CHARACTERS ON THIS PAGE (keep identical in every panel):
 - BACKGROUND EXTRAS: ordinary anonymous people (customers, coworkers, team members, crowds), realistic varied ages, simple clothing, never more detailed than the main characters, faces never close to camera, never named.
 - THE FATHER'S HEDGE (recurring visual gag): a tall, immaculately clipped dense green privet hedge along the front of the family home - perfectly square edges.
 
-PANEL 1 (LEFT): Medium close-up: Conor at the terrace railing looking at the night sea; faint ghosted memories of the tyre workshop, the ferry and the hedge painted into the clouds. Key moment: He looks out, reflective, then smiles. Setting: Mansion terrace, night.
-PANEL 2 (CENTRE): Wide shot: the whole team on the terrace raising glasses, Conor and Arlind side by side in the centre, city lights and sea behind. Key moment: Everyone raises glasses together. Setting: Mansion terrace, night.
-PANEL 3 (RIGHT): Wide shot: a large white yacht moored in Puerto Banus marina in bright Mediterranean daylight, guests on deck, Conor at the bow addressing them. Key moment: He raises a hand to the guests on deck. Setting: Puerto Banus, 19 September 2026.
+PANEL 1 (TOP-LEFT): Medium close-up: Conor and Arlind side by side at the terrace railing afterwards, both looking out at the night sea, shoulders nearly touching. Key moment: They stand in comfortable silence. Setting: Mansion terrace, night.
+PANEL 2 (TOP-RIGHT): Medium close-up: Conor at the terrace railing looking at the night sea; faint ghosted memories of the tyre workshop, the ferry and the hedge painted into the clouds. Key moment: He looks out, reflective, then smiles. Setting: Mansion terrace, night.
+PANEL 3 (BOTTOM-LEFT): Wide shot: the whole team on the terrace raising glasses, Conor and Arlind side by side in the centre, city lights and sea behind. Key moment: Everyone raises glasses together. Setting: Mansion terrace, night.
+PANEL 4 (BOTTOM-RIGHT): Wide shot: a large white yacht moored in Puerto Banus marina in bright Mediterranean daylight, guests on deck, Conor at the bow addressing them. Key moment: He raises a hand to the guests on deck. Setting: Puerto Banus, 19 September 2026.
 
 STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effect lettering, no panel numbers, no logos, no brand badges, no legible number plates or signs, no watermarks, no signature. Faces must stay identical across every panel and match the uploaded reference sheets. Correct hands with five fingers, natural anatomy. Period-correct vehicles and technology for the year stated. No palm trees or sunshine in Irish or English scenes. Do not add any named person who is not listed; extras stay anonymous background figures.
 ```
 
 ---
-### PAGE 33 - S111-S113 - 3 panels - CC Marbella Rentals
-File: `03_comic_pages/PAGE_33.txt`  
+### PAGE 37 - S124-S126 - 3 panels - CC Marbella Rentals
+File: `03_comic_pages/PAGE_37.txt`  
 Upload: references/conor-character-sheet.png, references/fleet/ (approved CC Marbella Rentals vehicle images)
 
 ```
@@ -932,8 +1042,8 @@ STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effe
 ```
 
 ---
-### PAGE 34 - S114-S116 - 3 panels - CC Marbella Rentals
-File: `03_comic_pages/PAGE_34.txt`  
+### PAGE 38 - S127-S129 - 3 panels - CC Marbella Rentals
+File: `03_comic_pages/PAGE_38.txt`  
 Upload: references/conor-character-sheet.png, references/fleet/ (approved CC Marbella Rentals vehicle images)
 
 ```
@@ -960,8 +1070,8 @@ STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effe
 ```
 
 ---
-### PAGE 35 - S117-S120 - 4 panels - Dubai - Part 2 Teaser
-File: `03_comic_pages/PAGE_35.txt`  
+### PAGE 39 - S130-S133 - 4 panels - Dubai - Part 2 Teaser
+File: `03_comic_pages/PAGE_39.txt`  
 Upload: references/conor-character-sheet.png
 
 ```
@@ -997,32 +1107,36 @@ STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effe
 | 04 | S012-S014 | ☐ | ☐ | ☐ | ☐ |
 | 05 | S015-S017 | ☐ | ☐ | ☐ | ☐ |
 | 06 | S018-S021 | ☐ | ☐ | ☐ | ☐ |
-| 07 | S022-S025 | ☐ | ☐ | ☐ | ☐ |
-| 08 | S026-S029 | ☐ | ☐ | ☐ | ☐ |
-| 09 | S030-S032 | ☐ | ☐ | ☐ | ☐ |
-| 10 | S033-S035 | ☐ | ☐ | ☐ | ☐ |
-| 11 | S036-S039 | ☐ | ☐ | ☐ | ☐ |
-| 12 | S040-S042 | ☐ | ☐ | ☐ | ☐ |
-| 13 | S043-S046 | ☐ | ☐ | ☐ | ☐ |
-| 14 | S047-S050 | ☐ | ☐ | ☐ | ☐ |
-| 15 | S051-S053 | ☐ | ☐ | ☐ | ☐ |
-| 16 | S054-S056 | ☐ | ☐ | ☐ | ☐ |
-| 17 | S057-S059 | ☐ | ☐ | ☐ | ☐ |
-| 18 | S060-S062 | ☐ | ☐ | ☐ | ☐ |
+| 07 | S022-S024 | ☐ | ☐ | ☐ | ☐ |
+| 08 | S025-S027 | ☐ | ☐ | ☐ | ☐ |
+| 09 | S028-S030 | ☐ | ☐ | ☐ | ☐ |
+| 10 | S031-S033 | ☐ | ☐ | ☐ | ☐ |
+| 11 | S034-S036 | ☐ | ☐ | ☐ | ☐ |
+| 12 | S037-S040 | ☐ | ☐ | ☐ | ☐ |
+| 13 | S041-S043 | ☐ | ☐ | ☐ | ☐ |
+| 14 | S044-S047 | ☐ | ☐ | ☐ | ☐ |
+| 15 | S048-S051 | ☐ | ☐ | ☐ | ☐ |
+| 16 | S052-S054 | ☐ | ☐ | ☐ | ☐ |
+| 17 | S055-S058 | ☐ | ☐ | ☐ | ☐ |
+| 18 | S059-S062 | ☐ | ☐ | ☐ | ☐ |
 | 19 | S063-S065 | ☐ | ☐ | ☐ | ☐ |
 | 20 | S066-S068 | ☐ | ☐ | ☐ | ☐ |
-| 21 | S069-S072 | ☐ | ☐ | ☐ | ☐ |
-| 22 | S073-S076 | ☐ | ☐ | ☐ | ☐ |
-| 23 | S077-S079 | ☐ | ☐ | ☐ | ☐ |
-| 24 | S080-S083 | ☐ | ☐ | ☐ | ☐ |
-| 25 | S084-S086 | ☐ | ☐ | ☐ | ☐ |
-| 26 | S087-S090 | ☐ | ☐ | ☐ | ☐ |
-| 27 | S091-S093 | ☐ | ☐ | ☐ | ☐ |
-| 28 | S094-S097 | ☐ | ☐ | ☐ | ☐ |
-| 29 | S098-S100 | ☐ | ☐ | ☐ | ☐ |
-| 30 | S101-S104 | ☐ | ☐ | ☐ | ☐ |
-| 31 | S105-S107 | ☐ | ☐ | ☐ | ☐ |
-| 32 | S108-S110 | ☐ | ☐ | ☐ | ☐ |
-| 33 | S111-S113 | ☐ | ☐ | ☐ | ☐ |
-| 34 | S114-S116 | ☐ | ☐ | ☐ | ☐ |
-| 35 | S117-S120 | ☐ | ☐ | ☐ | ☐ |
+| 21 | S069-S071 | ☐ | ☐ | ☐ | ☐ |
+| 22 | S072-S074 | ☐ | ☐ | ☐ | ☐ |
+| 23 | S075-S078 | ☐ | ☐ | ☐ | ☐ |
+| 24 | S079-S081 | ☐ | ☐ | ☐ | ☐ |
+| 25 | S082-S084 | ☐ | ☐ | ☐ | ☐ |
+| 26 | S085-S087 | ☐ | ☐ | ☐ | ☐ |
+| 27 | S088-S091 | ☐ | ☐ | ☐ | ☐ |
+| 28 | S092-S094 | ☐ | ☐ | ☐ | ☐ |
+| 29 | S095-S098 | ☐ | ☐ | ☐ | ☐ |
+| 30 | S099-S101 | ☐ | ☐ | ☐ | ☐ |
+| 31 | S102-S104 | ☐ | ☐ | ☐ | ☐ |
+| 32 | S105-S108 | ☐ | ☐ | ☐ | ☐ |
+| 33 | S109-S111 | ☐ | ☐ | ☐ | ☐ |
+| 34 | S112-S115 | ☐ | ☐ | ☐ | ☐ |
+| 35 | S116-S119 | ☐ | ☐ | ☐ | ☐ |
+| 36 | S120-S123 | ☐ | ☐ | ☐ | ☐ |
+| 37 | S124-S126 | ☐ | ☐ | ☐ | ☐ |
+| 38 | S127-S129 | ☐ | ☐ | ☐ | ☐ |
+| 39 | S130-S133 | ☐ | ☐ | ☐ | ☐ |

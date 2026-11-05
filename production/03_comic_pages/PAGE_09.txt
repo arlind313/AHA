@@ -1,19 +1,19 @@
-Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (CC Decals, Clontibret & the family home, Co. Monaghan, c. 2018-2019).
+Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (The England Gamble, Ireland, Irish Sea & Holyhead, 2018).
 
 STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
 
 LAYOUT: landscape 3:2 page (1536x1024). Three equal tall vertical panels side by side, read left to right, each framed as a 9:16 vertical film shot. Thin black panel borders, slim white gutters, white page margin.
 
-COLOUR GRADE: Irish grey daylight; warm workshop and bedroom lamp light; the hedge always a rich, slightly over-saturated green.
+COLOUR GRADE: Colder and wetter than CH01: steel blues, sodium-orange port lights, heavy grey sea; warm kitchen light on the return home.
 
-REFERENCE IMAGES ATTACHED: references/conor-character-sheet.png. These comic sheets are the ONLY identity references. Do not redesign anyone.
+REFERENCE IMAGES ATTACHED: references/conor-character-sheet.png, references/mother-character-sheet.png. These comic sheets are the ONLY identity references. Do not redesign anyone.
 
 CHARACTERS ON THIS PAGE (keep identical in every panel):
 - YOUNG CONOR (2017-2019, late teens): derived from the uploaded adult Conor sheet and clearly the same person, de-aged. Same strong straight brows, deep-set eyes, straight nose, defined jaw and chin, slightly prominent ears; softer fuller cheeks, smooth young skin, at most faint fuzz on the upper lip - NO beard. Short dark-brown hair, short faded sides, textured top pushed up and forward (same silhouette as the sheet, less groomed). Lean wiry build. No extensive modern tattoos: Tattoo timeline is UNCONFIRMED: keep both arms, backs of the hands and neck covered (long sleeves, hoodie or high crew neck) so the image neither shows nor denies tattoos. Default outfit: faded navy work trousers, plain dark-grey long-sleeve work top, scuffed black safety boots.
-- BACKGROUND EXTRAS: ordinary anonymous people (customers, coworkers, team members, crowds), realistic varied ages, simple clothing, never more detailed than the main characters, faces never close to camera, never named.
+- CONOR'S MOTHER: use the uploaded mother comic reference sheet EXACTLY - same face, hair, build and styling. Do not invent or alter her appearance.
 
-PANEL 1 (LEFT): Wide shot: a rural Irish garage forecourt and workshop on a grey day; young Conor in work clothes crossing the yard with a toolbox. Key moment: He walks into the workshop bay. Setting: Castleshane Motors, Clontibret, Co. Monaghan, c. 2018.
-PANEL 2 (CENTRE): Close-medium: young Conor watching a vinyl sticker-cutting machine slice a design, his face lit with fascination. Key moment: He leans in closer as the blade traces the shape. Setting: Workbench, c. 2018.
-PANEL 3 (RIGHT): Medium shot: young Conor applying a custom vinyl decal to the side of a customer's hatchback with a squeegee; the design is an abstract stripe, no lettering. Key moment: He squeegees the decal flat and peels away the transfer tape. Setting: Family driveway, c. 2018.
+PANEL 1 (LEFT): Medium two-shot: the mother handing young Conor the shopping bag; inside, a packet of crisps, chocolate bars and wrapped bread rolls are visible (no brand text). Key moment: He takes the bag and looks inside; a tired half smile breaks through. Setting: Dublin Port, night, 2018.
+PANEL 2 (CENTRE): Close-up: the mother's hand resting on young Conor's arm as they walk out of the terminal side by side, his face in soft focus, eyes wet but steady. Key moment: She squeezes his arm; he nods without looking at her. Setting: Dublin Port, night, 2018.
+PANEL 3 (RIGHT): Medium close-up through a car passenger window at night: young Conor eating a roll, looking out at Dublin Port lights sliding past, the bag of food on his lap. Key moment: He takes a bite, then rests his head back and looks ahead. Setting: Leaving Dublin Port, night, 2018.
 
 STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effect lettering, no panel numbers, no logos, no brand badges, no legible number plates or signs, no watermarks, no signature. Faces must stay identical across every panel and match the uploaded reference sheets. Correct hands with five fingers, natural anatomy. Period-correct vehicles and technology for the year stated. No palm trees or sunshine in Irish or English scenes. Do not add any named person who is not listed; extras stay anonymous background figures.

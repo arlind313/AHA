@@ -1,19 +1,19 @@
-Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (COVID & the First Website, Ireland, 2020).
+Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (Learning Everything, Ireland, c. 2019-2020).
 
 STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
 
 LAYOUT: landscape 3:2 page (1536x1024). Three equal tall vertical panels side by side, read left to right, each framed as a 9:16 vertical film shot. Thin black panel borders, slim white gutters, white page margin.
 
-COLOUR GRADE: Empty muted streets, then warm lamp-lit kitchen with cool screen glow on faces.
+COLOUR GRADE: Cool white dealership light by day; orange-to-blue sunset gradients for outdoor jobs; laptop and dashboard glow at night.
 
-REFERENCE IMAGES ATTACHED: references/conor-character-sheet.png, references/arlind-character-sheet.png. These comic sheets are the ONLY identity references. Do not redesign anyone.
+REFERENCE IMAGES ATTACHED: references/conor-character-sheet.png. These comic sheets are the ONLY identity references. Do not redesign anyone.
 
 CHARACTERS ON THIS PAGE (keep identical in every panel):
 - CONOR (2019-2023, early twenties): the same face as the uploaded adult Conor sheet, a few years younger - short beard starting to fill in, same fade haircut, athletic but not yet heavily muscular. Tattoo timeline is UNCONFIRMED: keep both arms, backs of the hands and neck covered (long sleeves, hoodie or high crew neck) so the image neither shows nor denies tattoos. Default outfit: plain black long-sleeve top or black hoodie, dark work trousers, black boots.
-- ARLIND (DigitGrow): use the uploaded Arlind comic reference sheet EXACTLY - same face, hair, build and styling. Show him clearly, face visible, never blurred or from behind.
+- BACKGROUND EXTRAS: ordinary anonymous people (customers, coworkers, team members, crowds), realistic varied ages, simple clothing, never more detailed than the main characters, faces never close to camera, never named.
 
-PANEL 1 (LEFT): Wide shot: an empty Irish town main street, shutters down, no cars; Conor a lone figure walking down the middle of the road. Key moment: He walks slowly, looking around. Setting: Irish town main street, 2020 lockdown.
-PANEL 2 (CENTRE): Medium shot: Conor on the sofa at home, phone in hand, sitting up straight as an idea lands. Key moment: He stops scrolling and sits up. Setting: Family living room, evening, 2020.
-PANEL 3 (RIGHT): Medium shot over Conor's shoulder at the kitchen table at night: his laptop shows a video call with Arlind, face clearly visible and matching his reference sheet, beside a website layout (no legible text). Key moment: Conor points at the screen; on the call, Arlind nods and gestures. Setting: Family kitchen, night, 2020.
+PANEL 1 (LEFT): Medium shot: the entire dashboard and interior lights go dark; only the laptop lights Conor's horrified face. Key moment: He slowly turns to look at the customer's house. Setting: Inside a customer's car, night.
+PANEL 2 (CENTRE): Wide night shot: Conor connecting jump leads between another car and the customer's dead car, bonnets up, while the customer watches from the doorway, arms folded. Key moment: He clamps the leads on with an apologetic smile toward the customer. Setting: Customer's driveway, night.
+PANEL 3 (RIGHT): Medium shot: the customer's car started and lit up; Conor packing his laptop away, exhaling with relief, a small determined smile. Key moment: He closes the laptop and nods to himself. Setting: Customer's driveway, night.
 
 STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effect lettering, no panel numbers, no logos, no brand badges, no legible number plates or signs, no watermarks, no signature. Faces must stay identical across every panel and match the uploaded reference sheets. Correct hands with five fingers, natural anatomy. Period-correct vehicles and technology for the year stated. No palm trees or sunshine in Irish or English scenes. Do not add any named person who is not listed; extras stay anonymous background figures.

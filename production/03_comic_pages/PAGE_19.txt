@@ -1,19 +1,18 @@
-Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (The Remap, Leeds & Ireland, c. 2020-2021).
+Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (COVID & the First Website, Ireland, 2020).
 
 STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
 
 LAYOUT: landscape 3:2 page (1536x1024). Three equal tall vertical panels side by side, read left to right, each framed as a 9:16 vertical film shot. Thin black panel borders, slim white gutters, white page margin.
 
-COLOUR GRADE: Neutral classroom daylight in Leeds; workshop teal-and-amber with laptop glow back home.
+COLOUR GRADE: Empty muted streets, then warm lamp-lit kitchen with cool screen glow on faces.
 
 REFERENCE IMAGES ATTACHED: references/conor-character-sheet.png. These comic sheets are the ONLY identity references. Do not redesign anyone.
 
 CHARACTERS ON THIS PAGE (keep identical in every panel):
 - CONOR (2019-2023, early twenties): the same face as the uploaded adult Conor sheet, a few years younger - short beard starting to fill in, same fade haircut, athletic but not yet heavily muscular. Tattoo timeline is UNCONFIRMED: keep both arms, backs of the hands and neck covered (long sleeves, hoodie or high crew neck) so the image neither shows nor denies tattoos. Default outfit: plain black long-sleeve top or black hoodie, dark work trousers, black boots.
-- BACKGROUND EXTRAS: ordinary anonymous people (customers, coworkers, team members, crowds), realistic varied ages, simple clothing, never more detailed than the main characters, faces never close to camera, never named.
 
-PANEL 1 (LEFT): Close-medium: Conor alone in the training room after hours, writing two figures on a notepad (drawn as abstract marks), staring at them. Key moment: He underlines one figure twice. Setting: EK Remaps training room, evening.
-PANEL 2 (CENTRE): Single continuous illustration (not a split screen): on the left, Conor in a dealership uniform lit cold blue under a wall clock; on the right, the same Conor at a laptop on a car lit warm amber. Key moment: He looks from the cold side toward the warm side. Setting: Conceptual.
-PANEL 3 (RIGHT): Medium shot: Conor handing a folded uniform across a desk to an anonymous manager in a dealership office, then shaking hands. Key moment: He hands it over and shakes the manager's hand. Setting: Dealership office.
+PANEL 1 (LEFT): Close-up: Conor's face lit by an order notification, a huge grin spreading (notification shape has no legible text). Key moment: He jumps up from the chair. Setting: Family home, night, 2020.
+PANEL 2 (CENTRE): Medium-wide: the family hallway packed with parcels; Conor taping boxes, a growing stack (no legible labels) by the front door, daylight changing through the door glass. Key moment: He tapes, stacks, grabs another box. Setting: Family hallway, 2020.
+PANEL 3 (RIGHT): Wide shot: Conor loading a car boot full of parcels outside the house at dusk; the boot sits low under the weight. Key moment: He shoves in the last parcel and closes the boot. Setting: Family home, dusk, 2020.
 
 STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effect lettering, no panel numbers, no logos, no brand badges, no legible number plates or signs, no watermarks, no signature. Faces must stay identical across every panel and match the uploaded reference sheets. Correct hands with five fingers, natural anatomy. Period-correct vehicles and technology for the year stated. No palm trees or sunshine in Irish or English scenes. Do not add any named person who is not listed; extras stay anonymous background figures.

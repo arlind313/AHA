@@ -1,7 +1,7 @@
-# THE IRISH GRAFT - PART 1 - Production Blueprint (v0.2, awaiting approval)
+# THE IRISH GRAFT - PART 1 - Production Blueprint (v0.3, awaiting approval)
 
-9:16 vertical animated graphic-novel documentary - **120 shots, 15 chapters, 35 comic pages, runtime 12:36**.
-Narration: 1446 words, ~9:38 spoken at 150 wpm (77% density). The rest is breaths, comic timing and deliberate emotional holds.
+9:16 vertical animated graphic-novel documentary - **133 shots, 15 chapters, 39 comic pages, runtime 14:46**.
+Narration: 1702 words, ~11:21 spoken at 150 wpm (77% density). The rest is breaths, comic timing and deliberate emotional holds.
 
 ## Files
 
@@ -42,28 +42,30 @@ Narration: 1446 words, ~9:38 spoken at 150 wpm (77% density). The rest is breath
 
 - **S020** (CH02) - CONFIRM: departure port (a Holyhead arrival suggests Dublin).
 - **S023** (CH02) - CONFIRM: where Conor was when the London job fell through (Holyhead assumed for the visual).
-- **S025** (CH02) - CONFIRM: how the journey home was made (ferry, flight, bus).
-- **S030** (CH03) - CONFIRM: start date at Castleshane Motors. No signage drawn.
-- **S031** (CH03) - CONFIRM: whose cutter it was and where it was used.
-- **S036** (CH04) - CONFIRM: year of the Donegal Rally breakthrough.
-- **S037** (CH04) - CONFIRM: how the orders were taken (stall, walking the crowd, online).
-- **S039** (CH04) - CONFIRM: Conor's age at the time (depiction assumes 18+). Pub name in VO only; no signage.
-- **S044** (CH05) - CONFIRM: the period for the 10-15 sets (per week / per month).
-- **S047** (CH05) - CONFIRM: Mercedes Gilmore dates and location. No star badges drawn.
-- **S056** (CH06) - CONFIRM: year Conor and Arlind first began collaborating (the website is a separate milestone). CONFIRM: worked remotely by video call.
-- **S060** (CH07) - CONFIRM: date of the Leeds course. Company named in VO only.
-- **S064** (CH07) - CONFIRM: currency/location of the GBP 11.50/hour job.
-- **S065** (CH07) - CONFIRM: which employer he left (Mercedes Gilmore by story order).
-- **S071** (CH08) - CONFIRM: currency of the 12,000-14,000 build cost before adding the figure to narration.
-- **S083** (CH09) - CONFIRM: month the Carrickmacross premises was secured/opened.
-- **S087** (CH10) - CONFIRM: tattoos are shown from Marbella onward because the reference sheet is present-day; confirm this is acceptable for c. 2024.
-- **S088** (CH10) - CONFIRM: first Marbella premises (rented unit assumed for the visual).
-- **S094** (CH11) - CONFIRM: launch date and location of Level Up With CC courses. Name in VO only.
-- **S099** (CH11) - Callback to S015. CONFIRM: that the LED story is part of the event talk.
-- **S106** (CH12) - CONFIRM: exact year the collaboration began (nine years is stated by the story).
-- **S110** (CH12) - Placed after 22 May to keep the events in chronological order. CONFIRM: event format.
+- **S031** (CH03) - CONFIRM: start date at Castleshane Motors. No signage drawn.
+- **S032** (CH03) - CONFIRM: whose cutter it was and where it was used.
+- **S037** (CH04) - CONFIRM: year of the Donegal Rally breakthrough.
+- **S038** (CH04) - CONFIRM: how the orders were taken (stall, walking the crowd, online).
+- **S040** (CH04) - CONFIRM: Conor's age at the time (depiction assumes 18+). Pub name in VO only; no signage.
+- **S045** (CH05) - CONFIRM: the period for the 10-15 sets (per week / per month).
+- **S048** (CH05) - CONFIRM: Mercedes Gilmore dates and location. No star badges drawn.
+- **S058** (CH06) - CONFIRM: which products were sold online first.
+- **S059** (CH06) - CONFIRM: year Conor and Arlind first began collaborating (the website is a separate milestone). CONFIRM: they worked remotely (video call shown).
+- **S060** (CH06) - CONFIRM: Arlind's working location for the visual (kept generic).
+- **S066** (CH07) - CONFIRM: date of the Leeds course. Company named in VO only.
+- **S070** (CH07) - CONFIRM: currency/location of the GBP 11.50/hour job.
+- **S071** (CH07) - CONFIRM: which employer he left (Mercedes Gilmore by story order).
+- **S078** (CH08) - CONFIRM: currency of the 12,000-14,000 build cost before adding the figure to narration.
+- **S091** (CH09) - CONFIRM: month the Carrickmacross premises was secured/opened.
+- **S095** (CH10) - CONFIRM: tattoos are shown from Marbella onward because the reference sheet is present-day; confirm this is acceptable for c. 2024.
+- **S097** (CH10) - CONFIRM: first Marbella premises (rented unit assumed for the visual).
+- **S098** (CH10) - CONFIRM: whether the language barrier was a real difficulty (shown lightly).
+- **S105** (CH11) - CONFIRM: launch date and location of Level Up With CC courses. Name in VO only.
+- **S110** (CH11) - Callback to S015. CONFIRM: that the LED story is part of the event talk.
+- **S117** (CH12) - CONFIRM: exact year the collaboration began (nine years is stated by the story). No conversation scripted.
+- **S123** (CH12) - Placed after 22 May to keep the events in chronological order. CONFIRM: event format.
 
-## Resolved by the verified story material (v0.1 -> v0.2 audit)
+## Resolved by the verified story material (audit v0.1 -> v0.3)
 
 - Global Tyres year, school and father's driving: 2017, attendance suffered and he was kicked out, father drove him six days a week.
 - LED bulb disaster: ordered online, ~45 minutes, bulb installed backwards.
@@ -82,5 +84,10 @@ Narration: 1446 words, ~9:38 spoken at 150 wpm (77% density). The rest is breath
 - Dubai: vision and teaser only, no claimed achievements; ends on the 'Part 2: Dubai' card.
 - Mother now uses her existing comic reference sheet; Arlind uses his sheet; father remains fictional; Tomas does not appear; no invented tattoo timeline (arms covered pre-Marbella).
 - Civic chassis code dropped from narration and visuals - the story says 'Honda Civic 1.4 petrol'.
+- v0.3: homecoming corrected - mother arranged the return and waited at Dublin Port with crisps, chocolate and rolls (invented family-kitchen scene removed; 'how he got home' flag resolved).
+- v0.3: 'Every euro I earned, I saved' replaced with wording about saving towards the first car.
+- v0.3: COVID chapter expanded (driveway work -> online products, website build with Arlind, listings, photos, enquiries, orders); 2020 not presented as the start of the collaboration.
+- v0.3: first-garage chapter expanded (childhood ground -> business ground match dissolve, silent father beat, no dialogue).
+- v0.3: Marbella expanded to ~70s; mansion scene refocused on the team and Arlind with a scripted musical pause; mansion value kept to one line.
 
 Status: nothing has been generated or animated. Waiting for approval of narration, storyboard and page prompts.

@@ -1,20 +1,21 @@
-Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (Carrickmacross, Carrickmacross, Co. Monaghan, 2022).
+Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (The First Garage, Family land, November 2021).
 
 STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
 
-LAYOUT: portrait 2:3 page (1024x1536). Four equal panels in a 2x2 grid, read left-to-right then top-to-bottom. Keep each panel's key action inside a central vertical 9:16 safe area. Thin black panel borders, slim white gutters, white page margin.
+LAYOUT: landscape 3:2 page (1536x1024). Three equal tall vertical panels side by side, read left to right, each framed as a 9:16 vertical film shot. Thin black panel borders, slim white gutters, white page margin.
 
-COLOUR GRADE: Rejection scenes in flat grey; the finished shop in brighter, cleaner, slightly warm light - the first 'earned' grade.
+COLOUR GRADE: Overcast countryside greens and greys; harsh fluorescent tubes inside the garage; blue pre-dawn for the exhausted nights.
 
 REFERENCE IMAGES ATTACHED: references/conor-character-sheet.png. These comic sheets are the ONLY identity references. Do not redesign anyone.
 
 CHARACTERS ON THIS PAGE (keep identical in every panel):
 - CONOR (2019-2023, early twenties): the same face as the uploaded adult Conor sheet, a few years younger - short beard starting to fill in, same fade haircut, athletic but not yet heavily muscular. Tattoo timeline is UNCONFIRMED: keep both arms, backs of the hands and neck covered (long sleeves, hoodie or high crew neck) so the image neither shows nor denies tattoos. Default outfit: plain black long-sleeve top or black hoodie, dark work trousers, black boots.
+- CONOR'S FATHER (fictional, consistent design - no reference exists): early fifties, stocky, weathered ruddy face, short grey-flecked dark hair receding at the temples, grey stubble, kind but serious eyes, deep crow's-feet. Always wears a navy quilted gilet over a faded blue-grey check shirt, work jeans, brown work boots.
 - BACKGROUND EXTRAS: ordinary anonymous people (customers, coworkers, team members, crowds), realistic varied ages, simple clothing, never more detailed than the main characters, faces never close to camera, never named.
+- THE FATHER'S HEDGE (recurring visual gag): a tall, immaculately clipped dense green privet hedge along the front of the family home - perfectly square edges.
 
-PANEL 1 (TOP-LEFT): Medium shot: Conor standing on a market-town street looking at an empty commercial unit with a blank letting board, hands in his pockets. Key moment: He studies the unit and takes a step forward. Setting: Co. Monaghan market town, 2022.
-PANEL 2 (TOP-RIGHT): Medium shot: Conor in a smart black hoodie at a doorway, an anonymous older landlord looking him up and down with a sceptical frown. Key moment: The landlord shakes his head. Setting: Various premises, 2022.
-PANEL 3 (BOTTOM-LEFT): Medium shot: a different door closing in Conor's face; his reflection in the door glass, jaw tight. Key moment: The door shuts; he exhales and turns away. Setting: Various premises, 2022.
-PANEL 4 (BOTTOM-RIGHT): Medium shot: an anonymous landlord handing Conor a set of keys outside an empty shopfront on a Carrickmacross street. Key moment: Keys drop into his palm; he grips them. Setting: Carrickmacross, Co. Monaghan, 2022.
+PANEL 1 (LEFT): Medium-wide: inside the finished garage, rain hammering outside the open roller door, Conor working dry under bright lights on a car. Key moment: He glances at the rain outside and grins. Setting: Inside the first garage, 2021.
+PANEL 2 (CENTRE): Wide shot from the yard at dusk: the father standing quietly in the open garage doorway, hands in his gilet pockets, watching Conor work inside under the lights; the family house and his hedge behind him. Key moment: The father watches for a moment, gives a small nod to himself, and walks back toward the house. Setting: Family land, dusk, 2021.
+PANEL 3 (RIGHT): Wide shot: a muddy country lane lined with customer cars queued to the garage; Conor waving the next car in. Key moment: Conor waves a car in. Setting: Lane outside the garage, morning, 2021-2022.
 
 STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effect lettering, no panel numbers, no logos, no brand badges, no legible number plates or signs, no watermarks, no signature. Faces must stay identical across every panel and match the uploaded reference sheets. Correct hands with five fingers, natural anatomy. Period-correct vehicles and technology for the year stated. No palm trees or sunshine in Irish or English scenes. Do not add any named person who is not listed; extras stay anonymous background figures.

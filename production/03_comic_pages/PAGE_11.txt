@@ -1,21 +1,21 @@
-Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (The Donegal Rally, Donegal & Brian Shevlin's pub, c. 2018-2019).
+Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (CC Decals, Clontibret & the family home, Co. Monaghan, c. 2018-2019).
 
 STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
 
-LAYOUT: portrait 2:3 page (1024x1536). Four equal panels in a 2x2 grid, read left-to-right then top-to-bottom. Keep each panel's key action inside a central vertical 9:16 safe area. Thin black panel borders, slim white gutters, white page margin.
+LAYOUT: landscape 3:2 page (1536x1024). Three equal tall vertical panels side by side, read left to right, each framed as a 9:16 vertical film shot. Thin black panel borders, slim white gutters, white page margin.
 
-COLOUR GRADE: Brighter rally daylight with mud browns and crowd colour; warm amber pub interior.
+COLOUR GRADE: Irish grey daylight; warm workshop and bedroom lamp light; the hedge always a rich, slightly over-saturated green.
 
 REFERENCE IMAGES ATTACHED: references/conor-character-sheet.png. These comic sheets are the ONLY identity references. Do not redesign anyone.
 
 CHARACTERS ON THIS PAGE (keep identical in every panel):
-- BACKGROUND EXTRAS: ordinary anonymous people (customers, coworkers, team members, crowds), realistic varied ages, simple clothing, never more detailed than the main characters, faces never close to camera, never named.
 - YOUNG CONOR (2017-2019, late teens): derived from the uploaded adult Conor sheet and clearly the same person, de-aged. Same strong straight brows, deep-set eyes, straight nose, defined jaw and chin, slightly prominent ears; softer fuller cheeks, smooth young skin, at most faint fuzz on the upper lip - NO beard. Short dark-brown hair, short faded sides, textured top pushed up and forward (same silhouette as the sheet, less groomed). Lean wiry build. No extensive modern tattoos: Tattoo timeline is UNCONFIRMED: keep both arms, backs of the hands and neck covered (long sleeves, hoodie or high crew neck) so the image neither shows nor denies tattoos. Default outfit: faded navy work trousers, plain dark-grey long-sleeve work top, scuffed black safety boots.
-- CONOR'S FIRST CAR: early-2000s Honda Civic 1.4 petrol 3-door hatchback of that generation - tall one-box bullet profile, short sloping bonnet flowing into a steeply raked windscreen, large swept-back headlights, small grille, three doors, tall rear hatch with vertical tail lights, plain bumpers, standard wheels with plain silver covers, factory ride height. Colour: satin silver (production choice). NOT a Type R, NOT a newer Civic, no body kit, no spoiler, no badges, blank plates.
+- BACKGROUND EXTRAS: ordinary anonymous people (customers, coworkers, team members, crowds), realistic varied ages, simple clothing, never more detailed than the main characters, faces never close to camera, never named.
+- CONOR'S FATHER (fictional, consistent design - no reference exists): early fifties, stocky, weathered ruddy face, short grey-flecked dark hair receding at the temples, grey stubble, kind but serious eyes, deep crow's-feet. Always wears a navy quilted gilet over a faded blue-grey check shirt, work jeans, brown work boots.
+- THE FATHER'S HEDGE (recurring visual gag): a tall, immaculately clipped dense green privet hedge along the front of the family home - perfectly square edges.
 
-PANEL 1 (TOP-LEFT): Wide shot: a rally car sliding through a corner on a Donegal country stage, mud and gravel spraying, spectators on the bank behind the tape. Key moment: The car drifts past; the crowd cheers. Setting: Donegal rally stage, c. 2018-2019.
-PANEL 2 (TOP-RIGHT): Medium shot: young Conor among rally fans taking orders as fast as he can, a thick wad of notes in his hand. Key moment: He takes cash, scribbles an order, takes more cash. Setting: Donegal, c. 2018-2019.
-PANEL 3 (BOTTOM-LEFT): Medium close-up at sunset: young Conor leaning on the Civic, fanning out the wad of euro notes, beaming in disbelief, Donegal hills behind. Key moment: He fans the notes and laughs. Setting: Donegal, evening, c. 2018-2019.
-PANEL 4 (BOTTOM-RIGHT): Wide shot: a cosy, busy Irish country pub interior, warm amber light; young Conor coming through the door with a big grin. Key moment: He pushes the door open and spreads his arms. Setting: Brian Shevlin's pub, c. 2018-2019.
+PANEL 1 (LEFT): Medium shot: a customer handing young Conor a few euro notes beside a freshly decaled car; Conor pocketing them with a satisfied nod. Key moment: Cash changes hands; handshake. Setting: Family driveway, c. 2018-2019.
+PANEL 2 (CENTRE): Wide shot: the front of the family home with the father's immaculate hedge; two customer cars parked outside; Conor working on one. Key moment: A third car arrives and slows, looking for a space. Setting: Family home, Co. Monaghan, c. 2018-2019.
+PANEL 3 (RIGHT): Medium shot: the father standing with garden shears, staring in silent horror at a customer's bumper parked inches from his perfectly clipped hedge. Key moment: The father's eye twitches; he slowly lowers the shears. Setting: Family home, c. 2018-2019.
 
 STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effect lettering, no panel numbers, no logos, no brand badges, no legible number plates or signs, no watermarks, no signature. Faces must stay identical across every panel and match the uploaded reference sheets. Correct hands with five fingers, natural anatomy. Period-correct vehicles and technology for the year stated. No palm trees or sunshine in Irish or English scenes. Do not add any named person who is not listed; extras stay anonymous background figures.

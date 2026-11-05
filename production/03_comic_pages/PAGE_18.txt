@@ -1,19 +1,20 @@
-Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (The Remap, Leeds & Ireland, c. 2020-2021).
+Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (COVID & the First Website, Ireland, 2020).
 
 STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
 
-LAYOUT: landscape 3:2 page (1536x1024). Three equal tall vertical panels side by side, read left to right, each framed as a 9:16 vertical film shot. Thin black panel borders, slim white gutters, white page margin.
+LAYOUT: portrait 2:3 page (1024x1536). Four equal panels in a 2x2 grid, read left-to-right then top-to-bottom. Keep each panel's key action inside a central vertical 9:16 safe area. Thin black panel borders, slim white gutters, white page margin.
 
-COLOUR GRADE: Neutral classroom daylight in Leeds; workshop teal-and-amber with laptop glow back home.
+COLOUR GRADE: Empty muted streets, then warm lamp-lit kitchen with cool screen glow on faces.
 
-REFERENCE IMAGES ATTACHED: references/conor-character-sheet.png. These comic sheets are the ONLY identity references. Do not redesign anyone.
+REFERENCE IMAGES ATTACHED: references/conor-character-sheet.png, references/arlind-character-sheet.png. These comic sheets are the ONLY identity references. Do not redesign anyone.
 
 CHARACTERS ON THIS PAGE (keep identical in every panel):
 - CONOR (2019-2023, early twenties): the same face as the uploaded adult Conor sheet, a few years younger - short beard starting to fill in, same fade haircut, athletic but not yet heavily muscular. Tattoo timeline is UNCONFIRMED: keep both arms, backs of the hands and neck covered (long sleeves, hoodie or high crew neck) so the image neither shows nor denies tattoos. Default outfit: plain black long-sleeve top or black hoodie, dark work trousers, black boots.
-- BACKGROUND EXTRAS: ordinary anonymous people (customers, coworkers, team members, crowds), realistic varied ages, simple clothing, never more detailed than the main characters, faces never close to camera, never named.
+- ARLIND (DigitGrow): use the uploaded Arlind comic reference sheet EXACTLY - same face, hair, build and styling. Show him clearly, face visible, never blurred or from behind.
 
-PANEL 1 (LEFT): Wide shot: Conor arriving at a modern industrial training unit in Leeds on a grey day, backpack on, looking up at the building (no signage). Key moment: He takes a breath and walks to the door. Setting: EK Remaps, Leeds, England.
-PANEL 2 (CENTRE): Close-up: Conor's thumb hovering over a payment confirmation on his phone (amount not legible), jaw set. Key moment: His thumb hovers, then taps. Setting: Leeds.
-PANEL 3 (RIGHT): Medium shot: a training room with a car on a rolling-road dyno behind glass; Conor at a bench with a laptop showing colourful 3D map graphs (no text) and an ECU on the desk; an anonymous instructor pointing. Key moment: Conor leans in, scribbling notes. Setting: EK Remaps training room, Leeds.
+PANEL 1 (TOP-LEFT): Medium shot over Conor's shoulder at a table at night: his laptop shows a video call with Arlind, face clearly visible and matching his reference sheet, beside a website layout (no legible text). Key moment: Conor points at the screen; on the call, Arlind nods and gestures. Setting: Family home, night, 2020.
+PANEL 2 (TOP-RIGHT): Medium shot: Arlind at his own desk, clearly visible, working on a website layout on a large monitor, wireframe blocks and product grid shapes on screen (no legible text). Key moment: He drags a product grid into place and leans back to check it. Setting: Arlind's workspace, 2020.
+PANEL 3 (BOTTOM-LEFT): Medium-wide: Conor photographing products against a white sheet with a desk lamp as light, then typing on the laptop beside them. Key moment: He snaps a photo, adjusts the product, snaps again, then types. Setting: Family home, night, 2020.
+PANEL 4 (BOTTOM-RIGHT): Close-medium: Conor answering message bubbles on his phone (shapes only, no legible text) with one hand while holding a product in the other. Key moment: He types a reply, checks the product, types again. Setting: Family home, night, 2020.
 
 STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effect lettering, no panel numbers, no logos, no brand badges, no legible number plates or signs, no watermarks, no signature. Faces must stay identical across every panel and match the uploaded reference sheets. Correct hands with five fingers, natural anatomy. Period-correct vehicles and technology for the year stated. No palm trees or sunshine in Irish or English scenes. Do not add any named person who is not listed; extras stay anonymous background figures.

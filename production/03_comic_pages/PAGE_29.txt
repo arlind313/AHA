@@ -1,19 +1,21 @@
-Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (Level Up With CC, Training room; Dublin (15 Nov 2025); Cavan (27 Feb 2026)).
+Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (Marbella, Marbella, Spain, c. 2024).
 
 STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
 
-LAYOUT: landscape 3:2 page (1536x1024). Three equal tall vertical panels side by side, read left to right, each framed as a 9:16 vertical film shot. Thin black panel borders, slim white gutters, white page margin.
+LAYOUT: portrait 2:3 page (1024x1536). Four equal panels in a 2x2 grid, read left-to-right then top-to-bottom. Keep each panel's key action inside a central vertical 9:16 safe area. Thin black panel borders, slim white gutters, white page margin.
 
-COLOUR GRADE: Practical training in clean workshop light; events in warm stage spots against dark rooms with cool rim light.
+COLOUR GRADE: Hot Andalusian light: saturated blue sky, white walls, terracotta, hard shadows; night scenes in deep blue for doubt.
 
 REFERENCE IMAGES ATTACHED: references/conor-character-sheet.png. These comic sheets are the ONLY identity references. Do not redesign anyone.
 
 CHARACTERS ON THIS PAGE (keep identical in every panel):
 - ADULT CONOR (Marbella and Dubai, 2024-2026): exactly the man on the uploaded Conor character sheet - same face, fade haircut, full short beard, neck tattoos, tattoo sleeves on both arms, muscular build, dark wristwatch on the left wrist. Default outfit: fitted plain black t-shirt or black hoodie; sunglasses only where stated.
+- CONOR (2019-2023, early twenties): the same face as the uploaded adult Conor sheet, a few years younger - short beard starting to fill in, same fade haircut, athletic but not yet heavily muscular. Tattoo timeline is UNCONFIRMED: keep both arms, backs of the hands and neck covered (long sleeves, hoodie or high crew neck) so the image neither shows nor denies tattoos. Default outfit: plain black long-sleeve top or black hoodie, dark work trousers, black boots.
 - BACKGROUND EXTRAS: ordinary anonymous people (customers, coworkers, team members, crowds), realistic varied ages, simple clothing, never more detailed than the main characters, faces never close to camera, never named.
 
-PANEL 1 (LEFT): Medium-wide low angle: Conor on a different stage in Cavan, a larger audience, cool rim light. Key moment: He laughs with the crowd. Setting: Cavan, 27 February 2026.
-PANEL 2 (CENTRE): Medium shot: Conor on stage holding up a small headlight bulb backwards, deadpan; the audience laughing. Key moment: He slowly turns the bulb around; the room erupts. Setting: Event venue.
-PANEL 3 (RIGHT): Low-angle medium shot: Conor centre stage, arms open, audience on their feet applauding in silhouette. Key moment: He opens his arms; the room stands. Setting: Event venue.
+PANEL 1 (TOP-LEFT): Wide shot: adult Conor stepping out into blinding Spanish sun with a suitcase, white buildings and mountains beyond. Key moment: He shields his eyes and looks around. Setting: Marbella, c. 2024.
+PANEL 2 (TOP-RIGHT): Memory shot in the CH09 grey grade: the busy Carrickmacross shop counter, customers waiting, Conor on the phone - framed as a fading memory at the edges. Key moment: He laughs with a customer while the phone rings. Setting: Memory of Carrickmacross, 2022-2023.
+PANEL 3 (BOTTOM-LEFT): Medium shot: Conor in a small, bare rented unit with white walls, one folding table, a laptop, unopened boxes, his phone face-up and silent beside him. Key moment: He sets the laptop on the table, glances at the silent phone, and looks around the empty room. Setting: Rented unit, Marbella, c. 2024.
+PANEL 4 (BOTTOM-RIGHT): Medium-wide: Conor on a bright Marbella street outside a café, trying to follow a fast Spanish conversation with a local mechanic, nodding a beat too late. Key moment: He nods, then glances down at a translation app on his phone (no legible text). Setting: Marbella street, c. 2024.
 
 STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effect lettering, no panel numbers, no logos, no brand badges, no legible number plates or signs, no watermarks, no signature. Faces must stay identical across every panel and match the uploaded reference sheets. Correct hands with five fingers, natural anatomy. Period-correct vehicles and technology for the year stated. No palm trees or sunshine in Irish or English scenes. Do not add any named person who is not listed; extras stay anonymous background figures.

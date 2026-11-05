@@ -14,7 +14,7 @@ import storyboard_data as D  # noqa: E402
 WPS = 2.5   # documentary narration pace: 150 words per minute
 PAD = 0.8   # breath between lines
 MIN_DUR = 3.0
-VERSION = "v0.2"
+VERSION = "v0.3"
 
 CH = {c[0]: dict(id=c[0], title=c[1], period=c[2], grade=c[3], music=c[4]) for c in D.CHAPTERS}
 NAMES = {"YC": "Young Conor", "C2": "Conor (early 20s)", "AC": "Adult Conor", "FA": "Father",
@@ -264,6 +264,11 @@ RESOLVED = [
     "Dubai: vision and teaser only, no claimed achievements; ends on the 'Part 2: Dubai' card.",
     "Mother now uses her existing comic reference sheet; Arlind uses his sheet; father remains fictional; Tomas does not appear; no invented tattoo timeline (arms covered pre-Marbella).",
     "Civic chassis code dropped from narration and visuals - the story says 'Honda Civic 1.4 petrol'.",
+    "v0.3: homecoming corrected - mother arranged the return and waited at Dublin Port with crisps, chocolate and rolls (invented family-kitchen scene removed; 'how he got home' flag resolved).",
+    "v0.3: 'Every euro I earned, I saved' replaced with wording about saving towards the first car.",
+    "v0.3: COVID chapter expanded (driveway work -> online products, website build with Arlind, listings, photos, enquiries, orders); 2020 not presented as the start of the collaboration.",
+    "v0.3: first-garage chapter expanded (childhood ground -> business ground match dissolve, silent father beat, no dialogue).",
+    "v0.3: Marbella expanded to ~70s; mansion scene refocused on the team and Arlind with a scripted musical pause; mansion value kept to one line.",
 ]
 rd = [f"# THE IRISH GRAFT - PART 1 - Production Blueprint ({VERSION}, awaiting approval)", "",
       f"9:16 vertical animated graphic-novel documentary - **{len(D.SHOTS)} shots, {len(CH)} chapters, "
@@ -285,7 +290,7 @@ rd += ["", "## Unresolved - required confirmation items", ""]
 rd += [f"{i}. {q}" for i, q in enumerate(D.OPEN_QUESTIONS, 1)]
 rd += ["", "## Unresolved - detail-level CONFIRM flags (by shot)", ""]
 rd += [f"- **{s['id']}** ({s['ch']}) - {s['note']}" for s in D.SHOTS if "CONFIRM" in s["note"]]
-rd += ["", "## Resolved by the verified story material (v0.1 -> v0.2 audit)", ""]
+rd += ["", "## Resolved by the verified story material (audit v0.1 -> v0.3)", ""]
 rd += [f"- {r}" for r in RESOLVED]
 rd += ["", "Status: nothing has been generated or animated. Waiting for approval of narration, storyboard and page prompts.", ""]
 open(os.path.join(HERE, "README.md"), "w").write("\n".join(rd))

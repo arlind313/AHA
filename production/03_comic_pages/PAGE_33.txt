@@ -1,21 +1,19 @@
-Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (CC Marbella Rentals, Marbella, 2026 (with a 2017 memory)).
+Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (Level Up With CC, Training room; Dublin (15 Nov 2025); Cavan (27 Feb 2026)).
 
 STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
 
 LAYOUT: landscape 3:2 page (1536x1024). Three equal tall vertical panels side by side, read left to right, each framed as a 9:16 vertical film shot. Thin black panel borders, slim white gutters, white page margin.
 
-COLOUR GRADE: Polished golden hour with glossy reflections; the Civic memory in the CH01 grey grade.
+COLOUR GRADE: Practical training in clean workshop light; events in warm stage spots against dark rooms with cool rim light.
 
-REFERENCE IMAGES ATTACHED: references/conor-character-sheet.png, references/fleet/ (approved CC Marbella Rentals vehicle images). These comic sheets are the ONLY identity references. Do not redesign anyone.
+REFERENCE IMAGES ATTACHED: references/conor-character-sheet.png. These comic sheets are the ONLY identity references. Do not redesign anyone.
 
 CHARACTERS ON THIS PAGE (keep identical in every panel):
-- YOUNG CONOR (2017-2019, late teens): derived from the uploaded adult Conor sheet and clearly the same person, de-aged. Same strong straight brows, deep-set eyes, straight nose, defined jaw and chin, slightly prominent ears; softer fuller cheeks, smooth young skin, at most faint fuzz on the upper lip - NO beard. Short dark-brown hair, short faded sides, textured top pushed up and forward (same silhouette as the sheet, less groomed). Lean wiry build. No extensive modern tattoos: Tattoo timeline is UNCONFIRMED: keep both arms, backs of the hands and neck covered (long sleeves, hoodie or high crew neck) so the image neither shows nor denies tattoos. Default outfit: faded navy work trousers, plain dark-grey long-sleeve work top, scuffed black safety boots.
 - ADULT CONOR (Marbella and Dubai, 2024-2026): exactly the man on the uploaded Conor character sheet - same face, fade haircut, full short beard, neck tattoos, tattoo sleeves on both arms, muscular build, dark wristwatch on the left wrist. Default outfit: fitted plain black t-shirt or black hoodie; sunglasses only where stated.
-- CONOR'S FIRST CAR: early-2000s Honda Civic 1.4 petrol 3-door hatchback of that generation - tall one-box bullet profile, short sloping bonnet flowing into a steeply raked windscreen, large swept-back headlights, small grille, three doors, tall rear hatch with vertical tail lights, plain bumpers, standard wheels with plain silver covers, factory ride height. Colour: satin silver (production choice). NOT a Type R, NOT a newer Civic, no body kit, no spoiler, no badges, blank plates.
-- CC MARBELLA RENTALS FLEET: draw each vehicle ONLY from the uploaded approved fleet images (BMW X5 M Competition, McLaren GT, Porsche Panamera GTS, BMW M2, Volkswagen Golf R). Keep their real body shapes and colours as in the images; no visible badges or plates; do not invent other models.
+- BACKGROUND EXTRAS: ordinary anonymous people (customers, coworkers, team members, crowds), realistic varied ages, simple clothing, never more detailed than the main characters, faces never close to camera, never named.
 
-PANEL 1 (LEFT): Memory shot in a soft vignette: young Conor beside the silver Civic on the grey Irish driveway, exactly as in S011. Key moment: He pats the roof, as before. Setting: Memory of Ireland, 2017.
-PANEL 2 (CENTRE): Wide golden-hour shot: the rental fleet lined up outside a clean Marbella location (no signage), sea glinting behind; Conor walking along them. Key moment: He walks the line, checking each car. Setting: Marbella, golden hour, 2026.
-PANEL 3 (RIGHT): Medium-wide: the X5 M Competition, McLaren GT and Panamera GTS from the approved fleet images, gleaming in a row; Conor leaning on the X5. Key moment: He runs a hand along the X5's bonnet. Setting: Marbella, 2026.
+PANEL 1 (LEFT): Medium-wide low angle: Conor on a different stage in Cavan, a larger audience, cool rim light. Key moment: He laughs with the crowd. Setting: Cavan, 27 February 2026.
+PANEL 2 (CENTRE): Medium shot: Conor on stage holding up a small headlight bulb backwards, deadpan; the audience laughing. Key moment: He slowly turns the bulb around; the room erupts. Setting: Event venue.
+PANEL 3 (RIGHT): Low-angle medium shot: Conor centre stage, arms open, audience on their feet applauding in silhouette. Key moment: He opens his arms; the room stands. Setting: Event venue.
 
 STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effect lettering, no panel numbers, no logos, no brand badges, no legible number plates or signs, no watermarks, no signature. Faces must stay identical across every panel and match the uploaded reference sheets. Correct hands with five fingers, natural anatomy. Period-correct vehicles and technology for the year stated. No palm trees or sunshine in Irish or English scenes. Do not add any named person who is not listed; extras stay anonymous background figures.

@@ -1,21 +1,19 @@
-Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (The First Garage, Family land, November 2021).
+Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (The Remap, Leeds & Ireland, c. 2020-2021).
 
 STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
 
-LAYOUT: portrait 2:3 page (1024x1536). Four equal panels in a 2x2 grid, read left-to-right then top-to-bottom. Keep each panel's key action inside a central vertical 9:16 safe area. Thin black panel borders, slim white gutters, white page margin.
+LAYOUT: landscape 3:2 page (1536x1024). Three equal tall vertical panels side by side, read left to right, each framed as a 9:16 vertical film shot. Thin black panel borders, slim white gutters, white page margin.
 
-COLOUR GRADE: Overcast countryside greens and greys; harsh fluorescent tubes inside the garage; blue pre-dawn for the exhausted nights.
+COLOUR GRADE: Neutral classroom daylight in Leeds; workshop teal-and-amber with laptop glow back home.
 
 REFERENCE IMAGES ATTACHED: references/conor-character-sheet.png. These comic sheets are the ONLY identity references. Do not redesign anyone.
 
 CHARACTERS ON THIS PAGE (keep identical in every panel):
 - CONOR (2019-2023, early twenties): the same face as the uploaded adult Conor sheet, a few years younger - short beard starting to fill in, same fade haircut, athletic but not yet heavily muscular. Tattoo timeline is UNCONFIRMED: keep both arms, backs of the hands and neck covered (long sleeves, hoodie or high crew neck) so the image neither shows nor denies tattoos. Default outfit: plain black long-sleeve top or black hoodie, dark work trousers, black boots.
-- CONOR'S FATHER (fictional, consistent design - no reference exists): early fifties, stocky, weathered ruddy face, short grey-flecked dark hair receding at the temples, grey stubble, kind but serious eyes, deep crow's-feet. Always wears a navy quilted gilet over a faded blue-grey check shirt, work jeans, brown work boots.
 - BACKGROUND EXTRAS: ordinary anonymous people (customers, coworkers, team members, crowds), realistic varied ages, simple clothing, never more detailed than the main characters, faces never close to camera, never named.
 
-PANEL 1 (TOP-LEFT): Wide shot: father and Conor standing at the edge of a grassy plot beside the family home in grey November light, the father gesturing across the land. Key moment: The father sweeps his arm across the plot; Conor nods. Setting: Family land, November 2021.
-PANEL 2 (TOP-RIGHT): Medium shot: Conor looking across the grass; a faint ghosted memory of a small boy kicking a ball painted translucently into the scene. Key moment: He smiles at the memory. Setting: Family land, November 2021.
-PANEL 3 (BOTTOM-LEFT): Wide shot: a steel-framed garage going up on the plot, anonymous builders on scaffolding, Conor watching in a hoodie with his hands in his pockets. Key moment: The roof sheet swings into place. Setting: Family land, late 2021.
-PANEL 4 (BOTTOM-RIGHT): Medium-wide: inside the finished garage, rain hammering outside the open roller door, Conor working dry under bright lights on a car. Key moment: He glances at the rain outside and grins. Setting: Inside the first garage, 2021.
+PANEL 1 (LEFT): Close-medium: Conor alone in the training room after hours, writing two figures on a notepad (drawn as abstract marks), staring at them. Key moment: He underlines one figure twice. Setting: EK Remaps training room, evening.
+PANEL 2 (CENTRE): Single continuous illustration (not a split screen): on the left, Conor in a dealership uniform lit cold blue under a wall clock; on the right, the same Conor at a laptop on a car lit warm amber. Key moment: He looks from the cold side toward the warm side. Setting: Conceptual.
+PANEL 3 (RIGHT): Medium shot: Conor handing a folded uniform across a desk to an anonymous manager in a dealership office, then shaking hands. Key moment: He hands it over and shakes the manager's hand. Setting: Dealership office.
 
 STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effect lettering, no panel numbers, no logos, no brand badges, no legible number plates or signs, no watermarks, no signature. Faces must stay identical across every panel and match the uploaded reference sheets. Correct hands with five fingers, natural anatomy. Period-correct vehicles and technology for the year stated. No palm trees or sunshine in Irish or English scenes. Do not add any named person who is not listed; extras stay anonymous background figures.

@@ -1,19 +1,20 @@
-Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (Marbella, Marbella, Spain, c. 2024).
+Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (Carrickmacross, Carrickmacross, Co. Monaghan, 2022).
 
 STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
 
-LAYOUT: landscape 3:2 page (1536x1024). Three equal tall vertical panels side by side, read left to right, each framed as a 9:16 vertical film shot. Thin black panel borders, slim white gutters, white page margin.
+LAYOUT: portrait 2:3 page (1024x1536). Four equal panels in a 2x2 grid, read left-to-right then top-to-bottom. Keep each panel's key action inside a central vertical 9:16 safe area. Thin black panel borders, slim white gutters, white page margin.
 
-COLOUR GRADE: Hot Andalusian light: saturated blue sky, white walls, terracotta, hard shadows; night scenes in deep blue for doubt.
+COLOUR GRADE: Rejection scenes in flat grey; the finished shop in brighter, cleaner, slightly warm light - the first 'earned' grade.
 
 REFERENCE IMAGES ATTACHED: references/conor-character-sheet.png. These comic sheets are the ONLY identity references. Do not redesign anyone.
 
 CHARACTERS ON THIS PAGE (keep identical in every panel):
-- ADULT CONOR (Marbella and Dubai, 2024-2026): exactly the man on the uploaded Conor character sheet - same face, fade haircut, full short beard, neck tattoos, tattoo sleeves on both arms, muscular build, dark wristwatch on the left wrist. Default outfit: fitted plain black t-shirt or black hoodie; sunglasses only where stated.
+- CONOR (2019-2023, early twenties): the same face as the uploaded adult Conor sheet, a few years younger - short beard starting to fill in, same fade haircut, athletic but not yet heavily muscular. Tattoo timeline is UNCONFIRMED: keep both arms, backs of the hands and neck covered (long sleeves, hoodie or high crew neck) so the image neither shows nor denies tattoos. Default outfit: plain black long-sleeve top or black hoodie, dark work trousers, black boots.
 - BACKGROUND EXTRAS: ordinary anonymous people (customers, coworkers, team members, crowds), realistic varied ages, simple clothing, never more detailed than the main characters, faces never close to camera, never named.
 
-PANEL 1 (LEFT): Close-up: Conor's tattooed hand pressing a flyer under a wiper, a wry half smile reflected in the windscreen. Key moment: He smirks at the irony. Setting: Marbella street.
-PANEL 2 (CENTRE): Wide night shot: Conor sitting alone on a marina wall, flyers stacked beside him, head bowed, boats bobbing. Key moment: He sits still, then looks up at the sea. Setting: Marbella marina, night.
-PANEL 3 (RIGHT): Medium-wide: Conor at a small Marbella workshop bay with a customer car inside and two more waiting in the sun, shaking hands with a customer. Key moment: Handshake; next car rolls up. Setting: Marbella workshop, c. 2024-2025.
+PANEL 1 (TOP-LEFT): Medium shot: Conor standing on a market-town street looking at an empty commercial unit with a blank letting board, hands in his pockets. Key moment: He studies the unit and takes a step forward. Setting: Co. Monaghan market town, 2022.
+PANEL 2 (TOP-RIGHT): Medium shot: Conor in a smart black hoodie at a doorway, an anonymous older landlord looking him up and down with a sceptical frown. Key moment: The landlord shakes his head. Setting: Various premises, 2022.
+PANEL 3 (BOTTOM-LEFT): Medium shot: a different door closing in Conor's face; his reflection in the door glass, jaw tight. Key moment: The door shuts; he exhales and turns away. Setting: Various premises, 2022.
+PANEL 4 (BOTTOM-RIGHT): Medium shot: an anonymous landlord handing Conor a set of keys outside an empty shopfront on a Carrickmacross street. Key moment: Keys drop into his palm; he grips them. Setting: Carrickmacross, Co. Monaghan, 2022.
 
 STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effect lettering, no panel numbers, no logos, no brand badges, no legible number plates or signs, no watermarks, no signature. Faces must stay identical across every panel and match the uploaded reference sheets. Correct hands with five fingers, natural anatomy. Period-correct vehicles and technology for the year stated. No palm trees or sunshine in Irish or English scenes. Do not add any named person who is not listed; extras stay anonymous background figures.

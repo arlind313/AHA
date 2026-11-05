@@ -2,7 +2,7 @@ Create ONE cinematic graphic-novel storyboard page for the animated documentary 
 
 STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
 
-LAYOUT: landscape 3:2 page (1536x1024). Three equal tall vertical panels side by side, read left to right, each framed as a 9:16 vertical film shot. Thin black panel borders, slim white gutters, white page margin.
+LAYOUT: portrait 2:3 page (1024x1536). Four equal panels in a 2x2 grid, read left-to-right then top-to-bottom. Keep each panel's key action inside a central vertical 9:16 safe area. Thin black panel borders, slim white gutters, white page margin.
 
 COLOUR GRADE: Cool white dealership light by day; orange-to-blue sunset gradients for outdoor jobs; laptop and dashboard glow at night.
 
@@ -12,8 +12,9 @@ CHARACTERS ON THIS PAGE (keep identical in every panel):
 - CONOR (2019-2023, early twenties): the same face as the uploaded adult Conor sheet, a few years younger - short beard starting to fill in, same fade haircut, athletic but not yet heavily muscular. Tattoo timeline is UNCONFIRMED: keep both arms, backs of the hands and neck covered (long sleeves, hoodie or high crew neck) so the image neither shows nor denies tattoos. Default outfit: plain black long-sleeve top or black hoodie, dark work trousers, black boots.
 - BACKGROUND EXTRAS: ordinary anonymous people (customers, coworkers, team members, crowds), realistic varied ages, simple clothing, never more detailed than the main characters, faces never close to camera, never named.
 
-PANEL 1 (LEFT): Medium shot: the entire dashboard and interior lights go dark; only the laptop lights Conor's horrified face. Key moment: He slowly turns to look at the customer's house. Setting: Inside a customer's car, night.
-PANEL 2 (CENTRE): Wide night shot: Conor connecting jump leads between another car and the customer's dead car, bonnets up, while the customer watches from the doorway, arms folded. Key moment: He clamps the leads on with an apologetic smile toward the customer. Setting: Customer's driveway, night.
-PANEL 3 (RIGHT): Medium shot: the customer's car started and lit up; Conor packing his laptop away, exhaling with relief, a small determined smile. Key moment: He closes the laptop and nods to himself. Setting: Customer's driveway, night.
+PANEL 1 (TOP-LEFT): Wide shot: a bright, spotless modern dealership workshop; Conor in a dark technician uniform (no logos) working on a modern saloon on a lift. Key moment: He torques a bolt, glancing at the clock on the wall. Setting: Mercedes Gilmore dealership workshop, c. 2019.
+PANEL 2 (TOP-RIGHT): Wide shot: Conor working on a customer's car outdoors against a blazing orange sunset sky, a work lamp ready on the ground, the customer waiting nearby. Key moment: He glances at the sinking sun and works faster. Setting: Outdoors, Ireland, sunset, c. 2019.
+PANEL 3 (BOTTOM-LEFT): Close-medium inside a car: Conor in the driver's seat with a laptop on his knees, cable to the OBD port; outside, the wing mirror folds in by itself. Key moment: He clicks; the mirror folds; he grins like a kid. Setting: Inside a customer's car, evening, c. 2019.
+PANEL 4 (BOTTOM-RIGHT): Close-up: the car's dashboard mid-coding, lights flickering; Conor's face lit by the laptop, sensing trouble. Key moment: He freezes, eyes on the flicker. Setting: Inside a customer's car, night.
 
 STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effect lettering, no panel numbers, no logos, no brand badges, no legible number plates or signs, no watermarks, no signature. Faces must stay identical across every panel and match the uploaded reference sheets. Correct hands with five fingers, natural anatomy. Period-correct vehicles and technology for the year stated. No palm trees or sunshine in Irish or English scenes. Do not add any named person who is not listed; extras stay anonymous background figures.
