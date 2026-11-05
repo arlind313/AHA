@@ -1,4 +1,4 @@
-# THE IRISH GRAFT - PART 1  (v0.3)
+# THE IRISH GRAFT - PART 1  (v0.4)
 ## 04 - Animation Preparation (USE ONLY AFTER PAGE APPROVAL)
 
 Every shot gets its own full-screen 9:16 key frame (1080x1920 minimum), generated fresh using the approved comic
@@ -15,7 +15,7 @@ can be added in the edit without warping faces.
 
 | Shot | Page | Dur | Key frames | Start -> end pose | Animated movement | Camera | Layers | Notes |
 |---|---|---|---|---|---|---|---|---|
-| S001 | 01 | 5s | 2 | Conor walks with calm confidence, key fob in his right hand, sunglasses pushed up on his head. | Walk cycle toward camera; sunlight glints travel across bodywork; palm fronds sway; heat shimmer. | Slow backward dolly matching his walk. | BG + char + FG |  |
+| S001 | 01 | 5s | 2 | Conor walks with calm confidence, key fob in his left hand (watch wrist), sunglasses pushed up on his head. | Walk cycle toward camera; sunlight glints travel across bodywork; palm fronds sway; heat shimmer. | Slow backward dolly matching his walk. | BG + char + FG |  |
 | S002 | 01 | 9.5s | 1 | Hold pose; secondary motion only | Fingers rotate the fob; tendons move under tattooed skin; bokeh lights drift. | Locked off, very slight handheld float. | single |  |
 | S003 | 01 | 6.5s | 2 | The young hand closes around the old key. | Hand closes; raindrops run down the glass; a breath of cold air fogs the window briefly. | Locked off; framing matches S002 exactly for the match cut. | BG + char + FG | Frame-match S002 (same hand position and framing) for the match cut. |
 | S004 | 02 | 10s | 1 | Hold pose; secondary motion only | Conor walks into frame; drizzle falls; puddle ripples; breath vapour; fluorescent light flickers on inside. | Slow lateral track left-to-right. | BG + char + FG |  |
@@ -26,7 +26,7 @@ can be added in the edit without warping faces.
 | S009 | 03 | 7.5s | 2 | Conor lifts the wheel onto the studs with effort, then blows warm breath into his cupped hands. | Arms lift the wheel; wheel settles onto studs; he blows into his hands; dust motes drift in the light shaft. | Slow push-in from a low angle, stops before his face. | single | Use Preview 01 (once approved) as reference. |
 | S010 | 03 | 7s | 2 | He counts, smiles, and drops the money back into the tin. | Fingers count notes; coins drop into the tin; bedside lamp flickers slightly. | Slow overhead tilt down to the tin. | single |  |
 | S011 | 03 | 6.5s | 2 | Conor pats the roof proudly and jingles the key. | Hand pats the roof; key swings; clouds drift; hedge leaves move; water beads glint on the paint. | Slow arc 15 degrees around the car's front. | single | Use Preview 02 (once approved) as reference. |
-| S012 | 04 | 5s | 2 | Conor turns the key; the father uncrosses one arm and gives a thumbs-up. | Key turns; dashboard lights come on; body vibrates slightly as the engine fires; father's thumbs-up. | Locked off. | single |  |
+| S012 | 04 | 5s | 2 | Conor turns the key; the father watches from the driveway (optional small thumbs-up). | Key turns; dashboard lights come on; body vibrates slightly as the engine fires; father watches. | Locked off. | single |  |
 | S013 | 04 | 7.5s | 2 | He tears open the parcel and holds the bulb up to the light. | Parcel tears; he lifts the bulb; small comic glint on the bulb. | Slight push-in to medium close-up. | single |  |
 | S014 | 04 | 5s | 1 | Hold pose; secondary motion only | Stalk flicks; dashboard light blinks; headlight stays dark; his face drops. | Locked off, comic hold. | single |  |
 | S015 | 05 | 8.5s | 1 | Hold pose; secondary motion only | Phone torch beam moves; he scratches his head; sky darkens between beats (time passing). | Locked off with light change for time passing. | single | Use Preview 03 (once approved) as reference. |
@@ -90,8 +90,8 @@ can be added in the edit without warping faces.
 | S073 | 22 | 5.5s | 1 | Hold pose; secondary motion only | Phone moves; he flips it; mouths words to camera. | Slow arc behind him. | single |  |
 | S074 | 22 | 8s | 1 | Hold pose; secondary motion only | Thumb pulls down; counter shape ticks; grin. | Locked off. | single |  |
 | S075 | 23 | 7.5s | 1 | Hold pose; secondary motion only | Father gestures; grass ripples; clouds move; breath vapour. | Slow push-in from wide. | single |  |
-| S076 | 23 | 7s | 1 | Hold pose; secondary motion only | Ghosted child runs and fades; grass sways. | Slow push-in. | single |  |
-| S077 | 23 | 6s | 1 | Hold pose; secondary motion only | Ghosted child fades as concrete flows in; builders rake; Conor's slow nod. | Locked off, framing matches S076. | single |  |
+| S076 | 23 | 7s | 1 | Hold pose; secondary motion only | Ball flies; child runs through frame; grass and hedge move in the breeze. | Locked off - exact framing reused for the next shot. | single |  |
+| S077 | 23 | 6s | 1 | Hold pose; secondary motion only | Concrete flows; builders rake; Conor's slow nod; same hedge moves in the wind. | Locked off, framing matches S076. | single |  |
 | S078 | 23 | 6.5s | 1 | Hold pose; secondary motion only | Crane swings; roof sheet lowers; builders guide it. | Slow crane-up. | single |  |
 | S079 | 24 | 9s | 1 | Hold pose; secondary motion only | Rain sheets past the door; lights steady; he works. | Locked off. | BG + char + FG |  |
 | S080 | 24 | 6s | 2 | The father watches for a moment, gives a small nod to himself, and walks back toward the house. | Father's small nod; he turns and walks; garage light spills across the yard. | Locked off. | single |  |
@@ -132,9 +132,9 @@ can be added in the edit without warping faces.
 | S115 | 34 | 8s | 1 | Hold pose; secondary motion only | His slow look around; festoon lights sway; people laugh in soft focus. | Slow arc. | single |  |
 | S116 | 35 | 4.5s | 1 | Hold pose; secondary motion only | Crowd parts; Arlind walks in; both stop; slow grins. | Slow push-in. | single |  |
 | S117 | 35 | 8s | 1 | Hold pose; secondary motion only | Step forward; matching grins; lights twinkle. | Locked off. | single |  |
-| S118 | 35 | 6s | 1 | Hold pose; secondary motion only | Hands meet and squeeze; bokeh twinkles. | Slow rack focus from hands to faces. | single |  |
-| S119 | 35 | 6s | 2 | They hug and laugh; others cheer. | Hug; back slaps; cheering arms; lights sway. | Slow arc around them. | single |  |
-| S120 | 36 | 7.5s | 1 | Hold pose; secondary motion only | Breeze moves their clothes; city lights twinkle; a slow shared smile. | Very slow push-in. | single |  |
+| S118 | 35 | 6s | 1 | Hold pose; secondary motion only | Breath, blink and smile only; festoon bokeh twinkles; breeze in their hair. | Locked off, very slow push. | single |  |
+| S119 | 35 | 6s | 1 | Hold pose; secondary motion only | People drift closer; lights sway; pool reflections shimmer. | Slow arc around them. | single |  |
+| S120 | 36 | 9.5s | 1 | Hold pose; secondary motion only | Breeze moves their clothes; city lights twinkle; a slow shared smile. | Very slow push-in. | single |  |
 | S121 | 36 | 7.5s | 1 | Hold pose; secondary motion only | Ghosted memories drift and dissolve; breeze; his slow smile. | Slow push-in. | single |  |
 | S122 | 36 | 4.5s | 2 | Everyone raises glasses together. | Glasses rise; lights sparkle; pool reflections shimmer. | Slow crane-up and pull-back. | single |  |
 | S123 | 36 | 9s | 2 | He raises a hand to the guests on deck. | Water sparkles; flags flutter; guests turn toward him. | Slow lateral track along the yacht. | BG + char + FG |  |
@@ -149,4 +149,4 @@ can be added in the edit without warping faces.
 | S132 | 39 | 3.5s | 2 | He stands still, taking it in. | Skyline lights switch on; water reflections ripple; hoodie moves in warm wind. | Slow push toward the skyline. | single |  |
 | S133 | 39 | 8s | 2 | He turns and half-smiles. | Head turn; half smile; light flare; cut to black. | Locked off. | single |  |
 
-**Totals:** 133 shots, 177 key frames to generate, runtime 14:46.
+**Totals:** 133 shots, 176 key frames to generate, runtime 14:48.

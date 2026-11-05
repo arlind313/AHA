@@ -1,7 +1,7 @@
-# THE IRISH GRAFT - PART 1 - Production Blueprint (v0.3, awaiting approval)
+# THE IRISH GRAFT - PART 1 - Production Blueprint (v0.4, awaiting approval)
 
-9:16 vertical animated graphic-novel documentary - **133 shots, 15 chapters, 39 comic pages, runtime 14:46**.
-Narration: 1702 words, ~11:21 spoken at 150 wpm (77% density). The rest is breaths, comic timing and deliberate emotional holds.
+9:16 vertical animated graphic-novel documentary - **133 shots, 15 chapters, 39 comic pages, runtime 14:48**.
+Narration: 1707 words, ~11:23 spoken at 150 wpm (77% density). The rest is breaths, comic timing and deliberate emotional holds.
 
 ## Files
 
@@ -11,6 +11,7 @@ Narration: 1702 words, ~11:21 spoken at 150 wpm (77% density). The rest is breat
 | `02_master_storyboard.md` | 2 | Every shot: chapter, duration, timecode, VO, characters, composition, location, action, animation, camera, SFX, music |
 | `03_comic_pages.md` + `03_comic_pages/PAGE_XX.txt` | 3 | One complete ChatGPT prompt per page (3-5 panels), required uploads, approval table |
 | `04_animation_prep.md` | 4 | Per-shot 9:16 key-frame list and motion brief - use only after page approval |
+| `05_page_tests/PAGE_01_PACKAGE.md` | 3 | Page 01 visual quality test: shots, prompt, references, 9:16 framing, consistency and frame-separation plan |
 | `storyboard_data.py` / `build.py` | - | Single source of truth; edit data, run `python3 production/build.py` to regenerate everything |
 
 ## Reference files
@@ -25,6 +26,7 @@ Narration: 1702 words, ~11:21 spoken at 150 wpm (77% density). The rest is breat
 - **YC** - YOUNG CONOR (2017-2019, late teens): derived from the uploaded adult Conor sheet and clearly the same person, de-aged. Same strong straight brows, deep-set eyes, straight nose, defined jaw and chin, slightly prominent ears; softer fuller cheeks, smooth young skin, at most faint fuzz on the upper lip - NO beard. Short dark-brown hair, short faded sides, textured top pushed up and forward (same silhouette as the sheet, less groomed). Lean wiry build. No extensive modern tattoos: Tattoo timeline is UNCONFIRMED: keep both arms, backs of the hands and neck covered (long sleeves, hoodie or high crew neck) so the image neither shows nor denies tattoos. Default outfit: faded navy work trousers, plain dark-grey long-sleeve work top, scuffed black safety boots.
 - **C2** - CONOR (2019-2023, early twenties): the same face as the uploaded adult Conor sheet, a few years younger - short beard starting to fill in, same fade haircut, athletic but not yet heavily muscular. Tattoo timeline is UNCONFIRMED: keep both arms, backs of the hands and neck covered (long sleeves, hoodie or high crew neck) so the image neither shows nor denies tattoos. Default outfit: plain black long-sleeve top or black hoodie, dark work trousers, black boots.
 - **AC** - ADULT CONOR (Marbella and Dubai, 2024-2026): exactly the man on the uploaded Conor character sheet - same face, fade haircut, full short beard, neck tattoos, tattoo sleeves on both arms, muscular build, dark wristwatch on the left wrist. Default outfit: fitted plain black t-shirt or black hoodie; sunglasses only where stated.
+- **KC** - CHILD CONOR (flashback only, around 8-10 years old): derived from the uploaded Conor sheet - same brows, deep-set eyes, ears and hair colour in a child's soft rounded face; messy short dark-brown hair; plain t-shirt, shorts, scuffed runners. No tattoos.
 - **FA** - CONOR'S FATHER (fictional, consistent design - no reference exists): early fifties, stocky, weathered ruddy face, short grey-flecked dark hair receding at the temples, grey stubble, kind but serious eyes, deep crow's-feet. Always wears a navy quilted gilet over a faded blue-grey check shirt, work jeans, brown work boots.
 - **MO** - CONOR'S MOTHER: use the uploaded mother comic reference sheet EXACTLY - same face, hair, build and styling. Do not invent or alter her appearance.
 - **AR** - ARLIND (DigitGrow): use the uploaded Arlind comic reference sheet EXACTLY - same face, hair, build and styling. Show him clearly, face visible, never blurred or from behind.
@@ -50,7 +52,7 @@ Narration: 1702 words, ~11:21 spoken at 150 wpm (77% density). The rest is breat
 - **S045** (CH05) - CONFIRM: the period for the 10-15 sets (per week / per month).
 - **S048** (CH05) - CONFIRM: Mercedes Gilmore dates and location. No star badges drawn.
 - **S058** (CH06) - CONFIRM: which products were sold online first.
-- **S059** (CH06) - CONFIRM: year Conor and Arlind first began collaborating (the website is a separate milestone). CONFIRM: they worked remotely (video call shown).
+- **S059** (CH06) - The COVID website is a separate milestone from the earlier start of the collaboration; the start year is NOT stated anywhere in the film. CONFIRM: start year (for records only). CONFIRM: they worked remotely (video call shown).
 - **S060** (CH06) - CONFIRM: Arlind's working location for the visual (kept generic).
 - **S066** (CH07) - CONFIRM: date of the Leeds course. Company named in VO only.
 - **S070** (CH07) - CONFIRM: currency/location of the GBP 11.50/hour job.
@@ -88,6 +90,7 @@ Narration: 1702 words, ~11:21 spoken at 150 wpm (77% density). The rest is breat
 - v0.3: 'Every euro I earned, I saved' replaced with wording about saving towards the first car.
 - v0.3: COVID chapter expanded (driveway work -> online products, website build with Arlind, listings, photos, enquiries, orders); 2020 not presented as the start of the collaboration.
 - v0.3: first-garage chapter expanded (childhood ground -> business ground match dissolve, silent father beat, no dialogue).
+- v0.4: engine-start thumbs-up marked optional; website kept separate from the (unstated) collaboration start; childhood flashback + match cut replaces the ghost effect; first meeting shown without an assumed handshake/hug (S120 line revised); closing line flagged for Conor's final approval; premium art-direction added to every page prompt.
 - v0.3: Marbella expanded to ~70s; mansion scene refocused on the team and Arlind with a scripted musical pause; mansion value kept to one line.
 
 Status: nothing has been generated or animated. Waiting for approval of narration, storyboard and page prompts.

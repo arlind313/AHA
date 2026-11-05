@@ -1,7 +1,7 @@
-# THE IRISH GRAFT - PART 1  (v0.3)
+# THE IRISH GRAFT - PART 1  (v0.4)
 ## 02 - Master Storyboard
 
-133 shots - 15 chapters - total runtime **14:46**.
+133 shots - 15 chapters - total runtime **14:48**.
 
 Durations are calculated from the narration (150 wpm) plus a 0.8s breath; emotional and comic beats carry a
 deliberate extra hold, listed per shot.
@@ -20,7 +20,7 @@ deliberate extra hold, listed per shot.
 | CH09 | Carrickmacross | Carrickmacross, Co. Monaghan, 2022 | S088-S094 (7) | 0:36 |
 | CH10 | Marbella | Marbella, Spain, c. 2024 | S095-S104 (10) | 1:12 |
 | CH11 | Level Up With CC | Training room; Dublin (15 Nov 2025); Cavan (27 Feb 2026) | S105-S111 (7) | 0:45 |
-| CH12 | The Marbella Mansion | Marbella, 22 May 2026; Puerto Banus, 19 September 2026 | S112-S123 (12) | 1:26 |
+| CH12 | The Marbella Mansion | Marbella, 22 May 2026; Puerto Banus, 19 September 2026 | S112-S123 (12) | 1:28 |
 | CH13 | CC Marbella Rentals | Marbella, 2026 (with a 2017 memory) | S124-S129 (6) | 0:38 |
 | CH14 | Dubai - Part 2 Teaser | Dubai, 2026 | S130-S133 (4) | 0:20 |
 
@@ -35,7 +35,7 @@ deliberate extra hold, listed per shot.
 - **Characters:** Adult Conor
 - **Composition:** Medium-wide, low angle: adult Conor walks toward camera along a row of gleaming rental cars, white villa and sea behind.
 - **Location & period:** Marbella seafront, golden hour, 2026
-- **Character action:** Conor walks with calm confidence, key fob in his right hand, sunglasses pushed up on his head.
+- **Character action:** Conor walks with calm confidence, key fob in his left hand (watch wrist), sunglasses pushed up on his head.
 - **Animation:** Walk cycle toward camera; sunlight glints travel across bodywork; palm fronds sway; heat shimmer.
 - **Camera:** Slow backward dolly matching his walk.
 - **Sound effects:** Footsteps on paving, distant sea, soft city hum.
@@ -166,13 +166,14 @@ deliberate extra hold, listed per shot.
 ### S012 - CH01 - 5s  (TC 1:18-1:24, page 04)
 - **Voice-over:** (none)
 - **Characters:** Young Conor, Father
-- **Composition:** Medium shot from the passenger side: young Conor in the Civic driver's seat, both hands on the wheel, grinning; through the windscreen the father stands on the driveway, arms folded, a small proud smile.
+- **Composition:** Medium shot from the passenger side: young Conor in the Civic driver's seat, both hands on the wheel, grinning; through the windscreen the father stands on the driveway, arms folded, watching.
 - **Location & period:** Inside the Civic on the driveway, 2017
-- **Character action:** Conor turns the key; the father uncrosses one arm and gives a thumbs-up.
-- **Animation:** Key turns; dashboard lights come on; body vibrates slightly as the engine fires; father's thumbs-up.
+- **Character action:** Conor turns the key; the father watches from the driveway (optional small thumbs-up).
+- **Animation:** Key turns; dashboard lights come on; body vibrates slightly as the engine fires; father watches.
 - **Camera:** Locked off.
 - **Sound effects:** Starter motor, 1.4 engine catching and idling.
 - **Music:** Theme swells briefly on the engine start.
+- **Note:** Father's thumbs-up is OPTIONAL visual storytelling, not a verified historical moment; drop it if Conor prefers.
 
 ### S013 - CH01 - 7.5s  (TC 1:24-1:31, page 04)
 - **Voice-over:** "First modification? LED headlight bulbs. Ordered online, delivered to the door. How hard could it be?"
@@ -737,7 +738,7 @@ deliberate extra hold, listed per shot.
 - **Camera:** Locked off.
 - **Sound effects:** Call audio murmur, keyboard clicks.
 - **Music:** Lo-fi pulse begins.
-- **Note:** CONFIRM: year Conor and Arlind first began collaborating (the website is a separate milestone). CONFIRM: they worked remotely (video call shown).
+- **Note:** The COVID website is a separate milestone from the earlier start of the collaboration; the start year is NOT stated anywhere in the film. CONFIRM: start year (for records only). CONFIRM: they worked remotely (video call shown).
 
 ### S060 - CH06 - 9s  (TC 6:40-6:48, page 18)
 - **Voice-over:** "We built it piece by piece. The pages, the product categories, how people would find things and pay for them."
@@ -933,23 +934,23 @@ deliberate extra hold, listed per shot.
 
 ### S076 - CH08 - 7s, incl. 1s hold  (TC 8:32-8:40, page 23)
 - **Voice-over:** "That bit of ground meant something. It's where I'd played as a kid."
-- **Characters:** Conor (early 20s)
-- **Composition:** Medium shot: Conor looking across the grass; a faint ghosted memory of a small boy kicking a ball painted translucently into the scene.
-- **Location & period:** Family land, November 2021
-- **Character action:** He smiles at the memory.
-- **Animation:** Ghosted child runs and fades; grass sways.
-- **Camera:** Slow push-in.
-- **Sound effects:** Distant echo of a child's laugh.
+- **Characters:** Child Conor (flashback)
+- **Composition:** Flashback, medium-wide: child Conor kicking a football across the same grassy patch beside the family house, the father's hedge in the background; warm, slightly faded late-1990s/2000s summer light. Framing locked for a match cut.
+- **Location & period:** Family land, Conor's childhood (year not specified)
+- **Character action:** He boots the ball and runs after it.
+- **Animation:** Ball flies; child runs through frame; grass and hedge move in the breeze.
+- **Camera:** Locked off - exact framing reused for the next shot.
+- **Sound effects:** A child's laugh, ball thud, birdsong.
 - **Music:** Chapter cue continues.
-- **Note:** Ghosted child is a generic small boy, not a new character design.
+- **Note:** Real memory shown as a flashback (no ghost/double-exposure effect). Child design derived from the Conor sheet.
 
 ### S077 - CH08 - 6s  (TC 8:40-8:46, page 23)
 - **Voice-over:** "And now it was going to be where I built the business."
 - **Characters:** Conor (early 20s), Extras
-- **Composition:** Medium-wide match dissolve from S076: the same patch of ground, now marked out with string lines and a fresh concrete slab being poured by anonymous builders; Conor watching at the edge.
+- **Composition:** MATCH CUT from S076, identical framing: the same patch of ground and hedge, now in grey November light, marked out with string lines and a fresh concrete slab being poured by anonymous builders; Conor standing where the child ran.
 - **Location & period:** Family land, late 2021
-- **Character action:** The concrete spreads across the spot where the ghosted child played.
-- **Animation:** Ghosted child fades as concrete flows in; builders rake; Conor's slow nod.
+- **Character action:** Concrete flows across the spot where the child played; Conor watches.
+- **Animation:** Concrete flows; builders rake; Conor's slow nod; same hedge moves in the wind.
 - **Camera:** Locked off, framing matches S076.
 - **Sound effects:** Concrete mixer, raking, wind.
 - **Music:** Theme phrase on piano.
@@ -1433,27 +1434,28 @@ deliberate extra hold, listed per shot.
 ### S118 - CH12 - 6s  (TC 13:07-13:13, page 35)
 - **Voice-over:** (none)
 - **Characters:** Adult Conor, Arlind
-- **Composition:** Close-up: Conor's tattooed hand and Arlind's hand meeting in a firm handshake, both faces visible above, festoon bokeh - THE MUSICAL PAUSE.
-- **Location & period:** Mansion terrace, night
-- **Character action:** The handshake grips and holds.
-- **Animation:** Hands meet and squeeze; bokeh twinkles.
-- **Camera:** Slow rack focus from hands to faces.
+- **Composition:** Medium close-up two-shot, faces only: Conor and Arlind finally face to face, both faces clear and matching their reference sheets, warm festoon light - THE MUSICAL PAUSE. No specific greeting gesture is drawn.
+- **Location & period:** Mansion terrace, night, 22 May 2026
+- **Character action:** They take each other in, both smiling.
+- **Animation:** Breath, blink and smile only; festoon bokeh twinkles; breeze in their hair.
+- **Camera:** Locked off, very slow push.
 - **Sound effects:** Silence, then a single piano note.
 - **Music:** Musical pause: 3s of near-silence, then one piano note.
+- **Note:** Greeting gesture deliberately not shown (not verified). If real photos/video of the moment exist, match the real gesture later.
 
 ### S119 - CH12 - 6s  (TC 13:13-13:19, page 35)
 - **Voice-over:** (none)
 - **Characters:** Adult Conor, Arlind, Extras
-- **Composition:** Medium two-shot: the handshake turns into a back-slapping hug; team members around them cheering.
+- **Composition:** Wide shot: the terrace with team members in soft focus around Conor and Arlind, who stand together in the centre, both clearly visible.
 - **Location & period:** Mansion terrace, night
-- **Character action:** They hug and laugh; others cheer.
-- **Animation:** Hug; back slaps; cheering arms; lights sway.
+- **Character action:** Team members gather around them, smiling.
+- **Animation:** People drift closer; lights sway; pool reflections shimmer.
 - **Camera:** Slow arc around them.
-- **Sound effects:** Cheers, laughter.
+- **Sound effects:** Voices return, warm laughter.
 - **Music:** Theme returns and swells.
 
-### S120 - CH12 - 7.5s, incl. 1s hold  (TC 13:19-13:26, page 36)
-- **Voice-over:** "There's no speech for a moment like that. You just shake the man's hand."
+### S120 - CH12 - 9.5s, incl. 1s hold  (TC 13:19-13:28, page 36)
+- **Voice-over:** "There's no script for a moment like that. After all those years, we were finally in the same place."
 - **Characters:** Adult Conor, Arlind
 - **Composition:** Medium close-up: Conor and Arlind side by side at the terrace railing afterwards, both looking out at the night sea, shoulders nearly touching.
 - **Location & period:** Mansion terrace, night
@@ -1464,7 +1466,7 @@ deliberate extra hold, listed per shot.
 - **Music:** Chapter cue continues.
 - **Note:** Proposed narration pending Conor's approval.
 
-### S121 - CH12 - 7.5s  (TC 13:26-13:34, page 36)
+### S121 - CH12 - 7.5s  (TC 13:28-13:36, page 36)
 - **Voice-over:** "Standing there, I thought about the tyre shop, the ferry, the hedge... the bulb in backwards."
 - **Characters:** Adult Conor
 - **Composition:** Medium close-up: Conor at the terrace railing looking at the night sea; faint ghosted memories of the tyre workshop, the ferry and the hedge painted into the clouds.
@@ -1476,7 +1478,7 @@ deliberate extra hold, listed per shot.
 - **Music:** Chapter cue continues.
 - **Note:** Ghosted memories reuse the S009 and S036 compositions.
 
-### S122 - CH12 - 4.5s, incl. 1s hold  (TC 13:34-13:38, page 36)
+### S122 - CH12 - 4.5s, incl. 1s hold  (TC 13:36-13:40, page 36)
 - **Voice-over:** "Every bit of it led here."
 - **Characters:** Adult Conor, Arlind, Extras
 - **Composition:** Wide shot: the whole team on the terrace raising glasses, Conor and Arlind side by side in the centre, city lights and sea behind.
@@ -1487,7 +1489,7 @@ deliberate extra hold, listed per shot.
 - **Sound effects:** Cheers, glass clink.
 - **Music:** Chapter cue continues.
 
-### S123 - CH12 - 9s  (TC 13:38-13:48, page 36)
+### S123 - CH12 - 9s  (TC 13:40-13:50, page 36)
 - **Voice-over:** "And on the nineteenth of September, we took it out onto the water - a yacht event in Puerto Banus."
 - **Characters:** Adult Conor, Extras
 - **Composition:** Wide shot: a large white yacht moored in Puerto Banus marina in bright Mediterranean daylight, guests on deck, Conor at the bow addressing them.
@@ -1505,7 +1507,7 @@ deliberate extra hold, listed per shot.
 **Colour grade:** Polished golden hour with glossy reflections; the Civic memory in the CH01 grey grade.  
 **Music direction:** Confident groove version of the theme, then the callback piano phrase from the Civic reveal.
 
-### S124 - CH13 - 5s  (TC 13:48-13:52, page 37)
+### S124 - CH13 - 5s  (TC 13:50-13:54, page 37)
 - **Voice-over:** "And the cars? It all started with one 1.4 Civic."
 - **Characters:** Young Conor
 - **Composition:** Memory shot in a soft vignette: young Conor beside the silver Civic on the grey Irish driveway, exactly as in S011.
@@ -1517,7 +1519,7 @@ deliberate extra hold, listed per shot.
 - **Music:** Chapter cue continues.
 - **Note:** Reuse the approved S011 frame.
 
-### S125 - CH13 - 3s  (TC 13:52-13:56, page 37)
+### S125 - CH13 - 3s  (TC 13:54-13:58, page 37)
 - **Voice-over:** "Now there's CC Marbella Rentals."
 - **Characters:** Adult Conor
 - **Composition:** Wide golden-hour shot: the rental fleet lined up outside a clean Marbella location (no signage), sea glinting behind; Conor walking along them.
@@ -1528,7 +1530,7 @@ deliberate extra hold, listed per shot.
 - **Sound effects:** Upbeat groove, footsteps.
 - **Music:** Chapter cue continues.
 
-### S126 - CH13 - 10s  (TC 13:56-14:06, page 37)
+### S126 - CH13 - 10s  (TC 13:58-14:08, page 37)
 - **Voice-over:** "The fleet has included a BMW X5 M Competition with eight hundred and fifty brake horsepower, a McLaren GT, a Porsche Panamera GTS..."
 - **Characters:** Adult Conor
 - **Composition:** Medium-wide: the X5 M Competition, McLaren GT and Panamera GTS from the approved fleet images, gleaming in a row; Conor leaning on the X5.
@@ -1540,7 +1542,7 @@ deliberate extra hold, listed per shot.
 - **Music:** Chapter cue continues.
 - **Note:** Vehicles drawn only from approved fleet assets; spec stated as provided.
 
-### S127 - CH13 - 3.5s  (TC 14:06-14:09, page 38)
+### S127 - CH13 - 3.5s  (TC 14:08-14:11, page 38)
 - **Voice-over:** "...a BMW M2, a Golf R."
 - **Characters:** Adult Conor
 - **Composition:** Medium shot: the BMW M2 and Golf R from the approved fleet images, Conor tossing a key in his hand between them.
@@ -1551,7 +1553,7 @@ deliberate extra hold, listed per shot.
 - **Sound effects:** Key jingle.
 - **Music:** Chapter cue continues.
 
-### S128 - CH13 - 10s, incl. 0.5s hold  (TC 14:09-14:19, page 38)
+### S128 - CH13 - 10s, incl. 0.5s hold  (TC 14:11-14:21, page 38)
 - **Voice-over:** "Every time I hand over a key, I think about that first one. The one I bought with my tyre-shop wages."
 - **Characters:** Adult Conor, Extras
 - **Composition:** Close-up: Conor's tattooed hand placing a modern key fob into a customer's palm - framed to echo S003.
@@ -1562,7 +1564,7 @@ deliberate extra hold, listed per shot.
 - **Sound effects:** Key jingle - same sound as S003.
 - **Music:** Callback piano phrase.
 
-### S129 - CH13 - 6.5s, incl. 1s hold  (TC 14:19-14:26, page 38)
+### S129 - CH13 - 6.5s, incl. 1s hold  (TC 14:21-14:28, page 38)
 - **Voice-over:** "Because the cars were never really the point. The graft was."
 - **Characters:** Adult Conor
 - **Composition:** Medium shot: Conor in sunglasses leaning on a fleet car, arms crossed, looking at camera - the confident pose from the character sheet.
@@ -1572,7 +1574,7 @@ deliberate extra hold, listed per shot.
 - **Camera:** Slow push-in.
 - **Sound effects:** Music settles.
 - **Music:** Chapter cue continues.
-- **Note:** Proposed narration pending Conor's approval.
+- **Note:** PROPOSED CLOSING LINE - FOR CONOR'S FINAL APPROVAL.
 
 ---
 ## CH14 - Dubai - Part 2 Teaser
@@ -1580,7 +1582,7 @@ deliberate extra hold, listed per shot.
 **Colour grade:** Purple-orange desert dusk, skyline lights, haze; ends in silhouette.  
 **Music direction:** Low pulsing synth + deep percussion build, hard cut to silence and a single piano note under the Part 2 card.
 
-### S130 - CH14 - 5s  (TC 14:26-14:30, page 39)
+### S130 - CH14 - 5s  (TC 14:28-14:32, page 39)
 - **Voice-over:** "Ireland was where it started. Marbella was where it grew."
 - **Characters:** Adult Conor
 - **Composition:** Medium shot: Conor in a plane window seat looking out at a vast desert at dusk, the window glow on his face.
@@ -1592,7 +1594,7 @@ deliberate extra hold, listed per shot.
 - **Music:** Chapter cue continues.
 - **Note:** No Dubai achievements claimed in Part 1.
 
-### S131 - CH14 - 4s  (TC 14:30-14:34, page 39)
+### S131 - CH14 - 4s  (TC 14:32-14:36, page 39)
 - **Voice-over:** "But I've never been good at standing still."
 - **Characters:** Adult Conor
 - **Composition:** Close-up: Conor's eyes reflected in the plane window with the desert below.
@@ -1603,7 +1605,7 @@ deliberate extra hold, listed per shot.
 - **Sound effects:** Engine hum swells.
 - **Music:** Chapter cue continues.
 
-### S132 - CH14 - 3.5s, incl. 2s hold  (TC 14:34-14:38, page 39)
+### S132 - CH14 - 3.5s, incl. 2s hold  (TC 14:36-14:40, page 39)
 - **Voice-over:** "Dubai."
 - **Characters:** Adult Conor
 - **Composition:** Wide shot from behind: Conor in a black hoodie looking out over a waterfront at the Dubai skyline at dusk, the tallest tower glowing (matches the character-sheet panel).
@@ -1614,7 +1616,7 @@ deliberate extra hold, listed per shot.
 - **Sound effects:** City hum, warm wind.
 - **Music:** Low pulsing synth build.
 
-### S133 - CH14 - 8s  (TC 14:38-14:46, page 39)
+### S133 - CH14 - 8s  (TC 14:40-14:48, page 39)
 - **Voice-over:** (none)
 - **Characters:** Adult Conor
 - **Composition:** Close-up: Conor turns his head slightly toward camera with a half smile, skyline bokeh behind; hard cut to black.

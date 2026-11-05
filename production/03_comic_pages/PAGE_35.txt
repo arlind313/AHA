@@ -1,12 +1,12 @@
 Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (The Marbella Mansion, Marbella, 22 May 2026; Puerto Banus, 19 September 2026).
 
-STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
+STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Art direction: confident hand-inked brush-and-nib linework, bold spot blacks, fine cross-hatching in the shadows, restrained limited palette per panel, film-camera lens choices and depth of field, imperfect human line variation like a top-tier printed graphic novel. Avoid: airbrushed gloss, plastic skin, over-smooth gradients, symmetrical stock-photo faces, HDR glow, fantasy lighting. Not photorealistic, not 3D render, not anime, not generic AI art.
 
 LAYOUT: portrait 2:3 page (1024x1536). Four equal panels in a 2x2 grid, read left-to-right then top-to-bottom. Keep each panel's key action inside a central vertical 9:16 safe area. Thin black panel borders, slim white gutters, white page margin.
 
 COLOUR GRADE: Dusk to night: lilac sky, warm festoon lights, pool reflections; Puerto Banus coda in bright Mediterranean day.
 
-REFERENCE IMAGES ATTACHED: references/conor-character-sheet.png, references/arlind-character-sheet.png. These comic sheets are the ONLY identity references. Do not redesign anyone.
+REFERENCE IMAGES ATTACHED (in upload order): Image 1 - Conor comic character sheet; Image 2 - Arlind comic character sheet. The comic character sheets are the ONLY identity references. Do not redesign anyone.
 
 CHARACTERS ON THIS PAGE (keep identical in every panel):
 - ADULT CONOR (Marbella and Dubai, 2024-2026): exactly the man on the uploaded Conor character sheet - same face, fade haircut, full short beard, neck tattoos, tattoo sleeves on both arms, muscular build, dark wristwatch on the left wrist. Default outfit: fitted plain black t-shirt or black hoodie; sunglasses only where stated.
@@ -15,7 +15,7 @@ CHARACTERS ON THIS PAGE (keep identical in every panel):
 
 PANEL 1 (TOP-LEFT): Medium shot: Conor turning as Arlind steps out of the crowd toward him, Arlind's face clear and lit by festoon lights, exactly matching his reference sheet. Key moment: Both stop, recognise each other, and grin. Setting: Mansion terrace, night, 22 May 2026.
 PANEL 2 (TOP-RIGHT): Medium two-shot: Conor and Arlind face to face on the terrace, a step apart, both shaking their heads with the same disbelieving grin; festoon bokeh behind. Key moment: They close the last step between them. Setting: Mansion terrace, night.
-PANEL 3 (BOTTOM-LEFT): Close-up: Conor's tattooed hand and Arlind's hand meeting in a firm handshake, both faces visible above, festoon bokeh - THE MUSICAL PAUSE. Key moment: The handshake grips and holds. Setting: Mansion terrace, night.
-PANEL 4 (BOTTOM-RIGHT): Medium two-shot: the handshake turns into a back-slapping hug; team members around them cheering. Key moment: They hug and laugh; others cheer. Setting: Mansion terrace, night.
+PANEL 3 (BOTTOM-LEFT): Medium close-up two-shot, faces only: Conor and Arlind finally face to face, both faces clear and matching their reference sheets, warm festoon light - THE MUSICAL PAUSE. No specific greeting gesture is drawn. Key moment: They take each other in, both smiling. Setting: Mansion terrace, night, 22 May 2026.
+PANEL 4 (BOTTOM-RIGHT): Wide shot: the terrace with team members in soft focus around Conor and Arlind, who stand together in the centre, both clearly visible. Key moment: Team members gather around them, smiling. Setting: Mansion terrace, night.
 
 STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effect lettering, no panel numbers, no logos, no brand badges, no legible number plates or signs, no watermarks, no signature. Faces must stay identical across every panel and match the uploaded reference sheets. Correct hands with five fingers, natural anatomy. Period-correct vehicles and technology for the year stated. No palm trees or sunshine in Irish or English scenes. Do not add any named person who is not listed; extras stay anonymous background figures.

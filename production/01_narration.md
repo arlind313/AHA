@@ -1,4 +1,4 @@
-# THE IRISH GRAFT - PART 1  (v0.3)
+# THE IRISH GRAFT - PART 1  (v0.4)
 ## 01 - Full Narration (Conor, first person)
 
 Natural documentary pace (~150 words per minute). Shot IDs in brackets let the VO be recorded line by line
@@ -164,7 +164,7 @@ _Runtime 0:45 - 92 words_
 [S111] If one person walks out of that room and finally has a go at something - that'll do me.  
 
 ### CH12 - The Marbella Mansion  (Marbella, 22 May 2026; Puerto Banus, 19 September 2026)
-_Runtime 1:26 - 150 words_
+_Runtime 1:28 - 155 words_
 
 [S112] On the twenty-second of May, 2026, we held an event at a mansion in Marbella.  
 [S113] They said it was worth two hundred million euro. Honestly? That's not the part I remember.  
@@ -174,7 +174,7 @@ _Runtime 1:26 - 150 words_
 [S117] Nine years of building things together. Websites, messages, calls. And we'd never once been in the same room. *  
 [S118] _(no narration - picture, music and sound)_  
 [S119] _(no narration - picture, music and sound)_  
-[S120] There's no speech for a moment like that. You just shake the man's hand.  
+[S120] There's no script for a moment like that. After all those years, we were finally in the same place.  
 [S121] Standing there, I thought about the tyre shop, the ferry, the hedge... the bulb in backwards.  
 [S122] Every bit of it led here.  
 [S123] And on the nineteenth of September, we took it out onto the water - a yacht event in Puerto Banus. *  
@@ -198,4 +198,4 @@ _Runtime 0:20 - 19 words_
 [S133] _(no narration - picture, music and sound)_  
 
 ---
-**Total narration:** 1702 words, ~11:21 spoken, inside a picture runtime of **14:46** (77% narration density).
+**Total narration:** 1707 words, ~11:23 spoken, inside a picture runtime of **14:48** (77% narration density).

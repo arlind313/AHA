@@ -17,7 +17,11 @@ STYLE = (
     "Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: "
     "detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading "
     "with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and "
-    "rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art."
+    "rim light, subtle paper-grain texture. Art direction: confident hand-inked brush-and-nib linework, bold spot blacks, "
+    "fine cross-hatching in the shadows, restrained limited palette per panel, film-camera lens choices and depth of field, "
+    "imperfect human line variation like a top-tier printed graphic novel. Avoid: airbrushed gloss, plastic skin, "
+    "over-smooth gradients, symmetrical stock-photo faces, HDR glow, fantasy lighting. Not photorealistic, not 3D render, "
+    "not anime, not generic AI art."
 )
 
 RULES = (
@@ -60,6 +64,11 @@ CHARACTERS = {
         "fade haircut, full short beard, neck tattoos, tattoo sleeves on both arms, muscular build, dark wristwatch on "
         "the left wrist. Default outfit: fitted plain black t-shirt or black hoodie; sunglasses only where stated."
     ),
+    "KC": (
+        "CHILD CONOR (flashback only, around 8-10 years old): derived from the uploaded Conor sheet - same brows, deep-set "
+        "eyes, ears and hair colour in a child's soft rounded face; messy short dark-brown hair; plain t-shirt, shorts, "
+        "scuffed runners. No tattoos."
+    ),
     "FA": (
         "CONOR'S FATHER (fictional, consistent design - no reference exists): early fifties, stocky, weathered ruddy "
         "face, short grey-flecked dark hair receding at the temples, grey stubble, kind but serious eyes, deep crow's-feet. "
@@ -97,7 +106,8 @@ HEDGE = (
 FLEET = (
     "CC MARBELLA RENTALS FLEET: draw each vehicle ONLY from the uploaded approved fleet images (BMW X5 M Competition, "
     "McLaren GT, Porsche Panamera GTS, BMW M2, Volkswagen Golf R). Keep their real body shapes and colours as in the "
-    "images; no visible badges or plates; do not invent other models."
+    "images; no visible badges or plates; do not invent other models. If no fleet images are attached, draw the cars "
+    "only as soft-focus, unbadged, generic modern performance-car shapes in the background."
 )
 
 # ---------------------------------------------------------------------------
@@ -156,25 +166,27 @@ CHAPTERS = [
 # SHOTS
 # ---------------------------------------------------------------------------
 
-def S(ch, vo, chars, comp, loc, act, anim, cam, sfx, note="", mus="", tag="", hold=0.0, dur=None):
+def S(ch, vo, chars, comp, loc, act, anim, cam, sfx, note="", mus="", tag="", hold=0.0, dur=None, frame=""):
     return dict(ch=ch, vo=vo, chars=chars, comp=comp, loc=loc, act=act, anim=anim, cam=cam, sfx=sfx,
-                note=note, mus=mus, tag=tag, hold=hold, dur=dur)
+                note=note, mus=mus, tag=tag, hold=hold, dur=dur, frame=frame)
 
 SHOTS = [
 # ================= CH00 COLD OPEN =================
 S("CH00", "People see the cars, the events, the villas in Marbella.",
   ["AC"], "Medium-wide, low angle: adult Conor walks toward camera along a row of gleaming rental cars, white villa and sea behind.",
   "Marbella seafront, golden hour, 2026",
-  "Conor walks with calm confidence, key fob in his right hand, sunglasses pushed up on his head.",
+  "Conor walks with calm confidence, key fob in his left hand (watch wrist), sunglasses pushed up on his head.",
   "Walk cycle toward camera; sunlight glints travel across bodywork; palm fronds sway; heat shimmer.",
   "Slow backward dolly matching his walk.", "Footsteps on paving, distant sea, soft city hum.",
-  note="Cars in this shot drawn from the approved fleet images."),
+  note="Cars in this shot drawn from the approved fleet images.",
+  frame="9:16 vertical, 28mm lens, camera at hip height looking slightly up. Conor full-figure in the centre column, head in the upper third, feet near the bottom edge; the row of cars recedes diagonally from lower-left to mid-right; white villa and a thin band of sea across the top quarter; low sun behind him camera-right giving a warm rim light on his shoulders and hair. Cars kept slightly soft so his face stays the focal point."),
 S("CH00", "What they don't see is a tyre shop in Ireland, a ferry to Holyhead, and a lot of very expensive mistakes.",
   ["AC"], "Extreme close-up: Conor's tattooed hand turning a modern key fob between his fingers, watch visible, warm bokeh behind.",
   "Marbella, golden hour, 2026",
   "His thumb rubs the key fob thoughtfully; the sunset reflects on it.",
   "Fingers rotate the fob; tendons move under tattooed skin; bokeh lights drift.",
-  "Locked off, very slight handheld float.", "Faint key jingle; music thins out.", tag="key_fob"),
+  "Locked off, very slight handheld float.", "Faint key jingle; music thins out.", tag="key_fob",
+  frame="9:16 vertical, 85mm macro look, shallow depth of field. His LEFT hand (the watch hand) fills the middle third, fingers turning a black modern key fob held between thumb and index finger, palm facing camera-left; wrist, watch and sleeve tattoos visible at the lower third; deep orange sunset bokeh in the top half. MATCH-CUT ANCHOR: the key sits exactly at the vertical centre, slightly left of centre."),
 S("CH00", "My name is Conor Callaghan. And this is how it started.",
   ["YC"], "Extreme close-up MATCH CUT: a young hand holding a worn early-2000s Honda key with a scratched black plastic head, grey light, rain on a window behind; sleeve cuff covers the wrist.",
   "Ireland, 2017, overcast",
@@ -182,7 +194,8 @@ S("CH00", "My name is Conor Callaghan. And this is how it started.",
   "Hand closes; raindrops run down the glass; a breath of cold air fogs the window briefly.",
   "Locked off; framing matches {key_fob} exactly for the match cut.", "Sun ambience cuts to Irish rain and wind; one piano note.",
   note="Main title card 'THE IRISH GRAFT - PART 1' added in edit over this shot, never inside the illustration.",
-  tag="old_key", hold=1.0),
+  tag="old_key", hold=1.0,
+  frame="COLOUR OVERRIDE: this panel alone uses the cold, desaturated grey-blue Irish 2017 grade, a hard contrast with the warm panels before it. 9:16 vertical, same 85mm macro framing as the previous panel - the old key sits at EXACTLY the same position and angle as the modern fob (vertical centre, slightly left). A younger, slimmer LEFT hand with no visible tattoos and no watch, dark-grey work-top cuff over the wrist; cold blue-grey daylight; rain-streaked window soft in the top half where the sunset bokeh was."),
 
 # ================= CH01 GLOBAL TYRES 2017 =================
 S("CH01", "2017. I got a job at Global Tyres, and I loved it. Cars, tools, getting my hands dirty - I couldn't get enough.",
@@ -240,11 +253,12 @@ S("CH01", "And then I got her. A Honda Civic. 1.4 petrol. She was mine.",
   "Slow arc 15 degrees around the car's front.", "Key jingle, breeze, distant dog bark.",
   note="Matches the Preview 02 prompt in previews/.", tag="civic_reveal", hold=0.5),
 S("CH01", "",
-  ["YC", "FA"], "Medium shot from the passenger side: young Conor in the Civic driver's seat, both hands on the wheel, grinning; through the windscreen the father stands on the driveway, arms folded, a small proud smile.",
+  ["YC", "FA"], "Medium shot from the passenger side: young Conor in the Civic driver's seat, both hands on the wheel, grinning; through the windscreen the father stands on the driveway, arms folded, watching.",
   "Inside the Civic on the driveway, 2017",
-  "Conor turns the key; the father uncrosses one arm and gives a thumbs-up.",
-  "Key turns; dashboard lights come on; body vibrates slightly as the engine fires; father's thumbs-up.",
+  "Conor turns the key; the father watches from the driveway (optional small thumbs-up).",
+  "Key turns; dashboard lights come on; body vibrates slightly as the engine fires; father watches.",
   "Locked off.", "Starter motor, 1.4 engine catching and idling.",
+  note="Father's thumbs-up is OPTIONAL visual storytelling, not a verified historical moment; drop it if Conor prefers.",
   mus="Theme swells briefly on the engine start.", dur=5),
 S("CH01", "First modification? LED headlight bulbs. Ordered online, delivered to the door. How hard could it be?",
   ["YC"], "Medium shot: young Conor on the driveway tearing open a small parcel, holding up an LED headlight bulb with a finned heatsink next to the Civic's headlight, eyebrows raised confidently; cheap toolbox at his feet.",
@@ -563,7 +577,7 @@ S("CH06", "That's when Arlind from DigitGrow worked with me to build the first C
   "Conor points at the screen; on the call, Arlind nods and gestures.",
   "Conor's hand gestures; layout blocks rearrange; Arlind nods on screen.",
   "Locked off.", "Call audio murmur, keyboard clicks.",
-  note="CONFIRM: year Conor and Arlind first began collaborating (the website is a separate milestone). CONFIRM: they worked remotely (video call shown).",
+  note="The COVID website is a separate milestone from the earlier start of the collaboration; the start year is NOT stated anywhere in the film. CONFIRM: start year (for records only). CONFIRM: they worked remotely (video call shown).",
   tag="website", mus="Lo-fi pulse begins."),
 S("CH06", "We built it piece by piece. The pages, the product categories, how people would find things and pay for them.",
   ["AR"], "Medium shot: Arlind at his own desk, clearly visible, working on a website layout on a large monitor, wireframe blocks and product grid shapes on screen (no legible text).",
@@ -673,17 +687,18 @@ S("CH08", "In November 2021, my father let me build a garage on the land beside 
   "Father gestures; grass ripples; clouds move; breath vapour.",
   "Slow push-in from wide.", "Wind, crows."),
 S("CH08", "That bit of ground meant something. It's where I'd played as a kid.",
-  ["C2"], "Medium shot: Conor looking across the grass; a faint ghosted memory of a small boy kicking a ball painted translucently into the scene.",
-  "Family land, November 2021",
-  "He smiles at the memory.",
-  "Ghosted child runs and fades; grass sways.",
-  "Slow push-in.", "Distant echo of a child's laugh.",
-  note="Ghosted child is a generic small boy, not a new character design.", tag="playground", hold=1.0),
+  ["KC"], "Flashback, medium-wide: child Conor kicking a football across the same grassy patch beside the family house, the father's hedge in the background; warm, slightly faded late-1990s/2000s summer light. Framing locked for a match cut.",
+  "Family land, Conor's childhood (year not specified)",
+  "He boots the ball and runs after it.",
+  "Ball flies; child runs through frame; grass and hedge move in the breeze.",
+  "Locked off - exact framing reused for the next shot.", "A child's laugh, ball thud, birdsong.",
+  note="Real memory shown as a flashback (no ghost/double-exposure effect). Child design derived from the Conor sheet.",
+  tag="playground", hold=1.0),
 S("CH08", "And now it was going to be where I built the business.",
-  ["C2", "EX"], "Medium-wide match dissolve from {playground}: the same patch of ground, now marked out with string lines and a fresh concrete slab being poured by anonymous builders; Conor watching at the edge.",
+  ["C2", "EX"], "MATCH CUT from {playground}, identical framing: the same patch of ground and hedge, now in grey November light, marked out with string lines and a fresh concrete slab being poured by anonymous builders; Conor standing where the child ran.",
   "Family land, late 2021",
-  "The concrete spreads across the spot where the ghosted child played.",
-  "Ghosted child fades as concrete flows in; builders rake; Conor's slow nod.",
+  "Concrete flows across the spot where the child played; Conor watches.",
+  "Concrete flows; builders rake; Conor's slow nod; same hedge moves in the wind.",
   "Locked off, framing matches {playground}.", "Concrete mixer, raking, wind.",
   mus="Theme phrase on piano."),
 S("CH08", "Building it was a serious investment, and every bit of it was a risk.",
@@ -951,20 +966,21 @@ S("CH12", "Nine years of building things together. Websites, messages, calls. An
   "Locked off.", "Near silence, faint waves.",
   note="CONFIRM: exact year the collaboration began (nine years is stated by the story). No conversation scripted."),
 S("CH12", "",
-  ["AC", "AR"], "Close-up: Conor's tattooed hand and Arlind's hand meeting in a firm handshake, both faces visible above, festoon bokeh - THE MUSICAL PAUSE.",
-  "Mansion terrace, night",
-  "The handshake grips and holds.",
-  "Hands meet and squeeze; bokeh twinkles.",
-  "Slow rack focus from hands to faces.", "Silence, then a single piano note.",
+  ["AC", "AR"], "Medium close-up two-shot, faces only: Conor and Arlind finally face to face, both faces clear and matching their reference sheets, warm festoon light - THE MUSICAL PAUSE. No specific greeting gesture is drawn.",
+  "Mansion terrace, night, 22 May 2026",
+  "They take each other in, both smiling.",
+  "Breath, blink and smile only; festoon bokeh twinkles; breeze in their hair.",
+  "Locked off, very slow push.", "Silence, then a single piano note.",
+  note="Greeting gesture deliberately not shown (not verified). If real photos/video of the moment exist, match the real gesture later.",
   mus="Musical pause: 3s of near-silence, then one piano note.", dur=6),
 S("CH12", "",
-  ["AC", "AR", "EX"], "Medium two-shot: the handshake turns into a back-slapping hug; team members around them cheering.",
+  ["AC", "AR", "EX"], "Wide shot: the terrace with team members in soft focus around Conor and Arlind, who stand together in the centre, both clearly visible.",
   "Mansion terrace, night",
-  "They hug and laugh; others cheer.",
-  "Hug; back slaps; cheering arms; lights sway.",
-  "Slow arc around them.", "Cheers, laughter.",
+  "Team members gather around them, smiling.",
+  "People drift closer; lights sway; pool reflections shimmer.",
+  "Slow arc around them.", "Voices return, warm laughter.",
   mus="Theme returns and swells.", dur=6),
-S("CH12", "There's no speech for a moment like that. You just shake the man's hand.",
+S("CH12", "There's no script for a moment like that. After all those years, we were finally in the same place.",
   ["AC", "AR"], "Medium close-up: Conor and Arlind side by side at the terrace railing afterwards, both looking out at the night sea, shoulders nearly touching.",
   "Mansion terrace, night",
   "They stand in comfortable silence.",
@@ -1032,7 +1048,7 @@ S("CH13", "Because the cars were never really the point. The graft was.",
   "He lowers his sunglasses slightly and half-smiles.",
   "Sunglasses slide down; half smile; sun flare.",
   "Slow push-in.", "Music settles.",
-  note="Proposed narration pending Conor's approval.", hold=1.0),
+  note="PROPOSED CLOSING LINE - FOR CONOR'S FINAL APPROVAL.", hold=1.0),
 # ================= CH14 DUBAI - PART 2 TEASER =================
 S("CH14", "Ireland was where it started. Marbella was where it grew.",
   ["AC"], "Medium shot: Conor in a plane window seat looking out at a vast desert at dusk, the window glow on his face.",

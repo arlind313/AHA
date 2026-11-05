@@ -1,12 +1,12 @@
 Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (The Marbella Mansion, Marbella, 22 May 2026; Puerto Banus, 19 September 2026).
 
-STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
+STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Art direction: confident hand-inked brush-and-nib linework, bold spot blacks, fine cross-hatching in the shadows, restrained limited palette per panel, film-camera lens choices and depth of field, imperfect human line variation like a top-tier printed graphic novel. Avoid: airbrushed gloss, plastic skin, over-smooth gradients, symmetrical stock-photo faces, HDR glow, fantasy lighting. Not photorealistic, not 3D render, not anime, not generic AI art.
 
 LAYOUT: portrait 2:3 page (1024x1536). Four equal panels in a 2x2 grid, read left-to-right then top-to-bottom. Keep each panel's key action inside a central vertical 9:16 safe area. Thin black panel borders, slim white gutters, white page margin.
 
 COLOUR GRADE: Dusk to night: lilac sky, warm festoon lights, pool reflections; Puerto Banus coda in bright Mediterranean day.
 
-REFERENCE IMAGES ATTACHED: references/conor-character-sheet.png. These comic sheets are the ONLY identity references. Do not redesign anyone.
+REFERENCE IMAGES ATTACHED (in upload order): Image 1 - Conor comic character sheet. The comic character sheets are the ONLY identity references. Do not redesign anyone.
 
 CHARACTERS ON THIS PAGE (keep identical in every panel):
 - BACKGROUND EXTRAS: ordinary anonymous people (customers, coworkers, team members, crowds), realistic varied ages, simple clothing, never more detailed than the main characters, faces never close to camera, never named.

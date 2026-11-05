@@ -1,4 +1,4 @@
-# THE IRISH GRAFT - PART 1  (v0.3)
+# THE IRISH GRAFT - PART 1  (v0.4)
 ## 03 - Comic Storyboard Pages (ChatGPT image prompts)
 
 How to generate each page in ChatGPT:
@@ -9,6 +9,8 @@ How to generate each page in ChatGPT:
 
 Pages are planning assets, not final frames. Final 9:16 frames are prepared in 04_animation_prep.md after approval.
 
+**Generation order:** only Page 01 is cleared for generation (see `05_page_tests/PAGE_01_PACKAGE.md`). Each later page is released one at a time after the previous page is approved.
+
 ---
 ### PAGE 01 - S001-S003 - 3 panels - Cold Open
 File: `03_comic_pages/PAGE_01.txt`  
@@ -17,22 +19,22 @@ Upload: references/conor-character-sheet.png, references/fleet/ (approved CC Mar
 ```
 Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (Cold Open, Marbella, 2026).
 
-STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
+STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Art direction: confident hand-inked brush-and-nib linework, bold spot blacks, fine cross-hatching in the shadows, restrained limited palette per panel, film-camera lens choices and depth of field, imperfect human line variation like a top-tier printed graphic novel. Avoid: airbrushed gloss, plastic skin, over-smooth gradients, symmetrical stock-photo faces, HDR glow, fantasy lighting. Not photorealistic, not 3D render, not anime, not generic AI art.
 
 LAYOUT: landscape 3:2 page (1536x1024). Three equal tall vertical panels side by side, read left to right, each framed as a 9:16 vertical film shot. Thin black panel borders, slim white gutters, white page margin.
 
 COLOUR GRADE: Warm late-golden-hour Spanish light, clean blues, gentle bloom, deep ink shadows.
 
-REFERENCE IMAGES ATTACHED: references/conor-character-sheet.png, references/fleet/ (approved CC Marbella Rentals vehicle images). These comic sheets are the ONLY identity references. Do not redesign anyone.
+REFERENCE IMAGES ATTACHED (in upload order): Image 1 - Conor comic character sheet; Image 2 - approved CC Marbella Rentals fleet vehicle images (if attached). The comic character sheets are the ONLY identity references. Do not redesign anyone.
 
 CHARACTERS ON THIS PAGE (keep identical in every panel):
 - ADULT CONOR (Marbella and Dubai, 2024-2026): exactly the man on the uploaded Conor character sheet - same face, fade haircut, full short beard, neck tattoos, tattoo sleeves on both arms, muscular build, dark wristwatch on the left wrist. Default outfit: fitted plain black t-shirt or black hoodie; sunglasses only where stated.
 - YOUNG CONOR (2017-2019, late teens): derived from the uploaded adult Conor sheet and clearly the same person, de-aged. Same strong straight brows, deep-set eyes, straight nose, defined jaw and chin, slightly prominent ears; softer fuller cheeks, smooth young skin, at most faint fuzz on the upper lip - NO beard. Short dark-brown hair, short faded sides, textured top pushed up and forward (same silhouette as the sheet, less groomed). Lean wiry build. No extensive modern tattoos: Tattoo timeline is UNCONFIRMED: keep both arms, backs of the hands and neck covered (long sleeves, hoodie or high crew neck) so the image neither shows nor denies tattoos. Default outfit: faded navy work trousers, plain dark-grey long-sleeve work top, scuffed black safety boots.
-- CC MARBELLA RENTALS FLEET: draw each vehicle ONLY from the uploaded approved fleet images (BMW X5 M Competition, McLaren GT, Porsche Panamera GTS, BMW M2, Volkswagen Golf R). Keep their real body shapes and colours as in the images; no visible badges or plates; do not invent other models.
+- CC MARBELLA RENTALS FLEET: draw each vehicle ONLY from the uploaded approved fleet images (BMW X5 M Competition, McLaren GT, Porsche Panamera GTS, BMW M2, Volkswagen Golf R). Keep their real body shapes and colours as in the images; no visible badges or plates; do not invent other models. If no fleet images are attached, draw the cars only as soft-focus, unbadged, generic modern performance-car shapes in the background.
 
-PANEL 1 (LEFT): Medium-wide, low angle: adult Conor walks toward camera along a row of gleaming rental cars, white villa and sea behind. Key moment: Conor walks with calm confidence, key fob in his right hand, sunglasses pushed up on his head. Setting: Marbella seafront, golden hour, 2026.
-PANEL 2 (CENTRE): Extreme close-up: Conor's tattooed hand turning a modern key fob between his fingers, watch visible, warm bokeh behind. Key moment: His thumb rubs the key fob thoughtfully; the sunset reflects on it. Setting: Marbella, golden hour, 2026.
-PANEL 3 (RIGHT): Extreme close-up MATCH CUT: a young hand holding a worn early-2000s Honda key with a scratched black plastic head, grey light, rain on a window behind; sleeve cuff covers the wrist. Key moment: The young hand closes around the old key. Setting: Ireland, 2017, overcast.
+PANEL 1 (LEFT): Medium-wide, low angle: adult Conor walks toward camera along a row of gleaming rental cars, white villa and sea behind. Key moment: Conor walks with calm confidence, key fob in his left hand (watch wrist), sunglasses pushed up on his head. Setting: Marbella seafront, golden hour, 2026. COMPOSITION: 9:16 vertical, 28mm lens, camera at hip height looking slightly up. Conor full-figure in the centre column, head in the upper third, feet near the bottom edge; the row of cars recedes diagonally from lower-left to mid-right; white villa and a thin band of sea across the top quarter; low sun behind him camera-right giving a warm rim light on his shoulders and hair. Cars kept slightly soft so his face stays the focal point.
+PANEL 2 (CENTRE): Extreme close-up: Conor's tattooed hand turning a modern key fob between his fingers, watch visible, warm bokeh behind. Key moment: His thumb rubs the key fob thoughtfully; the sunset reflects on it. Setting: Marbella, golden hour, 2026. COMPOSITION: 9:16 vertical, 85mm macro look, shallow depth of field. His LEFT hand (the watch hand) fills the middle third, fingers turning a black modern key fob held between thumb and index finger, palm facing camera-left; wrist, watch and sleeve tattoos visible at the lower third; deep orange sunset bokeh in the top half. MATCH-CUT ANCHOR: the key sits exactly at the vertical centre, slightly left of centre.
+PANEL 3 (RIGHT): Extreme close-up MATCH CUT: a young hand holding a worn early-2000s Honda key with a scratched black plastic head, grey light, rain on a window behind; sleeve cuff covers the wrist. Key moment: The young hand closes around the old key. Setting: Ireland, 2017, overcast. COMPOSITION: COLOUR OVERRIDE: this panel alone uses the cold, desaturated grey-blue Irish 2017 grade, a hard contrast with the warm panels before it. 9:16 vertical, same 85mm macro framing as the previous panel - the old key sits at EXACTLY the same position and angle as the modern fob (vertical centre, slightly left). A younger, slimmer LEFT hand with no visible tattoos and no watch, dark-grey work-top cuff over the wrist; cold blue-grey daylight; rain-streaked window soft in the top half where the sunset bokeh was.
 
 STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effect lettering, no panel numbers, no logos, no brand badges, no legible number plates or signs, no watermarks, no signature. Faces must stay identical across every panel and match the uploaded reference sheets. Correct hands with five fingers, natural anatomy. Period-correct vehicles and technology for the year stated. No palm trees or sunshine in Irish or English scenes. Do not add any named person who is not listed; extras stay anonymous background figures.
 ```
@@ -45,13 +47,13 @@ Upload: references/conor-character-sheet.png
 ```
 Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (Global Tyres, Ireland, 2017).
 
-STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
+STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Art direction: confident hand-inked brush-and-nib linework, bold spot blacks, fine cross-hatching in the shadows, restrained limited palette per panel, film-camera lens choices and depth of field, imperfect human line variation like a top-tier printed graphic novel. Avoid: airbrushed gloss, plastic skin, over-smooth gradients, symmetrical stock-photo faces, HDR glow, fantasy lighting. Not photorealistic, not 3D render, not anime, not generic AI art.
 
 LAYOUT: portrait 2:3 page (1024x1536). Four equal panels in a 2x2 grid, read left-to-right then top-to-bottom. Keep each panel's key action inside a central vertical 9:16 safe area. Thin black panel borders, slim white gutters, white page margin.
 
 COLOUR GRADE: Cool, slightly desaturated Irish daylight: grey-blue skies, muted greens, slate greys, warm tungsten only from interior practicals.
 
-REFERENCE IMAGES ATTACHED: references/conor-character-sheet.png. These comic sheets are the ONLY identity references. Do not redesign anyone.
+REFERENCE IMAGES ATTACHED (in upload order): Image 1 - Conor comic character sheet. The comic character sheets are the ONLY identity references. Do not redesign anyone.
 
 CHARACTERS ON THIS PAGE (keep identical in every panel):
 - YOUNG CONOR (2017-2019, late teens): derived from the uploaded adult Conor sheet and clearly the same person, de-aged. Same strong straight brows, deep-set eyes, straight nose, defined jaw and chin, slightly prominent ears; softer fuller cheeks, smooth young skin, at most faint fuzz on the upper lip - NO beard. Short dark-brown hair, short faded sides, textured top pushed up and forward (same silhouette as the sheet, less groomed). Lean wiry build. No extensive modern tattoos: Tattoo timeline is UNCONFIRMED: keep both arms, backs of the hands and neck covered (long sleeves, hoodie or high crew neck) so the image neither shows nor denies tattoos. Default outfit: faded navy work trousers, plain dark-grey long-sleeve work top, scuffed black safety boots.
@@ -75,13 +77,13 @@ Upload: references/conor-character-sheet.png
 ```
 Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (Global Tyres, Ireland, 2017).
 
-STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
+STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Art direction: confident hand-inked brush-and-nib linework, bold spot blacks, fine cross-hatching in the shadows, restrained limited palette per panel, film-camera lens choices and depth of field, imperfect human line variation like a top-tier printed graphic novel. Avoid: airbrushed gloss, plastic skin, over-smooth gradients, symmetrical stock-photo faces, HDR glow, fantasy lighting. Not photorealistic, not 3D render, not anime, not generic AI art.
 
 LAYOUT: portrait 2:3 page (1024x1536). Four equal panels in a 2x2 grid, read left-to-right then top-to-bottom. Keep each panel's key action inside a central vertical 9:16 safe area. Thin black panel borders, slim white gutters, white page margin.
 
 COLOUR GRADE: Cool, slightly desaturated Irish daylight: grey-blue skies, muted greens, slate greys, warm tungsten only from interior practicals.
 
-REFERENCE IMAGES ATTACHED: references/conor-character-sheet.png. These comic sheets are the ONLY identity references. Do not redesign anyone.
+REFERENCE IMAGES ATTACHED (in upload order): Image 1 - Conor comic character sheet. The comic character sheets are the ONLY identity references. Do not redesign anyone.
 
 CHARACTERS ON THIS PAGE (keep identical in every panel):
 - YOUNG CONOR (2017-2019, late teens): derived from the uploaded adult Conor sheet and clearly the same person, de-aged. Same strong straight brows, deep-set eyes, straight nose, defined jaw and chin, slightly prominent ears; softer fuller cheeks, smooth young skin, at most faint fuzz on the upper lip - NO beard. Short dark-brown hair, short faded sides, textured top pushed up and forward (same silhouette as the sheet, less groomed). Lean wiry build. No extensive modern tattoos: Tattoo timeline is UNCONFIRMED: keep both arms, backs of the hands and neck covered (long sleeves, hoodie or high crew neck) so the image neither shows nor denies tattoos. Default outfit: faded navy work trousers, plain dark-grey long-sleeve work top, scuffed black safety boots.
@@ -105,20 +107,20 @@ Upload: references/conor-character-sheet.png
 ```
 Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (Global Tyres, Ireland, 2017).
 
-STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
+STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Art direction: confident hand-inked brush-and-nib linework, bold spot blacks, fine cross-hatching in the shadows, restrained limited palette per panel, film-camera lens choices and depth of field, imperfect human line variation like a top-tier printed graphic novel. Avoid: airbrushed gloss, plastic skin, over-smooth gradients, symmetrical stock-photo faces, HDR glow, fantasy lighting. Not photorealistic, not 3D render, not anime, not generic AI art.
 
 LAYOUT: landscape 3:2 page (1536x1024). Three equal tall vertical panels side by side, read left to right, each framed as a 9:16 vertical film shot. Thin black panel borders, slim white gutters, white page margin.
 
 COLOUR GRADE: Cool, slightly desaturated Irish daylight: grey-blue skies, muted greens, slate greys, warm tungsten only from interior practicals.
 
-REFERENCE IMAGES ATTACHED: references/conor-character-sheet.png. These comic sheets are the ONLY identity references. Do not redesign anyone.
+REFERENCE IMAGES ATTACHED (in upload order): Image 1 - Conor comic character sheet. The comic character sheets are the ONLY identity references. Do not redesign anyone.
 
 CHARACTERS ON THIS PAGE (keep identical in every panel):
 - YOUNG CONOR (2017-2019, late teens): derived from the uploaded adult Conor sheet and clearly the same person, de-aged. Same strong straight brows, deep-set eyes, straight nose, defined jaw and chin, slightly prominent ears; softer fuller cheeks, smooth young skin, at most faint fuzz on the upper lip - NO beard. Short dark-brown hair, short faded sides, textured top pushed up and forward (same silhouette as the sheet, less groomed). Lean wiry build. No extensive modern tattoos: Tattoo timeline is UNCONFIRMED: keep both arms, backs of the hands and neck covered (long sleeves, hoodie or high crew neck) so the image neither shows nor denies tattoos. Default outfit: faded navy work trousers, plain dark-grey long-sleeve work top, scuffed black safety boots.
 - CONOR'S FATHER (fictional, consistent design - no reference exists): early fifties, stocky, weathered ruddy face, short grey-flecked dark hair receding at the temples, grey stubble, kind but serious eyes, deep crow's-feet. Always wears a navy quilted gilet over a faded blue-grey check shirt, work jeans, brown work boots.
 - CONOR'S FIRST CAR: early-2000s Honda Civic 1.4 petrol 3-door hatchback of that generation - tall one-box bullet profile, short sloping bonnet flowing into a steeply raked windscreen, large swept-back headlights, small grille, three doors, tall rear hatch with vertical tail lights, plain bumpers, standard wheels with plain silver covers, factory ride height. Colour: satin silver (production choice). NOT a Type R, NOT a newer Civic, no body kit, no spoiler, no badges, blank plates.
 
-PANEL 1 (LEFT): Medium shot from the passenger side: young Conor in the Civic driver's seat, both hands on the wheel, grinning; through the windscreen the father stands on the driveway, arms folded, a small proud smile. Key moment: Conor turns the key; the father uncrosses one arm and gives a thumbs-up. Setting: Inside the Civic on the driveway, 2017.
+PANEL 1 (LEFT): Medium shot from the passenger side: young Conor in the Civic driver's seat, both hands on the wheel, grinning; through the windscreen the father stands on the driveway, arms folded, watching. Key moment: Conor turns the key; the father watches from the driveway (optional small thumbs-up). Setting: Inside the Civic on the driveway, 2017.
 PANEL 2 (CENTRE): Medium shot: young Conor on the driveway tearing open a small parcel, holding up an LED headlight bulb with a finned heatsink next to the Civic's headlight, eyebrows raised confidently; cheap toolbox at his feet. Key moment: He tears open the parcel and holds the bulb up to the light. Setting: Family driveway, afternoon, overcast, 2017.
 PANEL 3 (RIGHT): Medium shot from the front of the Civic: bonnet open, young Conor in the driver's seat seen through the windscreen flicking the light stalk; one headlight completely dark. Key moment: He flicks the stalk on, off, on again; the headlight stays dead. Setting: Family driveway, dusk, 2017.
 
@@ -133,13 +135,13 @@ Upload: references/conor-character-sheet.png
 ```
 Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (Global Tyres, Ireland, 2017).
 
-STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
+STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Art direction: confident hand-inked brush-and-nib linework, bold spot blacks, fine cross-hatching in the shadows, restrained limited palette per panel, film-camera lens choices and depth of field, imperfect human line variation like a top-tier printed graphic novel. Avoid: airbrushed gloss, plastic skin, over-smooth gradients, symmetrical stock-photo faces, HDR glow, fantasy lighting. Not photorealistic, not 3D render, not anime, not generic AI art.
 
 LAYOUT: landscape 3:2 page (1536x1024). Three equal tall vertical panels side by side, read left to right, each framed as a 9:16 vertical film shot. Thin black panel borders, slim white gutters, white page margin.
 
 COLOUR GRADE: Cool, slightly desaturated Irish daylight: grey-blue skies, muted greens, slate greys, warm tungsten only from interior practicals.
 
-REFERENCE IMAGES ATTACHED: references/conor-character-sheet.png. These comic sheets are the ONLY identity references. Do not redesign anyone.
+REFERENCE IMAGES ATTACHED (in upload order): Image 1 - Conor comic character sheet. The comic character sheets are the ONLY identity references. Do not redesign anyone.
 
 CHARACTERS ON THIS PAGE (keep identical in every panel):
 - YOUNG CONOR (2017-2019, late teens): derived from the uploaded adult Conor sheet and clearly the same person, de-aged. Same strong straight brows, deep-set eyes, straight nose, defined jaw and chin, slightly prominent ears; softer fuller cheeks, smooth young skin, at most faint fuzz on the upper lip - NO beard. Short dark-brown hair, short faded sides, textured top pushed up and forward (same silhouette as the sheet, less groomed). Lean wiry build. No extensive modern tattoos: Tattoo timeline is UNCONFIRMED: keep both arms, backs of the hands and neck covered (long sleeves, hoodie or high crew neck) so the image neither shows nor denies tattoos. Default outfit: faded navy work trousers, plain dark-grey long-sleeve work top, scuffed black safety boots.
@@ -160,13 +162,13 @@ Upload: references/conor-character-sheet.png
 ```
 Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (The England Gamble, Ireland, Irish Sea & Holyhead, 2018).
 
-STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
+STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Art direction: confident hand-inked brush-and-nib linework, bold spot blacks, fine cross-hatching in the shadows, restrained limited palette per panel, film-camera lens choices and depth of field, imperfect human line variation like a top-tier printed graphic novel. Avoid: airbrushed gloss, plastic skin, over-smooth gradients, symmetrical stock-photo faces, HDR glow, fantasy lighting. Not photorealistic, not 3D render, not anime, not generic AI art.
 
 LAYOUT: portrait 2:3 page (1024x1536). Four equal panels in a 2x2 grid, read left-to-right then top-to-bottom. Keep each panel's key action inside a central vertical 9:16 safe area. Thin black panel borders, slim white gutters, white page margin.
 
 COLOUR GRADE: Colder and wetter than CH01: steel blues, sodium-orange port lights, heavy grey sea; warm kitchen light on the return home.
 
-REFERENCE IMAGES ATTACHED: references/conor-character-sheet.png. These comic sheets are the ONLY identity references. Do not redesign anyone.
+REFERENCE IMAGES ATTACHED (in upload order): Image 1 - Conor comic character sheet. The comic character sheets are the ONLY identity references. Do not redesign anyone.
 
 CHARACTERS ON THIS PAGE (keep identical in every panel):
 - YOUNG CONOR (2017-2019, late teens): derived from the uploaded adult Conor sheet and clearly the same person, de-aged. Same strong straight brows, deep-set eyes, straight nose, defined jaw and chin, slightly prominent ears; softer fuller cheeks, smooth young skin, at most faint fuzz on the upper lip - NO beard. Short dark-brown hair, short faded sides, textured top pushed up and forward (same silhouette as the sheet, less groomed). Lean wiry build. No extensive modern tattoos: Tattoo timeline is UNCONFIRMED: keep both arms, backs of the hands and neck covered (long sleeves, hoodie or high crew neck) so the image neither shows nor denies tattoos. Default outfit: faded navy work trousers, plain dark-grey long-sleeve work top, scuffed black safety boots.
@@ -188,13 +190,13 @@ Upload: references/conor-character-sheet.png
 ```
 Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (The England Gamble, Ireland, Irish Sea & Holyhead, 2018).
 
-STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
+STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Art direction: confident hand-inked brush-and-nib linework, bold spot blacks, fine cross-hatching in the shadows, restrained limited palette per panel, film-camera lens choices and depth of field, imperfect human line variation like a top-tier printed graphic novel. Avoid: airbrushed gloss, plastic skin, over-smooth gradients, symmetrical stock-photo faces, HDR glow, fantasy lighting. Not photorealistic, not 3D render, not anime, not generic AI art.
 
 LAYOUT: landscape 3:2 page (1536x1024). Three equal tall vertical panels side by side, read left to right, each framed as a 9:16 vertical film shot. Thin black panel borders, slim white gutters, white page margin.
 
 COLOUR GRADE: Colder and wetter than CH01: steel blues, sodium-orange port lights, heavy grey sea; warm kitchen light on the return home.
 
-REFERENCE IMAGES ATTACHED: references/conor-character-sheet.png. These comic sheets are the ONLY identity references. Do not redesign anyone.
+REFERENCE IMAGES ATTACHED (in upload order): Image 1 - Conor comic character sheet. The comic character sheets are the ONLY identity references. Do not redesign anyone.
 
 CHARACTERS ON THIS PAGE (keep identical in every panel):
 - YOUNG CONOR (2017-2019, late teens): derived from the uploaded adult Conor sheet and clearly the same person, de-aged. Same strong straight brows, deep-set eyes, straight nose, defined jaw and chin, slightly prominent ears; softer fuller cheeks, smooth young skin, at most faint fuzz on the upper lip - NO beard. Short dark-brown hair, short faded sides, textured top pushed up and forward (same silhouette as the sheet, less groomed). Lean wiry build. No extensive modern tattoos: Tattoo timeline is UNCONFIRMED: keep both arms, backs of the hands and neck covered (long sleeves, hoodie or high crew neck) so the image neither shows nor denies tattoos. Default outfit: faded navy work trousers, plain dark-grey long-sleeve work top, scuffed black safety boots.
@@ -215,13 +217,13 @@ Upload: references/conor-character-sheet.png, references/mother-character-sheet.
 ```
 Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (The England Gamble, Ireland, Irish Sea & Holyhead, 2018).
 
-STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
+STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Art direction: confident hand-inked brush-and-nib linework, bold spot blacks, fine cross-hatching in the shadows, restrained limited palette per panel, film-camera lens choices and depth of field, imperfect human line variation like a top-tier printed graphic novel. Avoid: airbrushed gloss, plastic skin, over-smooth gradients, symmetrical stock-photo faces, HDR glow, fantasy lighting. Not photorealistic, not 3D render, not anime, not generic AI art.
 
 LAYOUT: landscape 3:2 page (1536x1024). Three equal tall vertical panels side by side, read left to right, each framed as a 9:16 vertical film shot. Thin black panel borders, slim white gutters, white page margin.
 
 COLOUR GRADE: Colder and wetter than CH01: steel blues, sodium-orange port lights, heavy grey sea; warm kitchen light on the return home.
 
-REFERENCE IMAGES ATTACHED: references/conor-character-sheet.png, references/mother-character-sheet.png. These comic sheets are the ONLY identity references. Do not redesign anyone.
+REFERENCE IMAGES ATTACHED (in upload order): Image 1 - Conor comic character sheet; Image 2 - Conor's mother comic character sheet. The comic character sheets are the ONLY identity references. Do not redesign anyone.
 
 CHARACTERS ON THIS PAGE (keep identical in every panel):
 - YOUNG CONOR (2017-2019, late teens): derived from the uploaded adult Conor sheet and clearly the same person, de-aged. Same strong straight brows, deep-set eyes, straight nose, defined jaw and chin, slightly prominent ears; softer fuller cheeks, smooth young skin, at most faint fuzz on the upper lip - NO beard. Short dark-brown hair, short faded sides, textured top pushed up and forward (same silhouette as the sheet, less groomed). Lean wiry build. No extensive modern tattoos: Tattoo timeline is UNCONFIRMED: keep both arms, backs of the hands and neck covered (long sleeves, hoodie or high crew neck) so the image neither shows nor denies tattoos. Default outfit: faded navy work trousers, plain dark-grey long-sleeve work top, scuffed black safety boots.
@@ -243,13 +245,13 @@ Upload: references/conor-character-sheet.png, references/mother-character-sheet.
 ```
 Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (The England Gamble, Ireland, Irish Sea & Holyhead, 2018).
 
-STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
+STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Art direction: confident hand-inked brush-and-nib linework, bold spot blacks, fine cross-hatching in the shadows, restrained limited palette per panel, film-camera lens choices and depth of field, imperfect human line variation like a top-tier printed graphic novel. Avoid: airbrushed gloss, plastic skin, over-smooth gradients, symmetrical stock-photo faces, HDR glow, fantasy lighting. Not photorealistic, not 3D render, not anime, not generic AI art.
 
 LAYOUT: landscape 3:2 page (1536x1024). Three equal tall vertical panels side by side, read left to right, each framed as a 9:16 vertical film shot. Thin black panel borders, slim white gutters, white page margin.
 
 COLOUR GRADE: Colder and wetter than CH01: steel blues, sodium-orange port lights, heavy grey sea; warm kitchen light on the return home.
 
-REFERENCE IMAGES ATTACHED: references/conor-character-sheet.png, references/mother-character-sheet.png. These comic sheets are the ONLY identity references. Do not redesign anyone.
+REFERENCE IMAGES ATTACHED (in upload order): Image 1 - Conor comic character sheet; Image 2 - Conor's mother comic character sheet. The comic character sheets are the ONLY identity references. Do not redesign anyone.
 
 CHARACTERS ON THIS PAGE (keep identical in every panel):
 - YOUNG CONOR (2017-2019, late teens): derived from the uploaded adult Conor sheet and clearly the same person, de-aged. Same strong straight brows, deep-set eyes, straight nose, defined jaw and chin, slightly prominent ears; softer fuller cheeks, smooth young skin, at most faint fuzz on the upper lip - NO beard. Short dark-brown hair, short faded sides, textured top pushed up and forward (same silhouette as the sheet, less groomed). Lean wiry build. No extensive modern tattoos: Tattoo timeline is UNCONFIRMED: keep both arms, backs of the hands and neck covered (long sleeves, hoodie or high crew neck) so the image neither shows nor denies tattoos. Default outfit: faded navy work trousers, plain dark-grey long-sleeve work top, scuffed black safety boots.
@@ -270,13 +272,13 @@ Upload: references/conor-character-sheet.png
 ```
 Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (CC Decals, Clontibret & the family home, Co. Monaghan, c. 2018-2019).
 
-STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
+STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Art direction: confident hand-inked brush-and-nib linework, bold spot blacks, fine cross-hatching in the shadows, restrained limited palette per panel, film-camera lens choices and depth of field, imperfect human line variation like a top-tier printed graphic novel. Avoid: airbrushed gloss, plastic skin, over-smooth gradients, symmetrical stock-photo faces, HDR glow, fantasy lighting. Not photorealistic, not 3D render, not anime, not generic AI art.
 
 LAYOUT: landscape 3:2 page (1536x1024). Three equal tall vertical panels side by side, read left to right, each framed as a 9:16 vertical film shot. Thin black panel borders, slim white gutters, white page margin.
 
 COLOUR GRADE: Irish grey daylight; warm workshop and bedroom lamp light; the hedge always a rich, slightly over-saturated green.
 
-REFERENCE IMAGES ATTACHED: references/conor-character-sheet.png. These comic sheets are the ONLY identity references. Do not redesign anyone.
+REFERENCE IMAGES ATTACHED (in upload order): Image 1 - Conor comic character sheet. The comic character sheets are the ONLY identity references. Do not redesign anyone.
 
 CHARACTERS ON THIS PAGE (keep identical in every panel):
 - YOUNG CONOR (2017-2019, late teens): derived from the uploaded adult Conor sheet and clearly the same person, de-aged. Same strong straight brows, deep-set eyes, straight nose, defined jaw and chin, slightly prominent ears; softer fuller cheeks, smooth young skin, at most faint fuzz on the upper lip - NO beard. Short dark-brown hair, short faded sides, textured top pushed up and forward (same silhouette as the sheet, less groomed). Lean wiry build. No extensive modern tattoos: Tattoo timeline is UNCONFIRMED: keep both arms, backs of the hands and neck covered (long sleeves, hoodie or high crew neck) so the image neither shows nor denies tattoos. Default outfit: faded navy work trousers, plain dark-grey long-sleeve work top, scuffed black safety boots.
@@ -297,13 +299,13 @@ Upload: references/conor-character-sheet.png
 ```
 Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (CC Decals, Clontibret & the family home, Co. Monaghan, c. 2018-2019).
 
-STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
+STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Art direction: confident hand-inked brush-and-nib linework, bold spot blacks, fine cross-hatching in the shadows, restrained limited palette per panel, film-camera lens choices and depth of field, imperfect human line variation like a top-tier printed graphic novel. Avoid: airbrushed gloss, plastic skin, over-smooth gradients, symmetrical stock-photo faces, HDR glow, fantasy lighting. Not photorealistic, not 3D render, not anime, not generic AI art.
 
 LAYOUT: landscape 3:2 page (1536x1024). Three equal tall vertical panels side by side, read left to right, each framed as a 9:16 vertical film shot. Thin black panel borders, slim white gutters, white page margin.
 
 COLOUR GRADE: Irish grey daylight; warm workshop and bedroom lamp light; the hedge always a rich, slightly over-saturated green.
 
-REFERENCE IMAGES ATTACHED: references/conor-character-sheet.png. These comic sheets are the ONLY identity references. Do not redesign anyone.
+REFERENCE IMAGES ATTACHED (in upload order): Image 1 - Conor comic character sheet. The comic character sheets are the ONLY identity references. Do not redesign anyone.
 
 CHARACTERS ON THIS PAGE (keep identical in every panel):
 - YOUNG CONOR (2017-2019, late teens): derived from the uploaded adult Conor sheet and clearly the same person, de-aged. Same strong straight brows, deep-set eyes, straight nose, defined jaw and chin, slightly prominent ears; softer fuller cheeks, smooth young skin, at most faint fuzz on the upper lip - NO beard. Short dark-brown hair, short faded sides, textured top pushed up and forward (same silhouette as the sheet, less groomed). Lean wiry build. No extensive modern tattoos: Tattoo timeline is UNCONFIRMED: keep both arms, backs of the hands and neck covered (long sleeves, hoodie or high crew neck) so the image neither shows nor denies tattoos. Default outfit: faded navy work trousers, plain dark-grey long-sleeve work top, scuffed black safety boots.
@@ -326,13 +328,13 @@ Upload: references/conor-character-sheet.png
 ```
 Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (The Donegal Rally, Donegal & Brian Shevlin's pub, c. 2018-2019).
 
-STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
+STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Art direction: confident hand-inked brush-and-nib linework, bold spot blacks, fine cross-hatching in the shadows, restrained limited palette per panel, film-camera lens choices and depth of field, imperfect human line variation like a top-tier printed graphic novel. Avoid: airbrushed gloss, plastic skin, over-smooth gradients, symmetrical stock-photo faces, HDR glow, fantasy lighting. Not photorealistic, not 3D render, not anime, not generic AI art.
 
 LAYOUT: portrait 2:3 page (1024x1536). Four equal panels in a 2x2 grid, read left-to-right then top-to-bottom. Keep each panel's key action inside a central vertical 9:16 safe area. Thin black panel borders, slim white gutters, white page margin.
 
 COLOUR GRADE: Brighter rally daylight with mud browns and crowd colour; warm amber pub interior.
 
-REFERENCE IMAGES ATTACHED: references/conor-character-sheet.png. These comic sheets are the ONLY identity references. Do not redesign anyone.
+REFERENCE IMAGES ATTACHED (in upload order): Image 1 - Conor comic character sheet. The comic character sheets are the ONLY identity references. Do not redesign anyone.
 
 CHARACTERS ON THIS PAGE (keep identical in every panel):
 - BACKGROUND EXTRAS: ordinary anonymous people (customers, coworkers, team members, crowds), realistic varied ages, simple clothing, never more detailed than the main characters, faces never close to camera, never named.
@@ -355,13 +357,13 @@ Upload: references/conor-character-sheet.png
 ```
 Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (The Donegal Rally, Donegal & Brian Shevlin's pub, c. 2018-2019).
 
-STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
+STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Art direction: confident hand-inked brush-and-nib linework, bold spot blacks, fine cross-hatching in the shadows, restrained limited palette per panel, film-camera lens choices and depth of field, imperfect human line variation like a top-tier printed graphic novel. Avoid: airbrushed gloss, plastic skin, over-smooth gradients, symmetrical stock-photo faces, HDR glow, fantasy lighting. Not photorealistic, not 3D render, not anime, not generic AI art.
 
 LAYOUT: landscape 3:2 page (1536x1024). Three equal tall vertical panels side by side, read left to right, each framed as a 9:16 vertical film shot. Thin black panel borders, slim white gutters, white page margin.
 
 COLOUR GRADE: Brighter rally daylight with mud browns and crowd colour; warm amber pub interior.
 
-REFERENCE IMAGES ATTACHED: references/conor-character-sheet.png. These comic sheets are the ONLY identity references. Do not redesign anyone.
+REFERENCE IMAGES ATTACHED (in upload order): Image 1 - Conor comic character sheet. The comic character sheets are the ONLY identity references. Do not redesign anyone.
 
 CHARACTERS ON THIS PAGE (keep identical in every panel):
 - YOUNG CONOR (2017-2019, late teens): derived from the uploaded adult Conor sheet and clearly the same person, de-aged. Same strong straight brows, deep-set eyes, straight nose, defined jaw and chin, slightly prominent ears; softer fuller cheeks, smooth young skin, at most faint fuzz on the upper lip - NO beard. Short dark-brown hair, short faded sides, textured top pushed up and forward (same silhouette as the sheet, less groomed). Lean wiry build. No extensive modern tattoos: Tattoo timeline is UNCONFIRMED: keep both arms, backs of the hands and neck covered (long sleeves, hoodie or high crew neck) so the image neither shows nor denies tattoos. Default outfit: faded navy work trousers, plain dark-grey long-sleeve work top, scuffed black safety boots.
@@ -383,13 +385,13 @@ Upload: references/conor-character-sheet.png
 ```
 Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (Learning Everything, Ireland, c. 2019-2020).
 
-STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
+STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Art direction: confident hand-inked brush-and-nib linework, bold spot blacks, fine cross-hatching in the shadows, restrained limited palette per panel, film-camera lens choices and depth of field, imperfect human line variation like a top-tier printed graphic novel. Avoid: airbrushed gloss, plastic skin, over-smooth gradients, symmetrical stock-photo faces, HDR glow, fantasy lighting. Not photorealistic, not 3D render, not anime, not generic AI art.
 
 LAYOUT: portrait 2:3 page (1024x1536). Four equal panels in a 2x2 grid, read left-to-right then top-to-bottom. Keep each panel's key action inside a central vertical 9:16 safe area. Thin black panel borders, slim white gutters, white page margin.
 
 COLOUR GRADE: Cool white dealership light by day; orange-to-blue sunset gradients for outdoor jobs; laptop and dashboard glow at night.
 
-REFERENCE IMAGES ATTACHED: references/conor-character-sheet.png. These comic sheets are the ONLY identity references. Do not redesign anyone.
+REFERENCE IMAGES ATTACHED (in upload order): Image 1 - Conor comic character sheet. The comic character sheets are the ONLY identity references. Do not redesign anyone.
 
 CHARACTERS ON THIS PAGE (keep identical in every panel):
 - CONOR (2019-2023, early twenties): the same face as the uploaded adult Conor sheet, a few years younger - short beard starting to fill in, same fade haircut, athletic but not yet heavily muscular. Tattoo timeline is UNCONFIRMED: keep both arms, backs of the hands and neck covered (long sleeves, hoodie or high crew neck) so the image neither shows nor denies tattoos. Default outfit: plain black long-sleeve top or black hoodie, dark work trousers, black boots.
@@ -410,13 +412,13 @@ Upload: references/conor-character-sheet.png
 ```
 Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (Learning Everything, Ireland, c. 2019-2020).
 
-STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
+STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Art direction: confident hand-inked brush-and-nib linework, bold spot blacks, fine cross-hatching in the shadows, restrained limited palette per panel, film-camera lens choices and depth of field, imperfect human line variation like a top-tier printed graphic novel. Avoid: airbrushed gloss, plastic skin, over-smooth gradients, symmetrical stock-photo faces, HDR glow, fantasy lighting. Not photorealistic, not 3D render, not anime, not generic AI art.
 
 LAYOUT: portrait 2:3 page (1024x1536). Four equal panels in a 2x2 grid, read left-to-right then top-to-bottom. Keep each panel's key action inside a central vertical 9:16 safe area. Thin black panel borders, slim white gutters, white page margin.
 
 COLOUR GRADE: Cool white dealership light by day; orange-to-blue sunset gradients for outdoor jobs; laptop and dashboard glow at night.
 
-REFERENCE IMAGES ATTACHED: references/conor-character-sheet.png. These comic sheets are the ONLY identity references. Do not redesign anyone.
+REFERENCE IMAGES ATTACHED (in upload order): Image 1 - Conor comic character sheet. The comic character sheets are the ONLY identity references. Do not redesign anyone.
 
 CHARACTERS ON THIS PAGE (keep identical in every panel):
 - CONOR (2019-2023, early twenties): the same face as the uploaded adult Conor sheet, a few years younger - short beard starting to fill in, same fade haircut, athletic but not yet heavily muscular. Tattoo timeline is UNCONFIRMED: keep both arms, backs of the hands and neck covered (long sleeves, hoodie or high crew neck) so the image neither shows nor denies tattoos. Default outfit: plain black long-sleeve top or black hoodie, dark work trousers, black boots.
@@ -438,13 +440,13 @@ Upload: references/conor-character-sheet.png
 ```
 Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (Learning Everything, Ireland, c. 2019-2020).
 
-STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
+STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Art direction: confident hand-inked brush-and-nib linework, bold spot blacks, fine cross-hatching in the shadows, restrained limited palette per panel, film-camera lens choices and depth of field, imperfect human line variation like a top-tier printed graphic novel. Avoid: airbrushed gloss, plastic skin, over-smooth gradients, symmetrical stock-photo faces, HDR glow, fantasy lighting. Not photorealistic, not 3D render, not anime, not generic AI art.
 
 LAYOUT: landscape 3:2 page (1536x1024). Three equal tall vertical panels side by side, read left to right, each framed as a 9:16 vertical film shot. Thin black panel borders, slim white gutters, white page margin.
 
 COLOUR GRADE: Cool white dealership light by day; orange-to-blue sunset gradients for outdoor jobs; laptop and dashboard glow at night.
 
-REFERENCE IMAGES ATTACHED: references/conor-character-sheet.png. These comic sheets are the ONLY identity references. Do not redesign anyone.
+REFERENCE IMAGES ATTACHED (in upload order): Image 1 - Conor comic character sheet. The comic character sheets are the ONLY identity references. Do not redesign anyone.
 
 CHARACTERS ON THIS PAGE (keep identical in every panel):
 - CONOR (2019-2023, early twenties): the same face as the uploaded adult Conor sheet, a few years younger - short beard starting to fill in, same fade haircut, athletic but not yet heavily muscular. Tattoo timeline is UNCONFIRMED: keep both arms, backs of the hands and neck covered (long sleeves, hoodie or high crew neck) so the image neither shows nor denies tattoos. Default outfit: plain black long-sleeve top or black hoodie, dark work trousers, black boots.
@@ -465,13 +467,13 @@ Upload: references/conor-character-sheet.png
 ```
 Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (COVID & the First Website, Ireland, 2020).
 
-STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
+STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Art direction: confident hand-inked brush-and-nib linework, bold spot blacks, fine cross-hatching in the shadows, restrained limited palette per panel, film-camera lens choices and depth of field, imperfect human line variation like a top-tier printed graphic novel. Avoid: airbrushed gloss, plastic skin, over-smooth gradients, symmetrical stock-photo faces, HDR glow, fantasy lighting. Not photorealistic, not 3D render, not anime, not generic AI art.
 
 LAYOUT: portrait 2:3 page (1024x1536). Four equal panels in a 2x2 grid, read left-to-right then top-to-bottom. Keep each panel's key action inside a central vertical 9:16 safe area. Thin black panel borders, slim white gutters, white page margin.
 
 COLOUR GRADE: Empty muted streets, then warm lamp-lit kitchen with cool screen glow on faces.
 
-REFERENCE IMAGES ATTACHED: references/conor-character-sheet.png. These comic sheets are the ONLY identity references. Do not redesign anyone.
+REFERENCE IMAGES ATTACHED (in upload order): Image 1 - Conor comic character sheet. The comic character sheets are the ONLY identity references. Do not redesign anyone.
 
 CHARACTERS ON THIS PAGE (keep identical in every panel):
 - CONOR (2019-2023, early twenties): the same face as the uploaded adult Conor sheet, a few years younger - short beard starting to fill in, same fade haircut, athletic but not yet heavily muscular. Tattoo timeline is UNCONFIRMED: keep both arms, backs of the hands and neck covered (long sleeves, hoodie or high crew neck) so the image neither shows nor denies tattoos. Default outfit: plain black long-sleeve top or black hoodie, dark work trousers, black boots.
@@ -492,13 +494,13 @@ Upload: references/conor-character-sheet.png, references/arlind-character-sheet.
 ```
 Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (COVID & the First Website, Ireland, 2020).
 
-STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
+STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Art direction: confident hand-inked brush-and-nib linework, bold spot blacks, fine cross-hatching in the shadows, restrained limited palette per panel, film-camera lens choices and depth of field, imperfect human line variation like a top-tier printed graphic novel. Avoid: airbrushed gloss, plastic skin, over-smooth gradients, symmetrical stock-photo faces, HDR glow, fantasy lighting. Not photorealistic, not 3D render, not anime, not generic AI art.
 
 LAYOUT: portrait 2:3 page (1024x1536). Four equal panels in a 2x2 grid, read left-to-right then top-to-bottom. Keep each panel's key action inside a central vertical 9:16 safe area. Thin black panel borders, slim white gutters, white page margin.
 
 COLOUR GRADE: Empty muted streets, then warm lamp-lit kitchen with cool screen glow on faces.
 
-REFERENCE IMAGES ATTACHED: references/conor-character-sheet.png, references/arlind-character-sheet.png. These comic sheets are the ONLY identity references. Do not redesign anyone.
+REFERENCE IMAGES ATTACHED (in upload order): Image 1 - Conor comic character sheet; Image 2 - Arlind comic character sheet. The comic character sheets are the ONLY identity references. Do not redesign anyone.
 
 CHARACTERS ON THIS PAGE (keep identical in every panel):
 - CONOR (2019-2023, early twenties): the same face as the uploaded adult Conor sheet, a few years younger - short beard starting to fill in, same fade haircut, athletic but not yet heavily muscular. Tattoo timeline is UNCONFIRMED: keep both arms, backs of the hands and neck covered (long sleeves, hoodie or high crew neck) so the image neither shows nor denies tattoos. Default outfit: plain black long-sleeve top or black hoodie, dark work trousers, black boots.
@@ -520,13 +522,13 @@ Upload: references/conor-character-sheet.png
 ```
 Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (COVID & the First Website, Ireland, 2020).
 
-STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
+STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Art direction: confident hand-inked brush-and-nib linework, bold spot blacks, fine cross-hatching in the shadows, restrained limited palette per panel, film-camera lens choices and depth of field, imperfect human line variation like a top-tier printed graphic novel. Avoid: airbrushed gloss, plastic skin, over-smooth gradients, symmetrical stock-photo faces, HDR glow, fantasy lighting. Not photorealistic, not 3D render, not anime, not generic AI art.
 
 LAYOUT: landscape 3:2 page (1536x1024). Three equal tall vertical panels side by side, read left to right, each framed as a 9:16 vertical film shot. Thin black panel borders, slim white gutters, white page margin.
 
 COLOUR GRADE: Empty muted streets, then warm lamp-lit kitchen with cool screen glow on faces.
 
-REFERENCE IMAGES ATTACHED: references/conor-character-sheet.png. These comic sheets are the ONLY identity references. Do not redesign anyone.
+REFERENCE IMAGES ATTACHED (in upload order): Image 1 - Conor comic character sheet. The comic character sheets are the ONLY identity references. Do not redesign anyone.
 
 CHARACTERS ON THIS PAGE (keep identical in every panel):
 - CONOR (2019-2023, early twenties): the same face as the uploaded adult Conor sheet, a few years younger - short beard starting to fill in, same fade haircut, athletic but not yet heavily muscular. Tattoo timeline is UNCONFIRMED: keep both arms, backs of the hands and neck covered (long sleeves, hoodie or high crew neck) so the image neither shows nor denies tattoos. Default outfit: plain black long-sleeve top or black hoodie, dark work trousers, black boots.
@@ -546,13 +548,13 @@ Upload: references/conor-character-sheet.png
 ```
 Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (The Remap, Leeds & Ireland, c. 2020-2021).
 
-STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
+STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Art direction: confident hand-inked brush-and-nib linework, bold spot blacks, fine cross-hatching in the shadows, restrained limited palette per panel, film-camera lens choices and depth of field, imperfect human line variation like a top-tier printed graphic novel. Avoid: airbrushed gloss, plastic skin, over-smooth gradients, symmetrical stock-photo faces, HDR glow, fantasy lighting. Not photorealistic, not 3D render, not anime, not generic AI art.
 
 LAYOUT: landscape 3:2 page (1536x1024). Three equal tall vertical panels side by side, read left to right, each framed as a 9:16 vertical film shot. Thin black panel borders, slim white gutters, white page margin.
 
 COLOUR GRADE: Neutral classroom daylight in Leeds; workshop teal-and-amber with laptop glow back home.
 
-REFERENCE IMAGES ATTACHED: references/conor-character-sheet.png. These comic sheets are the ONLY identity references. Do not redesign anyone.
+REFERENCE IMAGES ATTACHED (in upload order): Image 1 - Conor comic character sheet. The comic character sheets are the ONLY identity references. Do not redesign anyone.
 
 CHARACTERS ON THIS PAGE (keep identical in every panel):
 - CONOR (2019-2023, early twenties): the same face as the uploaded adult Conor sheet, a few years younger - short beard starting to fill in, same fade haircut, athletic but not yet heavily muscular. Tattoo timeline is UNCONFIRMED: keep both arms, backs of the hands and neck covered (long sleeves, hoodie or high crew neck) so the image neither shows nor denies tattoos. Default outfit: plain black long-sleeve top or black hoodie, dark work trousers, black boots.
@@ -573,13 +575,13 @@ Upload: references/conor-character-sheet.png
 ```
 Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (The Remap, Leeds & Ireland, c. 2020-2021).
 
-STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
+STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Art direction: confident hand-inked brush-and-nib linework, bold spot blacks, fine cross-hatching in the shadows, restrained limited palette per panel, film-camera lens choices and depth of field, imperfect human line variation like a top-tier printed graphic novel. Avoid: airbrushed gloss, plastic skin, over-smooth gradients, symmetrical stock-photo faces, HDR glow, fantasy lighting. Not photorealistic, not 3D render, not anime, not generic AI art.
 
 LAYOUT: landscape 3:2 page (1536x1024). Three equal tall vertical panels side by side, read left to right, each framed as a 9:16 vertical film shot. Thin black panel borders, slim white gutters, white page margin.
 
 COLOUR GRADE: Neutral classroom daylight in Leeds; workshop teal-and-amber with laptop glow back home.
 
-REFERENCE IMAGES ATTACHED: references/conor-character-sheet.png. These comic sheets are the ONLY identity references. Do not redesign anyone.
+REFERENCE IMAGES ATTACHED (in upload order): Image 1 - Conor comic character sheet. The comic character sheets are the ONLY identity references. Do not redesign anyone.
 
 CHARACTERS ON THIS PAGE (keep identical in every panel):
 - CONOR (2019-2023, early twenties): the same face as the uploaded adult Conor sheet, a few years younger - short beard starting to fill in, same fade haircut, athletic but not yet heavily muscular. Tattoo timeline is UNCONFIRMED: keep both arms, backs of the hands and neck covered (long sleeves, hoodie or high crew neck) so the image neither shows nor denies tattoos. Default outfit: plain black long-sleeve top or black hoodie, dark work trousers, black boots.
@@ -600,13 +602,13 @@ Upload: references/conor-character-sheet.png
 ```
 Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (The Remap, Leeds & Ireland, c. 2020-2021).
 
-STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
+STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Art direction: confident hand-inked brush-and-nib linework, bold spot blacks, fine cross-hatching in the shadows, restrained limited palette per panel, film-camera lens choices and depth of field, imperfect human line variation like a top-tier printed graphic novel. Avoid: airbrushed gloss, plastic skin, over-smooth gradients, symmetrical stock-photo faces, HDR glow, fantasy lighting. Not photorealistic, not 3D render, not anime, not generic AI art.
 
 LAYOUT: landscape 3:2 page (1536x1024). Three equal tall vertical panels side by side, read left to right, each framed as a 9:16 vertical film shot. Thin black panel borders, slim white gutters, white page margin.
 
 COLOUR GRADE: Neutral classroom daylight in Leeds; workshop teal-and-amber with laptop glow back home.
 
-REFERENCE IMAGES ATTACHED: references/conor-character-sheet.png. These comic sheets are the ONLY identity references. Do not redesign anyone.
+REFERENCE IMAGES ATTACHED (in upload order): Image 1 - Conor comic character sheet. The comic character sheets are the ONLY identity references. Do not redesign anyone.
 
 CHARACTERS ON THIS PAGE (keep identical in every panel):
 - CONOR (2019-2023, early twenties): the same face as the uploaded adult Conor sheet, a few years younger - short beard starting to fill in, same fade haircut, athletic but not yet heavily muscular. Tattoo timeline is UNCONFIRMED: keep both arms, backs of the hands and neck covered (long sleeves, hoodie or high crew neck) so the image neither shows nor denies tattoos. Default outfit: plain black long-sleeve top or black hoodie, dark work trousers, black boots.
@@ -626,22 +628,24 @@ Upload: references/conor-character-sheet.png
 ```
 Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (The First Garage, Family land, November 2021).
 
-STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
+STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Art direction: confident hand-inked brush-and-nib linework, bold spot blacks, fine cross-hatching in the shadows, restrained limited palette per panel, film-camera lens choices and depth of field, imperfect human line variation like a top-tier printed graphic novel. Avoid: airbrushed gloss, plastic skin, over-smooth gradients, symmetrical stock-photo faces, HDR glow, fantasy lighting. Not photorealistic, not 3D render, not anime, not generic AI art.
 
 LAYOUT: portrait 2:3 page (1024x1536). Four equal panels in a 2x2 grid, read left-to-right then top-to-bottom. Keep each panel's key action inside a central vertical 9:16 safe area. Thin black panel borders, slim white gutters, white page margin.
 
 COLOUR GRADE: Overcast countryside greens and greys; harsh fluorescent tubes inside the garage; blue pre-dawn for the exhausted nights.
 
-REFERENCE IMAGES ATTACHED: references/conor-character-sheet.png. These comic sheets are the ONLY identity references. Do not redesign anyone.
+REFERENCE IMAGES ATTACHED (in upload order): Image 1 - Conor comic character sheet. The comic character sheets are the ONLY identity references. Do not redesign anyone.
 
 CHARACTERS ON THIS PAGE (keep identical in every panel):
 - CONOR (2019-2023, early twenties): the same face as the uploaded adult Conor sheet, a few years younger - short beard starting to fill in, same fade haircut, athletic but not yet heavily muscular. Tattoo timeline is UNCONFIRMED: keep both arms, backs of the hands and neck covered (long sleeves, hoodie or high crew neck) so the image neither shows nor denies tattoos. Default outfit: plain black long-sleeve top or black hoodie, dark work trousers, black boots.
 - CONOR'S FATHER (fictional, consistent design - no reference exists): early fifties, stocky, weathered ruddy face, short grey-flecked dark hair receding at the temples, grey stubble, kind but serious eyes, deep crow's-feet. Always wears a navy quilted gilet over a faded blue-grey check shirt, work jeans, brown work boots.
+- CHILD CONOR (flashback only, around 8-10 years old): derived from the uploaded Conor sheet - same brows, deep-set eyes, ears and hair colour in a child's soft rounded face; messy short dark-brown hair; plain t-shirt, shorts, scuffed runners. No tattoos.
 - BACKGROUND EXTRAS: ordinary anonymous people (customers, coworkers, team members, crowds), realistic varied ages, simple clothing, never more detailed than the main characters, faces never close to camera, never named.
+- THE FATHER'S HEDGE (recurring visual gag): a tall, immaculately clipped dense green privet hedge along the front of the family home - perfectly square edges.
 
 PANEL 1 (TOP-LEFT): Wide shot: father and Conor standing at the edge of a grassy plot beside the family home in grey November light, the father gesturing across the land. Key moment: The father sweeps his arm across the plot; Conor nods. Setting: Family land, November 2021.
-PANEL 2 (TOP-RIGHT): Medium shot: Conor looking across the grass; a faint ghosted memory of a small boy kicking a ball painted translucently into the scene. Key moment: He smiles at the memory. Setting: Family land, November 2021.
-PANEL 3 (BOTTOM-LEFT): Medium-wide match dissolve from S076: the same patch of ground, now marked out with string lines and a fresh concrete slab being poured by anonymous builders; Conor watching at the edge. Key moment: The concrete spreads across the spot where the ghosted child played. Setting: Family land, late 2021.
+PANEL 2 (TOP-RIGHT): Flashback, medium-wide: child Conor kicking a football across the same grassy patch beside the family house, the father's hedge in the background; warm, slightly faded late-1990s/2000s summer light. Framing locked for a match cut. Key moment: He boots the ball and runs after it. Setting: Family land, Conor's childhood (year not specified).
+PANEL 3 (BOTTOM-LEFT): MATCH CUT from S076, identical framing: the same patch of ground and hedge, now in grey November light, marked out with string lines and a fresh concrete slab being poured by anonymous builders; Conor standing where the child ran. Key moment: Concrete flows across the spot where the child played; Conor watches. Setting: Family land, late 2021.
 PANEL 4 (BOTTOM-RIGHT): Wide shot: a steel-framed garage going up on the plot, anonymous builders on scaffolding, Conor watching in a hoodie with his hands in his pockets. Key moment: The roof sheet swings into place. Setting: Family land, late 2021.
 
 STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effect lettering, no panel numbers, no logos, no brand badges, no legible number plates or signs, no watermarks, no signature. Faces must stay identical across every panel and match the uploaded reference sheets. Correct hands with five fingers, natural anatomy. Period-correct vehicles and technology for the year stated. No palm trees or sunshine in Irish or English scenes. Do not add any named person who is not listed; extras stay anonymous background figures.
@@ -655,13 +659,13 @@ Upload: references/conor-character-sheet.png
 ```
 Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (The First Garage, Family land, November 2021).
 
-STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
+STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Art direction: confident hand-inked brush-and-nib linework, bold spot blacks, fine cross-hatching in the shadows, restrained limited palette per panel, film-camera lens choices and depth of field, imperfect human line variation like a top-tier printed graphic novel. Avoid: airbrushed gloss, plastic skin, over-smooth gradients, symmetrical stock-photo faces, HDR glow, fantasy lighting. Not photorealistic, not 3D render, not anime, not generic AI art.
 
 LAYOUT: landscape 3:2 page (1536x1024). Three equal tall vertical panels side by side, read left to right, each framed as a 9:16 vertical film shot. Thin black panel borders, slim white gutters, white page margin.
 
 COLOUR GRADE: Overcast countryside greens and greys; harsh fluorescent tubes inside the garage; blue pre-dawn for the exhausted nights.
 
-REFERENCE IMAGES ATTACHED: references/conor-character-sheet.png. These comic sheets are the ONLY identity references. Do not redesign anyone.
+REFERENCE IMAGES ATTACHED (in upload order): Image 1 - Conor comic character sheet. The comic character sheets are the ONLY identity references. Do not redesign anyone.
 
 CHARACTERS ON THIS PAGE (keep identical in every panel):
 - CONOR (2019-2023, early twenties): the same face as the uploaded adult Conor sheet, a few years younger - short beard starting to fill in, same fade haircut, athletic but not yet heavily muscular. Tattoo timeline is UNCONFIRMED: keep both arms, backs of the hands and neck covered (long sleeves, hoodie or high crew neck) so the image neither shows nor denies tattoos. Default outfit: plain black long-sleeve top or black hoodie, dark work trousers, black boots.
@@ -684,13 +688,13 @@ Upload: references/conor-character-sheet.png
 ```
 Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (The First Garage, Family land, November 2021).
 
-STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
+STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Art direction: confident hand-inked brush-and-nib linework, bold spot blacks, fine cross-hatching in the shadows, restrained limited palette per panel, film-camera lens choices and depth of field, imperfect human line variation like a top-tier printed graphic novel. Avoid: airbrushed gloss, plastic skin, over-smooth gradients, symmetrical stock-photo faces, HDR glow, fantasy lighting. Not photorealistic, not 3D render, not anime, not generic AI art.
 
 LAYOUT: landscape 3:2 page (1536x1024). Three equal tall vertical panels side by side, read left to right, each framed as a 9:16 vertical film shot. Thin black panel borders, slim white gutters, white page margin.
 
 COLOUR GRADE: Overcast countryside greens and greys; harsh fluorescent tubes inside the garage; blue pre-dawn for the exhausted nights.
 
-REFERENCE IMAGES ATTACHED: references/conor-character-sheet.png. These comic sheets are the ONLY identity references. Do not redesign anyone.
+REFERENCE IMAGES ATTACHED (in upload order): Image 1 - Conor comic character sheet. The comic character sheets are the ONLY identity references. Do not redesign anyone.
 
 CHARACTERS ON THIS PAGE (keep identical in every panel):
 - CONOR (2019-2023, early twenties): the same face as the uploaded adult Conor sheet, a few years younger - short beard starting to fill in, same fade haircut, athletic but not yet heavily muscular. Tattoo timeline is UNCONFIRMED: keep both arms, backs of the hands and neck covered (long sleeves, hoodie or high crew neck) so the image neither shows nor denies tattoos. Default outfit: plain black long-sleeve top or black hoodie, dark work trousers, black boots.
@@ -713,13 +717,13 @@ Upload: references/conor-character-sheet.png
 ```
 Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (The First Garage, Family land, November 2021).
 
-STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
+STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Art direction: confident hand-inked brush-and-nib linework, bold spot blacks, fine cross-hatching in the shadows, restrained limited palette per panel, film-camera lens choices and depth of field, imperfect human line variation like a top-tier printed graphic novel. Avoid: airbrushed gloss, plastic skin, over-smooth gradients, symmetrical stock-photo faces, HDR glow, fantasy lighting. Not photorealistic, not 3D render, not anime, not generic AI art.
 
 LAYOUT: landscape 3:2 page (1536x1024). Three equal tall vertical panels side by side, read left to right, each framed as a 9:16 vertical film shot. Thin black panel borders, slim white gutters, white page margin.
 
 COLOUR GRADE: Overcast countryside greens and greys; harsh fluorescent tubes inside the garage; blue pre-dawn for the exhausted nights.
 
-REFERENCE IMAGES ATTACHED: references/conor-character-sheet.png. These comic sheets are the ONLY identity references. Do not redesign anyone.
+REFERENCE IMAGES ATTACHED (in upload order): Image 1 - Conor comic character sheet. The comic character sheets are the ONLY identity references. Do not redesign anyone.
 
 CHARACTERS ON THIS PAGE (keep identical in every panel):
 - CONOR (2019-2023, early twenties): the same face as the uploaded adult Conor sheet, a few years younger - short beard starting to fill in, same fade haircut, athletic but not yet heavily muscular. Tattoo timeline is UNCONFIRMED: keep both arms, backs of the hands and neck covered (long sleeves, hoodie or high crew neck) so the image neither shows nor denies tattoos. Default outfit: plain black long-sleeve top or black hoodie, dark work trousers, black boots.
@@ -740,13 +744,13 @@ Upload: references/conor-character-sheet.png
 ```
 Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (Carrickmacross, Carrickmacross, Co. Monaghan, 2022).
 
-STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
+STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Art direction: confident hand-inked brush-and-nib linework, bold spot blacks, fine cross-hatching in the shadows, restrained limited palette per panel, film-camera lens choices and depth of field, imperfect human line variation like a top-tier printed graphic novel. Avoid: airbrushed gloss, plastic skin, over-smooth gradients, symmetrical stock-photo faces, HDR glow, fantasy lighting. Not photorealistic, not 3D render, not anime, not generic AI art.
 
 LAYOUT: portrait 2:3 page (1024x1536). Four equal panels in a 2x2 grid, read left-to-right then top-to-bottom. Keep each panel's key action inside a central vertical 9:16 safe area. Thin black panel borders, slim white gutters, white page margin.
 
 COLOUR GRADE: Rejection scenes in flat grey; the finished shop in brighter, cleaner, slightly warm light - the first 'earned' grade.
 
-REFERENCE IMAGES ATTACHED: references/conor-character-sheet.png. These comic sheets are the ONLY identity references. Do not redesign anyone.
+REFERENCE IMAGES ATTACHED (in upload order): Image 1 - Conor comic character sheet. The comic character sheets are the ONLY identity references. Do not redesign anyone.
 
 CHARACTERS ON THIS PAGE (keep identical in every panel):
 - CONOR (2019-2023, early twenties): the same face as the uploaded adult Conor sheet, a few years younger - short beard starting to fill in, same fade haircut, athletic but not yet heavily muscular. Tattoo timeline is UNCONFIRMED: keep both arms, backs of the hands and neck covered (long sleeves, hoodie or high crew neck) so the image neither shows nor denies tattoos. Default outfit: plain black long-sleeve top or black hoodie, dark work trousers, black boots.
@@ -768,13 +772,13 @@ Upload: references/conor-character-sheet.png
 ```
 Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (Carrickmacross, Carrickmacross, Co. Monaghan, 2022).
 
-STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
+STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Art direction: confident hand-inked brush-and-nib linework, bold spot blacks, fine cross-hatching in the shadows, restrained limited palette per panel, film-camera lens choices and depth of field, imperfect human line variation like a top-tier printed graphic novel. Avoid: airbrushed gloss, plastic skin, over-smooth gradients, symmetrical stock-photo faces, HDR glow, fantasy lighting. Not photorealistic, not 3D render, not anime, not generic AI art.
 
 LAYOUT: landscape 3:2 page (1536x1024). Three equal tall vertical panels side by side, read left to right, each framed as a 9:16 vertical film shot. Thin black panel borders, slim white gutters, white page margin.
 
 COLOUR GRADE: Rejection scenes in flat grey; the finished shop in brighter, cleaner, slightly warm light - the first 'earned' grade.
 
-REFERENCE IMAGES ATTACHED: references/conor-character-sheet.png. These comic sheets are the ONLY identity references. Do not redesign anyone.
+REFERENCE IMAGES ATTACHED (in upload order): Image 1 - Conor comic character sheet. The comic character sheets are the ONLY identity references. Do not redesign anyone.
 
 CHARACTERS ON THIS PAGE (keep identical in every panel):
 - CONOR (2019-2023, early twenties): the same face as the uploaded adult Conor sheet, a few years younger - short beard starting to fill in, same fade haircut, athletic but not yet heavily muscular. Tattoo timeline is UNCONFIRMED: keep both arms, backs of the hands and neck covered (long sleeves, hoodie or high crew neck) so the image neither shows nor denies tattoos. Default outfit: plain black long-sleeve top or black hoodie, dark work trousers, black boots.
@@ -795,13 +799,13 @@ Upload: references/conor-character-sheet.png
 ```
 Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (Marbella, Marbella, Spain, c. 2024).
 
-STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
+STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Art direction: confident hand-inked brush-and-nib linework, bold spot blacks, fine cross-hatching in the shadows, restrained limited palette per panel, film-camera lens choices and depth of field, imperfect human line variation like a top-tier printed graphic novel. Avoid: airbrushed gloss, plastic skin, over-smooth gradients, symmetrical stock-photo faces, HDR glow, fantasy lighting. Not photorealistic, not 3D render, not anime, not generic AI art.
 
 LAYOUT: portrait 2:3 page (1024x1536). Four equal panels in a 2x2 grid, read left-to-right then top-to-bottom. Keep each panel's key action inside a central vertical 9:16 safe area. Thin black panel borders, slim white gutters, white page margin.
 
 COLOUR GRADE: Hot Andalusian light: saturated blue sky, white walls, terracotta, hard shadows; night scenes in deep blue for doubt.
 
-REFERENCE IMAGES ATTACHED: references/conor-character-sheet.png. These comic sheets are the ONLY identity references. Do not redesign anyone.
+REFERENCE IMAGES ATTACHED (in upload order): Image 1 - Conor comic character sheet. The comic character sheets are the ONLY identity references. Do not redesign anyone.
 
 CHARACTERS ON THIS PAGE (keep identical in every panel):
 - ADULT CONOR (Marbella and Dubai, 2024-2026): exactly the man on the uploaded Conor character sheet - same face, fade haircut, full short beard, neck tattoos, tattoo sleeves on both arms, muscular build, dark wristwatch on the left wrist. Default outfit: fitted plain black t-shirt or black hoodie; sunglasses only where stated.
@@ -824,13 +828,13 @@ Upload: references/conor-character-sheet.png
 ```
 Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (Marbella, Marbella, Spain, c. 2024).
 
-STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
+STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Art direction: confident hand-inked brush-and-nib linework, bold spot blacks, fine cross-hatching in the shadows, restrained limited palette per panel, film-camera lens choices and depth of field, imperfect human line variation like a top-tier printed graphic novel. Avoid: airbrushed gloss, plastic skin, over-smooth gradients, symmetrical stock-photo faces, HDR glow, fantasy lighting. Not photorealistic, not 3D render, not anime, not generic AI art.
 
 LAYOUT: landscape 3:2 page (1536x1024). Three equal tall vertical panels side by side, read left to right, each framed as a 9:16 vertical film shot. Thin black panel borders, slim white gutters, white page margin.
 
 COLOUR GRADE: Hot Andalusian light: saturated blue sky, white walls, terracotta, hard shadows; night scenes in deep blue for doubt.
 
-REFERENCE IMAGES ATTACHED: references/conor-character-sheet.png. These comic sheets are the ONLY identity references. Do not redesign anyone.
+REFERENCE IMAGES ATTACHED (in upload order): Image 1 - Conor comic character sheet. The comic character sheets are the ONLY identity references. Do not redesign anyone.
 
 CHARACTERS ON THIS PAGE (keep identical in every panel):
 - ADULT CONOR (Marbella and Dubai, 2024-2026): exactly the man on the uploaded Conor character sheet - same face, fade haircut, full short beard, neck tattoos, tattoo sleeves on both arms, muscular build, dark wristwatch on the left wrist. Default outfit: fitted plain black t-shirt or black hoodie; sunglasses only where stated.
@@ -851,13 +855,13 @@ Upload: references/conor-character-sheet.png
 ```
 Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (Marbella, Marbella, Spain, c. 2024).
 
-STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
+STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Art direction: confident hand-inked brush-and-nib linework, bold spot blacks, fine cross-hatching in the shadows, restrained limited palette per panel, film-camera lens choices and depth of field, imperfect human line variation like a top-tier printed graphic novel. Avoid: airbrushed gloss, plastic skin, over-smooth gradients, symmetrical stock-photo faces, HDR glow, fantasy lighting. Not photorealistic, not 3D render, not anime, not generic AI art.
 
 LAYOUT: landscape 3:2 page (1536x1024). Three equal tall vertical panels side by side, read left to right, each framed as a 9:16 vertical film shot. Thin black panel borders, slim white gutters, white page margin.
 
 COLOUR GRADE: Hot Andalusian light: saturated blue sky, white walls, terracotta, hard shadows; night scenes in deep blue for doubt.
 
-REFERENCE IMAGES ATTACHED: references/conor-character-sheet.png. These comic sheets are the ONLY identity references. Do not redesign anyone.
+REFERENCE IMAGES ATTACHED (in upload order): Image 1 - Conor comic character sheet. The comic character sheets are the ONLY identity references. Do not redesign anyone.
 
 CHARACTERS ON THIS PAGE (keep identical in every panel):
 - ADULT CONOR (Marbella and Dubai, 2024-2026): exactly the man on the uploaded Conor character sheet - same face, fade haircut, full short beard, neck tattoos, tattoo sleeves on both arms, muscular build, dark wristwatch on the left wrist. Default outfit: fitted plain black t-shirt or black hoodie; sunglasses only where stated.
@@ -878,13 +882,13 @@ Upload: references/conor-character-sheet.png
 ```
 Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (Level Up With CC, Training room; Dublin (15 Nov 2025); Cavan (27 Feb 2026)).
 
-STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
+STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Art direction: confident hand-inked brush-and-nib linework, bold spot blacks, fine cross-hatching in the shadows, restrained limited palette per panel, film-camera lens choices and depth of field, imperfect human line variation like a top-tier printed graphic novel. Avoid: airbrushed gloss, plastic skin, over-smooth gradients, symmetrical stock-photo faces, HDR glow, fantasy lighting. Not photorealistic, not 3D render, not anime, not generic AI art.
 
 LAYOUT: portrait 2:3 page (1024x1536). Four equal panels in a 2x2 grid, read left-to-right then top-to-bottom. Keep each panel's key action inside a central vertical 9:16 safe area. Thin black panel borders, slim white gutters, white page margin.
 
 COLOUR GRADE: Practical training in clean workshop light; events in warm stage spots against dark rooms with cool rim light.
 
-REFERENCE IMAGES ATTACHED: references/conor-character-sheet.png. These comic sheets are the ONLY identity references. Do not redesign anyone.
+REFERENCE IMAGES ATTACHED (in upload order): Image 1 - Conor comic character sheet. The comic character sheets are the ONLY identity references. Do not redesign anyone.
 
 CHARACTERS ON THIS PAGE (keep identical in every panel):
 - ADULT CONOR (Marbella and Dubai, 2024-2026): exactly the man on the uploaded Conor character sheet - same face, fade haircut, full short beard, neck tattoos, tattoo sleeves on both arms, muscular build, dark wristwatch on the left wrist. Default outfit: fitted plain black t-shirt or black hoodie; sunglasses only where stated.
@@ -906,13 +910,13 @@ Upload: references/conor-character-sheet.png
 ```
 Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (Level Up With CC, Training room; Dublin (15 Nov 2025); Cavan (27 Feb 2026)).
 
-STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
+STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Art direction: confident hand-inked brush-and-nib linework, bold spot blacks, fine cross-hatching in the shadows, restrained limited palette per panel, film-camera lens choices and depth of field, imperfect human line variation like a top-tier printed graphic novel. Avoid: airbrushed gloss, plastic skin, over-smooth gradients, symmetrical stock-photo faces, HDR glow, fantasy lighting. Not photorealistic, not 3D render, not anime, not generic AI art.
 
 LAYOUT: landscape 3:2 page (1536x1024). Three equal tall vertical panels side by side, read left to right, each framed as a 9:16 vertical film shot. Thin black panel borders, slim white gutters, white page margin.
 
 COLOUR GRADE: Practical training in clean workshop light; events in warm stage spots against dark rooms with cool rim light.
 
-REFERENCE IMAGES ATTACHED: references/conor-character-sheet.png. These comic sheets are the ONLY identity references. Do not redesign anyone.
+REFERENCE IMAGES ATTACHED (in upload order): Image 1 - Conor comic character sheet. The comic character sheets are the ONLY identity references. Do not redesign anyone.
 
 CHARACTERS ON THIS PAGE (keep identical in every panel):
 - ADULT CONOR (Marbella and Dubai, 2024-2026): exactly the man on the uploaded Conor character sheet - same face, fade haircut, full short beard, neck tattoos, tattoo sleeves on both arms, muscular build, dark wristwatch on the left wrist. Default outfit: fitted plain black t-shirt or black hoodie; sunglasses only where stated.
@@ -933,13 +937,13 @@ Upload: references/conor-character-sheet.png
 ```
 Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (The Marbella Mansion, Marbella, 22 May 2026; Puerto Banus, 19 September 2026).
 
-STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
+STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Art direction: confident hand-inked brush-and-nib linework, bold spot blacks, fine cross-hatching in the shadows, restrained limited palette per panel, film-camera lens choices and depth of field, imperfect human line variation like a top-tier printed graphic novel. Avoid: airbrushed gloss, plastic skin, over-smooth gradients, symmetrical stock-photo faces, HDR glow, fantasy lighting. Not photorealistic, not 3D render, not anime, not generic AI art.
 
 LAYOUT: portrait 2:3 page (1024x1536). Four equal panels in a 2x2 grid, read left-to-right then top-to-bottom. Keep each panel's key action inside a central vertical 9:16 safe area. Thin black panel borders, slim white gutters, white page margin.
 
 COLOUR GRADE: Dusk to night: lilac sky, warm festoon lights, pool reflections; Puerto Banus coda in bright Mediterranean day.
 
-REFERENCE IMAGES ATTACHED: references/conor-character-sheet.png. These comic sheets are the ONLY identity references. Do not redesign anyone.
+REFERENCE IMAGES ATTACHED (in upload order): Image 1 - Conor comic character sheet. The comic character sheets are the ONLY identity references. Do not redesign anyone.
 
 CHARACTERS ON THIS PAGE (keep identical in every panel):
 - BACKGROUND EXTRAS: ordinary anonymous people (customers, coworkers, team members, crowds), realistic varied ages, simple clothing, never more detailed than the main characters, faces never close to camera, never named.
@@ -961,13 +965,13 @@ Upload: references/conor-character-sheet.png, references/arlind-character-sheet.
 ```
 Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (The Marbella Mansion, Marbella, 22 May 2026; Puerto Banus, 19 September 2026).
 
-STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
+STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Art direction: confident hand-inked brush-and-nib linework, bold spot blacks, fine cross-hatching in the shadows, restrained limited palette per panel, film-camera lens choices and depth of field, imperfect human line variation like a top-tier printed graphic novel. Avoid: airbrushed gloss, plastic skin, over-smooth gradients, symmetrical stock-photo faces, HDR glow, fantasy lighting. Not photorealistic, not 3D render, not anime, not generic AI art.
 
 LAYOUT: portrait 2:3 page (1024x1536). Four equal panels in a 2x2 grid, read left-to-right then top-to-bottom. Keep each panel's key action inside a central vertical 9:16 safe area. Thin black panel borders, slim white gutters, white page margin.
 
 COLOUR GRADE: Dusk to night: lilac sky, warm festoon lights, pool reflections; Puerto Banus coda in bright Mediterranean day.
 
-REFERENCE IMAGES ATTACHED: references/conor-character-sheet.png, references/arlind-character-sheet.png. These comic sheets are the ONLY identity references. Do not redesign anyone.
+REFERENCE IMAGES ATTACHED (in upload order): Image 1 - Conor comic character sheet; Image 2 - Arlind comic character sheet. The comic character sheets are the ONLY identity references. Do not redesign anyone.
 
 CHARACTERS ON THIS PAGE (keep identical in every panel):
 - ADULT CONOR (Marbella and Dubai, 2024-2026): exactly the man on the uploaded Conor character sheet - same face, fade haircut, full short beard, neck tattoos, tattoo sleeves on both arms, muscular build, dark wristwatch on the left wrist. Default outfit: fitted plain black t-shirt or black hoodie; sunglasses only where stated.
@@ -976,8 +980,8 @@ CHARACTERS ON THIS PAGE (keep identical in every panel):
 
 PANEL 1 (TOP-LEFT): Medium shot: Conor turning as Arlind steps out of the crowd toward him, Arlind's face clear and lit by festoon lights, exactly matching his reference sheet. Key moment: Both stop, recognise each other, and grin. Setting: Mansion terrace, night, 22 May 2026.
 PANEL 2 (TOP-RIGHT): Medium two-shot: Conor and Arlind face to face on the terrace, a step apart, both shaking their heads with the same disbelieving grin; festoon bokeh behind. Key moment: They close the last step between them. Setting: Mansion terrace, night.
-PANEL 3 (BOTTOM-LEFT): Close-up: Conor's tattooed hand and Arlind's hand meeting in a firm handshake, both faces visible above, festoon bokeh - THE MUSICAL PAUSE. Key moment: The handshake grips and holds. Setting: Mansion terrace, night.
-PANEL 4 (BOTTOM-RIGHT): Medium two-shot: the handshake turns into a back-slapping hug; team members around them cheering. Key moment: They hug and laugh; others cheer. Setting: Mansion terrace, night.
+PANEL 3 (BOTTOM-LEFT): Medium close-up two-shot, faces only: Conor and Arlind finally face to face, both faces clear and matching their reference sheets, warm festoon light - THE MUSICAL PAUSE. No specific greeting gesture is drawn. Key moment: They take each other in, both smiling. Setting: Mansion terrace, night, 22 May 2026.
+PANEL 4 (BOTTOM-RIGHT): Wide shot: the terrace with team members in soft focus around Conor and Arlind, who stand together in the centre, both clearly visible. Key moment: Team members gather around them, smiling. Setting: Mansion terrace, night.
 
 STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effect lettering, no panel numbers, no logos, no brand badges, no legible number plates or signs, no watermarks, no signature. Faces must stay identical across every panel and match the uploaded reference sheets. Correct hands with five fingers, natural anatomy. Period-correct vehicles and technology for the year stated. No palm trees or sunshine in Irish or English scenes. Do not add any named person who is not listed; extras stay anonymous background figures.
 ```
@@ -990,13 +994,13 @@ Upload: references/conor-character-sheet.png, references/arlind-character-sheet.
 ```
 Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (The Marbella Mansion, Marbella, 22 May 2026; Puerto Banus, 19 September 2026).
 
-STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
+STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Art direction: confident hand-inked brush-and-nib linework, bold spot blacks, fine cross-hatching in the shadows, restrained limited palette per panel, film-camera lens choices and depth of field, imperfect human line variation like a top-tier printed graphic novel. Avoid: airbrushed gloss, plastic skin, over-smooth gradients, symmetrical stock-photo faces, HDR glow, fantasy lighting. Not photorealistic, not 3D render, not anime, not generic AI art.
 
 LAYOUT: portrait 2:3 page (1024x1536). Four equal panels in a 2x2 grid, read left-to-right then top-to-bottom. Keep each panel's key action inside a central vertical 9:16 safe area. Thin black panel borders, slim white gutters, white page margin.
 
 COLOUR GRADE: Dusk to night: lilac sky, warm festoon lights, pool reflections; Puerto Banus coda in bright Mediterranean day.
 
-REFERENCE IMAGES ATTACHED: references/conor-character-sheet.png, references/arlind-character-sheet.png. These comic sheets are the ONLY identity references. Do not redesign anyone.
+REFERENCE IMAGES ATTACHED (in upload order): Image 1 - Conor comic character sheet; Image 2 - Arlind comic character sheet. The comic character sheets are the ONLY identity references. Do not redesign anyone.
 
 CHARACTERS ON THIS PAGE (keep identical in every panel):
 - ADULT CONOR (Marbella and Dubai, 2024-2026): exactly the man on the uploaded Conor character sheet - same face, fade haircut, full short beard, neck tattoos, tattoo sleeves on both arms, muscular build, dark wristwatch on the left wrist. Default outfit: fitted plain black t-shirt or black hoodie; sunglasses only where stated.
@@ -1020,19 +1024,19 @@ Upload: references/conor-character-sheet.png, references/fleet/ (approved CC Mar
 ```
 Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (CC Marbella Rentals, Marbella, 2026 (with a 2017 memory)).
 
-STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
+STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Art direction: confident hand-inked brush-and-nib linework, bold spot blacks, fine cross-hatching in the shadows, restrained limited palette per panel, film-camera lens choices and depth of field, imperfect human line variation like a top-tier printed graphic novel. Avoid: airbrushed gloss, plastic skin, over-smooth gradients, symmetrical stock-photo faces, HDR glow, fantasy lighting. Not photorealistic, not 3D render, not anime, not generic AI art.
 
 LAYOUT: landscape 3:2 page (1536x1024). Three equal tall vertical panels side by side, read left to right, each framed as a 9:16 vertical film shot. Thin black panel borders, slim white gutters, white page margin.
 
 COLOUR GRADE: Polished golden hour with glossy reflections; the Civic memory in the CH01 grey grade.
 
-REFERENCE IMAGES ATTACHED: references/conor-character-sheet.png, references/fleet/ (approved CC Marbella Rentals vehicle images). These comic sheets are the ONLY identity references. Do not redesign anyone.
+REFERENCE IMAGES ATTACHED (in upload order): Image 1 - Conor comic character sheet; Image 2 - approved CC Marbella Rentals fleet vehicle images (if attached). The comic character sheets are the ONLY identity references. Do not redesign anyone.
 
 CHARACTERS ON THIS PAGE (keep identical in every panel):
 - YOUNG CONOR (2017-2019, late teens): derived from the uploaded adult Conor sheet and clearly the same person, de-aged. Same strong straight brows, deep-set eyes, straight nose, defined jaw and chin, slightly prominent ears; softer fuller cheeks, smooth young skin, at most faint fuzz on the upper lip - NO beard. Short dark-brown hair, short faded sides, textured top pushed up and forward (same silhouette as the sheet, less groomed). Lean wiry build. No extensive modern tattoos: Tattoo timeline is UNCONFIRMED: keep both arms, backs of the hands and neck covered (long sleeves, hoodie or high crew neck) so the image neither shows nor denies tattoos. Default outfit: faded navy work trousers, plain dark-grey long-sleeve work top, scuffed black safety boots.
 - ADULT CONOR (Marbella and Dubai, 2024-2026): exactly the man on the uploaded Conor character sheet - same face, fade haircut, full short beard, neck tattoos, tattoo sleeves on both arms, muscular build, dark wristwatch on the left wrist. Default outfit: fitted plain black t-shirt or black hoodie; sunglasses only where stated.
 - CONOR'S FIRST CAR: early-2000s Honda Civic 1.4 petrol 3-door hatchback of that generation - tall one-box bullet profile, short sloping bonnet flowing into a steeply raked windscreen, large swept-back headlights, small grille, three doors, tall rear hatch with vertical tail lights, plain bumpers, standard wheels with plain silver covers, factory ride height. Colour: satin silver (production choice). NOT a Type R, NOT a newer Civic, no body kit, no spoiler, no badges, blank plates.
-- CC MARBELLA RENTALS FLEET: draw each vehicle ONLY from the uploaded approved fleet images (BMW X5 M Competition, McLaren GT, Porsche Panamera GTS, BMW M2, Volkswagen Golf R). Keep their real body shapes and colours as in the images; no visible badges or plates; do not invent other models.
+- CC MARBELLA RENTALS FLEET: draw each vehicle ONLY from the uploaded approved fleet images (BMW X5 M Competition, McLaren GT, Porsche Panamera GTS, BMW M2, Volkswagen Golf R). Keep their real body shapes and colours as in the images; no visible badges or plates; do not invent other models. If no fleet images are attached, draw the cars only as soft-focus, unbadged, generic modern performance-car shapes in the background.
 
 PANEL 1 (LEFT): Memory shot in a soft vignette: young Conor beside the silver Civic on the grey Irish driveway, exactly as in S011. Key moment: He pats the roof, as before. Setting: Memory of Ireland, 2017.
 PANEL 2 (CENTRE): Wide golden-hour shot: the rental fleet lined up outside a clean Marbella location (no signage), sea glinting behind; Conor walking along them. Key moment: He walks the line, checking each car. Setting: Marbella, golden hour, 2026.
@@ -1049,18 +1053,18 @@ Upload: references/conor-character-sheet.png, references/fleet/ (approved CC Mar
 ```
 Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (CC Marbella Rentals, Marbella, 2026 (with a 2017 memory)).
 
-STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
+STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Art direction: confident hand-inked brush-and-nib linework, bold spot blacks, fine cross-hatching in the shadows, restrained limited palette per panel, film-camera lens choices and depth of field, imperfect human line variation like a top-tier printed graphic novel. Avoid: airbrushed gloss, plastic skin, over-smooth gradients, symmetrical stock-photo faces, HDR glow, fantasy lighting. Not photorealistic, not 3D render, not anime, not generic AI art.
 
 LAYOUT: landscape 3:2 page (1536x1024). Three equal tall vertical panels side by side, read left to right, each framed as a 9:16 vertical film shot. Thin black panel borders, slim white gutters, white page margin.
 
 COLOUR GRADE: Polished golden hour with glossy reflections; the Civic memory in the CH01 grey grade.
 
-REFERENCE IMAGES ATTACHED: references/conor-character-sheet.png, references/fleet/ (approved CC Marbella Rentals vehicle images). These comic sheets are the ONLY identity references. Do not redesign anyone.
+REFERENCE IMAGES ATTACHED (in upload order): Image 1 - Conor comic character sheet; Image 2 - approved CC Marbella Rentals fleet vehicle images (if attached). The comic character sheets are the ONLY identity references. Do not redesign anyone.
 
 CHARACTERS ON THIS PAGE (keep identical in every panel):
 - ADULT CONOR (Marbella and Dubai, 2024-2026): exactly the man on the uploaded Conor character sheet - same face, fade haircut, full short beard, neck tattoos, tattoo sleeves on both arms, muscular build, dark wristwatch on the left wrist. Default outfit: fitted plain black t-shirt or black hoodie; sunglasses only where stated.
 - BACKGROUND EXTRAS: ordinary anonymous people (customers, coworkers, team members, crowds), realistic varied ages, simple clothing, never more detailed than the main characters, faces never close to camera, never named.
-- CC MARBELLA RENTALS FLEET: draw each vehicle ONLY from the uploaded approved fleet images (BMW X5 M Competition, McLaren GT, Porsche Panamera GTS, BMW M2, Volkswagen Golf R). Keep their real body shapes and colours as in the images; no visible badges or plates; do not invent other models.
+- CC MARBELLA RENTALS FLEET: draw each vehicle ONLY from the uploaded approved fleet images (BMW X5 M Competition, McLaren GT, Porsche Panamera GTS, BMW M2, Volkswagen Golf R). Keep their real body shapes and colours as in the images; no visible badges or plates; do not invent other models. If no fleet images are attached, draw the cars only as soft-focus, unbadged, generic modern performance-car shapes in the background.
 
 PANEL 1 (LEFT): Medium shot: the BMW M2 and Golf R from the approved fleet images, Conor tossing a key in his hand between them. Key moment: He tosses and catches the key. Setting: Marbella, 2026.
 PANEL 2 (CENTRE): Close-up: Conor's tattooed hand placing a modern key fob into a customer's palm - framed to echo S003. Key moment: The key drops into the customer's hand. Setting: Rental forecourt, 2026.
@@ -1077,13 +1081,13 @@ Upload: references/conor-character-sheet.png
 ```
 Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (Dubai - Part 2 Teaser, Dubai, 2026).
 
-STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
+STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Art direction: confident hand-inked brush-and-nib linework, bold spot blacks, fine cross-hatching in the shadows, restrained limited palette per panel, film-camera lens choices and depth of field, imperfect human line variation like a top-tier printed graphic novel. Avoid: airbrushed gloss, plastic skin, over-smooth gradients, symmetrical stock-photo faces, HDR glow, fantasy lighting. Not photorealistic, not 3D render, not anime, not generic AI art.
 
 LAYOUT: portrait 2:3 page (1024x1536). Four equal panels in a 2x2 grid, read left-to-right then top-to-bottom. Keep each panel's key action inside a central vertical 9:16 safe area. Thin black panel borders, slim white gutters, white page margin.
 
 COLOUR GRADE: Purple-orange desert dusk, skyline lights, haze; ends in silhouette.
 
-REFERENCE IMAGES ATTACHED: references/conor-character-sheet.png. These comic sheets are the ONLY identity references. Do not redesign anyone.
+REFERENCE IMAGES ATTACHED (in upload order): Image 1 - Conor comic character sheet. The comic character sheets are the ONLY identity references. Do not redesign anyone.
 
 CHARACTERS ON THIS PAGE (keep identical in every panel):
 - ADULT CONOR (Marbella and Dubai, 2024-2026): exactly the man on the uploaded Conor character sheet - same face, fade haircut, full short beard, neck tattoos, tattoo sleeves on both arms, muscular build, dark wristwatch on the left wrist. Default outfit: fitted plain black t-shirt or black hoodie; sunglasses only where stated.

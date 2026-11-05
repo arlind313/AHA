@@ -1,12 +1,12 @@
 Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (The Remap, Leeds & Ireland, c. 2020-2021).
 
-STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
+STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded comic character sheets: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Art direction: confident hand-inked brush-and-nib linework, bold spot blacks, fine cross-hatching in the shadows, restrained limited palette per panel, film-camera lens choices and depth of field, imperfect human line variation like a top-tier printed graphic novel. Avoid: airbrushed gloss, plastic skin, over-smooth gradients, symmetrical stock-photo faces, HDR glow, fantasy lighting. Not photorealistic, not 3D render, not anime, not generic AI art.
 
 LAYOUT: landscape 3:2 page (1536x1024). Three equal tall vertical panels side by side, read left to right, each framed as a 9:16 vertical film shot. Thin black panel borders, slim white gutters, white page margin.
 
 COLOUR GRADE: Neutral classroom daylight in Leeds; workshop teal-and-amber with laptop glow back home.
 
-REFERENCE IMAGES ATTACHED: references/conor-character-sheet.png. These comic sheets are the ONLY identity references. Do not redesign anyone.
+REFERENCE IMAGES ATTACHED (in upload order): Image 1 - Conor comic character sheet. The comic character sheets are the ONLY identity references. Do not redesign anyone.
 
 CHARACTERS ON THIS PAGE (keep identical in every panel):
 - CONOR (2019-2023, early twenties): the same face as the uploaded adult Conor sheet, a few years younger - short beard starting to fill in, same fade haircut, athletic but not yet heavily muscular. Tattoo timeline is UNCONFIRMED: keep both arms, backs of the hands and neck covered (long sleeves, hoodie or high crew neck) so the image neither shows nor denies tattoos. Default outfit: plain black long-sleeve top or black hoodie, dark work trousers, black boots.
