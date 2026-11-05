@@ -1466,17 +1466,17 @@ deliberate extra hold, listed per shot.
 - **Music:** Chapter cue continues.
 - **Note:** Proposed narration pending Conor's approval.
 
-### S121 - CH12 - 7.5s  (TC 13:28-13:36, page 36)
+### S121 - CH12 - 7.5s, incl. 0.3s hold  (TC 13:28-13:36, page 36)
 - **Voice-over:** "Standing there, I thought about the tyre shop, the ferry, the hedge... the bulb in backwards."
-- **Characters:** Adult Conor
-- **Composition:** Medium close-up: Conor at the terrace railing looking at the night sea; faint ghosted memories of the tyre workshop, the ferry and the hedge painted into the clouds.
-- **Location & period:** Mansion terrace, night
-- **Character action:** He looks out, reflective, then smiles.
-- **Animation:** Ghosted memories drift and dissolve; breeze; his slow smile.
-- **Camera:** Slow push-in.
-- **Sound effects:** Waves, faint party behind.
-- **Music:** Chapter cue continues.
-- **Note:** Ghosted memories reuse the S009 and S036 compositions.
+- **Characters:** Adult Conor, Young Conor, Father
+- **Composition:** MEMORY MONTAGE with clean hard cuts (no ghosting, no dissolves, no floating images): (a) 2.0s medium close-up of adult Conor alone at the terrace railing, looking out at the night sea; (b) 1.5s cut to the approved S009 frame - young Conor working at Global Tyres, 2017; (c) 1.5s cut to the approved S020 frame - the ferry on the cold Irish Sea, 2018; (d) 1.5s cut to the approved S036 frame - the father's hedge by the family driveway; (e) 1.0s back on adult Conor at the railing, a small smile.
+- **Location & period:** Mansion terrace, night, 2026, intercut with Ireland 2017-2019
+- **Character action:** Conor looks out at the sea; on the return cut he smiles slightly.
+- **Animation:** Railing shots: breeze in his clothes, slow blink, small smile. Memory cuts: each keeps the motion already animated in its original shot.
+- **Camera:** Locked off on the railing shots; memory cuts play their original camera move.
+- **Sound effects:** Sound bridge: each memory's signature sound fades in under the cut - impact gun rattle, ferry horn, a single hedge-shear snip - then the terrace waves return.
+- **Music:** Piano theme continues underneath; no musical sting on the cuts.
+- **Note:** Reuse the approved S009, S020 and S036 frames/animation exactly - do not generate new versions. Only the two railing frames are new. Cut timing: 2.0 / 1.5 / 1.5 / 1.5 / 1.0s.
 
 ### S122 - CH12 - 4.5s, incl. 1s hold  (TC 13:36-13:40, page 36)
 - **Voice-over:** "Every bit of it led here."

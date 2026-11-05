@@ -135,7 +135,7 @@ can be added in the edit without warping faces.
 | S118 | 35 | 6s | 1 | Hold pose; secondary motion only | Breath, blink and smile only; festoon bokeh twinkles; breeze in their hair. | Locked off, very slow push. | single |  |
 | S119 | 35 | 6s | 1 | Hold pose; secondary motion only | People drift closer; lights sway; pool reflections shimmer. | Slow arc around them. | single |  |
 | S120 | 36 | 9.5s | 1 | Hold pose; secondary motion only | Breeze moves their clothes; city lights twinkle; a slow shared smile. | Very slow push-in. | single |  |
-| S121 | 36 | 7.5s | 1 | Hold pose; secondary motion only | Ghosted memories drift and dissolve; breeze; his slow smile. | Slow push-in. | single |  |
+| S121 | 36 | 7.5s | 1 | Hold pose; secondary motion only | Railing shots: breeze in his clothes, slow blink, small smile. Memory cuts: each keeps the motion already animated in its original shot. | Locked off on the railing shots; memory cuts play their original camera move. | single | Reuse the approved S009, S020 and S036 frames/animation exactly - do not generate new versions. Only the two railing frames are new. Cut timing: 2.0 / 1.5 / 1.5 / 1.5 / 1.0s. |
 | S122 | 36 | 4.5s | 2 | Everyone raises glasses together. | Glasses rise; lights sparkle; pool reflections shimmer. | Slow crane-up and pull-back. | single |  |
 | S123 | 36 | 9s | 2 | He raises a hand to the guests on deck. | Water sparkles; flags flutter; guests turn toward him. | Slow lateral track along the yacht. | BG + char + FG |  |
 | S124 | 37 | 5s | 2 | He pats the roof, as before. | Same pat as S011; clouds drift; frame edges warm toward gold for the transition. | Slow push-in into a transition. | single | Reuse the approved S011 frame. |

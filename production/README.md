@@ -91,6 +91,7 @@ Narration: 1707 words, ~11:23 spoken at 150 wpm (77% density). The rest is breat
 - v0.3: COVID chapter expanded (driveway work -> online products, website build with Arlind, listings, photos, enquiries, orders); 2020 not presented as the start of the collaboration.
 - v0.3: first-garage chapter expanded (childhood ground -> business ground match dissolve, silent father beat, no dialogue).
 - v0.4: engine-start thumbs-up marked optional; website kept separate from the (unstated) collaboration start; childhood flashback + match cut replaces the ghost effect; first meeting shown without an assumed handshake/hug (S120 line revised); closing line flagged for Conor's final approval; premium art-direction added to every page prompt.
+- v0.4: S121 floating cloud memories replaced by a clean hard-cut memory montage reusing the approved Global Tyres, ferry and hedge frames (2.0/1.5/1.5/1.5/1.0s, sound bridge).
 - v0.3: Marbella expanded to ~70s; mansion scene refocused on the team and Arlind with a scripted musical pause; mansion value kept to one line.
 
 Status: nothing has been generated or animated. Waiting for approval of narration, storyboard and page prompts.
