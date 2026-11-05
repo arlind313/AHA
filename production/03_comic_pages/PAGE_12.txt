@@ -1,0 +1,20 @@
+Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (Lockdown Online, Ireland, 2020).
+
+STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded Conor comic character sheet: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
+
+LAYOUT: portrait 2:3 page (1024x1536). Four equal panels in a 2x2 grid, read left-to-right then top-to-bottom. Keep each panel's key action inside a central vertical 9:16 safe area. Thin black panel borders, slim white gutters, white page margin.
+
+COLOUR GRADE: Empty muted streets, then warm lamp-lit kitchen with cool screen glow on faces.
+
+IDENTITY: the uploaded comic character sheet is the ONLY face reference for Conor. Do not redesign him.
+
+CHARACTERS ON THIS PAGE (keep identical in every panel):
+- CONOR (2019-2022, early twenties): the same face as the uploaded sheet, a few years younger than it - short trimmed beard starting to fill in, same fade haircut, athletic but not yet heavily muscular. Tattoos: NONE yet (see production note). Default outfit: plain black t-shirt or black hoodie, dark work trousers, black boots.
+- ARLIND (DigitGrow web partner): REFERENCE SHEET NOT YET SUPPLIED - until it is, show him only from behind, in soft focus, or as a small video-call tile where the face is not detailed. Neutral smart-casual clothing.
+
+PANEL 1 (TOP-LEFT): Wide shot: an empty Irish town main street, shop shutters down, no cars; a lone Conor in a black hoodie walking down the middle of the road. Action frozen at its key moment: He walks slowly, looking around at closed shops. Setting: Irish town main street, spring 2020 lockdown.
+PANEL 2 (TOP-RIGHT): Medium shot: Conor on the sofa at home, phone in hand, lit by its glow, a realisation dawning on his face. Action frozen at its key moment: He stops scrolling and sits up straight. Setting: Family living room, evening, 2020.
+PANEL 3 (BOTTOM-LEFT): Medium shot over Conor's shoulder at the kitchen table at night: his laptop shows a video call with Arlind as a small, softly-rendered tile beside a website layout (no legible text). Action frozen at its key moment: Conor points at the screen, discussing; on the call, Arlind gestures. Setting: Family kitchen, night, 2020.
+PANEL 4 (BOTTOM-RIGHT): Medium-wide: Conor photographing a decal pack and caliper paint kit on the kitchen table against a white sheet, a desk lamp as a light; empty mugs around. Action frozen at its key moment: He snaps a photo on his phone, adjusts the product, snaps again. Setting: Family kitchen, 2am, 2020.
+
+STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effect lettering, no panel numbers, no logos, no brand badges, no legible number plates or signs, no watermarks, no signature. Faces must stay identical across every panel. Correct hands with five fingers, natural anatomy. Period-correct vehicles and technology for the year stated. No palm trees or sunshine in Irish or English scenes. Do not add any person who is not listed.

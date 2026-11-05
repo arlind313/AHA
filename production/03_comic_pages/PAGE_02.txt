@@ -1,0 +1,21 @@
+Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (Where It All Began, Ireland, 2017).
+
+STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded Conor comic character sheet: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
+
+LAYOUT: portrait 2:3 page (1024x1536). Four equal panels in a 2x2 grid, read left-to-right then top-to-bottom. Keep each panel's key action inside a central vertical 9:16 safe area. Thin black panel borders, slim white gutters, white page margin.
+
+COLOUR GRADE: Cool, slightly desaturated Irish daylight: grey-blue skies, muted greens, slate greys, warm tungsten only from interior practicals.
+
+IDENTITY: the uploaded comic character sheet is the ONLY face reference for Conor. Do not redesign him.
+
+CHARACTERS ON THIS PAGE (keep identical in every panel):
+- YOUNG CONOR (2017-2018, age 16-18): clearly the same person as the tattooed man on the uploaded sheet, de-aged. Same strong straight brows, deep-set eyes, straight nose, defined jaw and chin, slightly prominent ears; softer fuller cheeks, smooth teenage skin, at most faint fuzz on the upper lip - NO beard. Short dark-brown hair, short faded sides, textured top pushed up and forward (same silhouette as the sheet, less groomed). Lean wiry teenage build. NO TATTOOS anywhere, no watch, no jewellery. Default outfit: faded navy work trousers, plain dark-grey long-sleeve work top with sleeves pushed up, scuffed black safety boots.
+- CONOR'S FATHER (fictional, consistent design): early fifties, stocky, weathered ruddy face, short grey-flecked dark hair receding at the temples, grey stubble, kind but serious eyes, deep crow's-feet. Always wears a navy quilted gilet over a faded blue-grey check shirt, work jeans, brown work boots.
+- FATHER'S CAR: plain dark-green early-2000s family estate car, worn, no badges, blank plates.
+
+PANEL 1 (TOP-LEFT): Wide establishing shot: a small, plain tyre workshop unit with an open roller-shutter door, stacked tyres outside, wet yard; tiny figure of young Conor walking in carrying a lunch bag. Action frozen at its key moment: Conor walks across the wet yard toward the open shutter. Setting: Small-town Ireland, early morning, overcast, 2017.
+PANEL 2 (TOP-RIGHT): Medium two-shot through the windscreen of the father's car: father driving, young Conor in the passenger seat in a work jacket, wipers mid-sweep, dark blue pre-dawn outside. Action frozen at its key moment: Father drives with both hands on the wheel; Conor yawns, hands tucked into his sleeves. Setting: Irish country road, pre-dawn, winter 2017.
+PANEL 3 (BOTTOM-LEFT): Close-up profile of the father driving, dashboard glow on his face; Conor soft-focus in the foreground looking at him. Action frozen at its key moment: Father glances at Conor and gives a small nod; Conor looks back out the window. Setting: Inside the father's car, pre-dawn, 2017.
+PANEL 4 (BOTTOM-RIGHT): Medium-wide: young Conor kneels beside a hatchback raised on a trolley jack, front wheel off, lining a tyre up to the hub; impact gun on the floor; cold daylight floods in through the open shutter behind him. (Matches the Preview 01 prompt in previews/.) Action frozen at its key moment: Conor lifts the wheel onto the studs with effort, then blows warm breath into his cupped hands. Setting: Inside the tyre workshop, 2017.
+
+STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effect lettering, no panel numbers, no logos, no brand badges, no legible number plates or signs, no watermarks, no signature. Faces must stay identical across every panel. Correct hands with five fingers, natural anatomy. Period-correct vehicles and technology for the year stated. No palm trees or sunshine in Irish or English scenes. Do not add any person who is not listed.

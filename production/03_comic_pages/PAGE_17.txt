@@ -1,0 +1,19 @@
+Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (The First Garage, Family land, Ireland, 2021).
+
+STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded Conor comic character sheet: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
+
+LAYOUT: portrait 2:3 page (1024x1536). Four equal panels in a 2x2 grid, read left-to-right then top-to-bottom. Keep each panel's key action inside a central vertical 9:16 safe area. Thin black panel borders, slim white gutters, white page margin.
+
+COLOUR GRADE: Overcast countryside greens and greys; harsh fluorescent tubes inside the garage; blue pre-dawn for the hard nights.
+
+IDENTITY: the uploaded comic character sheet is the ONLY face reference for Conor. Do not redesign him.
+
+CHARACTERS ON THIS PAGE (keep identical in every panel):
+- CONOR (2019-2022, early twenties): the same face as the uploaded sheet, a few years younger than it - short trimmed beard starting to fill in, same fade haircut, athletic but not yet heavily muscular. Tattoos: NONE yet (see production note). Default outfit: plain black t-shirt or black hoodie, dark work trousers, black boots.
+
+PANEL 1 (TOP-LEFT): Medium shot: Conor holding his phone up filming a freshly tuned customer car parked in the garage, phone screen showing the car (no app UI text). Action frozen at its key moment: He films a slow walk-around, then checks the clip. Setting: Inside the garage, 2021.
+PANEL 2 (TOP-RIGHT): Medium close-up: Conor at a cluttered desk in the corner of the garage, a pile of envelopes and invoices (no legible text), calculator, rubbing his temples. Action frozen at its key moment: He taps the calculator, stares, and pushes the papers away. Setting: Garage office corner, night, 2021.
+PANEL 3 (BOTTOM-LEFT): Wide shot: Conor alone sitting on an upturned tyre in the middle of the dark garage, lit by one work lamp, head down. Action frozen at its key moment: He sits still, then looks up at the empty lift. Setting: Inside the garage, night, 2021.
+PANEL 4 (BOTTOM-RIGHT): Medium shot at dawn: Conor asleep on a camping chair in the garage; his phone lights up on the bench; he blinks awake. Action frozen at its key moment: He grabs the phone and answers, already standing up. Setting: Garage, dawn, 2021.
+
+STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effect lettering, no panel numbers, no logos, no brand badges, no legible number plates or signs, no watermarks, no signature. Faces must stay identical across every panel. Correct hands with five fingers, natural anatomy. Period-correct vehicles and technology for the year stated. No palm trees or sunshine in Irish or English scenes. Do not add any person who is not listed.

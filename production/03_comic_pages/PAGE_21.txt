@@ -1,0 +1,20 @@
+Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (Level Up With CC, Marbella, 2024-2026).
+
+STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded Conor comic character sheet: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
+
+LAYOUT: portrait 2:3 page (1024x1536). Four equal panels in a 2x2 grid, read left-to-right then top-to-bottom. Keep each panel's key action inside a central vertical 9:16 safe area. Thin black panel borders, slim white gutters, white page margin.
+
+COLOUR GRADE: Event lighting: warm stage spots against dark rooms with cool rim light.
+
+IDENTITY: the uploaded comic character sheet is the ONLY face reference for Conor. Do not redesign him.
+
+CHARACTERS ON THIS PAGE (keep identical in every panel):
+- ADULT CONOR (2023-2026): exactly the tattooed man on the uploaded character sheet - same face, fade haircut, full short beard, neck tattoos, full tattoo sleeves on both arms, muscular build, dark wristwatch on the left wrist. Default outfit: fitted plain black t-shirt or black hoodie; sunglasses only where stated.
+- BACKGROUND EXTRAS: ordinary unnamed people, realistic varied ages, simple clothing, never more detailed than the main characters, faces never close to camera.
+
+PANEL 1 (TOP-LEFT): Medium shot: Conor at a workbench showing a small group of trainees how to connect a laptop to a car, trainees seen from behind and side. Action frozen at its key moment: He points to the OBD port; trainees lean in. Setting: Training workshop, Marbella, 2024.
+PANEL 2 (TOP-RIGHT): Wide shot: a bright training room with rows of trainees at laptops; Conor walking between them, checking screens. Action frozen at its key moment: He leans in to help a trainee. Setting: Training room, 2025.
+PANEL 3 (BOTTOM-LEFT): Medium-wide from behind the audience: Conor on a stage under a warm spotlight, holding up a small headlight bulb, the audience laughing; large blank screen behind him. Action frozen at its key moment: He holds the bulb up; audience laughs. Setting: Event hall, 2025.
+PANEL 4 (BOTTOM-RIGHT): Low-angle medium shot: Conor centre stage, arms open, audience on their feet applauding in silhouette. Action frozen at its key moment: He opens his arms; the room stands. Setting: Event hall, 2025.
+
+STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effect lettering, no panel numbers, no logos, no brand badges, no legible number plates or signs, no watermarks, no signature. Faces must stay identical across every panel. Correct hands with five fingers, natural anatomy. Period-correct vehicles and technology for the year stated. No palm trees or sunshine in Irish or English scenes. Do not add any person who is not listed.

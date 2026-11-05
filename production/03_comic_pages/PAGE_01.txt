@@ -1,0 +1,19 @@
+Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (Cold Open, Marbella, 2026).
+
+STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded Conor comic character sheet: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
+
+LAYOUT: landscape 3:2 page (1536x1024). Three equal tall vertical panels side by side, read left to right, each panel framed as a 9:16 vertical film shot. Thin black panel borders, slim white gutters, white page margin.
+
+COLOUR GRADE: Warm late-golden-hour Spanish light, clean blues, gentle bloom, deep ink shadows.
+
+IDENTITY: the uploaded comic character sheet is the ONLY face reference for Conor. Do not redesign him.
+
+CHARACTERS ON THIS PAGE (keep identical in every panel):
+- ADULT CONOR (2023-2026): exactly the tattooed man on the uploaded character sheet - same face, fade haircut, full short beard, neck tattoos, full tattoo sleeves on both arms, muscular build, dark wristwatch on the left wrist. Default outfit: fitted plain black t-shirt or black hoodie; sunglasses only where stated.
+- YOUNG CONOR (2017-2018, age 16-18): clearly the same person as the tattooed man on the uploaded sheet, de-aged. Same strong straight brows, deep-set eyes, straight nose, defined jaw and chin, slightly prominent ears; softer fuller cheeks, smooth teenage skin, at most faint fuzz on the upper lip - NO beard. Short dark-brown hair, short faded sides, textured top pushed up and forward (same silhouette as the sheet, less groomed). Lean wiry teenage build. NO TATTOOS anywhere, no watch, no jewellery. Default outfit: faded navy work trousers, plain dark-grey long-sleeve work top with sleeves pushed up, scuffed black safety boots.
+
+PANEL 1 (LEFT): Medium-wide, low angle: adult Conor walks toward camera along a row of gleaming unbadged luxury rental cars, white villa and sea behind. Action frozen at its key moment: Conor walks with calm confidence, key fob in his right hand, sunglasses pushed up on his head. Setting: Marbella seafront car park, golden hour, 2026.
+PANEL 2 (CENTRE): Extreme close-up: Conor's tattooed hand turning a modern key fob between his fingers, watch visible, warm bokeh behind. Action frozen at its key moment: His thumb rubs the key fob thoughtfully; reflection of the sunset on the fob. Setting: Marbella, golden hour, 2026.
+PANEL 3 (RIGHT): Extreme close-up MATCH CUT of S002: a teenage hand with no tattoos holding a worn early-2000s Honda key with a scratched black plastic head, grey light, rain on a window behind. Action frozen at its key moment: The young hand closes around the old key. Setting: Ireland, 2017, overcast.
+
+STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effect lettering, no panel numbers, no logos, no brand badges, no legible number plates or signs, no watermarks, no signature. Faces must stay identical across every panel. Correct hands with five fingers, natural anatomy. Period-correct vehicles and technology for the year stated. No palm trees or sunshine in Irish or English scenes. Do not add any person who is not listed.

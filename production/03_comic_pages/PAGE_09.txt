@@ -1,0 +1,19 @@
+Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (Early CC Styling, Ireland, 2018-2019).
+
+STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded Conor comic character sheet: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
+
+LAYOUT: landscape 3:2 page (1536x1024). Three equal tall vertical panels side by side, read left to right, each panel framed as a 9:16 vertical film shot. Thin black panel borders, slim white gutters, white page margin.
+
+COLOUR GRADE: Irish grey daylight outside; warm desk-lamp and shed lighting inside; rally scenes brighter with mud browns and crowd colour.
+
+IDENTITY: the uploaded comic character sheet is the ONLY face reference for Conor. Do not redesign him.
+
+CHARACTERS ON THIS PAGE (keep identical in every panel):
+- CONOR (2019-2022, early twenties): the same face as the uploaded sheet, a few years younger than it - short trimmed beard starting to fill in, same fade haircut, athletic but not yet heavily muscular. Tattoos: NONE yet (see production note). Default outfit: plain black t-shirt or black hoodie, dark work trousers, black boots.
+- BACKGROUND EXTRAS: ordinary unnamed people, realistic varied ages, simple clothing, never more detailed than the main characters, faces never close to camera.
+
+PANEL 1 (LEFT): Medium-wide: Conor lying on a creeper under the front of an ordinary 2000s hatchback in a cramped borrowed shed, fitting a front splitter; a friend's legs visible holding it in place. Action frozen at its key moment: Conor drives screws upward; the splitter aligns. Setting: Borrowed shed, Ireland, 2019.
+PANEL 2 (CENTRE): Medium shot: Conor hanging a newly bought tool on a pegboard wall that is gradually filling with tools; jars of screws and paint tins below. Action frozen at its key moment: He hangs the tool and steps back to look at the growing wall. Setting: Garden shed workshop, Ireland, 2019.
+PANEL 3 (RIGHT): Medium-wide hero shot: Conor stands in the shed doorway, arms crossed (his signature pose from the character sheet), in front of a finished customer car with fresh red calipers and a neat splitter; overcast light behind. Action frozen at its key moment: He nods once at the finished car. Setting: Shed doorway, Ireland, 2019.
+
+STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effect lettering, no panel numbers, no logos, no brand badges, no legible number plates or signs, no watermarks, no signature. Faces must stay identical across every panel. Correct hands with five fingers, natural anatomy. Period-correct vehicles and technology for the year stated. No palm trees or sunshine in Irish or English scenes. Do not add any person who is not listed.

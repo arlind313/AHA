@@ -1,0 +1,20 @@
+Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (Day Job, Night Shift, Ireland, 2019-2020).
+
+STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded Conor comic character sheet: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
+
+LAYOUT: portrait 2:3 page (1024x1536). Four equal panels in a 2x2 grid, read left-to-right then top-to-bottom. Keep each panel's key action inside a central vertical 9:16 safe area. Thin black panel borders, slim white gutters, white page margin.
+
+COLOUR GRADE: Clean cool-white dealership light by day; night scenes in deep blue with laptop/dashboard glow.
+
+IDENTITY: the uploaded comic character sheet is the ONLY face reference for Conor. Do not redesign him.
+
+CHARACTERS ON THIS PAGE (keep identical in every panel):
+- CONOR (2019-2022, early twenties): the same face as the uploaded sheet, a few years younger than it - short trimmed beard starting to fill in, same fade haircut, athletic but not yet heavily muscular. Tattoos: NONE yet (see production note). Default outfit: plain black t-shirt or black hoodie, dark work trousers, black boots.
+- CONOR'S FATHER (fictional, consistent design): early fifties, stocky, weathered ruddy face, short grey-flecked dark hair receding at the temples, grey stubble, kind but serious eyes, deep crow's-feet. Always wears a navy quilted gilet over a faded blue-grey check shirt, work jeans, brown work boots.
+
+PANEL 1 (TOP-LEFT): Close-up: a car instrument cluster covered in glowing amber and red warning symbols; Conor's sweating face lit by the glow, eyes wide. Action frozen at its key moment: He turns the ignition off and on again, praying. Setting: Inside a car, night, 2019.
+PANEL 2 (TOP-RIGHT): Medium shot, pre-dawn: the same dashboard now clear; Conor slumps back in the seat with relief, laptop on his lap, blue dawn light outside. Action frozen at its key moment: He exhales, laughs, and closes the laptop. Setting: Inside a car on the family driveway, dawn, 2019.
+PANEL 3 (BOTTOM-LEFT): Medium shot through the driver's window: Conor asleep on the laptop; his father outside in his usual navy gilet knocking gently on the glass, holding a mug of tea. Action frozen at its key moment: Father knocks; Conor jolts awake; father raises the mug with a dry look. Setting: Family driveway, early morning, 2019.
+PANEL 4 (BOTTOM-RIGHT): Medium-wide: Conor walking to his day job at sunrise in uniform with a coffee, tired but focused; road stretching ahead. Action frozen at its key moment: He takes a sip and walks on with purpose. Setting: Irish country road, sunrise, 2020.
+
+STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effect lettering, no panel numbers, no logos, no brand badges, no legible number plates or signs, no watermarks, no signature. Faces must stay identical across every panel. Correct hands with five fingers, natural anatomy. Period-correct vehicles and technology for the year stated. No palm trees or sunshine in Irish or English scenes. Do not add any person who is not listed.

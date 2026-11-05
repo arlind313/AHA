@@ -1,0 +1,19 @@
+Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (Where It All Began, Ireland, 2017).
+
+STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded Conor comic character sheet: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
+
+LAYOUT: landscape 3:2 page (1536x1024). Three equal tall vertical panels side by side, read left to right, each panel framed as a 9:16 vertical film shot. Thin black panel borders, slim white gutters, white page margin.
+
+COLOUR GRADE: Cool, slightly desaturated Irish daylight: grey-blue skies, muted greens, slate greys, warm tungsten only from interior practicals.
+
+IDENTITY: the uploaded comic character sheet is the ONLY face reference for Conor. Do not redesign him.
+
+CHARACTERS ON THIS PAGE (keep identical in every panel):
+- YOUNG CONOR (2017-2018, age 16-18): clearly the same person as the tattooed man on the uploaded sheet, de-aged. Same strong straight brows, deep-set eyes, straight nose, defined jaw and chin, slightly prominent ears; softer fuller cheeks, smooth teenage skin, at most faint fuzz on the upper lip - NO beard. Short dark-brown hair, short faded sides, textured top pushed up and forward (same silhouette as the sheet, less groomed). Lean wiry teenage build. NO TATTOOS anywhere, no watch, no jewellery. Default outfit: faded navy work trousers, plain dark-grey long-sleeve work top with sleeves pushed up, scuffed black safety boots.
+- CONOR'S FIRST CAR: early-2000s Honda Civic 1.4 petrol, 7th-generation European 3-door hatchback (EP-series body). Tall one-box bullet profile, short sloping bonnet flowing straight into a steeply raked windscreen, large swept-back teardrop headlights, small narrow grille, three doors, tall upright rear hatch with vertical tail lights, plain body-colour bumpers, standard 15-inch wheels with plain silver covers, factory ride height. Colour: satin silver. NOT a Type R, NOT a newer Civic, no body kit, no spoiler, no badges, blank plates.
+
+PANEL 1 (LEFT): Medium shot: young Conor on the driveway proudly holding up a small LED bulb box (no text) next to the Civic's headlight, eyebrows raised confidently, a cheap toolbox open at his feet. Action frozen at its key moment: He tears open the box with confidence. Setting: Driveway, afternoon, overcast, 2017.
+PANEL 2 (CENTRE): Cinematic medium shot: Civic bonnet propped open, young Conor leaning into the headlight area holding an LED bulb with a chunky finned heatsink against the small rubber dust cap it clearly won't fit under; screws and the old halogen bulb on the slam panel. Puzzled, quietly amused expression. (Matches the Preview 03 prompt in previews/.) Action frozen at its key moment: He tries to push the cap on, it pops off; he stares at it, one eyebrow raised. Setting: Driveway, late afternoon, overcast, 2017.
+PANEL 3 (RIGHT): Wide night shot: the Civic on the driveway with one bright white LED headlight and one yellow halogen headlight on; young Conor standing in front of it, hands on hips, laughing at himself. Action frozen at its key moment: He shakes his head and laughs. Setting: Driveway, night, 2017.
+
+STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effect lettering, no panel numbers, no logos, no brand badges, no legible number plates or signs, no watermarks, no signature. Faces must stay identical across every panel. Correct hands with five fingers, natural anatomy. Period-correct vehicles and technology for the year stated. No palm trees or sunshine in Irish or English scenes. Do not add any person who is not listed.

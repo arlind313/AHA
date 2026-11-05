@@ -1,0 +1,21 @@
+Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (Early CC Styling, Ireland, 2018-2019).
+
+STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded Conor comic character sheet: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
+
+LAYOUT: portrait 2:3 page (1024x1536). Four equal panels in a 2x2 grid, read left-to-right then top-to-bottom. Keep each panel's key action inside a central vertical 9:16 safe area. Thin black panel borders, slim white gutters, white page margin.
+
+COLOUR GRADE: Irish grey daylight outside; warm desk-lamp and shed lighting inside; rally scenes brighter with mud browns and crowd colour.
+
+IDENTITY: the uploaded comic character sheet is the ONLY face reference for Conor. Do not redesign him.
+
+CHARACTERS ON THIS PAGE (keep identical in every panel):
+- YOUNG CONOR (2017-2018, age 16-18): clearly the same person as the tattooed man on the uploaded sheet, de-aged. Same strong straight brows, deep-set eyes, straight nose, defined jaw and chin, slightly prominent ears; softer fuller cheeks, smooth teenage skin, at most faint fuzz on the upper lip - NO beard. Short dark-brown hair, short faded sides, textured top pushed up and forward (same silhouette as the sheet, less groomed). Lean wiry teenage build. NO TATTOOS anywhere, no watch, no jewellery. Default outfit: faded navy work trousers, plain dark-grey long-sleeve work top with sleeves pushed up, scuffed black safety boots.
+- BACKGROUND EXTRAS: ordinary unnamed people, realistic varied ages, simple clothing, never more detailed than the main characters, faces never close to camera.
+- CONOR'S FIRST CAR: early-2000s Honda Civic 1.4 petrol, 7th-generation European 3-door hatchback (EP-series body). Tall one-box bullet profile, short sloping bonnet flowing straight into a steeply raked windscreen, large swept-back teardrop headlights, small narrow grille, three doors, tall upright rear hatch with vertical tail lights, plain body-colour bumpers, standard 15-inch wheels with plain silver covers, factory ride height. Colour: satin silver. NOT a Type R, NOT a newer Civic, no body kit, no spoiler, no badges, blank plates.
+
+PANEL 1 (TOP-LEFT): Medium shot: young Conor at a cluttered desk in his bedroom at night, a small desktop vinyl cutter feeding a sheet of black vinyl, an old laptop beside it, offcuts everywhere. Action frozen at its key moment: He watches the cutter work, chin on his fist. Setting: Conor's bedroom, night, 2018.
+PANEL 2 (TOP-RIGHT): Extreme close-up: tweezers weeding a cut vinyl decal; the letterforms are abstract, angled away and not legible. Action frozen at its key moment: He peels the backing away with care. Setting: Bedroom desk, night, 2018.
+PANEL 3 (BOTTOM-LEFT): Medium-wide night shot: the silver Civic with its hatch open in a car-park meet, decals laid out in the boot, young Conor handing a sticker to a lad while ordinary hatchbacks idle nearby. Action frozen at its key moment: Conor takes a few euro and hands over a decal with a grin. Setting: Car-park car meet, Ireland, night, 2018.
+PANEL 4 (BOTTOM-RIGHT): Wide shot: a rally car sliding past on a country stage in Donegal hills, spectators behind tape, young Conor at a small fold-out table by the roadside with decals, crowd queueing. Action frozen at its key moment: Conor serves a queue of fans while the rally car roars past. Setting: Donegal rally stage, summer, 2018.
+
+STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effect lettering, no panel numbers, no logos, no brand badges, no legible number plates or signs, no watermarks, no signature. Faces must stay identical across every panel. Correct hands with five fingers, natural anatomy. Period-correct vehicles and technology for the year stated. No palm trees or sunshine in Irish or English scenes. Do not add any person who is not listed.

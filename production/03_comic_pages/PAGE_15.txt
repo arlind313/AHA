@@ -1,0 +1,21 @@
+Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (The Remap, Leeds & Ireland, 2020-2021).
+
+STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded Conor comic character sheet: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
+
+LAYOUT: portrait 2:3 page (1024x1536). Four equal panels in a 2x2 grid, read left-to-right then top-to-bottom. Keep each panel's key action inside a central vertical 9:16 safe area. Thin black panel borders, slim white gutters, white page margin.
+
+COLOUR GRADE: Neutral classroom daylight in Leeds; workshop teal-and-amber with laptop glow back home.
+
+IDENTITY: the uploaded comic character sheet is the ONLY face reference for Conor. Do not redesign him.
+
+CHARACTERS ON THIS PAGE (keep identical in every panel):
+- CONOR (2019-2022, early twenties): the same face as the uploaded sheet, a few years younger than it - short trimmed beard starting to fill in, same fade haircut, athletic but not yet heavily muscular. Tattoos: NONE yet (see production note). Default outfit: plain black t-shirt or black hoodie, dark work trousers, black boots.
+- CONOR'S FATHER (fictional, consistent design): early fifties, stocky, weathered ruddy face, short grey-flecked dark hair receding at the temples, grey stubble, kind but serious eyes, deep crow's-feet. Always wears a navy quilted gilet over a faded blue-grey check shirt, work jeans, brown work boots.
+- CONOR'S MOTHER (fictional, consistent design): late forties, warm open face, shoulder-length chestnut-brown hair loosely tied back, light freckles, kind tired eyes. Wears a soft oatmeal knit cardigan over a plain top.
+
+PANEL 1 (TOP-LEFT): Medium shot: Conor wiping his hands on a rag while his phone buzzes on the workbench, screen lit with an incoming call (no text), more calls stacking. Action frozen at its key moment: He grabs the phone, wedges it on his shoulder and keeps working. Setting: Garden shed workshop, 2021.
+PANEL 2 (TOP-RIGHT): Medium close-up: Conor sitting in his car in the dealership car park in uniform, staring at the building, hands gripping the steering wheel. Action frozen at its key moment: He exhales, closes his eyes, opens them decided. Setting: Dealership car park, dusk, 2021.
+PANEL 3 (BOTTOM-LEFT): Medium-wide: family kitchen table; mother and father sitting opposite Conor, worried but listening; Conor leaning forward, explaining with his hands. Action frozen at its key moment: Father rubs his jaw; mother looks at him, then reaches across and squeezes Conor's hand. Setting: Family kitchen, night, 2021.
+PANEL 4 (BOTTOM-RIGHT): Wide shot: Conor walking out of the dealership's staff door into bright daylight, uniform folded under his arm, not looking back. Action frozen at its key moment: He pushes the door open and walks into the light. Setting: Dealership exterior, day, 2021.
+
+STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effect lettering, no panel numbers, no logos, no brand badges, no legible number plates or signs, no watermarks, no signature. Faces must stay identical across every panel. Correct hands with five fingers, natural anatomy. Period-correct vehicles and technology for the year stated. No palm trees or sunshine in Irish or English scenes. Do not add any person who is not listed.

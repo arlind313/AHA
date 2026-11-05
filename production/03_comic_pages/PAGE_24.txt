@@ -1,0 +1,22 @@
+Create ONE cinematic graphic-novel storyboard page for the animated documentary 'The Irish Graft - Part 1' (CC Marbella Rentals, Marbella, 2026).
+
+STYLE: Premium cinematic graphic-novel illustration in the exact style of the uploaded Conor comic character sheet: detailed hand-drawn comic look, strong controlled black ink outlines with varied line weight, clean cel shading with soft painted gradients, realistic adult human proportions, professional cinematic lighting with clear key and rim light, subtle paper-grain texture. Not photorealistic, not 3D render, not anime, not generic AI art.
+
+LAYOUT: portrait 2:3 page (1024x1536). Four equal panels in a 2x2 grid, read left-to-right then top-to-bottom. Keep each panel's key action inside a central vertical 9:16 safe area. Thin black panel borders, slim white gutters, white page margin.
+
+COLOUR GRADE: Polished golden hour, glossy reflections on cars, clean blues.
+
+IDENTITY: the uploaded comic character sheet is the ONLY face reference for Conor. Do not redesign him.
+
+CHARACTERS ON THIS PAGE (keep identical in every panel):
+- YOUNG CONOR (2017-2018, age 16-18): clearly the same person as the tattooed man on the uploaded sheet, de-aged. Same strong straight brows, deep-set eyes, straight nose, defined jaw and chin, slightly prominent ears; softer fuller cheeks, smooth teenage skin, at most faint fuzz on the upper lip - NO beard. Short dark-brown hair, short faded sides, textured top pushed up and forward (same silhouette as the sheet, less groomed). Lean wiry teenage build. NO TATTOOS anywhere, no watch, no jewellery. Default outfit: faded navy work trousers, plain dark-grey long-sleeve work top with sleeves pushed up, scuffed black safety boots.
+- ADULT CONOR (2023-2026): exactly the tattooed man on the uploaded character sheet - same face, fade haircut, full short beard, neck tattoos, full tattoo sleeves on both arms, muscular build, dark wristwatch on the left wrist. Default outfit: fitted plain black t-shirt or black hoodie; sunglasses only where stated.
+- BACKGROUND EXTRAS: ordinary unnamed people, realistic varied ages, simple clothing, never more detailed than the main characters, faces never close to camera.
+- CONOR'S FIRST CAR: early-2000s Honda Civic 1.4 petrol, 7th-generation European 3-door hatchback (EP-series body). Tall one-box bullet profile, short sloping bonnet flowing straight into a steeply raked windscreen, large swept-back teardrop headlights, small narrow grille, three doors, tall upright rear hatch with vertical tail lights, plain body-colour bumpers, standard 15-inch wheels with plain silver covers, factory ride height. Colour: satin silver. NOT a Type R, NOT a newer Civic, no body kit, no spoiler, no badges, blank plates.
+
+PANEL 1 (TOP-LEFT): Memory shot in a soft vignette: young Conor beside the silver Civic on the grey Irish driveway, exactly as in S010. Action frozen at its key moment: He pats the roof, as before. Setting: Memory of Ireland, 2017.
+PANEL 2 (TOP-RIGHT): Wide golden-hour shot: a neat row of glossy, unbadged luxury rental cars and SUVs outside a clean Marbella rental office (no signage), sea glinting behind; Conor walking along them. Action frozen at its key moment: He walks the line, checking each car. Setting: Marbella, golden hour, 2026.
+PANEL 3 (BOTTOM-LEFT): Close-up: Conor's tattooed hand placing a modern key fob into a customer's palm. Action frozen at its key moment: The key drops into the customer's hand. Setting: Rental office forecourt, 2026.
+PANEL 4 (BOTTOM-RIGHT): Medium shot: Conor in sunglasses leaning on a rental car, arms crossed, grinning at camera - the confident pose from the character sheet. Action frozen at its key moment: He grins and lowers his sunglasses slightly. Setting: Marbella, 2026.
+
+STRICT RULES: no text of any kind, no captions, no speech bubbles, no sound-effect lettering, no panel numbers, no logos, no brand badges, no legible number plates or signs, no watermarks, no signature. Faces must stay identical across every panel. Correct hands with five fingers, natural anatomy. Period-correct vehicles and technology for the year stated. No palm trees or sunshine in Irish or English scenes. Do not add any person who is not listed.
