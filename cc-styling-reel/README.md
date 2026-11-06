@@ -4,7 +4,7 @@ A 20-second, 9:16 (1080 × 1920, 30 fps) cinematic Instagram Reel. A CC Styling 
 **Ireland → Marbella → Dubai** across a 3D night-side Earth, then the camera pulls back to all three
 locations and the tagline lands.
 
-The final MP4 is rendered by this project: `out/cc-styling-three-locations.mp4`.
+Rendered master: `export/cc-styling-three-locations.mp4` (re-renders go to `out/`).
 Everything is code, so you can retime, recolour or re-render any part.
 
 ## Quick start
