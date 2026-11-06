@@ -1,0 +1,64 @@
+<!doctype html><meta charset="utf-8"><body style="margin:0;background:#000">
+<script type="importmap">{"imports":{"d3-geo":"/node_modules/d3-geo/src/index.js","d3-array":"/node_modules/d3-array/dist/d3-array.mjs","topojson-client":"/node_modules/topojson-client/src/index.js"}}</script>
+<script type="module">
+// Bakes assets/detail.png: R = land mask (Natural Earth 10m), G = country borders (50m),
+// B = crisp city lights (GeoNames towns weighted by NASA Black Marble brightness).
+import { geoPath, geoEquirectangular } from 'd3-geo';
+import * as topojson from 'topojson-client';
+const REGION = { lon0: -30, lon1: 70, lat0: 5, lat1: 68 };
+const W = 8192, H = Math.round(W * (REGION.lat1 - REGION.lat0) / (REGION.lon1 - REGION.lon0));
+const proj = geoEquirectangular().scale(W / ((REGION.lon1 - REGION.lon0) * Math.PI / 180))
+  .translate([0, 0]).center([0, 0]);
+// map lon0 -> x=0, lat1 -> y=0
+const k = W / (REGION.lon1 - REGION.lon0);
+proj.translate([-REGION.lon0 * k, REGION.lat1 * k]);
+const mk = () => { const c = document.createElement('canvas'); c.width = W; c.height = H; return c; };
+const [land, countries, cities] = await Promise.all(['/assets/land-10m.json', '/assets/countries-50m.json', '/tools/cities-region.json'].map(u => fetch(u).then(r => r.json())));
+// land
+const cL = mk(), gL = cL.getContext('2d'); gL.fillStyle = '#000'; gL.fillRect(0, 0, W, H);
+const landF = topojson.feature(land, land.objects.land);
+// Planar lon/lat fill (no spherical clipping): skip Antarctica and antimeridian-crossing rings.
+const geom = landF.type === 'FeatureCollection' ? landF.features[0].geometry : landF.geometry;
+const P = ([lo, la]) => [(lo - REGION.lon0) * k, (REGION.lat1 - la) * k];
+gL.fillStyle = '#fff';
+for (const poly of geom.coordinates) {
+  if (Math.max(...poly[0].map(c => c[1])) < -58) continue;
+  // unwrap longitudes so antimeridian-crossing rings stay continuous, then draw at -360/0/+360
+  const rings = poly.map(ring => { let prev = null, off = 0; return ring.map(c => {
+    if (prev !== null) { const d = c[0] - prev; if (d > 180) off -= 360; else if (d < -180) off += 360; }
+    prev = c[0]; return [c[0] + off, c[1]]; }); });
+  for (const shift of [-360, 0, 360]) {
+    gL.beginPath();
+    for (const ring of rings) ring.forEach((c, i) => { const [x, y] = P([c[0] + shift, c[1]]); i ? gL.lineTo(x, y) : gL.moveTo(x, y); });
+    gL.fill('evenodd');
+  }
+}
+// borders
+const cB = mk(), gB = cB.getContext('2d'); gB.fillStyle = '#000'; gB.fillRect(0, 0, W, H);
+gB.strokeStyle = '#fff'; gB.lineWidth = 2.2; gB.lineJoin = 'round'; gB.beginPath();
+geoPath(proj, gB)(topojson.mesh(countries, countries.objects.countries, (a, b) => a !== b)); gB.stroke();
+// city lights weighted by NASA night brightness
+const night = await new Promise(r => { const i = new Image(); i.onload = () => r(i); i.src = '/assets/earth-night.jpg'; });
+const cn = document.createElement('canvas'); cn.width = night.width; cn.height = night.height;
+const gn = cn.getContext('2d'); gn.drawImage(night, 0, 0); const nd = gn.getImageData(0, 0, cn.width, cn.height).data;
+const cC = mk(), gC = cC.getContext('2d'); gC.fillStyle = '#000'; gC.fillRect(0, 0, W, H);
+gC.globalCompositeOperation = 'lighter';
+let seed = 7; const rnd = () => (seed = (seed * 16807) % 2147483647) / 2147483647;
+for (const [lon, lat] of cities) {
+  const nx = Math.floor((lon + 180) / 360 * cn.width), ny = Math.floor((90 - lat) / 180 * cn.height);
+  const i = (ny * cn.width + nx) * 4, b = (nd[i] + nd[i + 1] + nd[i + 2]) / 765;
+  if (b < 0.05) continue;
+  const [x, y] = proj([lon, lat]);
+  const v = Math.min(1, Math.pow(b, 1.3) * 1.6) * (0.55 + 0.45 * rnd());
+  const r = 1.2 + v * 3.2;
+  const gr = gC.createRadialGradient(x, y, 0, x, y, r);
+  gr.addColorStop(0, `rgba(255,255,255,${v})`); gr.addColorStop(1, 'rgba(255,255,255,0)');
+  gC.fillStyle = gr; gC.fillRect(x - r, y - r, 2 * r, 2 * r);
+}
+// pack
+const out = mk(), go = out.getContext('2d'); const od = go.createImageData(W, H);
+const L = gL.getImageData(0, 0, W, H).data, B = gB.getImageData(0, 0, W, H).data, C = gC.getImageData(0, 0, W, H).data;
+for (let i = 0; i < od.data.length; i += 4) { od.data[i] = L[i]; od.data[i + 1] = B[i]; od.data[i + 2] = C[i]; od.data[i + 3] = 255; }
+go.putImageData(od, 0, 0);
+window.__baked = { W, H, REGION, png: out.toDataURL('image/png') };
+</script>

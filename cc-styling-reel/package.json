@@ -1,0 +1,25 @@
+{
+  "name": "cc-styling-three-locations",
+  "version": "1.0.0",
+  "description": "CC Styling \u2014 Three Locations. One Vision. 20s 9:16 cinematic reel (Three.js, frame-accurate export)",
+  "scripts": {
+    "preview": "node serve.mjs",
+    "render": "node render.mjs --workers 2",
+    "stills": "node render.mjs --stills 1.5,4,7,10,13,16.5,19.5",
+    "bake": "node -e \"const c=require('cities.json');const r=c.filter(x=>x.lng>-30&&x.lng<70&&x.lat>5&&x.lat<68).map(x=>[+(+x.lng).toFixed(3),+(+x.lat).toFixed(3)]);require('fs').writeFileSync('tools/cities-region.json',JSON.stringify(r))\" && node tools/bake.mjs",
+    "audio": "python3 tools/make_audio.py && ffmpeg -y -i assets/soundtrack_raw.wav -af loudnorm=I=-14:TP=-1.0:LRA=11 -ar 48000 assets/soundtrack.wav && rm assets/soundtrack_raw.wav"
+  },
+  "dependencies": {
+    "@fontsource/montserrat": "^5.1.0",
+    "cities.json": "^1.1.66",
+    "d3-geo": "^3.1.1",
+    "three": "^0.170.0",
+    "topojson-client": "^3.1.0",
+    "world-atlas": "^2.0.2"
+  },
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "playwright": "^1.48.0"
+  }
+}

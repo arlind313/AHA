@@ -1,0 +1,15 @@
+import { createRequire } from 'node:module';
+const { chromium } = createRequire(import.meta.url)('playwright');
+import fs from 'node:fs';
+import { start } from '../serve.mjs';
+const server = await start(8091);
+const browser = await chromium.launch();
+const page = await browser.newPage();
+page.on('console', m => console.log('[page]', m.text()));
+page.on('pageerror', e => console.error('[pageerror]', e));
+await page.goto('http://localhost:8091/tools/bake.html');
+await page.waitForFunction(() => window.__baked, null, { timeout: 300000 });
+const { W, H, REGION, png } = await page.evaluate(() => window.__baked);
+fs.writeFileSync('assets/detail.png', Buffer.from(png.split(',')[1], 'base64'));
+fs.writeFileSync('assets/detail.json', JSON.stringify({ W, H, ...REGION }));
+console.log('baked', W, H); await browser.close(); server.close();

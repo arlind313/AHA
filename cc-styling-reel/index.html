@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CC Styling — Three Locations</title>
+<script type="importmap">{"imports":{"three":"./node_modules/three/build/three.module.js","three/addons/":"./node_modules/three/examples/jsm/"}}</script>
+<style>
+  @font-face { font-family: Montserrat; font-weight: 900; font-style: italic; src: url(assets/fonts/montserrat-latin-900-italic.woff2) format('woff2'); }
+  @font-face { font-family: Montserrat; font-weight: 800; font-style: italic; src: url(assets/fonts/montserrat-latin-800-italic.woff2) format('woff2'); }
+  @font-face { font-family: Montserrat; font-weight: 600; font-style: normal; src: url(assets/fonts/montserrat-latin-600-normal.woff2) format('woff2'); }
+  @font-face { font-family: Montserrat; font-weight: 500; font-style: normal; src: url(assets/fonts/montserrat-latin-500-normal.woff2) format('woff2'); }
+  :root { --red: #E30613; }
+  html, body { margin: 0; background: #000; color: #fff; font-family: Montserrat, sans-serif; overflow: hidden; }
+  #wrap { position: relative; margin: 0 auto; width: 1080px; height: 1920px; }
+  #stage { position: absolute; left: 0; top: 0; width: 1080px; height: 1920px; overflow: hidden; transform-origin: 0 0; background: #02040a; }
+  #gl { position: absolute; inset: 0; width: 1080px; height: 1920px; }
+  .layer { position: absolute; inset: 0; pointer-events: none; }
+  #vignette { background: radial-gradient(ellipse 85% 62% at 50% 48%, rgba(0,0,0,0) 55%, rgba(0,0,0,0.55) 100%); }
+  #fade { background: #000; }
+  /* map pins */
+  .pin { position: absolute; left: 0; top: 0; width: 64px; height: 84px; margin: -84px 0 0 -32px; transform-origin: 32px 84px; opacity: 0;
+         filter: drop-shadow(0 0 10px rgba(227,6,19,.85)) drop-shadow(0 6px 10px rgba(0,0,0,.6)); will-change: transform; }
+  .pin svg { width: 100%; height: 100%; }
+  .maplabel { position: absolute; left: 0; top: 0; opacity: 0; white-space: nowrap; }
+  .maplabel .n { font: italic 900 50px/1 Montserrat; letter-spacing: .01em; text-shadow: 0 2px 14px rgba(0,0,0,.8); }
+  .maplabel .tag { display: inline-block; margin-top: 8px; padding: 5px 14px 5px 12px; background: var(--red); transform: skewX(-14deg);
+                   font: italic 800 19px/1 Montserrat; letter-spacing: .05em; box-shadow: 0 0 18px rgba(227,6,19,.45); }
+  .maplabel .tag span { display: inline-block; transform: skewX(14deg); }
+  /* chapter title card */
+  #card { position: absolute; left: 84px; top: 286px; opacity: 0; }
+  #card-idx { font: 600 24px/1 Montserrat; letter-spacing: .28em; margin-bottom: 20px; color: rgba(255,255,255,.7); }
+  #card-idx b { color: var(--red); font-weight: 600; margin-right: 10px; }
+  #card-name { font: italic 900 136px/0.95 Montserrat; letter-spacing: -0.01em; padding-right: 30px;
+               text-shadow: 0 6px 30px rgba(0,0,0,.65); }
+  #card-rule { width: 150px; height: 7px; background: var(--red); margin: 26px 0 24px 6px; transform-origin: 0 50%; box-shadow: 0 0 16px rgba(227,6,19,.6); }
+  #card-sub { font: 500 28px/1 Montserrat; letter-spacing: .42em; color: rgba(255,255,255,.88); text-shadow: 0 2px 12px rgba(0,0,0,.8); padding-left: 4px; }
+  /* Burj silhouette */
+  #burj { position: absolute; left: 0; top: 0; width: 104px; height: 520px; opacity: 0; transform-origin: 0 100%; }
+  #burj svg { width: 100%; height: 100%; overflow: visible; }
+  /* final reveal */
+  #scrim { background: linear-gradient(180deg, rgba(2,4,10,0) 52%, rgba(2,4,10,.78) 68%, rgba(2,4,10,.9) 100%); opacity: 0; }
+  #topscrim { background: linear-gradient(180deg, rgba(2,4,10,.85) 0%, rgba(2,4,10,0) 20%); opacity: 0; }
+  .center { position: absolute; left: 50%; white-space: nowrap; transform: translateX(-50%); }
+  #line1 { top: 1188px; font: italic 900 98px/1 Montserrat; letter-spacing: .005em; text-shadow: 0 4px 24px rgba(0,0,0,.7); opacity: 0; padding: 0 20px; }
+  #line2 { top: 1298px; font: italic 900 138px/1 Montserrat; color: var(--red); opacity: 0; padding: 0 24px; }
+  #logo { top: 196px; width: 760px; opacity: 0; filter: drop-shadow(0 4px 18px rgba(0,0,0,.6)); }
+  #locline { top: 1478px; font: 600 30px/1 Montserrat; letter-spacing: .32em; color: rgba(255,255,255,.9); opacity: 0; padding-left: .32em; }
+  #locline i { color: var(--red); font-style: normal; margin: 0 .25em; }
+  /* preview chrome */
+  #bar { display: none; }
+  body.preview #bar { display: flex; gap: 14px; align-items: center; justify-content: center; height: 56px; font: 500 14px Montserrat; }
+  #bar button { background: var(--red); color: #fff; border: 0; padding: 10px 18px; font: 600 14px Montserrat; cursor: pointer; border-radius: 4px; }
+  #bar input { width: min(520px, 50vw); accent-color: var(--red); }
+  #tc { width: 64px; font-variant-numeric: tabular-nums; opacity: .8; }
+</style>
+</head>
+<body>
+<div id="wrap">
+<div id="stage">
+  <div class="layer" id="vignette"></div>
+  <div class="layer" id="markers">
+    <div id="burj"><svg viewBox="0 0 100 600" preserveAspectRatio="none">
+      <defs><linearGradient id="bg" x1="0" y1="1" x2="0" y2="0">
+        <stop offset="0" stop-color="#cfd8ea" stop-opacity="0"/><stop offset=".22" stop-color="#cfd8ea" stop-opacity=".42"/>
+        <stop offset=".75" stop-color="#e9eef8" stop-opacity=".5"/><stop offset="1" stop-color="#fff" stop-opacity=".55"/></linearGradient>
+        <linearGradient id="be" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".25"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient></defs>
+      <path stroke="rgba(255,255,255,.55)" stroke-width=".5" vector-effect="non-scaling-stroke" d="M4.0,600.0 L4.0,530.0 L10.0,530.0 L10.0,450.0 L16.0,450.0 L16.0,375.0 L22.0,375.0 L22.0,310.0 L27.0,310.0 L27.0,250.0 L32.0,250.0 L32.0,200.0 L36.5,200.0 L36.5,155.0 L40.5,155.0 L40.5,115.0 L43.5,115.0 L43.5,80.0 L46.0,80.0 L46.0,55.0 L49.3,55.0 L50.0,0.0 L50.7,55.0 L55.0,55.0 L55.0,95.0 L58.0,95.0 L58.0,135.0 L61.5,135.0 L61.5,175.0 L65.5,175.0 L65.5,222.0 L70.5,222.0 L70.5,280.0 L75.5,280.0 L75.5,340.0 L81.0,340.0 L81.0,410.0 L87.0,410.0 L87.0,485.0 L93.0,485.0 L93.0,560.0 L96.0,560.0 L96.0,600.0 Z" fill="url(#bg)"/>
+      <rect x="49.4" y="80" width="1.2" height="470" fill="url(#be)"/>
+      <circle id="burj-tip" cx="50" cy="2" r="3.2" fill="#ff2a1a" style="filter: drop-shadow(0 0 6px #ff2a1a)"/>
+    </svg></div>
+    <div class="pin" id="pin-ireland"><svg viewBox="0 0 64 84"><path d="M32 82 C32 82 5 51 5 30 A27 27 0 1 1 59 30 C59 51 32 82 32 82Z" fill="#E30613" stroke="#fff" stroke-width="3.5"/><circle cx="32" cy="30" r="10.5" fill="#fff"/></svg></div>
+<div class="pin" id="pin-marbella"><svg viewBox="0 0 64 84"><path d="M32 82 C32 82 5 51 5 30 A27 27 0 1 1 59 30 C59 51 32 82 32 82Z" fill="#E30613" stroke="#fff" stroke-width="3.5"/><circle cx="32" cy="30" r="10.5" fill="#fff"/></svg></div>
+<div class="pin" id="pin-dubai"><svg viewBox="0 0 64 84"><path d="M32 82 C32 82 5 51 5 30 A27 27 0 1 1 59 30 C59 51 32 82 32 82Z" fill="#E30613" stroke="#fff" stroke-width="3.5"/><circle cx="32" cy="30" r="10.5" fill="#fff"/></svg></div>
+    <div class="maplabel" id="lab-ireland"><div class="n">IRELAND</div><div class="tag"><span>CC STYLING</span></div></div>
+    <div class="maplabel" id="lab-marbella"><div class="n">MARBELLA</div><div class="tag"><span>CC STYLING</span></div></div>
+    <div class="maplabel" id="lab-dubai"><div class="n">DUBAI</div><div class="tag"><span>CC STYLING</span></div></div>
+  </div>
+  <div class="layer" id="scrim"></div>
+  <div class="layer" id="topscrim"></div>
+  <div id="card"><div id="card-idx"></div><div id="card-name"></div><div id="card-rule"></div><div id="card-sub"></div></div>
+  <div class="center" id="line1">THREE LOCATIONS.</div>
+  <div class="center" id="line2">ONE VISION.</div>
+  <img class="center" id="logo" src="assets/logo.png" alt="CC Styling">
+  <div class="center" id="locline">IRELAND<i>•</i>MARBELLA<i>•</i>DUBAI</div>
+  <div class="layer" id="fade"></div>
+</div>
+</div>
+<div id="bar"><button id="play">▶ Play with sound</button><input id="scrub" type="range" min="0" max="20" step="0.01" value="0"><span id="tc">0.00s</span></div>
+<audio id="audio" src="assets/soundtrack.wav" preload="auto"></audio>
+<script type="module" src="src/main.js"></script>
+</body>
+</html>
